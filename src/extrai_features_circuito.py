@@ -126,7 +126,7 @@ if not df_voltas.empty:
         .join(df_temps.groupby("circuito")["temp_pista"].median())
         .join(pd.Series(curvas, name="n_curvas"))
     )
-    circuitos.to_csv("data/raw/features_fastf1_por_circuito.csv")
+    circuitos.to_csv("data/processed/features_fastf1_por_circuito.csv")
     print(f"\nCircuitos com features: {circuitos.shape[0]}/26")
 
 if rate_limited:
