@@ -1,0 +1,30 @@
+# Cache da FastF1 — arquivos grandes, não versionar
+data/cache/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Variáveis de ambiente
+.env
