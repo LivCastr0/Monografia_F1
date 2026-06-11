@@ -24,9 +24,15 @@ Monografia-f1/
 │   └── status_extracao.py        # Conferência offline do cache
 ├── notebooks/                    # Análises exploratórias e experimentos
 ├── data/
-│   ├── raw/                      # CSVs gerados pelos scripts
-│   ├── external/                 # Dados externos (Pirelli, altitude)
-│   └── cache/                    # Cache da FastF1 — NÃO versionado (.gitignore)
+│   ├── raw/
+│   ├── calendario_2018_2025.csv
+│   ├── circuitos_canonicos.csv
+│   ├── sessoes_incluidas.csv
+│   ├── voltas_fingerprint.csv
+│   ├── temp_por_corrida.csv
+│   └── falhas_extracao.csv
+└── processed/
+    └── features_fastf1_por_circuito.csv
 ```
 
 ---
