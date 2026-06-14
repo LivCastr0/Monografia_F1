@@ -39,7 +39,7 @@ Monografia-f1/
 
 ## Etapas
 
-### ✅ Etapa 1 — Caracterização dos circuitos (concluída)
+### ✅ Etapa 1 — Caracterização dos circuitos 
 
 Coleta e engenharia de features para o grão circuito.
 
