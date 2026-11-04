@@ -1,0 +1,2215 @@
+cluster,profundidade,descricao,linhas,efeito_detectavel
+0,1,0-1 paradas,398,0.31567133591743607
+0,1,2 paradas,460,0.2936282037725515
+0,1,3+ paradas,259,0.3913152761406111
+0,1,parou cedo,657,0.24569368804671504
+0,1,parou no meio,429,0.3040521215873537
+0,1,parou tarde,31,1.131086547889579
+0,1,largou 11+,519,0.27643498485933465
+0,1,largou 6-10,281,0.37568471364796496
+0,1,largou top 5,302,0.3623875031803988
+0,1,largou chuva,108,0.6059890915724574
+0,1,largou duro,88,0.6713289071897866
+0,1,largou macio,417,0.3083959433871483
+0,1,largou médio,504,0.28051844061034514
+0,1,chuva pontual,151,0.512493321832243
+0,1,chuva significativa,145,0.5229891549170266
+0,1,seco,821,0.2197885711517221
+0,1,com safety car,653,0.2464450466448931
+0,1,sem safety car,464,0.29235982547240996
+0,2,0-1 paradas + parou cedo,122,0.5701600303345941
+0,2,0-1 paradas + parou no meio,249,0.39909566518965295
+0,2,0-1 paradas + parou tarde,27,1.2119781831449148
+0,2,2 paradas + parou cedo,310,0.35768097221081874
+0,2,2 paradas + parou no meio,146,0.5211950187376931
+0,2,2 paradas + parou tarde,4,3.1488116863080156
+0,2,3+ paradas + parou cedo,225,0.41984155817440205
+0,2,3+ paradas + parou no meio,34,1.080033498164044
+0,2,0-1 paradas + largou 11+,182,0.46681090215406124
+0,2,0-1 paradas + largou 6-10,107,0.6088142308574732
+0,2,0-1 paradas + largou top 5,102,0.6235576308988241
+0,2,2 paradas + largou 11+,205,0.4398450954781623
+0,2,2 paradas + largou 6-10,121,0.5725112156923665
+0,2,2 paradas + largou top 5,131,0.5502259087977993
+0,2,3+ paradas + largou 11+,132,0.5481377573984075
+0,2,3+ paradas + largou 6-10,53,0.865045097998983
+0,2,3+ paradas + largou top 5,69,0.7581447621252598
+0,2,0-1 paradas + largou chuva,17,1.5273980209208484
+0,2,0-1 paradas + largou duro,48,0.9089836373586861
+0,2,0-1 paradas + largou macio,120,0.5748917299755937
+0,2,0-1 paradas + largou médio,213,0.4315060433662487
+0,2,2 paradas + largou chuva,54,0.8569979919519207
+0,2,2 paradas + largou duro,33,1.096275514796815
+0,2,2 paradas + largou macio,193,0.4533128495892134
+0,2,2 paradas + largou médio,180,0.46939713192869775
+0,2,3+ paradas + largou chuva,37,1.0353229048886243
+0,2,3+ paradas + largou duro,7,2.38027789924141
+0,2,3+ paradas + largou macio,104,0.617532778196676
+0,2,3+ paradas + largou médio,111,0.5977439578356326
+0,2,0-1 paradas + chuva pontual,51,0.8818436585383534
+0,2,0-1 paradas + chuva significativa,17,1.5273980209208484
+0,2,0-1 paradas + seco,330,0.34667275698315575
+0,2,2 paradas + chuva pontual,64,0.7872029215770039
+0,2,2 paradas + chuva significativa,71,0.747390390883362
+0,2,2 paradas + seco,325,0.34932929205427016
+0,2,3+ paradas + chuva pontual,36,1.0496038954360052
+0,2,3+ paradas + chuva significativa,57,0.8341405929639022
+0,2,3+ paradas + seco,166,0.4887903691356421
+0,2,0-1 paradas + com safety car,208,0.43666161506783774
+0,2,0-1 paradas + sem safety car,190,0.4568776188970643
+0,2,2 paradas + com safety car,248,0.399899484060802
+0,2,2 paradas + sem safety car,212,0.4325225489994915
+0,2,3+ paradas + com safety car,197,0.4486870872338025
+0,2,3+ paradas + sem safety car,62,0.799798968121604
+0,2,parou cedo + largou 11+,311,0.3571054594129123
+0,2,parou cedo + largou 6-10,164,0.4917617665295282
+0,2,parou cedo + largou top 5,172,0.48018928040857045
+0,2,parou no meio + largou 11+,183,0.4655337153498446
+0,2,parou no meio + largou 6-10,111,0.5977439578356326
+0,2,parou no meio + largou top 5,130,0.552338108152827
+0,2,parou tarde + largou 11+,25,1.2595246745232063
+0,2,parou tarde + largou 6-10,6,2.5709939758557625
+0,2,parou cedo + largou chuva,80,0.7040956978930466
+0,2,parou cedo + largou duro,16,1.5744058431540078
+0,2,parou cedo + largou macio,280,0.3763549812881816
+0,2,parou cedo + largou médio,281,0.37568471364796496
+0,2,parou no meio + largou chuva,28,1.190138949620705
+0,2,parou no meio + largou duro,50,0.8906184384271383
+0,2,parou no meio + largou macio,136,0.540016749082022
+0,2,parou no meio + largou médio,215,0.42949434922410856
+0,2,parou tarde + largou duro,22,1.342657814379573
+0,2,parou tarde + largou macio,1,6.297623372616031
+0,2,parou tarde + largou médio,8,2.2265460960678456
+0,2,parou cedo + chuva pontual,96,0.6427484939639406
+0,2,parou cedo + chuva significativa,89,0.6675467424051497
+0,2,parou cedo + seco,472,0.2898716114956777
+0,2,parou no meio + chuva pontual,44,0.949402445360905
+0,2,parou no meio + chuva significativa,56,0.8415553218310355
+0,2,parou no meio + seco,329,0.34719921553547467
+0,2,parou tarde + chuva pontual,11,1.89880489072181
+0,2,parou tarde + seco,20,1.4081913957860932
+0,2,parou cedo + com safety car,405,0.3129314212857985
+0,2,parou cedo + sem safety car,252,0.39671298320690174
+0,2,parou no meio + com safety car,228,0.4170702964819511
+0,2,parou no meio + sem safety car,201,0.4442001036203357
+0,2,parou tarde + com safety car,20,1.4081913957860932
+0,2,parou tarde + sem safety car,11,1.89880489072181
+0,2,largou 11+ + largou chuva,52,0.8733232301356755
+0,2,largou 11+ + largou duro,77,0.7176807898690122
+0,2,largou 11+ + largou macio,167,0.487324727548027
+0,2,largou 11+ + largou médio,223,0.42172005327381845
+0,2,largou 6-10 + largou chuva,25,1.2595246745232063
+0,2,largou 6-10 + largou duro,7,2.38027789924141
+0,2,largou 6-10 + largou macio,135,0.5420131209517439
+0,2,largou 6-10 + largou médio,114,0.589826469747743
+0,2,largou top 5 + largou chuva,30,1.1497834599511874
+0,2,largou top 5 + largou duro,2,4.453092192135691
+0,2,largou top 5 + largou macio,113,0.5924305727840191
+0,2,largou top 5 + largou médio,157,0.5026050617001607
+0,2,largou 11+ + chuva pontual,67,0.7693771481977814
+0,2,largou 11+ + chuva significativa,68,0.7636990104604242
+0,2,largou 11+ + seco,384,0.3213742469819703
+0,2,largou 6-10 + chuva pontual,38,1.0216094132520783
+0,2,largou 6-10 + chuva significativa,34,1.080033498164044
+0,2,largou 6-10 + seco,209,0.4356157174819559
+0,2,largou top 5 + chuva pontual,43,0.9603785608171409
+0,2,largou top 5 + chuva significativa,40,0.9957416851688959
+0,2,largou top 5 + seco,219,0.4255539507958886
+0,2,largou 11+ + com safety car,302,0.3623875031803988
+0,2,largou 11+ + sem safety car,217,0.4275105310009108
+0,2,largou 6-10 + com safety car,163,0.493267931668991
+0,2,largou 6-10 + sem safety car,118,0.5797432229913554
+0,2,largou top 5 + com safety car,180,0.46939713192869775
+0,2,largou top 5 + sem safety car,122,0.5701600303345941
+0,2,largou chuva + chuva pontual,17,1.5273980209208484
+0,2,largou chuva + chuva significativa,73,0.7370810641401452
+0,2,largou chuva + seco,18,1.4843640640452307
+0,2,largou duro + chuva pontual,14,1.683110643662071
+0,2,largou duro + chuva significativa,6,2.5709939758557625
+0,2,largou duro + seco,68,0.7636990104604242
+0,2,largou macio + chuva pontual,68,0.7636990104604242
+0,2,largou macio + chuva significativa,29,1.1694393018896398
+0,2,largou macio + seco,320,0.3520478489465233
+0,2,largou médio + chuva pontual,52,0.8733232301356755
+0,2,largou médio + chuva significativa,37,1.0353229048886243
+0,2,largou médio + seco,415,0.30913817296461943
+0,2,largou chuva + com safety car,91,0.6601703088898933
+0,2,largou chuva + sem safety car,17,1.5273980209208484
+0,2,largou duro + com safety car,43,0.9603785608171409
+0,2,largou duro + sem safety car,45,0.9387942638573955
+0,2,largou macio + com safety car,254,0.3951480343721677
+0,2,largou macio + sem safety car,163,0.493267931668991
+0,2,largou médio + com safety car,265,0.38685992854573864
+0,2,largou médio + sem safety car,239,0.4073593919867706
+0,2,chuva pontual + com safety car,58,0.8269184605522264
+0,2,chuva pontual + sem safety car,93,0.653033122900813
+0,2,chuva significativa + com safety car,108,0.6059890915724574
+0,2,chuva significativa + sem safety car,37,1.0353229048886243
+0,2,seco + com safety car,487,0.2853725550238158
+0,2,seco + sem safety car,334,0.3445906194890966
+0,3,0-1 paradas + parou cedo + largou 11+,55,0.8491713623326054
+0,3,0-1 paradas + parou cedo + largou 6-10,33,1.096275514796815
+0,3,0-1 paradas + parou cedo + largou top 5,31,1.131086547889579
+0,3,0-1 paradas + parou no meio + largou 11+,104,0.617532778196676
+0,3,0-1 paradas + parou no meio + largou 6-10,70,0.7527099625763632
+0,3,0-1 paradas + parou no meio + largou top 5,71,0.747390390883362
+0,3,0-1 paradas + parou tarde + largou 11+,23,1.3131452474931709
+0,3,0-1 paradas + parou tarde + largou 6-10,4,3.1488116863080156
+0,3,2 paradas + parou cedo + largou 11+,141,0.5303555621402001
+0,3,2 paradas + parou cedo + largou 6-10,85,0.6830731606955326
+0,3,2 paradas + parou cedo + largou top 5,82,0.6954561596826102
+0,3,2 paradas + parou no meio + largou 11+,62,0.799798968121604
+0,3,2 paradas + parou no meio + largou 6-10,34,1.080033498164044
+0,3,2 paradas + parou no meio + largou top 5,49,0.8996604818022902
+0,3,2 paradas + parou tarde + largou 11+,2,4.453092192135691
+0,3,2 paradas + parou tarde + largou 6-10,2,4.453092192135691
+0,3,3+ paradas + parou cedo + largou 11+,115,0.587256407545103
+0,3,3+ paradas + parou cedo + largou 6-10,46,0.9285339091853083
+0,3,3+ paradas + parou cedo + largou top 5,59,0.8198807286482643
+0,3,3+ paradas + parou no meio + largou 11+,17,1.5273980209208484
+0,3,3+ paradas + parou no meio + largou 6-10,7,2.38027789924141
+0,3,3+ paradas + parou no meio + largou top 5,10,1.9914833703377919
+0,3,0-1 paradas + parou cedo + largou chuva,13,1.746646460271351
+0,3,0-1 paradas + parou cedo + largou macio,42,0.971744383194221
+0,3,0-1 paradas + parou cedo + largou médio,67,0.7693771481977814
+0,3,0-1 paradas + parou no meio + largou chuva,4,3.1488116863080156
+0,3,0-1 paradas + parou no meio + largou duro,30,1.1497834599511874
+0,3,0-1 paradas + parou no meio + largou macio,77,0.7176807898690122
+0,3,0-1 paradas + parou no meio + largou médio,138,0.5360893024198333
+0,3,0-1 paradas + parou tarde + largou duro,18,1.4843640640452307
+0,3,0-1 paradas + parou tarde + largou macio,1,6.297623372616031
+0,3,0-1 paradas + parou tarde + largou médio,8,2.2265460960678456
+0,3,2 paradas + parou cedo + largou chuva,37,1.0353229048886243
+0,3,2 paradas + parou cedo + largou duro,10,1.9914833703377919
+0,3,2 paradas + parou cedo + largou macio,138,0.5360893024198333
+0,3,2 paradas + parou cedo + largou médio,125,0.5632765583144373
+0,3,2 paradas + parou no meio + largou chuva,17,1.5273980209208484
+0,3,2 paradas + parou no meio + largou duro,19,1.444773887669109
+0,3,2 paradas + parou no meio + largou macio,55,0.8491713623326054
+0,3,2 paradas + parou no meio + largou médio,55,0.8491713623326054
+0,3,2 paradas + parou tarde + largou duro,4,3.1488116863080156
+0,3,3+ paradas + parou cedo + largou chuva,30,1.1497834599511874
+0,3,3+ paradas + parou cedo + largou duro,6,2.5709939758557625
+0,3,3+ paradas + parou cedo + largou macio,100,0.6297623372616031
+0,3,3+ paradas + parou cedo + largou médio,89,0.6675467424051497
+0,3,3+ paradas + parou no meio + largou chuva,7,2.38027789924141
+0,3,3+ paradas + parou no meio + largou duro,1,6.297623372616031
+0,3,3+ paradas + parou no meio + largou macio,4,3.1488116863080156
+0,3,3+ paradas + parou no meio + largou médio,22,1.342657814379573
+0,3,0-1 paradas + parou cedo + chuva pontual,13,1.746646460271351
+0,3,0-1 paradas + parou cedo + chuva significativa,6,2.5709939758557625
+0,3,0-1 paradas + parou cedo + seco,103,0.6205232691890336
+0,3,0-1 paradas + parou no meio + chuva pontual,31,1.131086547889579
+0,3,0-1 paradas + parou no meio + chuva significativa,11,1.89880489072181
+0,3,0-1 paradas + parou no meio + seco,207,0.43771508249772356
+0,3,0-1 paradas + parou tarde + chuva pontual,7,2.38027789924141
+0,3,0-1 paradas + parou tarde + seco,20,1.4081913957860932
+0,3,2 paradas + parou cedo + chuva pontual,47,0.9186027797035794
+0,3,2 paradas + parou cedo + chuva significativa,38,1.0216094132520783
+0,3,2 paradas + parou cedo + seco,225,0.41984155817440205
+0,3,2 paradas + parou no meio + chuva pontual,13,1.746646460271351
+0,3,2 paradas + parou no meio + chuva significativa,33,1.096275514796815
+0,3,2 paradas + parou no meio + seco,100,0.6297623372616031
+0,3,2 paradas + parou tarde + chuva pontual,4,3.1488116863080156
+0,3,3+ paradas + parou cedo + chuva pontual,36,1.0496038954360052
+0,3,3+ paradas + parou cedo + chuva significativa,45,0.9387942638573955
+0,3,3+ paradas + parou cedo + seco,144,0.5248019477180026
+0,3,3+ paradas + parou no meio + chuva significativa,12,1.8179672747173723
+0,3,3+ paradas + parou no meio + seco,22,1.342657814379573
+0,3,0-1 paradas + parou cedo + com safety car,76,0.7223869438345545
+0,3,0-1 paradas + parou cedo + sem safety car,46,0.9285339091853083
+0,3,0-1 paradas + parou no meio + com safety car,112,0.5950694748103525
+0,3,0-1 paradas + parou no meio + sem safety car,137,0.5380422753810561
+0,3,0-1 paradas + parou tarde + com safety car,20,1.4081913957860932
+0,3,0-1 paradas + parou tarde + sem safety car,7,2.38027789924141
+0,3,2 paradas + parou cedo + com safety car,161,0.49632225145332753
+0,3,2 paradas + parou cedo + sem safety car,149,0.5159214090253829
+0,3,2 paradas + parou no meio + com safety car,87,0.6751760957469115
+0,3,2 paradas + parou no meio + sem safety car,59,0.8198807286482643
+0,3,2 paradas + parou tarde + sem safety car,4,3.1488116863080156
+0,3,3+ paradas + parou cedo + com safety car,168,0.4858721915971105
+0,3,3+ paradas + parou cedo + sem safety car,57,0.8341405929639022
+0,3,3+ paradas + parou no meio + com safety car,29,1.1694393018896398
+0,3,3+ paradas + parou no meio + sem safety car,5,2.8163827915721864
+0,3,0-1 paradas + largou 11+ + largou chuva,12,1.8179672747173723
+0,3,0-1 paradas + largou 11+ + largou duro,44,0.949402445360905
+0,3,0-1 paradas + largou 11+ + largou macio,31,1.131086547889579
+0,3,0-1 paradas + largou 11+ + largou médio,95,0.6461225249889546
+0,3,0-1 paradas + largou 6-10 + largou chuva,2,4.453092192135691
+0,3,0-1 paradas + largou 6-10 + largou duro,4,3.1488116863080156
+0,3,0-1 paradas + largou 6-10 + largou macio,55,0.8491713623326054
+0,3,0-1 paradas + largou 6-10 + largou médio,46,0.9285339091853083
+0,3,0-1 paradas + largou top 5 + largou chuva,2,4.453092192135691
+0,3,0-1 paradas + largou top 5 + largou macio,34,1.080033498164044
+0,3,0-1 paradas + largou top 5 + largou médio,66,0.7751838505616011
+0,3,2 paradas + largou 11+ + largou chuva,18,1.4843640640452307
+0,3,2 paradas + largou 11+ + largou duro,27,1.2119781831449148
+0,3,2 paradas + largou 11+ + largou macio,82,0.6954561596826102
+0,3,2 paradas + largou 11+ + largou médio,78,0.7130654314505366
+0,3,2 paradas + largou 6-10 + largou chuva,17,1.5273980209208484
+0,3,2 paradas + largou 6-10 + largou duro,3,3.6359345494347446
+0,3,2 paradas + largou 6-10 + largou macio,62,0.799798968121604
+0,3,2 paradas + largou 6-10 + largou médio,39,1.0084268040167714
+0,3,2 paradas + largou top 5 + largou chuva,19,1.444773887669109
+0,3,2 paradas + largou top 5 + largou duro,2,4.453092192135691
+0,3,2 paradas + largou top 5 + largou macio,48,0.9089836373586861
+0,3,2 paradas + largou top 5 + largou médio,62,0.799798968121604
+0,3,3+ paradas + largou 11+ + largou chuva,22,1.342657814379573
+0,3,3+ paradas + largou 11+ + largou duro,6,2.5709939758557625
+0,3,3+ paradas + largou 11+ + largou macio,54,0.8569979919519207
+0,3,3+ paradas + largou 11+ + largou médio,50,0.8906184384271383
+0,3,3+ paradas + largou 6-10 + largou chuva,6,2.5709939758557625
+0,3,3+ paradas + largou 6-10 + largou macio,18,1.4843640640452307
+0,3,3+ paradas + largou 6-10 + largou médio,29,1.1694393018896398
+0,3,3+ paradas + largou top 5 + largou chuva,9,2.0992077908720104
+0,3,3+ paradas + largou top 5 + largou macio,31,1.131086547889579
+0,3,3+ paradas + largou top 5 + largou médio,29,1.1694393018896398
+0,3,0-1 paradas + largou 11+ + chuva pontual,22,1.342657814379573
+0,3,0-1 paradas + largou 11+ + chuva significativa,7,2.38027789924141
+0,3,0-1 paradas + largou 11+ + seco,153,0.5091326736402828
+0,3,0-1 paradas + largou 6-10 + chuva pontual,13,1.746646460271351
+0,3,0-1 paradas + largou 6-10 + chuva significativa,5,2.8163827915721864
+0,3,0-1 paradas + largou 6-10 + seco,89,0.6675467424051497
+0,3,0-1 paradas + largou top 5 + chuva pontual,13,1.746646460271351
+0,3,0-1 paradas + largou top 5 + chuva significativa,5,2.8163827915721864
+0,3,0-1 paradas + largou top 5 + seco,84,0.6871270429365727
+0,3,2 paradas + largou 11+ + chuva pontual,28,1.190138949620705
+0,3,2 paradas + largou 11+ + chuva significativa,26,1.235065556393352
+0,3,2 paradas + largou 11+ + seco,151,0.512493321832243
+0,3,2 paradas + largou 6-10 + chuva pontual,17,1.5273980209208484
+0,3,2 paradas + largou 6-10 + chuva significativa,20,1.4081913957860932
+0,3,2 paradas + largou 6-10 + seco,84,0.6871270429365727
+0,3,2 paradas + largou top 5 + chuva pontual,19,1.444773887669109
+0,3,2 paradas + largou top 5 + chuva significativa,24,1.2854969879278813
+0,3,2 paradas + largou top 5 + seco,88,0.6713289071897866
+0,3,3+ paradas + largou 11+ + chuva pontual,17,1.5273980209208484
+0,3,3+ paradas + largou 11+ + chuva significativa,35,1.0644926376088377
+0,3,3+ paradas + largou 11+ + seco,80,0.7040956978930466
+0,3,3+ paradas + largou 6-10 + chuva pontual,8,2.2265460960678456
+0,3,3+ paradas + largou 6-10 + chuva significativa,9,2.0992077908720104
+0,3,3+ paradas + largou 6-10 + seco,36,1.0496038954360052
+0,3,3+ paradas + largou top 5 + chuva pontual,11,1.89880489072181
+0,3,3+ paradas + largou top 5 + chuva significativa,11,1.89880489072181
+0,3,3+ paradas + largou top 5 + seco,47,0.9186027797035794
+0,3,0-1 paradas + largou 11+ + com safety car,94,0.6495502547452132
+0,3,0-1 paradas + largou 11+ + sem safety car,88,0.6713289071897866
+0,3,0-1 paradas + largou 6-10 + com safety car,54,0.8569979919519207
+0,3,0-1 paradas + largou 6-10 + sem safety car,53,0.865045097998983
+0,3,0-1 paradas + largou top 5 + com safety car,57,0.8341405929639022
+0,3,0-1 paradas + largou top 5 + sem safety car,45,0.9387942638573955
+0,3,2 paradas + largou 11+ + com safety car,110,0.600454828694804
+0,3,2 paradas + largou 11+ + sem safety car,95,0.6461225249889546
+0,3,2 paradas + largou 6-10 + com safety car,65,0.7811240435652252
+0,3,2 paradas + largou 6-10 + sem safety car,56,0.8415553218310355
+0,3,2 paradas + largou top 5 + com safety car,73,0.7370810641401452
+0,3,2 paradas + largou top 5 + sem safety car,58,0.8269184605522264
+0,3,3+ paradas + largou 11+ + com safety car,98,0.636156027447956
+0,3,3+ paradas + largou 11+ + sem safety car,34,1.080033498164044
+0,3,3+ paradas + largou 6-10 + com safety car,44,0.949402445360905
+0,3,3+ paradas + largou 6-10 + sem safety car,9,2.0992077908720104
+0,3,3+ paradas + largou top 5 + com safety car,50,0.8906184384271383
+0,3,3+ paradas + largou top 5 + sem safety car,19,1.444773887669109
+0,3,0-1 paradas + largou chuva + chuva significativa,4,3.1488116863080156
+0,3,0-1 paradas + largou chuva + seco,13,1.746646460271351
+0,3,0-1 paradas + largou duro + chuva pontual,5,2.8163827915721864
+0,3,0-1 paradas + largou duro + chuva significativa,2,4.453092192135691
+0,3,0-1 paradas + largou duro + seco,41,0.9835235330590564
+0,3,0-1 paradas + largou macio + chuva pontual,21,1.3742540858731453
+0,3,0-1 paradas + largou macio + chuva significativa,1,6.297623372616031
+0,3,0-1 paradas + largou macio + seco,98,0.636156027447956
+0,3,0-1 paradas + largou médio + chuva pontual,25,1.2595246745232063
+0,3,0-1 paradas + largou médio + chuva significativa,10,1.9914833703377919
+0,3,0-1 paradas + largou médio + seco,178,0.4720268283136707
+0,3,2 paradas + largou chuva + chuva pontual,11,1.89880489072181
+0,3,2 paradas + largou chuva + chuva significativa,40,0.9957416851688959
+0,3,2 paradas + largou chuva + seco,3,3.6359345494347446
+0,3,2 paradas + largou duro + chuva pontual,8,2.2265460960678456
+0,3,2 paradas + largou duro + chuva significativa,3,3.6359345494347446
+0,3,2 paradas + largou duro + seco,22,1.342657814379573
+0,3,2 paradas + largou macio + chuva pontual,29,1.1694393018896398
+0,3,2 paradas + largou macio + chuva significativa,8,2.2265460960678456
+0,3,2 paradas + largou macio + seco,156,0.5042134020083857
+0,3,2 paradas + largou médio + chuva pontual,16,1.5744058431540078
+0,3,2 paradas + largou médio + chuva significativa,20,1.4081913957860932
+0,3,2 paradas + largou médio + seco,144,0.5248019477180026
+0,3,3+ paradas + largou chuva + chuva pontual,6,2.5709939758557625
+0,3,3+ paradas + largou chuva + chuva significativa,29,1.1694393018896398
+0,3,3+ paradas + largou chuva + seco,2,4.453092192135691
+0,3,3+ paradas + largou duro + chuva pontual,1,6.297623372616031
+0,3,3+ paradas + largou duro + chuva significativa,1,6.297623372616031
+0,3,3+ paradas + largou duro + seco,5,2.8163827915721864
+0,3,3+ paradas + largou macio + chuva pontual,18,1.4843640640452307
+0,3,3+ paradas + largou macio + chuva significativa,20,1.4081913957860932
+0,3,3+ paradas + largou macio + seco,66,0.7751838505616011
+0,3,3+ paradas + largou médio + chuva pontual,11,1.89880489072181
+0,3,3+ paradas + largou médio + chuva significativa,7,2.38027789924141
+0,3,3+ paradas + largou médio + seco,93,0.653033122900813
+0,3,0-1 paradas + largou chuva + com safety car,17,1.5273980209208484
+0,3,0-1 paradas + largou duro + com safety car,21,1.3742540858731453
+0,3,0-1 paradas + largou duro + sem safety car,27,1.2119781831449148
+0,3,0-1 paradas + largou macio + com safety car,77,0.7176807898690122
+0,3,0-1 paradas + largou macio + sem safety car,43,0.9603785608171409
+0,3,0-1 paradas + largou médio + com safety car,93,0.653033122900813
+0,3,0-1 paradas + largou médio + sem safety car,120,0.5748917299755937
+0,3,2 paradas + largou chuva + com safety car,43,0.9603785608171409
+0,3,2 paradas + largou chuva + sem safety car,11,1.89880489072181
+0,3,2 paradas + largou duro + com safety car,16,1.5744058431540078
+0,3,2 paradas + largou duro + sem safety car,17,1.5273980209208484
+0,3,2 paradas + largou macio + com safety car,106,0.6116792548272624
+0,3,2 paradas + largou macio + sem safety car,87,0.6751760957469115
+0,3,2 paradas + largou médio + com safety car,83,0.6912539691889766
+0,3,2 paradas + largou médio + sem safety car,97,0.6394267740841536
+0,3,3+ paradas + largou chuva + com safety car,31,1.131086547889579
+0,3,3+ paradas + largou chuva + sem safety car,6,2.5709939758557625
+0,3,3+ paradas + largou duro + com safety car,6,2.5709939758557625
+0,3,3+ paradas + largou duro + sem safety car,1,6.297623372616031
+0,3,3+ paradas + largou macio + com safety car,71,0.747390390883362
+0,3,3+ paradas + largou macio + sem safety car,33,1.096275514796815
+0,3,3+ paradas + largou médio + com safety car,89,0.6675467424051497
+0,3,3+ paradas + largou médio + sem safety car,22,1.342657814379573
+0,3,0-1 paradas + chuva pontual + com safety car,23,1.3131452474931709
+0,3,0-1 paradas + chuva pontual + sem safety car,28,1.190138949620705
+0,3,0-1 paradas + chuva significativa + com safety car,15,1.6260393628552317
+0,3,0-1 paradas + chuva significativa + sem safety car,2,4.453092192135691
+0,3,0-1 paradas + seco + com safety car,170,0.48300566397433936
+0,3,0-1 paradas + seco + sem safety car,160,0.49787084258444797
+0,3,2 paradas + chuva pontual + com safety car,9,2.0992077908720104
+0,3,2 paradas + chuva pontual + sem safety car,55,0.8491713623326054
+0,3,2 paradas + chuva significativa + com safety car,46,0.9285339091853083
+0,3,2 paradas + chuva significativa + sem safety car,25,1.2595246745232063
+0,3,2 paradas + seco + com safety car,193,0.4533128495892134
+0,3,2 paradas + seco + sem safety car,132,0.5481377573984075
+0,3,3+ paradas + chuva pontual + com safety car,26,1.235065556393352
+0,3,3+ paradas + chuva pontual + sem safety car,10,1.9914833703377919
+0,3,3+ paradas + chuva significativa + com safety car,47,0.9186027797035794
+0,3,3+ paradas + chuva significativa + sem safety car,10,1.9914833703377919
+0,3,3+ paradas + seco + com safety car,124,0.5655432739447895
+0,3,3+ paradas + seco + sem safety car,42,0.971744383194221
+0,3,parou cedo + largou 11+ + largou chuva,39,1.0084268040167714
+0,3,parou cedo + largou 11+ + largou duro,13,1.746646460271351
+0,3,parou cedo + largou 11+ + largou macio,131,0.5502259087977993
+0,3,parou cedo + largou 11+ + largou médio,128,0.5566365240169614
+0,3,parou cedo + largou 6-10 + largou chuva,19,1.444773887669109
+0,3,parou cedo + largou 6-10 + largou macio,79,0.7085379861119238
+0,3,parou cedo + largou 6-10 + largou médio,66,0.7751838505616011
+0,3,parou cedo + largou top 5 + largou chuva,21,1.3742540858731453
+0,3,parou cedo + largou top 5 + largou duro,1,6.297623372616031
+0,3,parou cedo + largou top 5 + largou macio,68,0.7636990104604242
+0,3,parou cedo + largou top 5 + largou médio,82,0.6954561596826102
+0,3,parou no meio + largou 11+ + largou chuva,13,1.746646460271351
+0,3,parou no meio + largou 11+ + largou duro,46,0.9285339091853083
+0,3,parou no meio + largou 11+ + largou macio,35,1.0644926376088377
+0,3,parou no meio + largou 11+ + largou médio,89,0.6675467424051497
+0,3,parou no meio + largou 6-10 + largou chuva,6,2.5709939758557625
+0,3,parou no meio + largou 6-10 + largou duro,3,3.6359345494347446
+0,3,parou no meio + largou 6-10 + largou macio,56,0.8415553218310355
+0,3,parou no meio + largou 6-10 + largou médio,46,0.9285339091853083
+0,3,parou no meio + largou top 5 + largou chuva,9,2.0992077908720104
+0,3,parou no meio + largou top 5 + largou duro,1,6.297623372616031
+0,3,parou no meio + largou top 5 + largou macio,45,0.9387942638573955
+0,3,parou no meio + largou top 5 + largou médio,75,0.7271869098869488
+0,3,parou tarde + largou 11+ + largou duro,18,1.4843640640452307
+0,3,parou tarde + largou 11+ + largou macio,1,6.297623372616031
+0,3,parou tarde + largou 11+ + largou médio,6,2.5709939758557625
+0,3,parou tarde + largou 6-10 + largou duro,4,3.1488116863080156
+0,3,parou tarde + largou 6-10 + largou médio,2,4.453092192135691
+0,3,parou cedo + largou 11+ + chuva pontual,43,0.9603785608171409
+0,3,parou cedo + largou 11+ + chuva significativa,42,0.971744383194221
+0,3,parou cedo + largou 11+ + seco,226,0.41891167539781043
+0,3,parou cedo + largou 6-10 + chuva pontual,26,1.235065556393352
+0,3,parou cedo + largou 6-10 + chuva significativa,20,1.4081913957860932
+0,3,parou cedo + largou 6-10 + seco,118,0.5797432229913554
+0,3,parou cedo + largou top 5 + chuva pontual,27,1.2119781831449148
+0,3,parou cedo + largou top 5 + chuva significativa,24,1.2854969879278813
+0,3,parou cedo + largou top 5 + seco,121,0.5725112156923665
+0,3,parou no meio + largou 11+ + chuva pontual,15,1.6260393628552317
+0,3,parou no meio + largou 11+ + chuva significativa,26,1.235065556393352
+0,3,parou no meio + largou 11+ + seco,142,0.5284848135872897
+0,3,parou no meio + largou 6-10 + chuva pontual,10,1.9914833703377919
+0,3,parou no meio + largou 6-10 + chuva significativa,14,1.683110643662071
+0,3,parou no meio + largou 6-10 + seco,87,0.6751760957469115
+0,3,parou no meio + largou top 5 + chuva pontual,16,1.5744058431540078
+0,3,parou no meio + largou top 5 + chuva significativa,16,1.5744058431540078
+0,3,parou no meio + largou top 5 + seco,98,0.636156027447956
+0,3,parou tarde + largou 11+ + chuva pontual,9,2.0992077908720104
+0,3,parou tarde + largou 11+ + seco,16,1.5744058431540078
+0,3,parou tarde + largou 6-10 + chuva pontual,2,4.453092192135691
+0,3,parou tarde + largou 6-10 + seco,4,3.1488116863080156
+0,3,parou cedo + largou 11+ + com safety car,191,0.4556800346120974
+0,3,parou cedo + largou 11+ + sem safety car,120,0.5748917299755937
+0,3,parou cedo + largou 6-10 + com safety car,99,0.6329349635739366
+0,3,parou cedo + largou 6-10 + sem safety car,65,0.7811240435652252
+0,3,parou cedo + largou top 5 + com safety car,109,0.6032029200714711
+0,3,parou cedo + largou top 5 + sem safety car,63,0.7934259664138035
+0,3,parou no meio + largou 11+ + com safety car,95,0.6461225249889546
+0,3,parou no meio + largou 11+ + sem safety car,88,0.6713289071897866
+0,3,parou no meio + largou 6-10 + com safety car,60,0.8130196814276158
+0,3,parou no meio + largou 6-10 + sem safety car,51,0.8818436585383534
+0,3,parou no meio + largou top 5 + com safety car,71,0.747390390883362
+0,3,parou no meio + largou top 5 + sem safety car,59,0.8198807286482643
+0,3,parou tarde + largou 11+ + com safety car,16,1.5744058431540078
+0,3,parou tarde + largou 11+ + sem safety car,9,2.0992077908720104
+0,3,parou tarde + largou 6-10 + com safety car,4,3.1488116863080156
+0,3,parou tarde + largou 6-10 + sem safety car,2,4.453092192135691
+0,3,parou cedo + largou chuva + chuva pontual,17,1.5273980209208484
+0,3,parou cedo + largou chuva + chuva significativa,45,0.9387942638573955
+0,3,parou cedo + largou chuva + seco,18,1.4843640640452307
+0,3,parou cedo + largou duro + chuva pontual,1,6.297623372616031
+0,3,parou cedo + largou duro + chuva significativa,2,4.453092192135691
+0,3,parou cedo + largou duro + seco,13,1.746646460271351
+0,3,parou cedo + largou macio + chuva pontual,49,0.8996604818022902
+0,3,parou cedo + largou macio + chuva significativa,27,1.2119781831449148
+0,3,parou cedo + largou macio + seco,204,0.4409218292691767
+0,3,parou cedo + largou médio + chuva pontual,29,1.1694393018896398
+0,3,parou cedo + largou médio + chuva significativa,15,1.6260393628552317
+0,3,parou cedo + largou médio + seco,237,0.4090745970127945
+0,3,parou no meio + largou chuva + chuva significativa,28,1.190138949620705
+0,3,parou no meio + largou duro + chuva pontual,5,2.8163827915721864
+0,3,parou no meio + largou duro + chuva significativa,4,3.1488116863080156
+0,3,parou no meio + largou duro + seco,41,0.9835235330590564
+0,3,parou no meio + largou macio + chuva pontual,18,1.4843640640452307
+0,3,parou no meio + largou macio + chuva significativa,2,4.453092192135691
+0,3,parou no meio + largou macio + seco,116,0.5847196509448199
+0,3,parou no meio + largou médio + chuva pontual,21,1.3742540858731453
+0,3,parou no meio + largou médio + chuva significativa,22,1.342657814379573
+0,3,parou no meio + largou médio + seco,172,0.48018928040857045
+0,3,parou tarde + largou duro + chuva pontual,8,2.2265460960678456
+0,3,parou tarde + largou duro + seco,14,1.683110643662071
+0,3,parou tarde + largou macio + chuva pontual,1,6.297623372616031
+0,3,parou tarde + largou médio + chuva pontual,2,4.453092192135691
+0,3,parou tarde + largou médio + seco,6,2.5709939758557625
+0,3,parou cedo + largou chuva + com safety car,63,0.7934259664138035
+0,3,parou cedo + largou chuva + sem safety car,17,1.5273980209208484
+0,3,parou cedo + largou duro + com safety car,14,1.683110643662071
+0,3,parou cedo + largou duro + sem safety car,2,4.453092192135691
+0,3,parou cedo + largou macio + com safety car,161,0.49632225145332753
+0,3,parou cedo + largou macio + sem safety car,119,0.5773021880526851
+0,3,parou cedo + largou médio + com safety car,167,0.487324727548027
+0,3,parou cedo + largou médio + sem safety car,114,0.589826469747743
+0,3,parou no meio + largou chuva + com safety car,28,1.190138949620705
+0,3,parou no meio + largou duro + com safety car,18,1.4843640640452307
+0,3,parou no meio + largou duro + sem safety car,32,1.1132730480339228
+0,3,parou no meio + largou macio + com safety car,92,0.6565726237465854
+0,3,parou no meio + largou macio + sem safety car,44,0.949402445360905
+0,3,parou no meio + largou médio + com safety car,90,0.6638277901125973
+0,3,parou no meio + largou médio + sem safety car,125,0.5632765583144373
+0,3,parou tarde + largou duro + com safety car,11,1.89880489072181
+0,3,parou tarde + largou duro + sem safety car,11,1.89880489072181
+0,3,parou tarde + largou macio + com safety car,1,6.297623372616031
+0,3,parou tarde + largou médio + com safety car,8,2.2265460960678456
+0,3,parou cedo + chuva pontual + com safety car,34,1.080033498164044
+0,3,parou cedo + chuva pontual + sem safety car,62,0.799798968121604
+0,3,parou cedo + chuva significativa + com safety car,70,0.7527099625763632
+0,3,parou cedo + chuva significativa + sem safety car,19,1.444773887669109
+0,3,parou cedo + seco + com safety car,301,0.36298897662861074
+0,3,parou cedo + seco + sem safety car,171,0.481591295889703
+0,3,parou no meio + chuva pontual + com safety car,20,1.4081913957860932
+0,3,parou no meio + chuva pontual + sem safety car,24,1.2854969879278813
+0,3,parou no meio + chuva significativa + com safety car,38,1.0216094132520783
+0,3,parou no meio + chuva significativa + sem safety car,18,1.4843640640452307
+0,3,parou no meio + seco + com safety car,170,0.48300566397433936
+0,3,parou no meio + seco + sem safety car,159,0.499434020190879
+0,3,parou tarde + chuva pontual + com safety car,4,3.1488116863080156
+0,3,parou tarde + chuva pontual + sem safety car,7,2.38027789924141
+0,3,parou tarde + seco + com safety car,16,1.5744058431540078
+0,3,parou tarde + seco + sem safety car,4,3.1488116863080156
+0,3,largou 11+ + largou chuva + chuva pontual,8,2.2265460960678456
+0,3,largou 11+ + largou chuva + chuva significativa,35,1.0644926376088377
+0,3,largou 11+ + largou chuva + seco,9,2.0992077908720104
+0,3,largou 11+ + largou duro + chuva pontual,12,1.8179672747173723
+0,3,largou 11+ + largou duro + chuva significativa,5,2.8163827915721864
+0,3,largou 11+ + largou duro + seco,60,0.8130196814276158
+0,3,largou 11+ + largou macio + chuva pontual,25,1.2595246745232063
+0,3,largou 11+ + largou macio + chuva significativa,14,1.683110643662071
+0,3,largou 11+ + largou macio + seco,128,0.5566365240169614
+0,3,largou 11+ + largou médio + chuva pontual,22,1.342657814379573
+0,3,largou 11+ + largou médio + chuva significativa,14,1.683110643662071
+0,3,largou 11+ + largou médio + seco,187,0.4605278309932601
+0,3,largou 6-10 + largou chuva + chuva pontual,4,3.1488116863080156
+0,3,largou 6-10 + largou chuva + chuva significativa,17,1.5273980209208484
+0,3,largou 6-10 + largou chuva + seco,4,3.1488116863080156
+0,3,largou 6-10 + largou duro + chuva pontual,2,4.453092192135691
+0,3,largou 6-10 + largou duro + seco,5,2.8163827915721864
+0,3,largou 6-10 + largou macio + chuva pontual,26,1.235065556393352
+0,3,largou 6-10 + largou macio + chuva significativa,6,2.5709939758557625
+0,3,largou 6-10 + largou macio + seco,103,0.6205232691890336
+0,3,largou 6-10 + largou médio + chuva pontual,6,2.5709939758557625
+0,3,largou 6-10 + largou médio + chuva significativa,11,1.89880489072181
+0,3,largou 6-10 + largou médio + seco,97,0.6394267740841536
+0,3,largou top 5 + largou chuva + chuva pontual,5,2.8163827915721864
+0,3,largou top 5 + largou chuva + chuva significativa,21,1.3742540858731453
+0,3,largou top 5 + largou chuva + seco,4,3.1488116863080156
+0,3,largou top 5 + largou duro + chuva significativa,1,6.297623372616031
+0,3,largou top 5 + largou duro + seco,1,6.297623372616031
+0,3,largou top 5 + largou macio + chuva pontual,17,1.5273980209208484
+0,3,largou top 5 + largou macio + chuva significativa,7,2.38027789924141
+0,3,largou top 5 + largou macio + seco,89,0.6675467424051497
+0,3,largou top 5 + largou médio + chuva pontual,21,1.3742540858731453
+0,3,largou top 5 + largou médio + chuva significativa,11,1.89880489072181
+0,3,largou top 5 + largou médio + seco,125,0.5632765583144373
+0,3,largou 11+ + largou chuva + com safety car,44,0.949402445360905
+0,3,largou 11+ + largou chuva + sem safety car,8,2.2265460960678456
+0,3,largou 11+ + largou duro + com safety car,38,1.0216094132520783
+0,3,largou 11+ + largou duro + sem safety car,39,1.0084268040167714
+0,3,largou 11+ + largou macio + com safety car,97,0.6394267740841536
+0,3,largou 11+ + largou macio + sem safety car,70,0.7527099625763632
+0,3,largou 11+ + largou médio + com safety car,123,0.5678375765659779
+0,3,largou 11+ + largou médio + sem safety car,100,0.6297623372616031
+0,3,largou 6-10 + largou chuva + com safety car,21,1.3742540858731453
+0,3,largou 6-10 + largou chuva + sem safety car,4,3.1488116863080156
+0,3,largou 6-10 + largou duro + com safety car,3,3.6359345494347446
+0,3,largou 6-10 + largou duro + sem safety car,4,3.1488116863080156
+0,3,largou 6-10 + largou macio + com safety car,83,0.6912539691889766
+0,3,largou 6-10 + largou macio + sem safety car,52,0.8733232301356755
+0,3,largou 6-10 + largou médio + com safety car,56,0.8415553218310355
+0,3,largou 6-10 + largou médio + sem safety car,58,0.8269184605522264
+0,3,largou top 5 + largou chuva + com safety car,25,1.2595246745232063
+0,3,largou top 5 + largou chuva + sem safety car,5,2.8163827915721864
+0,3,largou top 5 + largou duro + com safety car,1,6.297623372616031
+0,3,largou top 5 + largou duro + sem safety car,1,6.297623372616031
+0,3,largou top 5 + largou macio + com safety car,73,0.7370810641401452
+0,3,largou top 5 + largou macio + sem safety car,40,0.9957416851688959
+0,3,largou top 5 + largou médio + com safety car,81,0.6997359302906702
+0,3,largou top 5 + largou médio + sem safety car,76,0.7223869438345545
+0,3,largou 11+ + chuva pontual + com safety car,24,1.2854969879278813
+0,3,largou 11+ + chuva pontual + sem safety car,43,0.9603785608171409
+0,3,largou 11+ + chuva significativa + com safety car,50,0.8906184384271383
+0,3,largou 11+ + chuva significativa + sem safety car,18,1.4843640640452307
+0,3,largou 11+ + seco + com safety car,228,0.4170702964819511
+0,3,largou 11+ + seco + sem safety car,156,0.5042134020083857
+0,3,largou 6-10 + chuva pontual + com safety car,15,1.6260393628552317
+0,3,largou 6-10 + chuva pontual + sem safety car,23,1.3131452474931709
+0,3,largou 6-10 + chuva significativa + com safety car,25,1.2595246745232063
+0,3,largou 6-10 + chuva significativa + sem safety car,9,2.0992077908720104
+0,3,largou 6-10 + seco + com safety car,123,0.5678375765659779
+0,3,largou 6-10 + seco + sem safety car,86,0.6790901928599774
+0,3,largou top 5 + chuva pontual + com safety car,18,1.4843640640452307
+0,3,largou top 5 + chuva pontual + sem safety car,25,1.2595246745232063
+0,3,largou top 5 + chuva significativa + com safety car,31,1.131086547889579
+0,3,largou top 5 + chuva significativa + sem safety car,9,2.0992077908720104
+0,3,largou top 5 + seco + com safety car,131,0.5502259087977993
+0,3,largou top 5 + seco + sem safety car,88,0.6713289071897866
+0,3,largou chuva + chuva pontual + sem safety car,17,1.5273980209208484
+0,3,largou chuva + chuva significativa + com safety car,73,0.7370810641401452
+0,3,largou chuva + seco + com safety car,18,1.4843640640452307
+0,3,largou duro + chuva pontual + com safety car,3,3.6359345494347446
+0,3,largou duro + chuva pontual + sem safety car,11,1.89880489072181
+0,3,largou duro + chuva significativa + com safety car,5,2.8163827915721864
+0,3,largou duro + chuva significativa + sem safety car,1,6.297623372616031
+0,3,largou duro + seco + com safety car,35,1.0644926376088377
+0,3,largou duro + seco + sem safety car,33,1.096275514796815
+0,3,largou macio + chuva pontual + com safety car,33,1.096275514796815
+0,3,largou macio + chuva pontual + sem safety car,35,1.0644926376088377
+0,3,largou macio + chuva significativa + com safety car,17,1.5273980209208484
+0,3,largou macio + chuva significativa + sem safety car,12,1.8179672747173723
+0,3,largou macio + seco + com safety car,204,0.4409218292691767
+0,3,largou macio + seco + sem safety car,116,0.5847196509448199
+0,3,largou médio + chuva pontual + com safety car,22,1.342657814379573
+0,3,largou médio + chuva pontual + sem safety car,30,1.1497834599511874
+0,3,largou médio + chuva significativa + com safety car,13,1.746646460271351
+0,3,largou médio + chuva significativa + sem safety car,24,1.2854969879278813
+0,3,largou médio + seco + com safety car,230,0.4152529880703931
+0,3,largou médio + seco + sem safety car,185,0.4630104787987026
+1,1,0-1 paradas,411,0.31063885252665147
+1,1,2 paradas,345,0.33905264497949783
+1,1,3+ paradas,110,0.600454828694804
+1,1,parou cedo,517,0.2769691592412974
+1,1,parou no meio,284,0.373695195441681
+1,1,parou tarde,65,0.7811240435652252
+1,1,largou 11+,414,0.30951130306176944
+1,1,largou 6-10,216,0.42849899597596036
+1,1,largou top 5,227,0.41798794400820966
+1,1,largou chuva,15,1.6260393628552317
+1,1,largou duro,125,0.5632765583144373
+1,1,largou macio,268,0.3846885740988907
+1,1,largou médio,458,0.29426861501045953
+1,1,chuva pontual,82,0.6954561596826102
+1,1,chuva significativa,15,1.6260393628552317
+1,1,seco,769,0.2270981071065786
+1,1,com safety car,438,0.3009120843684992
+1,1,sem safety car,428,0.3044071154287366
+1,2,0-1 paradas + parou cedo,138,0.5360893024198333
+1,2,0-1 paradas + parou no meio,214,0.4304966711221916
+1,2,0-1 paradas + parou tarde,59,0.8198807286482643
+1,2,2 paradas + parou cedo,285,0.3730390137318536
+1,2,2 paradas + parou no meio,59,0.8198807286482643
+1,2,2 paradas + parou tarde,1,6.297623372616031
+1,2,3+ paradas + parou cedo,94,0.6495502547452132
+1,2,3+ paradas + parou no meio,11,1.89880489072181
+1,2,3+ paradas + parou tarde,5,2.8163827915721864
+1,2,0-1 paradas + largou 11+,187,0.4605278309932601
+1,2,0-1 paradas + largou 6-10,105,0.6145851108738373
+1,2,0-1 paradas + largou top 5,113,0.5924305727840191
+1,2,2 paradas + largou 11+,167,0.487324727548027
+1,2,2 paradas + largou 6-10,89,0.6675467424051497
+1,2,2 paradas + largou top 5,88,0.6713289071897866
+1,2,3+ paradas + largou 11+,60,0.8130196814276158
+1,2,3+ paradas + largou 6-10,22,1.342657814379573
+1,2,3+ paradas + largou top 5,26,1.235065556393352
+1,2,0-1 paradas + largou chuva,3,3.6359345494347446
+1,2,0-1 paradas + largou duro,86,0.6790901928599774
+1,2,0-1 paradas + largou macio,96,0.6427484939639406
+1,2,0-1 paradas + largou médio,226,0.41891167539781043
+1,2,2 paradas + largou chuva,7,2.38027789924141
+1,2,2 paradas + largou duro,25,1.2595246745232063
+1,2,2 paradas + largou macio,124,0.5655432739447895
+1,2,2 paradas + largou médio,189,0.4580846952910484
+1,2,3+ paradas + largou chuva,5,2.8163827915721864
+1,2,3+ paradas + largou duro,14,1.683110643662071
+1,2,3+ paradas + largou macio,48,0.9089836373586861
+1,2,3+ paradas + largou médio,43,0.9603785608171409
+1,2,0-1 paradas + chuva pontual,60,0.8130196814276158
+1,2,0-1 paradas + chuva significativa,3,3.6359345494347446
+1,2,0-1 paradas + seco,348,0.33758804787345575
+1,2,2 paradas + chuva pontual,5,2.8163827915721864
+1,2,2 paradas + chuva significativa,7,2.38027789924141
+1,2,2 paradas + seco,333,0.3451076349628748
+1,2,3+ paradas + chuva pontual,17,1.5273980209208484
+1,2,3+ paradas + chuva significativa,5,2.8163827915721864
+1,2,3+ paradas + seco,88,0.6713289071897866
+1,2,0-1 paradas + com safety car,184,0.46426695459265416
+1,2,0-1 paradas + sem safety car,227,0.41798794400820966
+1,2,2 paradas + com safety car,165,0.49026931463085094
+1,2,2 paradas + sem safety car,180,0.46939713192869775
+1,2,3+ paradas + com safety car,89,0.6675467424051497
+1,2,3+ paradas + sem safety car,21,1.3742540858731453
+1,2,parou cedo + largou 11+,238,0.4082142919658851
+1,2,parou cedo + largou 6-10,141,0.5303555621402001
+1,2,parou cedo + largou top 5,134,0.5440317987806186
+1,2,parou no meio + largou 11+,133,0.5460732010703472
+1,2,parou no meio + largou 6-10,63,0.7934259664138035
+1,2,parou no meio + largou top 5,85,0.6830731606955326
+1,2,parou tarde + largou 11+,43,0.9603785608171409
+1,2,parou tarde + largou 6-10,12,1.8179672747173723
+1,2,parou tarde + largou top 5,8,2.2265460960678456
+1,2,parou cedo + largou chuva,2,4.453092192135691
+1,2,parou cedo + largou duro,18,1.4843640640452307
+1,2,parou cedo + largou macio,215,0.42949434922410856
+1,2,parou cedo + largou médio,282,0.37501801442933885
+1,2,parou no meio + largou chuva,13,1.746646460271351
+1,2,parou no meio + largou duro,65,0.7811240435652252
+1,2,parou no meio + largou macio,45,0.9387942638573955
+1,2,parou no meio + largou médio,161,0.49632225145332753
+1,2,parou tarde + largou duro,42,0.971744383194221
+1,2,parou tarde + largou macio,8,2.2265460960678456
+1,2,parou tarde + largou médio,15,1.6260393628552317
+1,2,parou cedo + chuva pontual,21,1.3742540858731453
+1,2,parou cedo + chuva significativa,2,4.453092192135691
+1,2,parou cedo + seco,494,0.2833434709982345
+1,2,parou no meio + chuva pontual,31,1.131086547889579
+1,2,parou no meio + chuva significativa,13,1.746646460271351
+1,2,parou no meio + seco,240,0.4065098407138079
+1,2,parou tarde + chuva pontual,30,1.1497834599511874
+1,2,parou tarde + seco,35,1.0644926376088377
+1,2,parou cedo + com safety car,264,0.38759192528080055
+1,2,parou cedo + sem safety car,253,0.3959281891975661
+1,2,parou no meio + com safety car,125,0.5632765583144373
+1,2,parou no meio + sem safety car,159,0.499434020190879
+1,2,parou tarde + com safety car,49,0.8996604818022902
+1,2,parou tarde + sem safety car,16,1.5744058431540078
+1,2,largou 11+ + largou chuva,6,2.5709939758557625
+1,2,largou 11+ + largou duro,107,0.6088142308574732
+1,2,largou 11+ + largou macio,98,0.636156027447956
+1,2,largou 11+ + largou médio,203,0.4420065094549963
+1,2,largou 6-10 + largou chuva,4,3.1488116863080156
+1,2,largou 6-10 + largou duro,9,2.0992077908720104
+1,2,largou 6-10 + largou macio,98,0.636156027447956
+1,2,largou 6-10 + largou médio,105,0.6145851108738373
+1,2,largou top 5 + largou chuva,5,2.8163827915721864
+1,2,largou top 5 + largou duro,4,3.1488116863080156
+1,2,largou top 5 + largou macio,70,0.7527099625763632
+1,2,largou top 5 + largou médio,148,0.5176614524443122
+1,2,largou 11+ + chuva pontual,39,1.0084268040167714
+1,2,largou 11+ + chuva significativa,6,2.5709939758557625
+1,2,largou 11+ + seco,369,0.3278411776863521
+1,2,largou 6-10 + chuva pontual,18,1.4843640640452307
+1,2,largou 6-10 + chuva significativa,4,3.1488116863080156
+1,2,largou 6-10 + seco,194,0.4521430080271435
+1,2,largou top 5 + chuva pontual,24,1.2854969879278813
+1,2,largou top 5 + chuva significativa,5,2.8163827915721864
+1,2,largou top 5 + seco,198,0.4475526047931911
+1,2,largou 11+ + com safety car,207,0.43771508249772356
+1,2,largou 11+ + sem safety car,207,0.43771508249772356
+1,2,largou 6-10 + com safety car,111,0.5977439578356326
+1,2,largou 6-10 + sem safety car,105,0.6145851108738373
+1,2,largou top 5 + com safety car,116,0.5847196509448199
+1,2,largou top 5 + sem safety car,111,0.5977439578356326
+1,2,largou chuva + chuva significativa,15,1.6260393628552317
+1,2,largou duro + chuva pontual,21,1.3742540858731453
+1,2,largou duro + seco,104,0.617532778196676
+1,2,largou macio + chuva pontual,20,1.4081913957860932
+1,2,largou macio + seco,248,0.399899484060802
+1,2,largou médio + chuva pontual,41,0.9835235330590564
+1,2,largou médio + seco,417,0.3083959433871483
+1,2,largou chuva + com safety car,15,1.6260393628552317
+1,2,largou duro + com safety car,64,0.7872029215770039
+1,2,largou duro + sem safety car,61,0.8063280476222382
+1,2,largou macio + com safety car,127,0.5588237093541896
+1,2,largou macio + sem safety car,141,0.5303555621402001
+1,2,largou médio + com safety car,232,0.4134592302761132
+1,2,largou médio + sem safety car,226,0.41891167539781043
+1,2,chuva pontual + com safety car,66,0.7751838505616011
+1,2,chuva pontual + sem safety car,16,1.5744058431540078
+1,2,chuva significativa + com safety car,15,1.6260393628552317
+1,2,seco + com safety car,357,0.3333055736759777
+1,2,seco + sem safety car,412,0.3102616345945168
+1,3,0-1 paradas + parou cedo + largou 11+,49,0.8996604818022902
+1,3,0-1 paradas + parou cedo + largou 6-10,47,0.9186027797035794
+1,3,0-1 paradas + parou cedo + largou top 5,41,0.9835235330590564
+1,3,0-1 paradas + parou no meio + largou 11+,100,0.6297623372616031
+1,3,0-1 paradas + parou no meio + largou 6-10,47,0.9186027797035794
+1,3,0-1 paradas + parou no meio + largou top 5,64,0.7872029215770039
+1,3,0-1 paradas + parou tarde + largou 11+,38,1.0216094132520783
+1,3,0-1 paradas + parou tarde + largou 6-10,11,1.89880489072181
+1,3,0-1 paradas + parou tarde + largou top 5,8,2.2265460960678456
+1,3,2 paradas + parou cedo + largou 11+,141,0.5303555621402001
+1,3,2 paradas + parou cedo + largou 6-10,75,0.7271869098869488
+1,3,2 paradas + parou cedo + largou top 5,68,0.7636990104604242
+1,3,2 paradas + parou no meio + largou 11+,26,1.235065556393352
+1,3,2 paradas + parou no meio + largou 6-10,13,1.746646460271351
+1,3,2 paradas + parou no meio + largou top 5,20,1.4081913957860932
+1,3,2 paradas + parou tarde + largou 6-10,1,6.297623372616031
+1,3,3+ paradas + parou cedo + largou 11+,48,0.9089836373586861
+1,3,3+ paradas + parou cedo + largou 6-10,19,1.444773887669109
+1,3,3+ paradas + parou cedo + largou top 5,25,1.2595246745232063
+1,3,3+ paradas + parou no meio + largou 11+,7,2.38027789924141
+1,3,3+ paradas + parou no meio + largou 6-10,3,3.6359345494347446
+1,3,3+ paradas + parou no meio + largou top 5,1,6.297623372616031
+1,3,3+ paradas + parou tarde + largou 11+,5,2.8163827915721864
+1,3,0-1 paradas + parou cedo + largou duro,1,6.297623372616031
+1,3,0-1 paradas + parou cedo + largou macio,53,0.865045097998983
+1,3,0-1 paradas + parou cedo + largou médio,84,0.6871270429365727
+1,3,0-1 paradas + parou no meio + largou chuva,3,3.6359345494347446
+1,3,0-1 paradas + parou no meio + largou duro,49,0.8996604818022902
+1,3,0-1 paradas + parou no meio + largou macio,35,1.0644926376088377
+1,3,0-1 paradas + parou no meio + largou médio,127,0.5588237093541896
+1,3,0-1 paradas + parou tarde + largou duro,36,1.0496038954360052
+1,3,0-1 paradas + parou tarde + largou macio,8,2.2265460960678456
+1,3,0-1 paradas + parou tarde + largou médio,15,1.6260393628552317
+1,3,2 paradas + parou cedo + largou duro,11,1.89880489072181
+1,3,2 paradas + parou cedo + largou macio,117,0.5822154867571169
+1,3,2 paradas + parou cedo + largou médio,157,0.5026050617001607
+1,3,2 paradas + parou no meio + largou chuva,7,2.38027789924141
+1,3,2 paradas + parou no meio + largou duro,13,1.746646460271351
+1,3,2 paradas + parou no meio + largou macio,7,2.38027789924141
+1,3,2 paradas + parou no meio + largou médio,32,1.1132730480339228
+1,3,2 paradas + parou tarde + largou duro,1,6.297623372616031
+1,3,3+ paradas + parou cedo + largou chuva,2,4.453092192135691
+1,3,3+ paradas + parou cedo + largou duro,6,2.5709939758557625
+1,3,3+ paradas + parou cedo + largou macio,45,0.9387942638573955
+1,3,3+ paradas + parou cedo + largou médio,41,0.9835235330590564
+1,3,3+ paradas + parou no meio + largou chuva,3,3.6359345494347446
+1,3,3+ paradas + parou no meio + largou duro,3,3.6359345494347446
+1,3,3+ paradas + parou no meio + largou macio,3,3.6359345494347446
+1,3,3+ paradas + parou no meio + largou médio,2,4.453092192135691
+1,3,3+ paradas + parou tarde + largou duro,5,2.8163827915721864
+1,3,0-1 paradas + parou cedo + chuva pontual,8,2.2265460960678456
+1,3,0-1 paradas + parou cedo + seco,130,0.552338108152827
+1,3,0-1 paradas + parou no meio + chuva pontual,27,1.2119781831449148
+1,3,0-1 paradas + parou no meio + chuva significativa,3,3.6359345494347446
+1,3,0-1 paradas + parou no meio + seco,184,0.46426695459265416
+1,3,0-1 paradas + parou tarde + chuva pontual,25,1.2595246745232063
+1,3,0-1 paradas + parou tarde + seco,34,1.080033498164044
+1,3,2 paradas + parou cedo + chuva pontual,3,3.6359345494347446
+1,3,2 paradas + parou cedo + seco,282,0.37501801442933885
+1,3,2 paradas + parou no meio + chuva pontual,2,4.453092192135691
+1,3,2 paradas + parou no meio + chuva significativa,7,2.38027789924141
+1,3,2 paradas + parou no meio + seco,50,0.8906184384271383
+1,3,2 paradas + parou tarde + seco,1,6.297623372616031
+1,3,3+ paradas + parou cedo + chuva pontual,10,1.9914833703377919
+1,3,3+ paradas + parou cedo + chuva significativa,2,4.453092192135691
+1,3,3+ paradas + parou cedo + seco,82,0.6954561596826102
+1,3,3+ paradas + parou no meio + chuva pontual,2,4.453092192135691
+1,3,3+ paradas + parou no meio + chuva significativa,3,3.6359345494347446
+1,3,3+ paradas + parou no meio + seco,6,2.5709939758557625
+1,3,3+ paradas + parou tarde + chuva pontual,5,2.8163827915721864
+1,3,0-1 paradas + parou cedo + com safety car,58,0.8269184605522264
+1,3,0-1 paradas + parou cedo + sem safety car,80,0.7040956978930466
+1,3,0-1 paradas + parou no meio + com safety car,82,0.6954561596826102
+1,3,0-1 paradas + parou no meio + sem safety car,132,0.5481377573984075
+1,3,0-1 paradas + parou tarde + com safety car,44,0.949402445360905
+1,3,0-1 paradas + parou tarde + sem safety car,15,1.6260393628552317
+1,3,2 paradas + parou cedo + com safety car,132,0.5481377573984075
+1,3,2 paradas + parou cedo + sem safety car,153,0.5091326736402828
+1,3,2 paradas + parou no meio + com safety car,33,1.096275514796815
+1,3,2 paradas + parou no meio + sem safety car,26,1.235065556393352
+1,3,2 paradas + parou tarde + sem safety car,1,6.297623372616031
+1,3,3+ paradas + parou cedo + com safety car,74,0.7320838467645012
+1,3,3+ paradas + parou cedo + sem safety car,20,1.4081913957860932
+1,3,3+ paradas + parou no meio + com safety car,10,1.9914833703377919
+1,3,3+ paradas + parou no meio + sem safety car,1,6.297623372616031
+1,3,3+ paradas + parou tarde + com safety car,5,2.8163827915721864
+1,3,0-1 paradas + largou 11+ + largou chuva,2,4.453092192135691
+1,3,0-1 paradas + largou 11+ + largou duro,72,0.7421820320226153
+1,3,0-1 paradas + largou 11+ + largou macio,22,1.342657814379573
+1,3,0-1 paradas + largou 11+ + largou médio,91,0.6601703088898933
+1,3,0-1 paradas + largou 6-10 + largou chuva,1,6.297623372616031
+1,3,0-1 paradas + largou 6-10 + largou duro,7,2.38027789924141
+1,3,0-1 paradas + largou 6-10 + largou macio,39,1.0084268040167714
+1,3,0-1 paradas + largou 6-10 + largou médio,58,0.8269184605522264
+1,3,0-1 paradas + largou top 5 + largou duro,4,3.1488116863080156
+1,3,0-1 paradas + largou top 5 + largou macio,33,1.096275514796815
+1,3,0-1 paradas + largou top 5 + largou médio,76,0.7223869438345545
+1,3,2 paradas + largou 11+ + largou chuva,1,6.297623372616031
+1,3,2 paradas + largou 11+ + largou duro,23,1.3131452474931709
+1,3,2 paradas + largou 11+ + largou macio,52,0.8733232301356755
+1,3,2 paradas + largou 11+ + largou médio,91,0.6601703088898933
+1,3,2 paradas + largou 6-10 + largou chuva,2,4.453092192135691
+1,3,2 paradas + largou 6-10 + largou duro,1,6.297623372616031
+1,3,2 paradas + largou 6-10 + largou macio,45,0.9387942638573955
+1,3,2 paradas + largou 6-10 + largou médio,41,0.9835235330590564
+1,3,2 paradas + largou top 5 + largou chuva,4,3.1488116863080156
+1,3,2 paradas + largou top 5 + largou macio,27,1.2119781831449148
+1,3,2 paradas + largou top 5 + largou médio,57,0.8341405929639022
+1,3,3+ paradas + largou 11+ + largou chuva,3,3.6359345494347446
+1,3,3+ paradas + largou 11+ + largou duro,12,1.8179672747173723
+1,3,3+ paradas + largou 11+ + largou macio,24,1.2854969879278813
+1,3,3+ paradas + largou 11+ + largou médio,21,1.3742540858731453
+1,3,3+ paradas + largou 6-10 + largou chuva,1,6.297623372616031
+1,3,3+ paradas + largou 6-10 + largou duro,1,6.297623372616031
+1,3,3+ paradas + largou 6-10 + largou macio,14,1.683110643662071
+1,3,3+ paradas + largou 6-10 + largou médio,6,2.5709939758557625
+1,3,3+ paradas + largou top 5 + largou chuva,1,6.297623372616031
+1,3,3+ paradas + largou top 5 + largou macio,10,1.9914833703377919
+1,3,3+ paradas + largou top 5 + largou médio,15,1.6260393628552317
+1,3,0-1 paradas + largou 11+ + chuva pontual,28,1.190138949620705
+1,3,0-1 paradas + largou 11+ + chuva significativa,2,4.453092192135691
+1,3,0-1 paradas + largou 11+ + seco,157,0.5026050617001607
+1,3,0-1 paradas + largou 6-10 + chuva pontual,14,1.683110643662071
+1,3,0-1 paradas + largou 6-10 + chuva significativa,1,6.297623372616031
+1,3,0-1 paradas + largou 6-10 + seco,90,0.6638277901125973
+1,3,0-1 paradas + largou top 5 + chuva pontual,17,1.5273980209208484
+1,3,0-1 paradas + largou top 5 + seco,96,0.6427484939639406
+1,3,2 paradas + largou 11+ + chuva pontual,2,4.453092192135691
+1,3,2 paradas + largou 11+ + chuva significativa,1,6.297623372616031
+1,3,2 paradas + largou 11+ + seco,164,0.4917617665295282
+1,3,2 paradas + largou 6-10 + chuva pontual,1,6.297623372616031
+1,3,2 paradas + largou 6-10 + chuva significativa,2,4.453092192135691
+1,3,2 paradas + largou 6-10 + seco,86,0.6790901928599774
+1,3,2 paradas + largou top 5 + chuva pontual,2,4.453092192135691
+1,3,2 paradas + largou top 5 + chuva significativa,4,3.1488116863080156
+1,3,2 paradas + largou top 5 + seco,82,0.6954561596826102
+1,3,3+ paradas + largou 11+ + chuva pontual,9,2.0992077908720104
+1,3,3+ paradas + largou 11+ + chuva significativa,3,3.6359345494347446
+1,3,3+ paradas + largou 11+ + seco,48,0.9089836373586861
+1,3,3+ paradas + largou 6-10 + chuva pontual,3,3.6359345494347446
+1,3,3+ paradas + largou 6-10 + chuva significativa,1,6.297623372616031
+1,3,3+ paradas + largou 6-10 + seco,18,1.4843640640452307
+1,3,3+ paradas + largou top 5 + chuva pontual,5,2.8163827915721864
+1,3,3+ paradas + largou top 5 + chuva significativa,1,6.297623372616031
+1,3,3+ paradas + largou top 5 + seco,20,1.4081913957860932
+1,3,0-1 paradas + largou 11+ + com safety car,80,0.7040956978930466
+1,3,0-1 paradas + largou 11+ + sem safety car,107,0.6088142308574732
+1,3,0-1 paradas + largou 6-10 + com safety car,49,0.8996604818022902
+1,3,0-1 paradas + largou 6-10 + sem safety car,56,0.8415553218310355
+1,3,0-1 paradas + largou top 5 + com safety car,53,0.865045097998983
+1,3,0-1 paradas + largou top 5 + sem safety car,60,0.8130196814276158
+1,3,2 paradas + largou 11+ + com safety car,81,0.6997359302906702
+1,3,2 paradas + largou 11+ + sem safety car,86,0.6790901928599774
+1,3,2 paradas + largou 6-10 + com safety car,45,0.9387942638573955
+1,3,2 paradas + largou 6-10 + sem safety car,44,0.949402445360905
+1,3,2 paradas + largou top 5 + com safety car,38,1.0216094132520783
+1,3,2 paradas + largou top 5 + sem safety car,50,0.8906184384271383
+1,3,3+ paradas + largou 11+ + com safety car,46,0.9285339091853083
+1,3,3+ paradas + largou 11+ + sem safety car,14,1.683110643662071
+1,3,3+ paradas + largou 6-10 + com safety car,17,1.5273980209208484
+1,3,3+ paradas + largou 6-10 + sem safety car,5,2.8163827915721864
+1,3,3+ paradas + largou top 5 + com safety car,25,1.2595246745232063
+1,3,3+ paradas + largou top 5 + sem safety car,1,6.297623372616031
+1,3,0-1 paradas + largou chuva + chuva significativa,3,3.6359345494347446
+1,3,0-1 paradas + largou duro + chuva pontual,14,1.683110643662071
+1,3,0-1 paradas + largou duro + seco,72,0.7421820320226153
+1,3,0-1 paradas + largou macio + chuva pontual,20,1.4081913957860932
+1,3,0-1 paradas + largou macio + seco,76,0.7223869438345545
+1,3,0-1 paradas + largou médio + chuva pontual,26,1.235065556393352
+1,3,0-1 paradas + largou médio + seco,200,0.44530921921356914
+1,3,2 paradas + largou chuva + chuva significativa,7,2.38027789924141
+1,3,2 paradas + largou duro + seco,25,1.2595246745232063
+1,3,2 paradas + largou macio + seco,124,0.5655432739447895
+1,3,2 paradas + largou médio + chuva pontual,5,2.8163827915721864
+1,3,2 paradas + largou médio + seco,184,0.46426695459265416
+1,3,3+ paradas + largou chuva + chuva significativa,5,2.8163827915721864
+1,3,3+ paradas + largou duro + chuva pontual,7,2.38027789924141
+1,3,3+ paradas + largou duro + seco,7,2.38027789924141
+1,3,3+ paradas + largou macio + seco,48,0.9089836373586861
+1,3,3+ paradas + largou médio + chuva pontual,10,1.9914833703377919
+1,3,3+ paradas + largou médio + seco,33,1.096275514796815
+1,3,0-1 paradas + largou chuva + com safety car,3,3.6359345494347446
+1,3,0-1 paradas + largou duro + com safety car,40,0.9957416851688959
+1,3,0-1 paradas + largou duro + sem safety car,46,0.9285339091853083
+1,3,0-1 paradas + largou macio + com safety car,33,1.096275514796815
+1,3,0-1 paradas + largou macio + sem safety car,63,0.7934259664138035
+1,3,0-1 paradas + largou médio + com safety car,108,0.6059890915724574
+1,3,0-1 paradas + largou médio + sem safety car,118,0.5797432229913554
+1,3,2 paradas + largou chuva + com safety car,7,2.38027789924141
+1,3,2 paradas + largou duro + com safety car,12,1.8179672747173723
+1,3,2 paradas + largou duro + sem safety car,13,1.746646460271351
+1,3,2 paradas + largou macio + com safety car,60,0.8130196814276158
+1,3,2 paradas + largou macio + sem safety car,64,0.7872029215770039
+1,3,2 paradas + largou médio + com safety car,86,0.6790901928599774
+1,3,2 paradas + largou médio + sem safety car,103,0.6205232691890336
+1,3,3+ paradas + largou chuva + com safety car,5,2.8163827915721864
+1,3,3+ paradas + largou duro + com safety car,12,1.8179672747173723
+1,3,3+ paradas + largou duro + sem safety car,2,4.453092192135691
+1,3,3+ paradas + largou macio + com safety car,34,1.080033498164044
+1,3,3+ paradas + largou macio + sem safety car,14,1.683110643662071
+1,3,3+ paradas + largou médio + com safety car,38,1.0216094132520783
+1,3,3+ paradas + largou médio + sem safety car,5,2.8163827915721864
+1,3,0-1 paradas + chuva pontual + com safety car,44,0.949402445360905
+1,3,0-1 paradas + chuva pontual + sem safety car,16,1.5744058431540078
+1,3,0-1 paradas + chuva significativa + com safety car,3,3.6359345494347446
+1,3,0-1 paradas + seco + com safety car,137,0.5380422753810561
+1,3,0-1 paradas + seco + sem safety car,211,0.4335462724410012
+1,3,2 paradas + chuva pontual + com safety car,5,2.8163827915721864
+1,3,2 paradas + chuva significativa + com safety car,7,2.38027789924141
+1,3,2 paradas + seco + com safety car,153,0.5091326736402828
+1,3,2 paradas + seco + sem safety car,180,0.46939713192869775
+1,3,3+ paradas + chuva pontual + com safety car,17,1.5273980209208484
+1,3,3+ paradas + chuva significativa + com safety car,5,2.8163827915721864
+1,3,3+ paradas + seco + com safety car,67,0.7693771481977814
+1,3,3+ paradas + seco + sem safety car,21,1.3742540858731453
+1,3,parou cedo + largou 11+ + largou chuva,2,4.453092192135691
+1,3,parou cedo + largou 11+ + largou duro,16,1.5744058431540078
+1,3,parou cedo + largou 11+ + largou macio,85,0.6830731606955326
+1,3,parou cedo + largou 11+ + largou médio,135,0.5420131209517439
+1,3,parou cedo + largou 6-10 + largou macio,76,0.7223869438345545
+1,3,parou cedo + largou 6-10 + largou médio,65,0.7811240435652252
+1,3,parou cedo + largou top 5 + largou macio,53,0.865045097998983
+1,3,parou cedo + largou top 5 + largou médio,81,0.6997359302906702
+1,3,parou no meio + largou 11+ + largou chuva,4,3.1488116863080156
+1,3,parou no meio + largou 11+ + largou duro,59,0.8198807286482643
+1,3,parou no meio + largou 11+ + largou macio,12,1.8179672747173723
+1,3,parou no meio + largou 11+ + largou médio,58,0.8269184605522264
+1,3,parou no meio + largou 6-10 + largou chuva,4,3.1488116863080156
+1,3,parou no meio + largou 6-10 + largou duro,4,3.1488116863080156
+1,3,parou no meio + largou 6-10 + largou macio,16,1.5744058431540078
+1,3,parou no meio + largou 6-10 + largou médio,39,1.0084268040167714
+1,3,parou no meio + largou top 5 + largou chuva,5,2.8163827915721864
+1,3,parou no meio + largou top 5 + largou duro,1,6.297623372616031
+1,3,parou no meio + largou top 5 + largou macio,16,1.5744058431540078
+1,3,parou no meio + largou top 5 + largou médio,63,0.7934259664138035
+1,3,parou tarde + largou 11+ + largou duro,32,1.1132730480339228
+1,3,parou tarde + largou 11+ + largou macio,1,6.297623372616031
+1,3,parou tarde + largou 11+ + largou médio,10,1.9914833703377919
+1,3,parou tarde + largou 6-10 + largou duro,5,2.8163827915721864
+1,3,parou tarde + largou 6-10 + largou macio,6,2.5709939758557625
+1,3,parou tarde + largou 6-10 + largou médio,1,6.297623372616031
+1,3,parou tarde + largou top 5 + largou duro,3,3.6359345494347446
+1,3,parou tarde + largou top 5 + largou macio,1,6.297623372616031
+1,3,parou tarde + largou top 5 + largou médio,4,3.1488116863080156
+1,3,parou cedo + largou 11+ + chuva pontual,7,2.38027789924141
+1,3,parou cedo + largou 11+ + chuva significativa,2,4.453092192135691
+1,3,parou cedo + largou 11+ + seco,229,0.41615866632853876
+1,3,parou cedo + largou 6-10 + chuva pontual,6,2.5709939758557625
+1,3,parou cedo + largou 6-10 + seco,135,0.5420131209517439
+1,3,parou cedo + largou top 5 + chuva pontual,8,2.2265460960678456
+1,3,parou cedo + largou top 5 + seco,126,0.5610368812206903
+1,3,parou no meio + largou 11+ + chuva pontual,13,1.746646460271351
+1,3,parou no meio + largou 11+ + chuva significativa,4,3.1488116863080156
+1,3,parou no meio + largou 11+ + seco,116,0.5847196509448199
+1,3,parou no meio + largou 6-10 + chuva pontual,7,2.38027789924141
+1,3,parou no meio + largou 6-10 + chuva significativa,4,3.1488116863080156
+1,3,parou no meio + largou 6-10 + seco,52,0.8733232301356755
+1,3,parou no meio + largou top 5 + chuva pontual,11,1.89880489072181
+1,3,parou no meio + largou top 5 + chuva significativa,5,2.8163827915721864
+1,3,parou no meio + largou top 5 + seco,69,0.7581447621252598
+1,3,parou tarde + largou 11+ + chuva pontual,19,1.444773887669109
+1,3,parou tarde + largou 11+ + seco,24,1.2854969879278813
+1,3,parou tarde + largou 6-10 + chuva pontual,5,2.8163827915721864
+1,3,parou tarde + largou 6-10 + seco,7,2.38027789924141
+1,3,parou tarde + largou top 5 + chuva pontual,5,2.8163827915721864
+1,3,parou tarde + largou top 5 + seco,3,3.6359345494347446
+1,3,parou cedo + largou 11+ + com safety car,122,0.5701600303345941
+1,3,parou cedo + largou 11+ + sem safety car,116,0.5847196509448199
+1,3,parou cedo + largou 6-10 + com safety car,73,0.7370810641401452
+1,3,parou cedo + largou 6-10 + sem safety car,68,0.7636990104604242
+1,3,parou cedo + largou top 5 + com safety car,67,0.7693771481977814
+1,3,parou cedo + largou top 5 + sem safety car,67,0.7693771481977814
+1,3,parou no meio + largou 11+ + com safety car,52,0.8733232301356755
+1,3,parou no meio + largou 11+ + sem safety car,81,0.6997359302906702
+1,3,parou no meio + largou 6-10 + com safety car,31,1.131086547889579
+1,3,parou no meio + largou 6-10 + sem safety car,32,1.1132730480339228
+1,3,parou no meio + largou top 5 + com safety car,42,0.971744383194221
+1,3,parou no meio + largou top 5 + sem safety car,43,0.9603785608171409
+1,3,parou tarde + largou 11+ + com safety car,33,1.096275514796815
+1,3,parou tarde + largou 11+ + sem safety car,10,1.9914833703377919
+1,3,parou tarde + largou 6-10 + com safety car,7,2.38027789924141
+1,3,parou tarde + largou 6-10 + sem safety car,5,2.8163827915721864
+1,3,parou tarde + largou top 5 + com safety car,7,2.38027789924141
+1,3,parou tarde + largou top 5 + sem safety car,1,6.297623372616031
+1,3,parou cedo + largou chuva + chuva significativa,2,4.453092192135691
+1,3,parou cedo + largou duro + seco,18,1.4843640640452307
+1,3,parou cedo + largou macio + chuva pontual,3,3.6359345494347446
+1,3,parou cedo + largou macio + seco,212,0.4325225489994915
+1,3,parou cedo + largou médio + chuva pontual,18,1.4843640640452307
+1,3,parou cedo + largou médio + seco,264,0.38759192528080055
+1,3,parou no meio + largou chuva + chuva significativa,13,1.746646460271351
+1,3,parou no meio + largou duro + chuva pontual,10,1.9914833703377919
+1,3,parou no meio + largou duro + seco,55,0.8491713623326054
+1,3,parou no meio + largou macio + chuva pontual,11,1.89880489072181
+1,3,parou no meio + largou macio + seco,34,1.080033498164044
+1,3,parou no meio + largou médio + chuva pontual,10,1.9914833703377919
+1,3,parou no meio + largou médio + seco,151,0.512493321832243
+1,3,parou tarde + largou duro + chuva pontual,11,1.89880489072181
+1,3,parou tarde + largou duro + seco,31,1.131086547889579
+1,3,parou tarde + largou macio + chuva pontual,6,2.5709939758557625
+1,3,parou tarde + largou macio + seco,2,4.453092192135691
+1,3,parou tarde + largou médio + chuva pontual,13,1.746646460271351
+1,3,parou tarde + largou médio + seco,2,4.453092192135691
+1,3,parou cedo + largou chuva + com safety car,2,4.453092192135691
+1,3,parou cedo + largou duro + com safety car,11,1.89880489072181
+1,3,parou cedo + largou duro + sem safety car,7,2.38027789924141
+1,3,parou cedo + largou macio + com safety car,110,0.600454828694804
+1,3,parou cedo + largou macio + sem safety car,105,0.6145851108738373
+1,3,parou cedo + largou médio + com safety car,141,0.5303555621402001
+1,3,parou cedo + largou médio + sem safety car,141,0.5303555621402001
+1,3,parou no meio + largou chuva + com safety car,13,1.746646460271351
+1,3,parou no meio + largou duro + com safety car,26,1.235065556393352
+1,3,parou no meio + largou duro + sem safety car,39,1.0084268040167714
+1,3,parou no meio + largou macio + com safety car,9,2.0992077908720104
+1,3,parou no meio + largou macio + sem safety car,36,1.0496038954360052
+1,3,parou no meio + largou médio + com safety car,77,0.7176807898690122
+1,3,parou no meio + largou médio + sem safety car,84,0.6871270429365727
+1,3,parou tarde + largou duro + com safety car,27,1.2119781831449148
+1,3,parou tarde + largou duro + sem safety car,15,1.6260393628552317
+1,3,parou tarde + largou macio + com safety car,8,2.2265460960678456
+1,3,parou tarde + largou médio + com safety car,14,1.683110643662071
+1,3,parou tarde + largou médio + sem safety car,1,6.297623372616031
+1,3,parou cedo + chuva pontual + com safety car,21,1.3742540858731453
+1,3,parou cedo + chuva significativa + com safety car,2,4.453092192135691
+1,3,parou cedo + seco + com safety car,241,0.4056655826047365
+1,3,parou cedo + seco + sem safety car,253,0.3959281891975661
+1,3,parou no meio + chuva pontual + com safety car,15,1.6260393628552317
+1,3,parou no meio + chuva pontual + sem safety car,16,1.5744058431540078
+1,3,parou no meio + chuva significativa + com safety car,13,1.746646460271351
+1,3,parou no meio + seco + com safety car,97,0.6394267740841536
+1,3,parou no meio + seco + sem safety car,143,0.5266337227384064
+1,3,parou tarde + chuva pontual + com safety car,30,1.1497834599511874
+1,3,parou tarde + seco + com safety car,19,1.444773887669109
+1,3,parou tarde + seco + sem safety car,16,1.5744058431540078
+1,3,largou 11+ + largou chuva + chuva significativa,6,2.5709939758557625
+1,3,largou 11+ + largou duro + chuva pontual,18,1.4843640640452307
+1,3,largou 11+ + largou duro + seco,89,0.6675467424051497
+1,3,largou 11+ + largou macio + chuva pontual,2,4.453092192135691
+1,3,largou 11+ + largou macio + seco,96,0.6427484939639406
+1,3,largou 11+ + largou médio + chuva pontual,19,1.444773887669109
+1,3,largou 11+ + largou médio + seco,184,0.46426695459265416
+1,3,largou 6-10 + largou chuva + chuva significativa,4,3.1488116863080156
+1,3,largou 6-10 + largou duro + chuva pontual,1,6.297623372616031
+1,3,largou 6-10 + largou duro + seco,8,2.2265460960678456
+1,3,largou 6-10 + largou macio + chuva pontual,13,1.746646460271351
+1,3,largou 6-10 + largou macio + seco,85,0.6830731606955326
+1,3,largou 6-10 + largou médio + chuva pontual,4,3.1488116863080156
+1,3,largou 6-10 + largou médio + seco,101,0.6266369465688612
+1,3,largou top 5 + largou chuva + chuva significativa,5,2.8163827915721864
+1,3,largou top 5 + largou duro + chuva pontual,1,6.297623372616031
+1,3,largou top 5 + largou duro + seco,3,3.6359345494347446
+1,3,largou top 5 + largou macio + chuva pontual,5,2.8163827915721864
+1,3,largou top 5 + largou macio + seco,65,0.7811240435652252
+1,3,largou top 5 + largou médio + chuva pontual,18,1.4843640640452307
+1,3,largou top 5 + largou médio + seco,130,0.552338108152827
+1,3,largou 11+ + largou chuva + com safety car,6,2.5709939758557625
+1,3,largou 11+ + largou duro + com safety car,56,0.8415553218310355
+1,3,largou 11+ + largou duro + sem safety car,51,0.8818436585383534
+1,3,largou 11+ + largou macio + com safety car,47,0.9186027797035794
+1,3,largou 11+ + largou macio + sem safety car,51,0.8818436585383534
+1,3,largou 11+ + largou médio + com safety car,98,0.636156027447956
+1,3,largou 11+ + largou médio + sem safety car,105,0.6145851108738373
+1,3,largou 6-10 + largou chuva + com safety car,4,3.1488116863080156
+1,3,largou 6-10 + largou duro + com safety car,3,3.6359345494347446
+1,3,largou 6-10 + largou duro + sem safety car,6,2.5709939758557625
+1,3,largou 6-10 + largou macio + com safety car,48,0.9089836373586861
+1,3,largou 6-10 + largou macio + sem safety car,50,0.8906184384271383
+1,3,largou 6-10 + largou médio + com safety car,56,0.8415553218310355
+1,3,largou 6-10 + largou médio + sem safety car,49,0.8996604818022902
+1,3,largou top 5 + largou chuva + com safety car,5,2.8163827915721864
+1,3,largou top 5 + largou duro + com safety car,2,4.453092192135691
+1,3,largou top 5 + largou duro + sem safety car,2,4.453092192135691
+1,3,largou top 5 + largou macio + com safety car,32,1.1132730480339228
+1,3,largou top 5 + largou macio + sem safety car,38,1.0216094132520783
+1,3,largou top 5 + largou médio + com safety car,77,0.7176807898690122
+1,3,largou top 5 + largou médio + sem safety car,71,0.747390390883362
+1,3,largou 11+ + chuva pontual + com safety car,33,1.096275514796815
+1,3,largou 11+ + chuva pontual + sem safety car,6,2.5709939758557625
+1,3,largou 11+ + chuva significativa + com safety car,6,2.5709939758557625
+1,3,largou 11+ + seco + com safety car,168,0.4858721915971105
+1,3,largou 11+ + seco + sem safety car,201,0.4442001036203357
+1,3,largou 6-10 + chuva pontual + com safety car,13,1.746646460271351
+1,3,largou 6-10 + chuva pontual + sem safety car,5,2.8163827915721864
+1,3,largou 6-10 + chuva significativa + com safety car,4,3.1488116863080156
+1,3,largou 6-10 + seco + com safety car,94,0.6495502547452132
+1,3,largou 6-10 + seco + sem safety car,100,0.6297623372616031
+1,3,largou top 5 + chuva pontual + com safety car,19,1.444773887669109
+1,3,largou top 5 + chuva pontual + sem safety car,5,2.8163827915721864
+1,3,largou top 5 + chuva significativa + com safety car,5,2.8163827915721864
+1,3,largou top 5 + seco + com safety car,92,0.6565726237465854
+1,3,largou top 5 + seco + sem safety car,106,0.6116792548272624
+1,3,largou chuva + chuva significativa + com safety car,15,1.6260393628552317
+1,3,largou duro + chuva pontual + com safety car,16,1.5744058431540078
+1,3,largou duro + chuva pontual + sem safety car,5,2.8163827915721864
+1,3,largou duro + seco + com safety car,48,0.9089836373586861
+1,3,largou duro + seco + sem safety car,56,0.8415553218310355
+1,3,largou macio + chuva pontual + com safety car,9,2.0992077908720104
+1,3,largou macio + chuva pontual + sem safety car,11,1.89880489072181
+1,3,largou macio + seco + com safety car,118,0.5797432229913554
+1,3,largou macio + seco + sem safety car,130,0.552338108152827
+1,3,largou médio + chuva pontual + com safety car,41,0.9835235330590564
+1,3,largou médio + seco + com safety car,191,0.4556800346120974
+1,3,largou médio + seco + sem safety car,226,0.41891167539781043
+2,1,0-1 paradas,250,0.3982966740675584
+2,1,2 paradas,224,0.42077766091551777
+2,1,3+ paradas,78,0.7130654314505366
+2,1,parou cedo,300,0.3635934549434744
+2,1,parou no meio,236,0.40994036432413217
+2,1,parou tarde,16,1.5744058431540078
+2,1,largou 11+,263,0.3883280929436814
+2,1,largou 6-10,139,0.534157442794676
+2,1,largou top 5,143,0.5266337227384064
+2,1,largou chuva,34,1.080033498164044
+2,1,largou duro,53,0.865045097998983
+2,1,largou macio,170,0.48300566397433936
+2,1,largou médio,295,0.36666180853991565
+2,1,chuva pontual,107,0.6088142308574732
+2,1,chuva significativa,34,1.080033498164044
+2,1,seco,411,0.31063885252665147
+2,1,com safety car,289,0.37044843368329594
+2,1,sem safety car,263,0.3883280929436814
+2,2,0-1 paradas + parou cedo,71,0.747390390883362
+2,2,0-1 paradas + parou no meio,165,0.49026931463085094
+2,2,0-1 paradas + parou tarde,14,1.683110643662071
+2,2,2 paradas + parou cedo,161,0.49632225145332753
+2,2,2 paradas + parou no meio,61,0.8063280476222382
+2,2,2 paradas + parou tarde,2,4.453092192135691
+2,2,3+ paradas + parou cedo,68,0.7636990104604242
+2,2,3+ paradas + parou no meio,10,1.9914833703377919
+2,2,0-1 paradas + largou 11+,116,0.5847196509448199
+2,2,0-1 paradas + largou 6-10,64,0.7872029215770039
+2,2,0-1 paradas + largou top 5,67,0.7693771481977814
+2,2,2 paradas + largou 11+,108,0.6059890915724574
+2,2,2 paradas + largou 6-10,59,0.8198807286482643
+2,2,2 paradas + largou top 5,53,0.865045097998983
+2,2,3+ paradas + largou 11+,39,1.0084268040167714
+2,2,3+ paradas + largou 6-10,16,1.5744058431540078
+2,2,3+ paradas + largou top 5,23,1.3131452474931709
+2,2,0-1 paradas + largou chuva,14,1.683110643662071
+2,2,0-1 paradas + largou duro,26,1.235065556393352
+2,2,0-1 paradas + largou macio,80,0.7040956978930466
+2,2,0-1 paradas + largou médio,130,0.552338108152827
+2,2,2 paradas + largou chuva,6,2.5709939758557625
+2,2,2 paradas + largou duro,19,1.444773887669109
+2,2,2 paradas + largou macio,74,0.7320838467645012
+2,2,2 paradas + largou médio,125,0.5632765583144373
+2,2,3+ paradas + largou chuva,14,1.683110643662071
+2,2,3+ paradas + largou duro,8,2.2265460960678456
+2,2,3+ paradas + largou macio,16,1.5744058431540078
+2,2,3+ paradas + largou médio,40,0.9957416851688959
+2,2,0-1 paradas + chuva pontual,40,0.9957416851688959
+2,2,0-1 paradas + chuva significativa,14,1.683110643662071
+2,2,0-1 paradas + seco,196,0.4498302409011451
+2,2,2 paradas + chuva pontual,41,0.9835235330590564
+2,2,2 paradas + chuva significativa,6,2.5709939758557625
+2,2,2 paradas + seco,177,0.4733583593884619
+2,2,3+ paradas + chuva pontual,26,1.235065556393352
+2,2,3+ paradas + chuva significativa,14,1.683110643662071
+2,2,3+ paradas + seco,38,1.0216094132520783
+2,2,0-1 paradas + com safety car,122,0.5701600303345941
+2,2,0-1 paradas + sem safety car,128,0.5566365240169614
+2,2,2 paradas + com safety car,107,0.6088142308574732
+2,2,2 paradas + sem safety car,117,0.5822154867571169
+2,2,3+ paradas + com safety car,60,0.8130196814276158
+2,2,3+ paradas + sem safety car,18,1.4843640640452307
+2,2,parou cedo + largou 11+,145,0.5229891549170266
+2,2,parou cedo + largou 6-10,78,0.7130654314505366
+2,2,parou cedo + largou top 5,75,0.7271869098869488
+2,2,parou no meio + largou 11+,110,0.600454828694804
+2,2,parou no meio + largou 6-10,58,0.8269184605522264
+2,2,parou no meio + largou top 5,64,0.7872029215770039
+2,2,parou tarde + largou 11+,8,2.2265460960678456
+2,2,parou tarde + largou 6-10,3,3.6359345494347446
+2,2,parou tarde + largou top 5,4,3.1488116863080156
+2,2,parou cedo + largou chuva,34,1.080033498164044
+2,2,parou cedo + largou duro,13,1.746646460271351
+2,2,parou cedo + largou macio,88,0.6713289071897866
+2,2,parou cedo + largou médio,165,0.49026931463085094
+2,2,parou no meio + largou duro,30,1.1497834599511874
+2,2,parou no meio + largou macio,82,0.6954561596826102
+2,2,parou no meio + largou médio,124,0.5655432739447895
+2,2,parou tarde + largou duro,10,1.9914833703377919
+2,2,parou tarde + largou médio,6,2.5709939758557625
+2,2,parou cedo + chuva pontual,59,0.8198807286482643
+2,2,parou cedo + chuva significativa,34,1.080033498164044
+2,2,parou cedo + seco,207,0.43771508249772356
+2,2,parou no meio + chuva pontual,47,0.9186027797035794
+2,2,parou no meio + seco,189,0.4580846952910484
+2,2,parou tarde + chuva pontual,1,6.297623372616031
+2,2,parou tarde + seco,15,1.6260393628552317
+2,2,parou cedo + com safety car,152,0.5108047066260392
+2,2,parou cedo + sem safety car,148,0.5176614524443122
+2,2,parou no meio + com safety car,129,0.5544748206117216
+2,2,parou no meio + sem safety car,107,0.6088142308574732
+2,2,parou tarde + com safety car,8,2.2265460960678456
+2,2,parou tarde + sem safety car,8,2.2265460960678456
+2,2,largou 11+ + largou chuva,15,1.6260393628552317
+2,2,largou 11+ + largou duro,42,0.971744383194221
+2,2,largou 11+ + largou macio,52,0.8733232301356755
+2,2,largou 11+ + largou médio,154,0.5074769532436962
+2,2,largou 6-10 + largou chuva,9,2.0992077908720104
+2,2,largou 6-10 + largou duro,9,2.0992077908720104
+2,2,largou 6-10 + largou macio,61,0.8063280476222382
+2,2,largou 6-10 + largou médio,60,0.8130196814276158
+2,2,largou top 5 + largou chuva,10,1.9914833703377919
+2,2,largou top 5 + largou macio,55,0.8491713623326054
+2,2,largou top 5 + largou médio,78,0.7130654314505366
+2,2,largou 11+ + chuva pontual,53,0.865045097998983
+2,2,largou 11+ + chuva significativa,15,1.6260393628552317
+2,2,largou 11+ + seco,195,0.4509821768228718
+2,2,largou 6-10 + chuva pontual,27,1.2119781831449148
+2,2,largou 6-10 + chuva significativa,9,2.0992077908720104
+2,2,largou 6-10 + seco,103,0.6205232691890336
+2,2,largou top 5 + chuva pontual,26,1.235065556393352
+2,2,largou top 5 + chuva significativa,10,1.9914833703377919
+2,2,largou top 5 + seco,107,0.6088142308574732
+2,2,largou 11+ + com safety car,134,0.5440317987806186
+2,2,largou 11+ + sem safety car,129,0.5544748206117216
+2,2,largou 6-10 + com safety car,73,0.7370810641401452
+2,2,largou 6-10 + sem safety car,66,0.7751838505616011
+2,2,largou top 5 + com safety car,78,0.7130654314505366
+2,2,largou top 5 + sem safety car,65,0.7811240435652252
+2,2,largou chuva + chuva significativa,34,1.080033498164044
+2,2,largou duro + chuva pontual,6,2.5709939758557625
+2,2,largou duro + seco,47,0.9186027797035794
+2,2,largou macio + chuva pontual,37,1.0353229048886243
+2,2,largou macio + seco,133,0.5460732010703472
+2,2,largou médio + chuva pontual,64,0.7872029215770039
+2,2,largou médio + seco,231,0.41435319722309744
+2,2,largou chuva + com safety car,34,1.080033498164044
+2,2,largou duro + com safety car,23,1.3131452474931709
+2,2,largou duro + sem safety car,30,1.1497834599511874
+2,2,largou macio + com safety car,84,0.6871270429365727
+2,2,largou macio + sem safety car,86,0.6790901928599774
+2,2,largou médio + com safety car,148,0.5176614524443122
+2,2,largou médio + sem safety car,147,0.5194192213478206
+2,2,chuva pontual + com safety car,69,0.7581447621252598
+2,2,chuva pontual + sem safety car,38,1.0216094132520783
+2,2,chuva significativa + com safety car,34,1.080033498164044
+2,2,seco + com safety car,186,0.461764149542593
+2,2,seco + sem safety car,225,0.41984155817440205
+2,3,0-1 paradas + parou cedo + largou 11+,29,1.1694393018896398
+2,3,0-1 paradas + parou cedo + largou 6-10,21,1.3742540858731453
+2,3,0-1 paradas + parou cedo + largou top 5,21,1.3742540858731453
+2,3,0-1 paradas + parou no meio + largou 11+,79,0.7085379861119238
+2,3,0-1 paradas + parou no meio + largou 6-10,41,0.9835235330590564
+2,3,0-1 paradas + parou no meio + largou top 5,43,0.9603785608171409
+2,3,0-1 paradas + parou tarde + largou 11+,8,2.2265460960678456
+2,3,0-1 paradas + parou tarde + largou 6-10,2,4.453092192135691
+2,3,0-1 paradas + parou tarde + largou top 5,3,3.6359345494347446
+2,3,2 paradas + parou cedo + largou 11+,82,0.6954561596826102
+2,3,2 paradas + parou cedo + largou 6-10,43,0.9603785608171409
+2,3,2 paradas + parou cedo + largou top 5,34,1.080033498164044
+2,3,2 paradas + parou no meio + largou 11+,26,1.235065556393352
+2,3,2 paradas + parou no meio + largou 6-10,15,1.6260393628552317
+2,3,2 paradas + parou no meio + largou top 5,18,1.4843640640452307
+2,3,2 paradas + parou tarde + largou 6-10,1,6.297623372616031
+2,3,2 paradas + parou tarde + largou top 5,1,6.297623372616031
+2,3,3+ paradas + parou cedo + largou 11+,34,1.080033498164044
+2,3,3+ paradas + parou cedo + largou 6-10,14,1.683110643662071
+2,3,3+ paradas + parou cedo + largou top 5,20,1.4081913957860932
+2,3,3+ paradas + parou no meio + largou 11+,5,2.8163827915721864
+2,3,3+ paradas + parou no meio + largou 6-10,2,4.453092192135691
+2,3,3+ paradas + parou no meio + largou top 5,3,3.6359345494347446
+2,3,0-1 paradas + parou cedo + largou chuva,14,1.683110643662071
+2,3,0-1 paradas + parou cedo + largou macio,26,1.235065556393352
+2,3,0-1 paradas + parou cedo + largou médio,31,1.131086547889579
+2,3,0-1 paradas + parou no meio + largou duro,17,1.5273980209208484
+2,3,0-1 paradas + parou no meio + largou macio,54,0.8569979919519207
+2,3,0-1 paradas + parou no meio + largou médio,94,0.6495502547452132
+2,3,0-1 paradas + parou tarde + largou duro,9,2.0992077908720104
+2,3,0-1 paradas + parou tarde + largou médio,5,2.8163827915721864
+2,3,2 paradas + parou cedo + largou chuva,6,2.5709939758557625
+2,3,2 paradas + parou cedo + largou duro,7,2.38027789924141
+2,3,2 paradas + parou cedo + largou macio,51,0.8818436585383534
+2,3,2 paradas + parou cedo + largou médio,97,0.6394267740841536
+2,3,2 paradas + parou no meio + largou duro,11,1.89880489072181
+2,3,2 paradas + parou no meio + largou macio,23,1.3131452474931709
+2,3,2 paradas + parou no meio + largou médio,27,1.2119781831449148
+2,3,2 paradas + parou tarde + largou duro,1,6.297623372616031
+2,3,2 paradas + parou tarde + largou médio,1,6.297623372616031
+2,3,3+ paradas + parou cedo + largou chuva,14,1.683110643662071
+2,3,3+ paradas + parou cedo + largou duro,6,2.5709939758557625
+2,3,3+ paradas + parou cedo + largou macio,11,1.89880489072181
+2,3,3+ paradas + parou cedo + largou médio,37,1.0353229048886243
+2,3,3+ paradas + parou no meio + largou duro,2,4.453092192135691
+2,3,3+ paradas + parou no meio + largou macio,5,2.8163827915721864
+2,3,3+ paradas + parou no meio + largou médio,3,3.6359345494347446
+2,3,0-1 paradas + parou cedo + chuva pontual,2,4.453092192135691
+2,3,0-1 paradas + parou cedo + chuva significativa,14,1.683110643662071
+2,3,0-1 paradas + parou cedo + seco,55,0.8491713623326054
+2,3,0-1 paradas + parou no meio + chuva pontual,37,1.0353229048886243
+2,3,0-1 paradas + parou no meio + seco,128,0.5566365240169614
+2,3,0-1 paradas + parou tarde + chuva pontual,1,6.297623372616031
+2,3,0-1 paradas + parou tarde + seco,13,1.746646460271351
+2,3,2 paradas + parou cedo + chuva pontual,31,1.131086547889579
+2,3,2 paradas + parou cedo + chuva significativa,6,2.5709939758557625
+2,3,2 paradas + parou cedo + seco,124,0.5655432739447895
+2,3,2 paradas + parou no meio + chuva pontual,10,1.9914833703377919
+2,3,2 paradas + parou no meio + seco,51,0.8818436585383534
+2,3,2 paradas + parou tarde + seco,2,4.453092192135691
+2,3,3+ paradas + parou cedo + chuva pontual,26,1.235065556393352
+2,3,3+ paradas + parou cedo + chuva significativa,14,1.683110643662071
+2,3,3+ paradas + parou cedo + seco,28,1.190138949620705
+2,3,3+ paradas + parou no meio + seco,10,1.9914833703377919
+2,3,0-1 paradas + parou cedo + com safety car,35,1.0644926376088377
+2,3,0-1 paradas + parou cedo + sem safety car,36,1.0496038954360052
+2,3,0-1 paradas + parou no meio + com safety car,81,0.6997359302906702
+2,3,0-1 paradas + parou no meio + sem safety car,84,0.6871270429365727
+2,3,0-1 paradas + parou tarde + com safety car,6,2.5709939758557625
+2,3,0-1 paradas + parou tarde + sem safety car,8,2.2265460960678456
+2,3,2 paradas + parou cedo + com safety car,64,0.7872029215770039
+2,3,2 paradas + parou cedo + sem safety car,97,0.6394267740841536
+2,3,2 paradas + parou no meio + com safety car,41,0.9835235330590564
+2,3,2 paradas + parou no meio + sem safety car,20,1.4081913957860932
+2,3,2 paradas + parou tarde + com safety car,2,4.453092192135691
+2,3,3+ paradas + parou cedo + com safety car,53,0.865045097998983
+2,3,3+ paradas + parou cedo + sem safety car,15,1.6260393628552317
+2,3,3+ paradas + parou no meio + com safety car,7,2.38027789924141
+2,3,3+ paradas + parou no meio + sem safety car,3,3.6359345494347446
+2,3,0-1 paradas + largou 11+ + largou chuva,5,2.8163827915721864
+2,3,0-1 paradas + largou 11+ + largou duro,23,1.3131452474931709
+2,3,0-1 paradas + largou 11+ + largou macio,18,1.4843640640452307
+2,3,0-1 paradas + largou 11+ + largou médio,70,0.7527099625763632
+2,3,0-1 paradas + largou 6-10 + largou chuva,4,3.1488116863080156
+2,3,0-1 paradas + largou 6-10 + largou duro,2,4.453092192135691
+2,3,0-1 paradas + largou 6-10 + largou macio,33,1.096275514796815
+2,3,0-1 paradas + largou 6-10 + largou médio,25,1.2595246745232063
+2,3,0-1 paradas + largou top 5 + largou chuva,5,2.8163827915721864
+2,3,0-1 paradas + largou top 5 + largou macio,28,1.190138949620705
+2,3,0-1 paradas + largou top 5 + largou médio,34,1.080033498164044
+2,3,2 paradas + largou 11+ + largou chuva,5,2.8163827915721864
+2,3,2 paradas + largou 11+ + largou duro,12,1.8179672747173723
+2,3,2 paradas + largou 11+ + largou macio,29,1.1694393018896398
+2,3,2 paradas + largou 11+ + largou médio,62,0.799798968121604
+2,3,2 paradas + largou 6-10 + largou chuva,1,6.297623372616031
+2,3,2 paradas + largou 6-10 + largou duro,6,2.5709939758557625
+2,3,2 paradas + largou 6-10 + largou macio,24,1.2854969879278813
+2,3,2 paradas + largou 6-10 + largou médio,28,1.190138949620705
+2,3,2 paradas + largou top 5 + largou macio,20,1.4081913957860932
+2,3,2 paradas + largou top 5 + largou médio,33,1.096275514796815
+2,3,3+ paradas + largou 11+ + largou chuva,5,2.8163827915721864
+2,3,3+ paradas + largou 11+ + largou duro,7,2.38027789924141
+2,3,3+ paradas + largou 11+ + largou macio,5,2.8163827915721864
+2,3,3+ paradas + largou 11+ + largou médio,22,1.342657814379573
+2,3,3+ paradas + largou 6-10 + largou chuva,4,3.1488116863080156
+2,3,3+ paradas + largou 6-10 + largou duro,1,6.297623372616031
+2,3,3+ paradas + largou 6-10 + largou macio,4,3.1488116863080156
+2,3,3+ paradas + largou 6-10 + largou médio,7,2.38027789924141
+2,3,3+ paradas + largou top 5 + largou chuva,5,2.8163827915721864
+2,3,3+ paradas + largou top 5 + largou macio,7,2.38027789924141
+2,3,3+ paradas + largou top 5 + largou médio,11,1.89880489072181
+2,3,0-1 paradas + largou 11+ + chuva pontual,19,1.444773887669109
+2,3,0-1 paradas + largou 11+ + chuva significativa,5,2.8163827915721864
+2,3,0-1 paradas + largou 11+ + seco,92,0.6565726237465854
+2,3,0-1 paradas + largou 6-10 + chuva pontual,11,1.89880489072181
+2,3,0-1 paradas + largou 6-10 + chuva significativa,4,3.1488116863080156
+2,3,0-1 paradas + largou 6-10 + seco,49,0.8996604818022902
+2,3,0-1 paradas + largou top 5 + chuva pontual,9,2.0992077908720104
+2,3,0-1 paradas + largou top 5 + chuva significativa,5,2.8163827915721864
+2,3,0-1 paradas + largou top 5 + seco,53,0.865045097998983
+2,3,2 paradas + largou 11+ + chuva pontual,20,1.4081913957860932
+2,3,2 paradas + largou 11+ + chuva significativa,5,2.8163827915721864
+2,3,2 paradas + largou 11+ + seco,83,0.6912539691889766
+2,3,2 paradas + largou 6-10 + chuva pontual,11,1.89880489072181
+2,3,2 paradas + largou 6-10 + chuva significativa,1,6.297623372616031
+2,3,2 paradas + largou 6-10 + seco,47,0.9186027797035794
+2,3,2 paradas + largou top 5 + chuva pontual,10,1.9914833703377919
+2,3,2 paradas + largou top 5 + seco,43,0.9603785608171409
+2,3,3+ paradas + largou 11+ + chuva pontual,14,1.683110643662071
+2,3,3+ paradas + largou 11+ + chuva significativa,5,2.8163827915721864
+2,3,3+ paradas + largou 11+ + seco,20,1.4081913957860932
+2,3,3+ paradas + largou 6-10 + chuva pontual,5,2.8163827915721864
+2,3,3+ paradas + largou 6-10 + chuva significativa,4,3.1488116863080156
+2,3,3+ paradas + largou 6-10 + seco,7,2.38027789924141
+2,3,3+ paradas + largou top 5 + chuva pontual,7,2.38027789924141
+2,3,3+ paradas + largou top 5 + chuva significativa,5,2.8163827915721864
+2,3,3+ paradas + largou top 5 + seco,11,1.89880489072181
+2,3,0-1 paradas + largou 11+ + com safety car,53,0.865045097998983
+2,3,0-1 paradas + largou 11+ + sem safety car,63,0.7934259664138035
+2,3,0-1 paradas + largou 6-10 + com safety car,34,1.080033498164044
+2,3,0-1 paradas + largou 6-10 + sem safety car,30,1.1497834599511874
+2,3,0-1 paradas + largou top 5 + com safety car,33,1.096275514796815
+2,3,0-1 paradas + largou top 5 + sem safety car,34,1.080033498164044
+2,3,2 paradas + largou 11+ + com safety car,51,0.8818436585383534
+2,3,2 paradas + largou 11+ + sem safety car,57,0.8341405929639022
+2,3,2 paradas + largou 6-10 + com safety car,26,1.235065556393352
+2,3,2 paradas + largou 6-10 + sem safety car,33,1.096275514796815
+2,3,2 paradas + largou top 5 + com safety car,28,1.190138949620705
+2,3,2 paradas + largou top 5 + sem safety car,25,1.2595246745232063
+2,3,3+ paradas + largou 11+ + com safety car,30,1.1497834599511874
+2,3,3+ paradas + largou 11+ + sem safety car,9,2.0992077908720104
+2,3,3+ paradas + largou 6-10 + com safety car,13,1.746646460271351
+2,3,3+ paradas + largou 6-10 + sem safety car,3,3.6359345494347446
+2,3,3+ paradas + largou top 5 + com safety car,17,1.5273980209208484
+2,3,3+ paradas + largou top 5 + sem safety car,6,2.5709939758557625
+2,3,0-1 paradas + largou chuva + chuva significativa,14,1.683110643662071
+2,3,0-1 paradas + largou duro + chuva pontual,2,4.453092192135691
+2,3,0-1 paradas + largou duro + seco,24,1.2854969879278813
+2,3,0-1 paradas + largou macio + chuva pontual,20,1.4081913957860932
+2,3,0-1 paradas + largou macio + seco,60,0.8130196814276158
+2,3,0-1 paradas + largou médio + chuva pontual,18,1.4843640640452307
+2,3,0-1 paradas + largou médio + seco,112,0.5950694748103525
+2,3,2 paradas + largou chuva + chuva significativa,6,2.5709939758557625
+2,3,2 paradas + largou duro + chuva pontual,1,6.297623372616031
+2,3,2 paradas + largou duro + seco,18,1.4843640640452307
+2,3,2 paradas + largou macio + chuva pontual,14,1.683110643662071
+2,3,2 paradas + largou macio + seco,60,0.8130196814276158
+2,3,2 paradas + largou médio + chuva pontual,26,1.235065556393352
+2,3,2 paradas + largou médio + seco,99,0.6329349635739366
+2,3,3+ paradas + largou chuva + chuva significativa,14,1.683110643662071
+2,3,3+ paradas + largou duro + chuva pontual,3,3.6359345494347446
+2,3,3+ paradas + largou duro + seco,5,2.8163827915721864
+2,3,3+ paradas + largou macio + chuva pontual,3,3.6359345494347446
+2,3,3+ paradas + largou macio + seco,13,1.746646460271351
+2,3,3+ paradas + largou médio + chuva pontual,20,1.4081913957860932
+2,3,3+ paradas + largou médio + seco,20,1.4081913957860932
+2,3,0-1 paradas + largou chuva + com safety car,14,1.683110643662071
+2,3,0-1 paradas + largou duro + com safety car,12,1.8179672747173723
+2,3,0-1 paradas + largou duro + sem safety car,14,1.683110643662071
+2,3,0-1 paradas + largou macio + com safety car,37,1.0353229048886243
+2,3,0-1 paradas + largou macio + sem safety car,43,0.9603785608171409
+2,3,0-1 paradas + largou médio + com safety car,59,0.8198807286482643
+2,3,0-1 paradas + largou médio + sem safety car,71,0.747390390883362
+2,3,2 paradas + largou chuva + com safety car,6,2.5709939758557625
+2,3,2 paradas + largou duro + com safety car,6,2.5709939758557625
+2,3,2 paradas + largou duro + sem safety car,13,1.746646460271351
+2,3,2 paradas + largou macio + com safety car,38,1.0216094132520783
+2,3,2 paradas + largou macio + sem safety car,36,1.0496038954360052
+2,3,2 paradas + largou médio + com safety car,57,0.8341405929639022
+2,3,2 paradas + largou médio + sem safety car,68,0.7636990104604242
+2,3,3+ paradas + largou chuva + com safety car,14,1.683110643662071
+2,3,3+ paradas + largou duro + com safety car,5,2.8163827915721864
+2,3,3+ paradas + largou duro + sem safety car,3,3.6359345494347446
+2,3,3+ paradas + largou macio + com safety car,9,2.0992077908720104
+2,3,3+ paradas + largou macio + sem safety car,7,2.38027789924141
+2,3,3+ paradas + largou médio + com safety car,32,1.1132730480339228
+2,3,3+ paradas + largou médio + sem safety car,8,2.2265460960678456
+2,3,0-1 paradas + chuva pontual + com safety car,37,1.0353229048886243
+2,3,0-1 paradas + chuva pontual + sem safety car,3,3.6359345494347446
+2,3,0-1 paradas + chuva significativa + com safety car,14,1.683110643662071
+2,3,0-1 paradas + seco + com safety car,71,0.747390390883362
+2,3,0-1 paradas + seco + sem safety car,125,0.5632765583144373
+2,3,2 paradas + chuva pontual + com safety car,13,1.746646460271351
+2,3,2 paradas + chuva pontual + sem safety car,28,1.190138949620705
+2,3,2 paradas + chuva significativa + com safety car,6,2.5709939758557625
+2,3,2 paradas + seco + com safety car,88,0.6713289071897866
+2,3,2 paradas + seco + sem safety car,89,0.6675467424051497
+2,3,3+ paradas + chuva pontual + com safety car,19,1.444773887669109
+2,3,3+ paradas + chuva pontual + sem safety car,7,2.38027789924141
+2,3,3+ paradas + chuva significativa + com safety car,14,1.683110643662071
+2,3,3+ paradas + seco + com safety car,27,1.2119781831449148
+2,3,3+ paradas + seco + sem safety car,11,1.89880489072181
+2,3,parou cedo + largou 11+ + largou chuva,15,1.6260393628552317
+2,3,parou cedo + largou 11+ + largou duro,11,1.89880489072181
+2,3,parou cedo + largou 11+ + largou macio,37,1.0353229048886243
+2,3,parou cedo + largou 11+ + largou médio,82,0.6954561596826102
+2,3,parou cedo + largou 6-10 + largou chuva,9,2.0992077908720104
+2,3,parou cedo + largou 6-10 + largou duro,2,4.453092192135691
+2,3,parou cedo + largou 6-10 + largou macio,28,1.190138949620705
+2,3,parou cedo + largou 6-10 + largou médio,39,1.0084268040167714
+2,3,parou cedo + largou top 5 + largou chuva,10,1.9914833703377919
+2,3,parou cedo + largou top 5 + largou macio,22,1.342657814379573
+2,3,parou cedo + largou top 5 + largou médio,43,0.9603785608171409
+2,3,parou no meio + largou 11+ + largou duro,24,1.2854969879278813
+2,3,parou no meio + largou 11+ + largou macio,15,1.6260393628552317
+2,3,parou no meio + largou 11+ + largou médio,71,0.747390390883362
+2,3,parou no meio + largou 6-10 + largou duro,5,2.8163827915721864
+2,3,parou no meio + largou 6-10 + largou macio,33,1.096275514796815
+2,3,parou no meio + largou 6-10 + largou médio,20,1.4081913957860932
+2,3,parou no meio + largou top 5 + largou macio,33,1.096275514796815
+2,3,parou no meio + largou top 5 + largou médio,31,1.131086547889579
+2,3,parou tarde + largou 11+ + largou duro,7,2.38027789924141
+2,3,parou tarde + largou 11+ + largou médio,1,6.297623372616031
+2,3,parou tarde + largou 6-10 + largou duro,2,4.453092192135691
+2,3,parou tarde + largou 6-10 + largou médio,1,6.297623372616031
+2,3,parou tarde + largou top 5 + largou médio,4,3.1488116863080156
+2,3,parou cedo + largou 11+ + chuva pontual,30,1.1497834599511874
+2,3,parou cedo + largou 11+ + chuva significativa,15,1.6260393628552317
+2,3,parou cedo + largou 11+ + seco,100,0.6297623372616031
+2,3,parou cedo + largou 6-10 + chuva pontual,14,1.683110643662071
+2,3,parou cedo + largou 6-10 + chuva significativa,9,2.0992077908720104
+2,3,parou cedo + largou 6-10 + seco,55,0.8491713623326054
+2,3,parou cedo + largou top 5 + chuva pontual,15,1.6260393628552317
+2,3,parou cedo + largou top 5 + chuva significativa,10,1.9914833703377919
+2,3,parou cedo + largou top 5 + seco,50,0.8906184384271383
+2,3,parou no meio + largou 11+ + chuva pontual,23,1.3131452474931709
+2,3,parou no meio + largou 11+ + seco,87,0.6751760957469115
+2,3,parou no meio + largou 6-10 + chuva pontual,12,1.8179672747173723
+2,3,parou no meio + largou 6-10 + seco,46,0.9285339091853083
+2,3,parou no meio + largou top 5 + chuva pontual,11,1.89880489072181
+2,3,parou no meio + largou top 5 + seco,53,0.865045097998983
+2,3,parou tarde + largou 11+ + seco,8,2.2265460960678456
+2,3,parou tarde + largou 6-10 + chuva pontual,1,6.297623372616031
+2,3,parou tarde + largou 6-10 + seco,2,4.453092192135691
+2,3,parou tarde + largou top 5 + seco,4,3.1488116863080156
+2,3,parou cedo + largou 11+ + com safety car,73,0.7370810641401452
+2,3,parou cedo + largou 11+ + sem safety car,72,0.7421820320226153
+2,3,parou cedo + largou 6-10 + com safety car,37,1.0353229048886243
+2,3,parou cedo + largou 6-10 + sem safety car,41,0.9835235330590564
+2,3,parou cedo + largou top 5 + com safety car,41,0.9835235330590564
+2,3,parou cedo + largou top 5 + sem safety car,34,1.080033498164044
+2,3,parou no meio + largou 11+ + com safety car,57,0.8341405929639022
+2,3,parou no meio + largou 11+ + sem safety car,53,0.865045097998983
+2,3,parou no meio + largou 6-10 + com safety car,34,1.080033498164044
+2,3,parou no meio + largou 6-10 + sem safety car,24,1.2854969879278813
+2,3,parou no meio + largou top 5 + com safety car,36,1.0496038954360052
+2,3,parou no meio + largou top 5 + sem safety car,28,1.190138949620705
+2,3,parou tarde + largou 11+ + com safety car,4,3.1488116863080156
+2,3,parou tarde + largou 11+ + sem safety car,4,3.1488116863080156
+2,3,parou tarde + largou 6-10 + com safety car,2,4.453092192135691
+2,3,parou tarde + largou 6-10 + sem safety car,1,6.297623372616031
+2,3,parou tarde + largou top 5 + com safety car,1,6.297623372616031
+2,3,parou tarde + largou top 5 + sem safety car,3,3.6359345494347446
+2,3,parou cedo + largou chuva + chuva significativa,34,1.080033498164044
+2,3,parou cedo + largou duro + chuva pontual,3,3.6359345494347446
+2,3,parou cedo + largou duro + seco,10,1.9914833703377919
+2,3,parou cedo + largou macio + chuva pontual,16,1.5744058431540078
+2,3,parou cedo + largou macio + seco,72,0.7421820320226153
+2,3,parou cedo + largou médio + chuva pontual,40,0.9957416851688959
+2,3,parou cedo + largou médio + seco,125,0.5632765583144373
+2,3,parou no meio + largou duro + chuva pontual,2,4.453092192135691
+2,3,parou no meio + largou duro + seco,28,1.190138949620705
+2,3,parou no meio + largou macio + chuva pontual,21,1.3742540858731453
+2,3,parou no meio + largou macio + seco,61,0.8063280476222382
+2,3,parou no meio + largou médio + chuva pontual,24,1.2854969879278813
+2,3,parou no meio + largou médio + seco,100,0.6297623372616031
+2,3,parou tarde + largou duro + chuva pontual,1,6.297623372616031
+2,3,parou tarde + largou duro + seco,9,2.0992077908720104
+2,3,parou tarde + largou médio + seco,6,2.5709939758557625
+2,3,parou cedo + largou chuva + com safety car,34,1.080033498164044
+2,3,parou cedo + largou duro + com safety car,7,2.38027789924141
+2,3,parou cedo + largou duro + sem safety car,6,2.5709939758557625
+2,3,parou cedo + largou macio + com safety car,34,1.080033498164044
+2,3,parou cedo + largou macio + sem safety car,54,0.8569979919519207
+2,3,parou cedo + largou médio + com safety car,77,0.7176807898690122
+2,3,parou cedo + largou médio + sem safety car,88,0.6713289071897866
+2,3,parou no meio + largou duro + com safety car,10,1.9914833703377919
+2,3,parou no meio + largou duro + sem safety car,20,1.4081913957860932
+2,3,parou no meio + largou macio + com safety car,50,0.8906184384271383
+2,3,parou no meio + largou macio + sem safety car,32,1.1132730480339228
+2,3,parou no meio + largou médio + com safety car,69,0.7581447621252598
+2,3,parou no meio + largou médio + sem safety car,55,0.8491713623326054
+2,3,parou tarde + largou duro + com safety car,6,2.5709939758557625
+2,3,parou tarde + largou duro + sem safety car,4,3.1488116863080156
+2,3,parou tarde + largou médio + com safety car,2,4.453092192135691
+2,3,parou tarde + largou médio + sem safety car,4,3.1488116863080156
+2,3,parou cedo + chuva pontual + com safety car,26,1.235065556393352
+2,3,parou cedo + chuva pontual + sem safety car,33,1.096275514796815
+2,3,parou cedo + chuva significativa + com safety car,34,1.080033498164044
+2,3,parou cedo + seco + com safety car,92,0.6565726237465854
+2,3,parou cedo + seco + sem safety car,115,0.587256407545103
+2,3,parou no meio + chuva pontual + com safety car,42,0.971744383194221
+2,3,parou no meio + chuva pontual + sem safety car,5,2.8163827915721864
+2,3,parou no meio + seco + com safety car,87,0.6751760957469115
+2,3,parou no meio + seco + sem safety car,102,0.6235576308988241
+2,3,parou tarde + chuva pontual + com safety car,1,6.297623372616031
+2,3,parou tarde + seco + com safety car,7,2.38027789924141
+2,3,parou tarde + seco + sem safety car,8,2.2265460960678456
+2,3,largou 11+ + largou chuva + chuva significativa,15,1.6260393628552317
+2,3,largou 11+ + largou duro + chuva pontual,4,3.1488116863080156
+2,3,largou 11+ + largou duro + seco,38,1.0216094132520783
+2,3,largou 11+ + largou macio + chuva pontual,16,1.5744058431540078
+2,3,largou 11+ + largou macio + seco,36,1.0496038954360052
+2,3,largou 11+ + largou médio + chuva pontual,33,1.096275514796815
+2,3,largou 11+ + largou médio + seco,121,0.5725112156923665
+2,3,largou 6-10 + largou chuva + chuva significativa,9,2.0992077908720104
+2,3,largou 6-10 + largou duro + chuva pontual,2,4.453092192135691
+2,3,largou 6-10 + largou duro + seco,7,2.38027789924141
+2,3,largou 6-10 + largou macio + chuva pontual,10,1.9914833703377919
+2,3,largou 6-10 + largou macio + seco,51,0.8818436585383534
+2,3,largou 6-10 + largou médio + chuva pontual,15,1.6260393628552317
+2,3,largou 6-10 + largou médio + seco,45,0.9387942638573955
+2,3,largou top 5 + largou chuva + chuva significativa,10,1.9914833703377919
+2,3,largou top 5 + largou macio + chuva pontual,10,1.9914833703377919
+2,3,largou top 5 + largou macio + seco,45,0.9387942638573955
+2,3,largou top 5 + largou médio + chuva pontual,16,1.5744058431540078
+2,3,largou top 5 + largou médio + seco,62,0.799798968121604
+2,3,largou 11+ + largou chuva + com safety car,15,1.6260393628552317
+2,3,largou 11+ + largou duro + com safety car,17,1.5273980209208484
+2,3,largou 11+ + largou duro + sem safety car,25,1.2595246745232063
+2,3,largou 11+ + largou macio + com safety car,23,1.3131452474931709
+2,3,largou 11+ + largou macio + sem safety car,29,1.1694393018896398
+2,3,largou 11+ + largou médio + com safety car,79,0.7085379861119238
+2,3,largou 11+ + largou médio + sem safety car,75,0.7271869098869488
+2,3,largou 6-10 + largou chuva + com safety car,9,2.0992077908720104
+2,3,largou 6-10 + largou duro + com safety car,4,3.1488116863080156
+2,3,largou 6-10 + largou duro + sem safety car,5,2.8163827915721864
+2,3,largou 6-10 + largou macio + com safety car,32,1.1132730480339228
+2,3,largou 6-10 + largou macio + sem safety car,29,1.1694393018896398
+2,3,largou 6-10 + largou médio + com safety car,28,1.190138949620705
+2,3,largou 6-10 + largou médio + sem safety car,32,1.1132730480339228
+2,3,largou top 5 + largou chuva + com safety car,10,1.9914833703377919
+2,3,largou top 5 + largou macio + com safety car,28,1.190138949620705
+2,3,largou top 5 + largou macio + sem safety car,27,1.2119781831449148
+2,3,largou top 5 + largou médio + com safety car,40,0.9957416851688959
+2,3,largou top 5 + largou médio + sem safety car,38,1.0216094132520783
+2,3,largou 11+ + chuva pontual + com safety car,33,1.096275514796815
+2,3,largou 11+ + chuva pontual + sem safety car,20,1.4081913957860932
+2,3,largou 11+ + chuva significativa + com safety car,15,1.6260393628552317
+2,3,largou 11+ + seco + com safety car,86,0.6790901928599774
+2,3,largou 11+ + seco + sem safety car,109,0.6032029200714711
+2,3,largou 6-10 + chuva pontual + com safety car,17,1.5273980209208484
+2,3,largou 6-10 + chuva pontual + sem safety car,10,1.9914833703377919
+2,3,largou 6-10 + chuva significativa + com safety car,9,2.0992077908720104
+2,3,largou 6-10 + seco + com safety car,47,0.9186027797035794
+2,3,largou 6-10 + seco + sem safety car,56,0.8415553218310355
+2,3,largou top 5 + chuva pontual + com safety car,18,1.4843640640452307
+2,3,largou top 5 + chuva pontual + sem safety car,8,2.2265460960678456
+2,3,largou top 5 + chuva significativa + com safety car,10,1.9914833703377919
+2,3,largou top 5 + seco + com safety car,50,0.8906184384271383
+2,3,largou top 5 + seco + sem safety car,57,0.8341405929639022
+2,3,largou chuva + chuva significativa + com safety car,34,1.080033498164044
+2,3,largou duro + chuva pontual + com safety car,5,2.8163827915721864
+2,3,largou duro + chuva pontual + sem safety car,1,6.297623372616031
+2,3,largou duro + seco + com safety car,18,1.4843640640452307
+2,3,largou duro + seco + sem safety car,29,1.1694393018896398
+2,3,largou macio + chuva pontual + com safety car,25,1.2595246745232063
+2,3,largou macio + chuva pontual + sem safety car,12,1.8179672747173723
+2,3,largou macio + seco + com safety car,59,0.8198807286482643
+2,3,largou macio + seco + sem safety car,74,0.7320838467645012
+2,3,largou médio + chuva pontual + com safety car,39,1.0084268040167714
+2,3,largou médio + chuva pontual + sem safety car,25,1.2595246745232063
+2,3,largou médio + seco + com safety car,109,0.6032029200714711
+2,3,largou médio + seco + sem safety car,122,0.5701600303345941
+3,1,0-1 paradas,140,0.5322463188044189
+3,1,2 paradas,65,0.7811240435652252
+3,1,3+ paradas,21,1.3742540858731453
+3,1,parou cedo,114,0.589826469747743
+3,1,parou no meio,97,0.6394267740841536
+3,1,parou tarde,15,1.6260393628552317
+3,1,largou 11+,104,0.617532778196676
+3,1,largou 6-10,60,0.8130196814276158
+3,1,largou top 5,61,0.8063280476222382
+3,1,largou chuva,31,1.131086547889579
+3,1,largou duro,31,1.131086547889579
+3,1,largou macio,66,0.7751838505616011
+3,1,largou médio,98,0.636156027447956
+3,1,chuva pontual,55,0.8491713623326054
+3,1,chuva significativa,50,0.8906184384271383
+3,1,seco,121,0.5725112156923665
+3,1,com safety car,117,0.5822154867571169
+3,1,sem safety car,109,0.6032029200714711
+3,2,0-1 paradas + parou cedo,54,0.8569979919519207
+3,2,0-1 paradas + parou no meio,74,0.7320838467645012
+3,2,0-1 paradas + parou tarde,12,1.8179672747173723
+3,2,2 paradas + parou cedo,41,0.9835235330590564
+3,2,2 paradas + parou no meio,21,1.3742540858731453
+3,2,2 paradas + parou tarde,3,3.6359345494347446
+3,2,3+ paradas + parou cedo,19,1.444773887669109
+3,2,3+ paradas + parou no meio,2,4.453092192135691
+3,2,0-1 paradas + largou 11+,60,0.8130196814276158
+3,2,0-1 paradas + largou 6-10,35,1.0644926376088377
+3,2,0-1 paradas + largou top 5,45,0.9387942638573955
+3,2,2 paradas + largou 11+,31,1.131086547889579
+3,2,2 paradas + largou 6-10,22,1.342657814379573
+3,2,2 paradas + largou top 5,12,1.8179672747173723
+3,2,3+ paradas + largou 11+,13,1.746646460271351
+3,2,3+ paradas + largou 6-10,3,3.6359345494347446
+3,2,3+ paradas + largou top 5,4,3.1488116863080156
+3,2,0-1 paradas + largou chuva,10,1.9914833703377919
+3,2,0-1 paradas + largou duro,15,1.6260393628552317
+3,2,0-1 paradas + largou macio,54,0.8569979919519207
+3,2,0-1 paradas + largou médio,61,0.8063280476222382
+3,2,2 paradas + largou chuva,10,1.9914833703377919
+3,2,2 paradas + largou duro,15,1.6260393628552317
+3,2,2 paradas + largou macio,9,2.0992077908720104
+3,2,2 paradas + largou médio,31,1.131086547889579
+3,2,3+ paradas + largou chuva,11,1.89880489072181
+3,2,3+ paradas + largou duro,1,6.297623372616031
+3,2,3+ paradas + largou macio,3,3.6359345494347446
+3,2,3+ paradas + largou médio,6,2.5709939758557625
+3,2,0-1 paradas + chuva pontual,36,1.0496038954360052
+3,2,0-1 paradas + chuva significativa,27,1.2119781831449148
+3,2,0-1 paradas + seco,77,0.7176807898690122
+3,2,2 paradas + chuva pontual,14,1.683110643662071
+3,2,2 paradas + chuva significativa,12,1.8179672747173723
+3,2,2 paradas + seco,39,1.0084268040167714
+3,2,3+ paradas + chuva pontual,5,2.8163827915721864
+3,2,3+ paradas + chuva significativa,11,1.89880489072181
+3,2,3+ paradas + seco,5,2.8163827915721864
+3,2,0-1 paradas + com safety car,70,0.7527099625763632
+3,2,0-1 paradas + sem safety car,70,0.7527099625763632
+3,2,2 paradas + com safety car,33,1.096275514796815
+3,2,2 paradas + sem safety car,32,1.1132730480339228
+3,2,3+ paradas + com safety car,14,1.683110643662071
+3,2,3+ paradas + sem safety car,7,2.38027789924141
+3,2,parou cedo + largou 11+,47,0.9186027797035794
+3,2,parou cedo + largou 6-10,30,1.1497834599511874
+3,2,parou cedo + largou top 5,37,1.0353229048886243
+3,2,parou no meio + largou 11+,46,0.9285339091853083
+3,2,parou no meio + largou 6-10,28,1.190138949620705
+3,2,parou no meio + largou top 5,22,1.342657814379573
+3,2,parou tarde + largou 11+,11,1.89880489072181
+3,2,parou tarde + largou 6-10,2,4.453092192135691
+3,2,parou tarde + largou top 5,2,4.453092192135691
+3,2,parou cedo + largou chuva,18,1.4843640640452307
+3,2,parou cedo + largou duro,11,1.89880489072181
+3,2,parou cedo + largou macio,40,0.9957416851688959
+3,2,parou cedo + largou médio,45,0.9387942638573955
+3,2,parou no meio + largou chuva,13,1.746646460271351
+3,2,parou no meio + largou duro,13,1.746646460271351
+3,2,parou no meio + largou macio,26,1.235065556393352
+3,2,parou no meio + largou médio,45,0.9387942638573955
+3,2,parou tarde + largou duro,7,2.38027789924141
+3,2,parou tarde + largou médio,8,2.2265460960678456
+3,2,parou cedo + chuva pontual,24,1.2854969879278813
+3,2,parou cedo + chuva significativa,28,1.190138949620705
+3,2,parou cedo + seco,62,0.799798968121604
+3,2,parou no meio + chuva pontual,22,1.342657814379573
+3,2,parou no meio + chuva significativa,22,1.342657814379573
+3,2,parou no meio + seco,53,0.865045097998983
+3,2,parou tarde + chuva pontual,9,2.0992077908720104
+3,2,parou tarde + seco,6,2.5709939758557625
+3,2,parou cedo + com safety car,75,0.7271869098869488
+3,2,parou cedo + sem safety car,39,1.0084268040167714
+3,2,parou no meio + com safety car,40,0.9957416851688959
+3,2,parou no meio + sem safety car,57,0.8341405929639022
+3,2,parou tarde + com safety car,2,4.453092192135691
+3,2,parou tarde + sem safety car,13,1.746646460271351
+3,2,largou 11+ + largou chuva,12,1.8179672747173723
+3,2,largou 11+ + largou duro,20,1.4081913957860932
+3,2,largou 11+ + largou macio,16,1.5744058431540078
+3,2,largou 11+ + largou médio,56,0.8415553218310355
+3,2,largou 6-10 + largou chuva,9,2.0992077908720104
+3,2,largou 6-10 + largou duro,7,2.38027789924141
+3,2,largou 6-10 + largou macio,24,1.2854969879278813
+3,2,largou 6-10 + largou médio,20,1.4081913957860932
+3,2,largou top 5 + largou chuva,9,2.0992077908720104
+3,2,largou top 5 + largou duro,4,3.1488116863080156
+3,2,largou top 5 + largou macio,26,1.235065556393352
+3,2,largou top 5 + largou médio,22,1.342657814379573
+3,2,largou 11+ + chuva pontual,26,1.235065556393352
+3,2,largou 11+ + chuva significativa,21,1.3742540858731453
+3,2,largou 11+ + seco,57,0.8341405929639022
+3,2,largou 6-10 + chuva pontual,14,1.683110643662071
+3,2,largou 6-10 + chuva significativa,14,1.683110643662071
+3,2,largou 6-10 + seco,32,1.1132730480339228
+3,2,largou top 5 + chuva pontual,15,1.6260393628552317
+3,2,largou top 5 + chuva significativa,14,1.683110643662071
+3,2,largou top 5 + seco,32,1.1132730480339228
+3,2,largou 11+ + com safety car,51,0.8818436585383534
+3,2,largou 11+ + sem safety car,53,0.865045097998983
+3,2,largou 6-10 + com safety car,32,1.1132730480339228
+3,2,largou 6-10 + sem safety car,28,1.190138949620705
+3,2,largou top 5 + com safety car,33,1.096275514796815
+3,2,largou top 5 + sem safety car,28,1.190138949620705
+3,2,largou chuva + chuva significativa,31,1.131086547889579
+3,2,largou duro + chuva pontual,7,2.38027789924141
+3,2,largou duro + seco,24,1.2854969879278813
+3,2,largou macio + chuva pontual,17,1.5273980209208484
+3,2,largou macio + chuva significativa,13,1.746646460271351
+3,2,largou macio + seco,36,1.0496038954360052
+3,2,largou médio + chuva pontual,31,1.131086547889579
+3,2,largou médio + chuva significativa,6,2.5709939758557625
+3,2,largou médio + seco,61,0.8063280476222382
+3,2,largou chuva + com safety car,31,1.131086547889579
+3,2,largou duro + com safety car,12,1.8179672747173723
+3,2,largou duro + sem safety car,19,1.444773887669109
+3,2,largou macio + com safety car,35,1.0644926376088377
+3,2,largou macio + sem safety car,31,1.131086547889579
+3,2,largou médio + com safety car,39,1.0084268040167714
+3,2,largou médio + sem safety car,59,0.8198807286482643
+3,2,chuva pontual + sem safety car,55,0.8491713623326054
+3,2,chuva significativa + com safety car,50,0.8906184384271383
+3,2,seco + com safety car,67,0.7693771481977814
+3,2,seco + sem safety car,54,0.8569979919519207
+3,3,0-1 paradas + parou cedo + largou 11+,13,1.746646460271351
+3,3,0-1 paradas + parou cedo + largou 6-10,15,1.6260393628552317
+3,3,0-1 paradas + parou cedo + largou top 5,26,1.235065556393352
+3,3,0-1 paradas + parou no meio + largou 11+,38,1.0216094132520783
+3,3,0-1 paradas + parou no meio + largou 6-10,18,1.4843640640452307
+3,3,0-1 paradas + parou no meio + largou top 5,18,1.4843640640452307
+3,3,0-1 paradas + parou tarde + largou 11+,9,2.0992077908720104
+3,3,0-1 paradas + parou tarde + largou 6-10,2,4.453092192135691
+3,3,0-1 paradas + parou tarde + largou top 5,1,6.297623372616031
+3,3,2 paradas + parou cedo + largou 11+,22,1.342657814379573
+3,3,2 paradas + parou cedo + largou 6-10,12,1.8179672747173723
+3,3,2 paradas + parou cedo + largou top 5,7,2.38027789924141
+3,3,2 paradas + parou no meio + largou 11+,7,2.38027789924141
+3,3,2 paradas + parou no meio + largou 6-10,10,1.9914833703377919
+3,3,2 paradas + parou no meio + largou top 5,4,3.1488116863080156
+3,3,2 paradas + parou tarde + largou 11+,2,4.453092192135691
+3,3,2 paradas + parou tarde + largou top 5,1,6.297623372616031
+3,3,3+ paradas + parou cedo + largou 11+,12,1.8179672747173723
+3,3,3+ paradas + parou cedo + largou 6-10,3,3.6359345494347446
+3,3,3+ paradas + parou cedo + largou top 5,4,3.1488116863080156
+3,3,3+ paradas + parou no meio + largou 11+,1,6.297623372616031
+3,3,0-1 paradas + parou cedo + largou duro,3,3.6359345494347446
+3,3,0-1 paradas + parou cedo + largou macio,30,1.1497834599511874
+3,3,0-1 paradas + parou cedo + largou médio,21,1.3742540858731453
+3,3,0-1 paradas + parou no meio + largou chuva,10,1.9914833703377919
+3,3,0-1 paradas + parou no meio + largou duro,8,2.2265460960678456
+3,3,0-1 paradas + parou no meio + largou macio,24,1.2854969879278813
+3,3,0-1 paradas + parou no meio + largou médio,32,1.1132730480339228
+3,3,0-1 paradas + parou tarde + largou duro,4,3.1488116863080156
+3,3,0-1 paradas + parou tarde + largou médio,8,2.2265460960678456
+3,3,2 paradas + parou cedo + largou chuva,8,2.2265460960678456
+3,3,2 paradas + parou cedo + largou duro,7,2.38027789924141
+3,3,2 paradas + parou cedo + largou macio,7,2.38027789924141
+3,3,2 paradas + parou cedo + largou médio,19,1.444773887669109
+3,3,2 paradas + parou no meio + largou chuva,2,4.453092192135691
+3,3,2 paradas + parou no meio + largou duro,5,2.8163827915721864
+3,3,2 paradas + parou no meio + largou macio,2,4.453092192135691
+3,3,2 paradas + parou no meio + largou médio,12,1.8179672747173723
+3,3,2 paradas + parou tarde + largou duro,3,3.6359345494347446
+3,3,3+ paradas + parou cedo + largou chuva,10,1.9914833703377919
+3,3,3+ paradas + parou cedo + largou duro,1,6.297623372616031
+3,3,3+ paradas + parou cedo + largou macio,3,3.6359345494347446
+3,3,3+ paradas + parou cedo + largou médio,5,2.8163827915721864
+3,3,3+ paradas + parou no meio + largou chuva,1,6.297623372616031
+3,3,3+ paradas + parou no meio + largou médio,1,6.297623372616031
+3,3,0-1 paradas + parou cedo + chuva pontual,15,1.6260393628552317
+3,3,0-1 paradas + parou cedo + chuva significativa,9,2.0992077908720104
+3,3,0-1 paradas + parou cedo + seco,30,1.1497834599511874
+3,3,0-1 paradas + parou no meio + chuva pontual,13,1.746646460271351
+3,3,0-1 paradas + parou no meio + chuva significativa,18,1.4843640640452307
+3,3,0-1 paradas + parou no meio + seco,43,0.9603785608171409
+3,3,0-1 paradas + parou tarde + chuva pontual,8,2.2265460960678456
+3,3,0-1 paradas + parou tarde + seco,4,3.1488116863080156
+3,3,2 paradas + parou cedo + chuva pontual,4,3.1488116863080156
+3,3,2 paradas + parou cedo + chuva significativa,9,2.0992077908720104
+3,3,2 paradas + parou cedo + seco,28,1.190138949620705
+3,3,2 paradas + parou no meio + chuva pontual,9,2.0992077908720104
+3,3,2 paradas + parou no meio + chuva significativa,3,3.6359345494347446
+3,3,2 paradas + parou no meio + seco,9,2.0992077908720104
+3,3,2 paradas + parou tarde + chuva pontual,1,6.297623372616031
+3,3,2 paradas + parou tarde + seco,2,4.453092192135691
+3,3,3+ paradas + parou cedo + chuva pontual,5,2.8163827915721864
+3,3,3+ paradas + parou cedo + chuva significativa,10,1.9914833703377919
+3,3,3+ paradas + parou cedo + seco,4,3.1488116863080156
+3,3,3+ paradas + parou no meio + chuva significativa,1,6.297623372616031
+3,3,3+ paradas + parou no meio + seco,1,6.297623372616031
+3,3,0-1 paradas + parou cedo + com safety car,37,1.0353229048886243
+3,3,0-1 paradas + parou cedo + sem safety car,17,1.5273980209208484
+3,3,0-1 paradas + parou no meio + com safety car,31,1.131086547889579
+3,3,0-1 paradas + parou no meio + sem safety car,43,0.9603785608171409
+3,3,0-1 paradas + parou tarde + com safety car,2,4.453092192135691
+3,3,0-1 paradas + parou tarde + sem safety car,10,1.9914833703377919
+3,3,2 paradas + parou cedo + com safety car,26,1.235065556393352
+3,3,2 paradas + parou cedo + sem safety car,15,1.6260393628552317
+3,3,2 paradas + parou no meio + com safety car,7,2.38027789924141
+3,3,2 paradas + parou no meio + sem safety car,14,1.683110643662071
+3,3,2 paradas + parou tarde + sem safety car,3,3.6359345494347446
+3,3,3+ paradas + parou cedo + com safety car,12,1.8179672747173723
+3,3,3+ paradas + parou cedo + sem safety car,7,2.38027789924141
+3,3,3+ paradas + parou no meio + com safety car,2,4.453092192135691
+3,3,0-1 paradas + largou 11+ + largou chuva,4,3.1488116863080156
+3,3,0-1 paradas + largou 11+ + largou duro,12,1.8179672747173723
+3,3,0-1 paradas + largou 11+ + largou macio,10,1.9914833703377919
+3,3,0-1 paradas + largou 11+ + largou médio,34,1.080033498164044
+3,3,0-1 paradas + largou 6-10 + largou chuva,2,4.453092192135691
+3,3,0-1 paradas + largou 6-10 + largou duro,2,4.453092192135691
+3,3,0-1 paradas + largou 6-10 + largou macio,19,1.444773887669109
+3,3,0-1 paradas + largou 6-10 + largou médio,12,1.8179672747173723
+3,3,0-1 paradas + largou top 5 + largou chuva,4,3.1488116863080156
+3,3,0-1 paradas + largou top 5 + largou duro,1,6.297623372616031
+3,3,0-1 paradas + largou top 5 + largou macio,25,1.2595246745232063
+3,3,0-1 paradas + largou top 5 + largou médio,15,1.6260393628552317
+3,3,2 paradas + largou 11+ + largou chuva,4,3.1488116863080156
+3,3,2 paradas + largou 11+ + largou duro,7,2.38027789924141
+3,3,2 paradas + largou 11+ + largou macio,4,3.1488116863080156
+3,3,2 paradas + largou 11+ + largou médio,16,1.5744058431540078
+3,3,2 paradas + largou 6-10 + largou chuva,5,2.8163827915721864
+3,3,2 paradas + largou 6-10 + largou duro,5,2.8163827915721864
+3,3,2 paradas + largou 6-10 + largou macio,4,3.1488116863080156
+3,3,2 paradas + largou 6-10 + largou médio,8,2.2265460960678456
+3,3,2 paradas + largou top 5 + largou chuva,1,6.297623372616031
+3,3,2 paradas + largou top 5 + largou duro,3,3.6359345494347446
+3,3,2 paradas + largou top 5 + largou macio,1,6.297623372616031
+3,3,2 paradas + largou top 5 + largou médio,7,2.38027789924141
+3,3,3+ paradas + largou 11+ + largou chuva,4,3.1488116863080156
+3,3,3+ paradas + largou 11+ + largou duro,1,6.297623372616031
+3,3,3+ paradas + largou 11+ + largou macio,2,4.453092192135691
+3,3,3+ paradas + largou 11+ + largou médio,6,2.5709939758557625
+3,3,3+ paradas + largou 6-10 + largou chuva,2,4.453092192135691
+3,3,3+ paradas + largou 6-10 + largou macio,1,6.297623372616031
+3,3,3+ paradas + largou top 5 + largou chuva,4,3.1488116863080156
+3,3,0-1 paradas + largou 11+ + chuva pontual,15,1.6260393628552317
+3,3,0-1 paradas + largou 11+ + chuva significativa,13,1.746646460271351
+3,3,0-1 paradas + largou 11+ + seco,32,1.1132730480339228
+3,3,0-1 paradas + largou 6-10 + chuva pontual,10,1.9914833703377919
+3,3,0-1 paradas + largou 6-10 + chuva significativa,6,2.5709939758557625
+3,3,0-1 paradas + largou 6-10 + seco,19,1.444773887669109
+3,3,0-1 paradas + largou top 5 + chuva pontual,11,1.89880489072181
+3,3,0-1 paradas + largou top 5 + chuva significativa,8,2.2265460960678456
+3,3,0-1 paradas + largou top 5 + seco,26,1.235065556393352
+3,3,2 paradas + largou 11+ + chuva pontual,6,2.5709939758557625
+3,3,2 paradas + largou 11+ + chuva significativa,4,3.1488116863080156
+3,3,2 paradas + largou 11+ + seco,21,1.3742540858731453
+3,3,2 paradas + largou 6-10 + chuva pontual,4,3.1488116863080156
+3,3,2 paradas + largou 6-10 + chuva significativa,6,2.5709939758557625
+3,3,2 paradas + largou 6-10 + seco,12,1.8179672747173723
+3,3,2 paradas + largou top 5 + chuva pontual,4,3.1488116863080156
+3,3,2 paradas + largou top 5 + chuva significativa,2,4.453092192135691
+3,3,2 paradas + largou top 5 + seco,6,2.5709939758557625
+3,3,3+ paradas + largou 11+ + chuva pontual,5,2.8163827915721864
+3,3,3+ paradas + largou 11+ + chuva significativa,4,3.1488116863080156
+3,3,3+ paradas + largou 11+ + seco,4,3.1488116863080156
+3,3,3+ paradas + largou 6-10 + chuva significativa,2,4.453092192135691
+3,3,3+ paradas + largou 6-10 + seco,1,6.297623372616031
+3,3,3+ paradas + largou top 5 + chuva significativa,4,3.1488116863080156
+3,3,0-1 paradas + largou 11+ + com safety car,28,1.190138949620705
+3,3,0-1 paradas + largou 11+ + sem safety car,32,1.1132730480339228
+3,3,0-1 paradas + largou 6-10 + com safety car,16,1.5744058431540078
+3,3,0-1 paradas + largou 6-10 + sem safety car,19,1.444773887669109
+3,3,0-1 paradas + largou top 5 + com safety car,26,1.235065556393352
+3,3,0-1 paradas + largou top 5 + sem safety car,19,1.444773887669109
+3,3,2 paradas + largou 11+ + com safety car,17,1.5273980209208484
+3,3,2 paradas + largou 11+ + sem safety car,14,1.683110643662071
+3,3,2 paradas + largou 6-10 + com safety car,13,1.746646460271351
+3,3,2 paradas + largou 6-10 + sem safety car,9,2.0992077908720104
+3,3,2 paradas + largou top 5 + com safety car,3,3.6359345494347446
+3,3,2 paradas + largou top 5 + sem safety car,9,2.0992077908720104
+3,3,3+ paradas + largou 11+ + com safety car,6,2.5709939758557625
+3,3,3+ paradas + largou 11+ + sem safety car,7,2.38027789924141
+3,3,3+ paradas + largou 6-10 + com safety car,3,3.6359345494347446
+3,3,3+ paradas + largou top 5 + com safety car,4,3.1488116863080156
+3,3,0-1 paradas + largou chuva + chuva significativa,10,1.9914833703377919
+3,3,0-1 paradas + largou duro + chuva pontual,3,3.6359345494347446
+3,3,0-1 paradas + largou duro + seco,12,1.8179672747173723
+3,3,0-1 paradas + largou macio + chuva pontual,15,1.6260393628552317
+3,3,0-1 paradas + largou macio + chuva significativa,11,1.89880489072181
+3,3,0-1 paradas + largou macio + seco,28,1.190138949620705
+3,3,0-1 paradas + largou médio + chuva pontual,18,1.4843640640452307
+3,3,0-1 paradas + largou médio + chuva significativa,6,2.5709939758557625
+3,3,0-1 paradas + largou médio + seco,37,1.0353229048886243
+3,3,2 paradas + largou chuva + chuva significativa,10,1.9914833703377919
+3,3,2 paradas + largou duro + chuva pontual,4,3.1488116863080156
+3,3,2 paradas + largou duro + seco,11,1.89880489072181
+3,3,2 paradas + largou macio + chuva pontual,1,6.297623372616031
+3,3,2 paradas + largou macio + chuva significativa,2,4.453092192135691
+3,3,2 paradas + largou macio + seco,6,2.5709939758557625
+3,3,2 paradas + largou médio + chuva pontual,9,2.0992077908720104
+3,3,2 paradas + largou médio + seco,22,1.342657814379573
+3,3,3+ paradas + largou chuva + chuva significativa,11,1.89880489072181
+3,3,3+ paradas + largou duro + seco,1,6.297623372616031
+3,3,3+ paradas + largou macio + chuva pontual,1,6.297623372616031
+3,3,3+ paradas + largou macio + seco,2,4.453092192135691
+3,3,3+ paradas + largou médio + chuva pontual,4,3.1488116863080156
+3,3,3+ paradas + largou médio + seco,2,4.453092192135691
+3,3,0-1 paradas + largou chuva + com safety car,10,1.9914833703377919
+3,3,0-1 paradas + largou duro + com safety car,7,2.38027789924141
+3,3,0-1 paradas + largou duro + sem safety car,8,2.2265460960678456
+3,3,0-1 paradas + largou macio + com safety car,28,1.190138949620705
+3,3,0-1 paradas + largou macio + sem safety car,26,1.235065556393352
+3,3,0-1 paradas + largou médio + com safety car,25,1.2595246745232063
+3,3,0-1 paradas + largou médio + sem safety car,36,1.0496038954360052
+3,3,2 paradas + largou chuva + com safety car,10,1.9914833703377919
+3,3,2 paradas + largou duro + com safety car,4,3.1488116863080156
+3,3,2 paradas + largou duro + sem safety car,11,1.89880489072181
+3,3,2 paradas + largou macio + com safety car,6,2.5709939758557625
+3,3,2 paradas + largou macio + sem safety car,3,3.6359345494347446
+3,3,2 paradas + largou médio + com safety car,13,1.746646460271351
+3,3,2 paradas + largou médio + sem safety car,18,1.4843640640452307
+3,3,3+ paradas + largou chuva + com safety car,11,1.89880489072181
+3,3,3+ paradas + largou duro + com safety car,1,6.297623372616031
+3,3,3+ paradas + largou macio + com safety car,1,6.297623372616031
+3,3,3+ paradas + largou macio + sem safety car,2,4.453092192135691
+3,3,3+ paradas + largou médio + com safety car,1,6.297623372616031
+3,3,3+ paradas + largou médio + sem safety car,5,2.8163827915721864
+3,3,0-1 paradas + chuva pontual + sem safety car,36,1.0496038954360052
+3,3,0-1 paradas + chuva significativa + com safety car,27,1.2119781831449148
+3,3,0-1 paradas + seco + com safety car,43,0.9603785608171409
+3,3,0-1 paradas + seco + sem safety car,34,1.080033498164044
+3,3,2 paradas + chuva pontual + sem safety car,14,1.683110643662071
+3,3,2 paradas + chuva significativa + com safety car,12,1.8179672747173723
+3,3,2 paradas + seco + com safety car,21,1.3742540858731453
+3,3,2 paradas + seco + sem safety car,18,1.4843640640452307
+3,3,3+ paradas + chuva pontual + sem safety car,5,2.8163827915721864
+3,3,3+ paradas + chuva significativa + com safety car,11,1.89880489072181
+3,3,3+ paradas + seco + com safety car,3,3.6359345494347446
+3,3,3+ paradas + seco + sem safety car,2,4.453092192135691
+3,3,parou cedo + largou 11+ + largou chuva,7,2.38027789924141
+3,3,parou cedo + largou 11+ + largou duro,6,2.5709939758557625
+3,3,parou cedo + largou 11+ + largou macio,8,2.2265460960678456
+3,3,parou cedo + largou 11+ + largou médio,26,1.235065556393352
+3,3,parou cedo + largou 6-10 + largou chuva,6,2.5709939758557625
+3,3,parou cedo + largou 6-10 + largou duro,4,3.1488116863080156
+3,3,parou cedo + largou 6-10 + largou macio,12,1.8179672747173723
+3,3,parou cedo + largou 6-10 + largou médio,8,2.2265460960678456
+3,3,parou cedo + largou top 5 + largou chuva,5,2.8163827915721864
+3,3,parou cedo + largou top 5 + largou duro,1,6.297623372616031
+3,3,parou cedo + largou top 5 + largou macio,20,1.4081913957860932
+3,3,parou cedo + largou top 5 + largou médio,11,1.89880489072181
+3,3,parou no meio + largou 11+ + largou chuva,5,2.8163827915721864
+3,3,parou no meio + largou 11+ + largou duro,9,2.0992077908720104
+3,3,parou no meio + largou 11+ + largou macio,8,2.2265460960678456
+3,3,parou no meio + largou 11+ + largou médio,24,1.2854969879278813
+3,3,parou no meio + largou 6-10 + largou chuva,3,3.6359345494347446
+3,3,parou no meio + largou 6-10 + largou duro,2,4.453092192135691
+3,3,parou no meio + largou 6-10 + largou macio,12,1.8179672747173723
+3,3,parou no meio + largou 6-10 + largou médio,11,1.89880489072181
+3,3,parou no meio + largou top 5 + largou chuva,4,3.1488116863080156
+3,3,parou no meio + largou top 5 + largou duro,2,4.453092192135691
+3,3,parou no meio + largou top 5 + largou macio,6,2.5709939758557625
+3,3,parou no meio + largou top 5 + largou médio,10,1.9914833703377919
+3,3,parou tarde + largou 11+ + largou duro,5,2.8163827915721864
+3,3,parou tarde + largou 11+ + largou médio,6,2.5709939758557625
+3,3,parou tarde + largou 6-10 + largou duro,1,6.297623372616031
+3,3,parou tarde + largou 6-10 + largou médio,1,6.297623372616031
+3,3,parou tarde + largou top 5 + largou duro,1,6.297623372616031
+3,3,parou tarde + largou top 5 + largou médio,1,6.297623372616031
+3,3,parou cedo + largou 11+ + chuva pontual,14,1.683110643662071
+3,3,parou cedo + largou 11+ + chuva significativa,11,1.89880489072181
+3,3,parou cedo + largou 11+ + seco,22,1.342657814379573
+3,3,parou cedo + largou 6-10 + chuva pontual,4,3.1488116863080156
+3,3,parou cedo + largou 6-10 + chuva significativa,7,2.38027789924141
+3,3,parou cedo + largou 6-10 + seco,19,1.444773887669109
+3,3,parou cedo + largou top 5 + chuva pontual,6,2.5709939758557625
+3,3,parou cedo + largou top 5 + chuva significativa,10,1.9914833703377919
+3,3,parou cedo + largou top 5 + seco,21,1.3742540858731453
+3,3,parou no meio + largou 11+ + chuva pontual,7,2.38027789924141
+3,3,parou no meio + largou 11+ + chuva significativa,10,1.9914833703377919
+3,3,parou no meio + largou 11+ + seco,29,1.1694393018896398
+3,3,parou no meio + largou 6-10 + chuva pontual,8,2.2265460960678456
+3,3,parou no meio + largou 6-10 + chuva significativa,7,2.38027789924141
+3,3,parou no meio + largou 6-10 + seco,13,1.746646460271351
+3,3,parou no meio + largou top 5 + chuva pontual,7,2.38027789924141
+3,3,parou no meio + largou top 5 + chuva significativa,4,3.1488116863080156
+3,3,parou no meio + largou top 5 + seco,11,1.89880489072181
+3,3,parou tarde + largou 11+ + chuva pontual,5,2.8163827915721864
+3,3,parou tarde + largou 11+ + seco,6,2.5709939758557625
+3,3,parou tarde + largou 6-10 + chuva pontual,2,4.453092192135691
+3,3,parou tarde + largou top 5 + chuva pontual,2,4.453092192135691
+3,3,parou cedo + largou 11+ + com safety car,26,1.235065556393352
+3,3,parou cedo + largou 11+ + sem safety car,21,1.3742540858731453
+3,3,parou cedo + largou 6-10 + com safety car,23,1.3131452474931709
+3,3,parou cedo + largou 6-10 + sem safety car,7,2.38027789924141
+3,3,parou cedo + largou top 5 + com safety car,26,1.235065556393352
+3,3,parou cedo + largou top 5 + sem safety car,11,1.89880489072181
+3,3,parou no meio + largou 11+ + com safety car,23,1.3131452474931709
+3,3,parou no meio + largou 11+ + sem safety car,23,1.3131452474931709
+3,3,parou no meio + largou 6-10 + com safety car,9,2.0992077908720104
+3,3,parou no meio + largou 6-10 + sem safety car,19,1.444773887669109
+3,3,parou no meio + largou top 5 + com safety car,7,2.38027789924141
+3,3,parou no meio + largou top 5 + sem safety car,15,1.6260393628552317
+3,3,parou tarde + largou 11+ + com safety car,2,4.453092192135691
+3,3,parou tarde + largou 11+ + sem safety car,9,2.0992077908720104
+3,3,parou tarde + largou 6-10 + sem safety car,2,4.453092192135691
+3,3,parou tarde + largou top 5 + sem safety car,2,4.453092192135691
+3,3,parou cedo + largou chuva + chuva significativa,18,1.4843640640452307
+3,3,parou cedo + largou duro + seco,11,1.89880489072181
+3,3,parou cedo + largou macio + chuva pontual,14,1.683110643662071
+3,3,parou cedo + largou macio + chuva significativa,6,2.5709939758557625
+3,3,parou cedo + largou macio + seco,20,1.4081913957860932
+3,3,parou cedo + largou médio + chuva pontual,10,1.9914833703377919
+3,3,parou cedo + largou médio + chuva significativa,4,3.1488116863080156
+3,3,parou cedo + largou médio + seco,31,1.131086547889579
+3,3,parou no meio + largou chuva + chuva significativa,13,1.746646460271351
+3,3,parou no meio + largou duro + chuva pontual,4,3.1488116863080156
+3,3,parou no meio + largou duro + seco,9,2.0992077908720104
+3,3,parou no meio + largou macio + chuva pontual,3,3.6359345494347446
+3,3,parou no meio + largou macio + chuva significativa,7,2.38027789924141
+3,3,parou no meio + largou macio + seco,16,1.5744058431540078
+3,3,parou no meio + largou médio + chuva pontual,15,1.6260393628552317
+3,3,parou no meio + largou médio + chuva significativa,2,4.453092192135691
+3,3,parou no meio + largou médio + seco,28,1.190138949620705
+3,3,parou tarde + largou duro + chuva pontual,3,3.6359345494347446
+3,3,parou tarde + largou duro + seco,4,3.1488116863080156
+3,3,parou tarde + largou médio + chuva pontual,6,2.5709939758557625
+3,3,parou tarde + largou médio + seco,2,4.453092192135691
+3,3,parou cedo + largou chuva + com safety car,18,1.4843640640452307
+3,3,parou cedo + largou duro + com safety car,8,2.2265460960678456
+3,3,parou cedo + largou duro + sem safety car,3,3.6359345494347446
+3,3,parou cedo + largou macio + com safety car,23,1.3131452474931709
+3,3,parou cedo + largou macio + sem safety car,17,1.5273980209208484
+3,3,parou cedo + largou médio + com safety car,26,1.235065556393352
+3,3,parou cedo + largou médio + sem safety car,19,1.444773887669109
+3,3,parou no meio + largou chuva + com safety car,13,1.746646460271351
+3,3,parou no meio + largou duro + com safety car,4,3.1488116863080156
+3,3,parou no meio + largou duro + sem safety car,9,2.0992077908720104
+3,3,parou no meio + largou macio + com safety car,12,1.8179672747173723
+3,3,parou no meio + largou macio + sem safety car,14,1.683110643662071
+3,3,parou no meio + largou médio + com safety car,11,1.89880489072181
+3,3,parou no meio + largou médio + sem safety car,34,1.080033498164044
+3,3,parou tarde + largou duro + sem safety car,7,2.38027789924141
+3,3,parou tarde + largou médio + com safety car,2,4.453092192135691
+3,3,parou tarde + largou médio + sem safety car,6,2.5709939758557625
+3,3,parou cedo + chuva pontual + sem safety car,24,1.2854969879278813
+3,3,parou cedo + chuva significativa + com safety car,28,1.190138949620705
+3,3,parou cedo + seco + com safety car,47,0.9186027797035794
+3,3,parou cedo + seco + sem safety car,15,1.6260393628552317
+3,3,parou no meio + chuva pontual + sem safety car,22,1.342657814379573
+3,3,parou no meio + chuva significativa + com safety car,22,1.342657814379573
+3,3,parou no meio + seco + com safety car,18,1.4843640640452307
+3,3,parou no meio + seco + sem safety car,35,1.0644926376088377
+3,3,parou tarde + chuva pontual + sem safety car,9,2.0992077908720104
+3,3,parou tarde + seco + com safety car,2,4.453092192135691
+3,3,parou tarde + seco + sem safety car,4,3.1488116863080156
+3,3,largou 11+ + largou chuva + chuva significativa,12,1.8179672747173723
+3,3,largou 11+ + largou duro + chuva pontual,2,4.453092192135691
+3,3,largou 11+ + largou duro + seco,18,1.4843640640452307
+3,3,largou 11+ + largou macio + chuva pontual,5,2.8163827915721864
+3,3,largou 11+ + largou macio + chuva significativa,3,3.6359345494347446
+3,3,largou 11+ + largou macio + seco,8,2.2265460960678456
+3,3,largou 11+ + largou médio + chuva pontual,19,1.444773887669109
+3,3,largou 11+ + largou médio + chuva significativa,6,2.5709939758557625
+3,3,largou 11+ + largou médio + seco,31,1.131086547889579
+3,3,largou 6-10 + largou chuva + chuva significativa,9,2.0992077908720104
+3,3,largou 6-10 + largou duro + chuva pontual,3,3.6359345494347446
+3,3,largou 6-10 + largou duro + seco,4,3.1488116863080156
+3,3,largou 6-10 + largou macio + chuva pontual,6,2.5709939758557625
+3,3,largou 6-10 + largou macio + chuva significativa,5,2.8163827915721864
+3,3,largou 6-10 + largou macio + seco,13,1.746646460271351
+3,3,largou 6-10 + largou médio + chuva pontual,5,2.8163827915721864
+3,3,largou 6-10 + largou médio + seco,15,1.6260393628552317
+3,3,largou top 5 + largou chuva + chuva significativa,9,2.0992077908720104
+3,3,largou top 5 + largou duro + chuva pontual,2,4.453092192135691
+3,3,largou top 5 + largou duro + seco,2,4.453092192135691
+3,3,largou top 5 + largou macio + chuva pontual,6,2.5709939758557625
+3,3,largou top 5 + largou macio + chuva significativa,5,2.8163827915721864
+3,3,largou top 5 + largou macio + seco,15,1.6260393628552317
+3,3,largou top 5 + largou médio + chuva pontual,7,2.38027789924141
+3,3,largou top 5 + largou médio + seco,15,1.6260393628552317
+3,3,largou 11+ + largou chuva + com safety car,12,1.8179672747173723
+3,3,largou 11+ + largou duro + com safety car,8,2.2265460960678456
+3,3,largou 11+ + largou duro + sem safety car,12,1.8179672747173723
+3,3,largou 11+ + largou macio + com safety car,6,2.5709939758557625
+3,3,largou 11+ + largou macio + sem safety car,10,1.9914833703377919
+3,3,largou 11+ + largou médio + com safety car,25,1.2595246745232063
+3,3,largou 11+ + largou médio + sem safety car,31,1.131086547889579
+3,3,largou 6-10 + largou chuva + com safety car,9,2.0992077908720104
+3,3,largou 6-10 + largou duro + com safety car,3,3.6359345494347446
+3,3,largou 6-10 + largou duro + sem safety car,4,3.1488116863080156
+3,3,largou 6-10 + largou macio + com safety car,13,1.746646460271351
+3,3,largou 6-10 + largou macio + sem safety car,11,1.89880489072181
+3,3,largou 6-10 + largou médio + com safety car,7,2.38027789924141
+3,3,largou 6-10 + largou médio + sem safety car,13,1.746646460271351
+3,3,largou top 5 + largou chuva + com safety car,9,2.0992077908720104
+3,3,largou top 5 + largou duro + com safety car,1,6.297623372616031
+3,3,largou top 5 + largou duro + sem safety car,3,3.6359345494347446
+3,3,largou top 5 + largou macio + com safety car,16,1.5744058431540078
+3,3,largou top 5 + largou macio + sem safety car,10,1.9914833703377919
+3,3,largou top 5 + largou médio + com safety car,7,2.38027789924141
+3,3,largou top 5 + largou médio + sem safety car,15,1.6260393628552317
+3,3,largou 11+ + chuva pontual + sem safety car,26,1.235065556393352
+3,3,largou 11+ + chuva significativa + com safety car,21,1.3742540858731453
+3,3,largou 11+ + seco + com safety car,30,1.1497834599511874
+3,3,largou 11+ + seco + sem safety car,27,1.2119781831449148
+3,3,largou 6-10 + chuva pontual + sem safety car,14,1.683110643662071
+3,3,largou 6-10 + chuva significativa + com safety car,14,1.683110643662071
+3,3,largou 6-10 + seco + com safety car,18,1.4843640640452307
+3,3,largou 6-10 + seco + sem safety car,14,1.683110643662071
+3,3,largou top 5 + chuva pontual + sem safety car,15,1.6260393628552317
+3,3,largou top 5 + chuva significativa + com safety car,14,1.683110643662071
+3,3,largou top 5 + seco + com safety car,19,1.444773887669109
+3,3,largou top 5 + seco + sem safety car,13,1.746646460271351
+3,3,largou chuva + chuva significativa + com safety car,31,1.131086547889579
+3,3,largou duro + chuva pontual + sem safety car,7,2.38027789924141
+3,3,largou duro + seco + com safety car,12,1.8179672747173723
+3,3,largou duro + seco + sem safety car,12,1.8179672747173723
+3,3,largou macio + chuva pontual + sem safety car,17,1.5273980209208484
+3,3,largou macio + chuva significativa + com safety car,13,1.746646460271351
+3,3,largou macio + seco + com safety car,22,1.342657814379573
+3,3,largou macio + seco + sem safety car,14,1.683110643662071
+3,3,largou médio + chuva pontual + sem safety car,31,1.131086547889579
+3,3,largou médio + chuva significativa + com safety car,6,2.5709939758557625
+3,3,largou médio + seco + com safety car,33,1.096275514796815
+3,3,largou médio + seco + sem safety car,28,1.190138949620705
