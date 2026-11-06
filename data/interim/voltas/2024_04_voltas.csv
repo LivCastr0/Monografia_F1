@@ -1,0 +1,908 @@
+ano,round,piloto,equipe,volta,posicao,tempo_volta_s,fim_volta_s,entrada_box_s,saida_box_s,stint,composto,vida_pneu,pneu_novo,bandeira,volta_precisa,gerada_pela_fastf1
+2024,4,VER,Red Bull Racing,1.0,1.0,130.735,3891.506,3889.856,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,PER,Red Bull Racing,1.0,2.0,132.767,3893.504,3891.966,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,NOR,McLaren,1.0,3.0,134.751,3895.488,3893.865,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,SAI,Ferrari,1.0,4.0,137.613,3898.353,3896.098,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,ALO,Aston Martin,1.0,5.0,140.526,3901.28,3899.334,,1.0,SOFT,1.0,True,125,False,False
+2024,4,PIA,McLaren,1.0,6.0,144.356,3905.104,3902.858,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,HAM,Mercedes,1.0,7.0,152.716,3913.546,3911.331,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,LEC,Ferrari,1.0,8.0,154.543,3915.209,3912.799,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,RUS,Mercedes,1.0,9.0,159.587,3920.283,3917.166,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,HUL,Haas F1 Team,1.0,10.0,162.853,3923.624,3920.087,,1.0,SOFT,1.0,True,125,False,False
+2024,4,BOT,Kick Sauber,1.0,11.0,164.736,3925.539,3922.02,,1.0,SOFT,1.0,True,125,False,False
+2024,4,TSU,RB,1.0,12.0,167.566,3928.276,3924.893,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,OCO,Alpine,1.0,13.0,170.167,3931.019,3927.302,,1.0,SOFT,1.0,True,125,False,False
+2024,4,GAS,Alpine,1.0,14.0,173.223,3933.918,3929.811,,1.0,SOFT,1.0,True,125,False,False
+2024,4,STR,Aston Martin,1.0,15.0,179.595,3940.432,3934.947,,1.0,SOFT,1.0,True,125,False,False
+2024,4,MAG,Haas F1 Team,1.0,16.0,185.172,3945.983,3939.276,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,SAR,Williams,1.0,17.0,188.456,3949.309,3942.536,,1.0,SOFT,1.0,True,125,False,False
+2024,4,ZHO,Kick Sauber,1.0,18.0,195.118,3955.918,3949.692,,1.0,MEDIUM,1.0,True,125,False,False
+2024,4,RIC,RB,1.0,,,3891.506,,,1.0,MEDIUM,1.0,True,125,False,True
+2024,4,ALB,Williams,1.0,,,3891.506,,,1.0,SOFT,1.0,True,125,False,True
+2024,4,VER,Red Bull Racing,2.0,1.0,,5602.63,,5465.329,2.0,MEDIUM,2.0,False,1,False,False
+2024,4,PER,Red Bull Racing,2.0,2.0,,5604.869,,5469.531,2.0,MEDIUM,2.0,False,1,False,False
+2024,4,NOR,McLaren,2.0,3.0,,5606.064,,5473.972,2.0,MEDIUM,2.0,False,1,False,False
+2024,4,SAI,Ferrari,2.0,4.0,,5610.557,,5476.209,2.0,MEDIUM,1.0,True,1,False,False
+2024,4,ALO,Aston Martin,2.0,5.0,,5615.906,,5480.261,2.0,SOFT,2.0,False,1,False,False
+2024,4,PIA,McLaren,2.0,6.0,,5619.37,,5483.095,2.0,MEDIUM,2.0,False,1,False,False
+2024,4,HAM,Mercedes,2.0,7.0,,5623.439,,5492.133,2.0,HARD,1.0,True,1,False,False
+2024,4,LEC,Ferrari,2.0,8.0,,5626.87,,5496.027,2.0,MEDIUM,1.0,True,1,False,False
+2024,4,RUS,Mercedes,2.0,9.0,,5629.253,,5498.368,2.0,HARD,1.0,True,1,False,False
+2024,4,HUL,Haas F1 Team,2.0,10.0,,5632.161,,5500.905,2.0,SOFT,2.0,False,1,False,False
+2024,4,BOT,Kick Sauber,2.0,11.0,,5633.975,,5504.274,2.0,SOFT,2.0,False,1,False,False
+2024,4,OCO,Alpine,2.0,12.0,,5642.437,,5513.245,2.0,HARD,1.0,True,1,False,False
+2024,4,GAS,Alpine,2.0,13.0,,5645.61,,5516.442,2.0,HARD,1.0,True,1,False,False
+2024,4,STR,Aston Martin,2.0,14.0,,5648.814,,5520.427,2.0,SOFT,1.0,True,1,False,False
+2024,4,MAG,Haas F1 Team,2.0,15.0,,5651.394,,5523.6,2.0,MEDIUM,1.0,True,1,False,False
+2024,4,SAR,Williams,2.0,16.0,,5653.646,,5527.166,2.0,HARD,1.0,True,1,False,False
+2024,4,ZHO,Kick Sauber,2.0,17.0,,5655.332,,5532.0,2.0,SOFT,1.0,True,1,False,False
+2024,4,TSU,RB,2.0,18.0,,5778.341,,5508.957,2.0,SOFT,4.0,False,1,False,False
+2024,4,VER,Red Bull Racing,3.0,1.0,,5775.449,,,2.0,MEDIUM,3.0,False,1,False,False
+2024,4,PER,Red Bull Racing,3.0,2.0,,5776.44,,,2.0,MEDIUM,3.0,False,1,False,False
+2024,4,NOR,McLaren,3.0,3.0,,5777.347,,,2.0,MEDIUM,3.0,False,1,False,False
+2024,4,SAI,Ferrari,3.0,4.0,,5777.814,,,2.0,MEDIUM,2.0,True,1,False,False
+2024,4,ALO,Aston Martin,3.0,5.0,,5778.42,,,2.0,SOFT,3.0,False,1,False,False
+2024,4,PIA,McLaren,3.0,6.0,,5779.3,,,2.0,MEDIUM,3.0,False,1,False,False
+2024,4,LEC,Ferrari,3.0,7.0,,5779.875,,,2.0,MEDIUM,2.0,True,1,False,False
+2024,4,HAM,Mercedes,3.0,8.0,,5780.503,,,2.0,HARD,2.0,True,1,False,False
+2024,4,TSU,RB,3.0,9.0,,5781.41,,,2.0,SOFT,5.0,False,1,False,False
+2024,4,RUS,Mercedes,3.0,10.0,,5781.841,,,2.0,HARD,2.0,True,1,False,False
+2024,4,OCO,Alpine,3.0,11.0,140.237,5782.674,,,2.0,HARD,2.0,True,1,True,False
+2024,4,BOT,Kick Sauber,3.0,12.0,148.991,5782.966,,,2.0,SOFT,3.0,False,1,True,False
+2024,4,STR,Aston Martin,3.0,13.0,134.682,5783.496,,,2.0,SOFT,2.0,True,1,False,False
+2024,4,GAS,Alpine,3.0,14.0,138.362,5783.972,,,2.0,HARD,2.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,3.0,15.0,132.996,5784.39,,,2.0,MEDIUM,2.0,True,1,True,False
+2024,4,ZHO,Kick Sauber,3.0,16.0,129.289,5784.621,,,2.0,SOFT,2.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,3.0,17.0,,5785.126,,,2.0,SOFT,3.0,False,1,False,False
+2024,4,SAR,Williams,3.0,18.0,132.603,5786.249,,,2.0,HARD,2.0,True,1,True,False
+2024,4,VER,Red Bull Racing,4.0,1.0,96.472,5871.921,,,2.0,MEDIUM,4.0,False,1,True,False
+2024,4,PER,Red Bull Racing,4.0,2.0,96.573,5873.013,,,2.0,MEDIUM,4.0,False,1,True,False
+2024,4,NOR,McLaren,4.0,3.0,96.853,5874.2,,,2.0,MEDIUM,4.0,False,1,True,False
+2024,4,SAI,Ferrari,4.0,4.0,97.225,5875.039,,,2.0,MEDIUM,3.0,True,1,True,False
+2024,4,ALO,Aston Martin,4.0,5.0,97.453,5875.873,,,2.0,SOFT,4.0,False,1,True,False
+2024,4,PIA,McLaren,4.0,6.0,97.734,5877.034,,,2.0,MEDIUM,4.0,False,1,True,False
+2024,4,LEC,Ferrari,4.0,7.0,98.268,5878.143,,,2.0,MEDIUM,3.0,True,1,True,False
+2024,4,HAM,Mercedes,4.0,8.0,98.303,5878.806,,,2.0,HARD,3.0,True,1,True,False
+2024,4,TSU,RB,4.0,9.0,99.108,5880.518,,,2.0,SOFT,6.0,False,1,True,False
+2024,4,RUS,Mercedes,4.0,10.0,98.976,5880.817,,,2.0,HARD,3.0,True,1,True,False
+2024,4,OCO,Alpine,4.0,11.0,99.541,5882.215,,,2.0,HARD,3.0,True,1,True,False
+2024,4,BOT,Kick Sauber,4.0,12.0,99.462,5882.428,,,2.0,SOFT,4.0,False,1,True,False
+2024,4,STR,Aston Martin,4.0,13.0,99.528,5883.024,,,2.0,SOFT,3.0,True,1,True,False
+2024,4,GAS,Alpine,4.0,14.0,99.925,5883.897,,,2.0,HARD,3.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,4.0,15.0,100.103,5884.493,,,2.0,MEDIUM,3.0,True,1,True,False
+2024,4,ZHO,Kick Sauber,4.0,16.0,100.228,5884.849,,,2.0,SOFT,3.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,4.0,17.0,100.374,5885.5,,,2.0,SOFT,4.0,False,1,True,False
+2024,4,SAR,Williams,4.0,18.0,100.424,5886.673,,,2.0,HARD,3.0,True,1,True,False
+2024,4,VER,Red Bull Racing,5.0,1.0,96.437,5968.358,,,2.0,MEDIUM,5.0,False,1,True,False
+2024,4,PER,Red Bull Racing,5.0,2.0,96.568,5969.581,,,2.0,MEDIUM,5.0,False,1,True,False
+2024,4,NOR,McLaren,5.0,3.0,96.86,5971.06,,,2.0,MEDIUM,5.0,False,1,True,False
+2024,4,SAI,Ferrari,5.0,4.0,97.322,5972.361,,,2.0,MEDIUM,4.0,True,1,True,False
+2024,4,ALO,Aston Martin,5.0,5.0,97.532,5973.405,,,2.0,SOFT,5.0,False,1,True,False
+2024,4,PIA,McLaren,5.0,6.0,97.631,5974.665,,,2.0,MEDIUM,5.0,False,1,True,False
+2024,4,LEC,Ferrari,5.0,7.0,97.812,5975.955,,,2.0,MEDIUM,4.0,True,1,True,False
+2024,4,HAM,Mercedes,5.0,8.0,98.139,5976.945,,,2.0,HARD,4.0,True,1,True,False
+2024,4,RUS,Mercedes,5.0,9.0,97.737,5978.554,,,2.0,HARD,4.0,True,1,True,False
+2024,4,TSU,RB,5.0,10.0,99.508,5980.026,,,2.0,SOFT,7.0,False,1,True,False
+2024,4,BOT,Kick Sauber,5.0,11.0,98.279,5980.707,,,2.0,SOFT,5.0,False,1,True,False
+2024,4,OCO,Alpine,5.0,12.0,100.081,5982.296,,,2.0,HARD,4.0,True,1,True,False
+2024,4,STR,Aston Martin,5.0,13.0,99.552,5982.576,,,2.0,SOFT,4.0,True,1,True,False
+2024,4,GAS,Alpine,5.0,14.0,99.473,5983.37,,,2.0,HARD,4.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,5.0,15.0,99.392,5983.885,,,2.0,MEDIUM,4.0,True,1,True,False
+2024,4,ZHO,Kick Sauber,5.0,16.0,99.597,5984.446,,,2.0,SOFT,4.0,True,1,True,False
+2024,4,SAR,Williams,5.0,17.0,99.668,5986.341,,,2.0,HARD,4.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,5.0,18.0,101.491,5986.991,5985.715,,2.0,SOFT,5.0,False,1,False,False
+2024,4,VER,Red Bull Racing,6.0,1.0,96.855,6065.213,,,2.0,MEDIUM,6.0,False,1,True,False
+2024,4,PER,Red Bull Racing,6.0,2.0,97.693,6067.274,,,2.0,MEDIUM,6.0,False,1,True,False
+2024,4,NOR,McLaren,6.0,3.0,97.9,6068.96,,,2.0,MEDIUM,6.0,False,1,True,False
+2024,4,SAI,Ferrari,6.0,4.0,97.721,6070.082,,,2.0,MEDIUM,5.0,True,1,True,False
+2024,4,ALO,Aston Martin,6.0,5.0,97.861,6071.266,,,2.0,SOFT,6.0,False,1,True,False
+2024,4,PIA,McLaren,6.0,6.0,98.141,6072.806,,,2.0,MEDIUM,6.0,False,1,True,False
+2024,4,LEC,Ferrari,6.0,7.0,98.021,6073.976,,,2.0,MEDIUM,5.0,True,1,True,False
+2024,4,HAM,Mercedes,6.0,8.0,98.19,6075.135,,,2.0,HARD,5.0,True,1,True,False
+2024,4,RUS,Mercedes,6.0,9.0,98.392,6076.946,,,2.0,HARD,5.0,True,1,True,False
+2024,4,TSU,RB,6.0,10.0,98.887,6078.913,,,2.0,SOFT,8.0,False,1,True,False
+2024,4,STR,Aston Martin,6.0,11.0,98.746,6081.322,,,2.0,SOFT,5.0,True,1,True,False
+2024,4,BOT,Kick Sauber,6.0,12.0,101.288,6081.995,6080.774,,2.0,SOFT,6.0,False,1,False,False
+2024,4,OCO,Alpine,6.0,13.0,100.496,6082.792,,,2.0,HARD,5.0,True,1,True,False
+2024,4,GAS,Alpine,6.0,14.0,100.257,6083.627,,,2.0,HARD,5.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,6.0,15.0,100.026,6083.911,,,2.0,MEDIUM,5.0,True,1,True,False
+2024,4,ZHO,Kick Sauber,6.0,16.0,99.991,6084.437,,,2.0,SOFT,5.0,True,1,True,False
+2024,4,SAR,Williams,6.0,17.0,99.582,6085.923,,,2.0,HARD,5.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,6.0,18.0,117.275,6104.266,,6009.398,3.0,HARD,1.0,True,1,False,False
+2024,4,VER,Red Bull Racing,7.0,1.0,96.97,6162.183,,,2.0,MEDIUM,7.0,False,1,True,False
+2024,4,PER,Red Bull Racing,7.0,2.0,97.308,6164.582,,,2.0,MEDIUM,7.0,False,1,True,False
+2024,4,NOR,McLaren,7.0,3.0,97.742,6166.702,,,2.0,MEDIUM,7.0,False,1,True,False
+2024,4,SAI,Ferrari,7.0,4.0,97.756,6167.838,,,2.0,MEDIUM,6.0,True,1,True,False
+2024,4,ALO,Aston Martin,7.0,5.0,98.203,6169.469,,,2.0,SOFT,7.0,False,1,True,False
+2024,4,PIA,McLaren,7.0,6.0,98.191,6170.997,,,2.0,MEDIUM,7.0,False,1,True,False
+2024,4,LEC,Ferrari,7.0,7.0,98.187,6172.163,,,2.0,MEDIUM,6.0,True,1,True,False
+2024,4,HAM,Mercedes,7.0,8.0,98.374,6173.509,,,2.0,HARD,6.0,True,1,True,False
+2024,4,RUS,Mercedes,7.0,9.0,98.07,6175.016,,,2.0,HARD,6.0,True,1,True,False
+2024,4,TSU,RB,7.0,10.0,100.998,6179.911,6178.831,,2.0,SOFT,9.0,False,1,False,False
+2024,4,STR,Aston Martin,7.0,11.0,98.624,6179.946,,,2.0,SOFT,6.0,True,1,True,False
+2024,4,OCO,Alpine,7.0,12.0,99.744,6182.536,,,2.0,HARD,6.0,True,1,True,False
+2024,4,GAS,Alpine,7.0,13.0,100.248,6183.875,,,2.0,HARD,6.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,7.0,14.0,100.357,6184.268,,,2.0,MEDIUM,6.0,True,1,True,False
+2024,4,SAR,Williams,7.0,15.0,100.055,6185.978,,,2.0,HARD,6.0,True,1,True,False
+2024,4,ZHO,Kick Sauber,7.0,16.0,102.874,6187.311,6186.219,,2.0,SOFT,6.0,True,1,False,False
+2024,4,BOT,Kick Sauber,7.0,17.0,117.449,6199.444,,6105.457,3.0,HARD,1.0,True,1,False,False
+2024,4,HUL,Haas F1 Team,7.0,18.0,96.751,6201.017,,,3.0,HARD,2.0,True,1,True,False
+2024,4,VER,Red Bull Racing,8.0,1.0,97.329,6259.512,,,2.0,MEDIUM,8.0,False,1,True,False
+2024,4,PER,Red Bull Racing,8.0,2.0,97.22,6261.802,,,2.0,MEDIUM,8.0,False,1,True,False
+2024,4,NOR,McLaren,8.0,3.0,97.824,6264.526,,,2.0,MEDIUM,8.0,False,1,True,False
+2024,4,SAI,Ferrari,8.0,4.0,97.736,6265.574,,,2.0,MEDIUM,7.0,True,1,True,False
+2024,4,ALO,Aston Martin,8.0,5.0,98.461,6267.93,,,2.0,SOFT,8.0,False,1,True,False
+2024,4,PIA,McLaren,8.0,6.0,98.222,6269.219,,,2.0,MEDIUM,8.0,False,1,True,False
+2024,4,LEC,Ferrari,8.0,7.0,97.92,6270.083,,,2.0,MEDIUM,7.0,True,1,True,False
+2024,4,HAM,Mercedes,8.0,8.0,98.096,6271.605,,,2.0,HARD,7.0,True,1,True,False
+2024,4,RUS,Mercedes,8.0,9.0,98.192,6273.208,,,2.0,HARD,7.0,True,1,True,False
+2024,4,STR,Aston Martin,8.0,10.0,98.61,6278.556,,,2.0,SOFT,7.0,True,1,True,False
+2024,4,OCO,Alpine,8.0,11.0,100.009,6282.545,,,2.0,HARD,7.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,8.0,12.0,99.601,6283.869,,,2.0,MEDIUM,7.0,True,1,True,False
+2024,4,GAS,Alpine,8.0,13.0,101.363,6285.238,,,2.0,HARD,7.0,True,1,True,False
+2024,4,SAR,Williams,8.0,14.0,99.655,6285.633,,,2.0,HARD,7.0,True,1,True,False
+2024,4,BOT,Kick Sauber,8.0,15.0,96.706,6296.15,,,3.0,HARD,2.0,True,1,True,False
+2024,4,TSU,RB,8.0,16.0,118.044,6297.955,,6201.965,3.0,HARD,1.0,True,1,False,False
+2024,4,HUL,Haas F1 Team,8.0,17.0,97.616,6298.633,,,3.0,HARD,3.0,True,1,True,False
+2024,4,ZHO,Kick Sauber,8.0,18.0,118.402,6305.713,,6209.998,3.0,HARD,1.0,True,1,False,False
+2024,4,VER,Red Bull Racing,9.0,1.0,97.178,6356.69,,,2.0,MEDIUM,9.0,False,1,True,False
+2024,4,PER,Red Bull Racing,9.0,2.0,97.838,6359.64,,,2.0,MEDIUM,9.0,False,1,True,False
+2024,4,NOR,McLaren,9.0,3.0,97.963,6362.489,,,2.0,MEDIUM,9.0,False,1,True,False
+2024,4,SAI,Ferrari,9.0,4.0,97.98,6363.554,,,2.0,MEDIUM,8.0,True,1,True,False
+2024,4,ALO,Aston Martin,9.0,5.0,98.884,6366.814,,,2.0,SOFT,9.0,False,1,True,False
+2024,4,PIA,McLaren,9.0,6.0,98.5,6367.719,,,2.0,MEDIUM,9.0,False,1,True,False
+2024,4,LEC,Ferrari,9.0,7.0,98.213,6368.296,,,2.0,MEDIUM,8.0,True,1,True,False
+2024,4,HAM,Mercedes,9.0,8.0,98.533,6370.138,,,2.0,HARD,8.0,True,1,True,False
+2024,4,RUS,Mercedes,9.0,9.0,98.253,6371.461,,,2.0,HARD,8.0,True,1,True,False
+2024,4,STR,Aston Martin,9.0,10.0,98.881,6377.437,,,2.0,SOFT,8.0,True,1,True,False
+2024,4,OCO,Alpine,9.0,11.0,100.294,6382.839,,,2.0,HARD,8.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,9.0,12.0,100.251,6384.12,,,2.0,MEDIUM,8.0,True,1,True,False
+2024,4,GAS,Alpine,9.0,13.0,100.78,6386.018,,,2.0,HARD,8.0,True,1,True,False
+2024,4,SAR,Williams,9.0,14.0,100.871,6386.504,,,2.0,HARD,8.0,True,1,True,False
+2024,4,BOT,Kick Sauber,9.0,15.0,97.406,6393.556,,,3.0,HARD,3.0,True,1,True,False
+2024,4,TSU,RB,9.0,16.0,97.17,6395.125,,,3.0,HARD,2.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,9.0,17.0,97.898,6396.531,,,3.0,HARD,4.0,True,1,True,False
+2024,4,ZHO,Kick Sauber,9.0,18.0,97.16,6402.873,,,3.0,HARD,2.0,True,1,True,False
+2024,4,VER,Red Bull Racing,10.0,1.0,97.59,6454.28,,,2.0,MEDIUM,10.0,False,1,True,False
+2024,4,PER,Red Bull Racing,10.0,2.0,97.926,6457.566,,,2.0,MEDIUM,10.0,False,1,True,False
+2024,4,NOR,McLaren,10.0,3.0,98.158,6460.647,,,2.0,MEDIUM,10.0,False,1,True,False
+2024,4,SAI,Ferrari,10.0,4.0,98.304,6461.858,,,2.0,MEDIUM,9.0,True,1,True,False
+2024,4,ALO,Aston Martin,10.0,5.0,98.781,6465.595,,,2.0,SOFT,10.0,False,1,True,False
+2024,4,PIA,McLaren,10.0,6.0,99.011,6466.73,,,2.0,MEDIUM,10.0,False,1,True,False
+2024,4,LEC,Ferrari,10.0,7.0,99.034,6467.33,,,2.0,MEDIUM,9.0,True,1,True,False
+2024,4,HAM,Mercedes,10.0,8.0,98.703,6468.841,,,2.0,HARD,9.0,True,1,True,False
+2024,4,RUS,Mercedes,10.0,9.0,98.368,6469.829,,,2.0,HARD,9.0,True,1,True,False
+2024,4,STR,Aston Martin,10.0,10.0,99.052,6476.489,,,2.0,SOFT,9.0,True,1,True,False
+2024,4,OCO,Alpine,10.0,11.0,100.315,6483.154,,,2.0,HARD,9.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,10.0,12.0,100.177,6484.297,,,2.0,MEDIUM,9.0,True,1,True,False
+2024,4,GAS,Alpine,10.0,13.0,101.117,6487.135,,,2.0,HARD,9.0,True,1,True,False
+2024,4,SAR,Williams,10.0,14.0,100.916,6487.42,,,2.0,HARD,9.0,True,1,True,False
+2024,4,BOT,Kick Sauber,10.0,15.0,97.451,6491.007,,,3.0,HARD,4.0,True,1,True,False
+2024,4,TSU,RB,10.0,16.0,97.496,6492.621,,,3.0,HARD,3.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,10.0,17.0,98.34,6494.871,,,3.0,HARD,5.0,True,1,True,False
+2024,4,ZHO,Kick Sauber,10.0,18.0,97.5,6500.373,,,3.0,HARD,3.0,True,1,True,False
+2024,4,VER,Red Bull Racing,11.0,1.0,97.774,6552.054,,,2.0,MEDIUM,11.0,False,1,True,False
+2024,4,PER,Red Bull Racing,11.0,2.0,98.216,6555.782,,,2.0,MEDIUM,11.0,False,1,True,False
+2024,4,SAI,Ferrari,11.0,3.0,98.273,6560.131,,,2.0,MEDIUM,10.0,True,1,True,False
+2024,4,NOR,McLaren,11.0,4.0,100.76,6561.407,6560.193,,2.0,MEDIUM,11.0,False,1,False,False
+2024,4,ALO,Aston Martin,11.0,5.0,98.943,6564.538,,,2.0,SOFT,11.0,False,1,True,False
+2024,4,PIA,McLaren,11.0,6.0,99.245,6565.975,,,2.0,MEDIUM,11.0,False,1,True,False
+2024,4,LEC,Ferrari,11.0,7.0,99.193,6566.523,,,2.0,MEDIUM,10.0,True,1,True,False
+2024,4,HAM,Mercedes,11.0,8.0,99.292,6568.133,,,2.0,HARD,10.0,True,1,True,False
+2024,4,RUS,Mercedes,11.0,9.0,98.949,6568.778,,,2.0,HARD,10.0,True,1,True,False
+2024,4,STR,Aston Martin,11.0,10.0,99.103,6575.592,,,2.0,SOFT,10.0,True,1,True,False
+2024,4,OCO,Alpine,11.0,11.0,100.371,6583.525,,,2.0,HARD,10.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,11.0,12.0,99.9,6584.197,,,2.0,MEDIUM,10.0,True,1,True,False
+2024,4,SAR,Williams,11.0,13.0,99.348,6586.768,,,2.0,HARD,10.0,True,1,True,False
+2024,4,GAS,Alpine,11.0,14.0,101.628,6588.763,,,2.0,HARD,10.0,True,1,True,False
+2024,4,BOT,Kick Sauber,11.0,15.0,98.432,6589.439,,,3.0,HARD,5.0,True,1,True,False
+2024,4,TSU,RB,11.0,16.0,97.895,6590.516,,,3.0,HARD,4.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,11.0,17.0,98.352,6593.223,,,3.0,HARD,6.0,True,1,True,False
+2024,4,ZHO,Kick Sauber,11.0,18.0,101.117,6601.49,6600.288,,3.0,HARD,4.0,True,1,False,False
+2024,4,VER,Red Bull Racing,12.0,1.0,97.753,6649.807,,,2.0,MEDIUM,12.0,False,1,True,False
+2024,4,PER,Red Bull Racing,12.0,2.0,98.156,6653.938,,,2.0,MEDIUM,12.0,False,1,True,False
+2024,4,SAI,Ferrari,12.0,3.0,97.847,6657.978,,,2.0,MEDIUM,11.0,True,1,True,False
+2024,4,ALO,Aston Martin,12.0,4.0,98.744,6663.282,,,2.0,SOFT,12.0,False,1,True,False
+2024,4,LEC,Ferrari,12.0,5.0,98.883,6665.406,,,2.0,MEDIUM,11.0,True,1,True,False
+2024,4,PIA,McLaren,12.0,6.0,101.083,6667.058,6665.755,,2.0,MEDIUM,12.0,False,1,False,False
+2024,4,HAM,Mercedes,12.0,7.0,99.202,6667.335,,,2.0,HARD,11.0,True,1,True,False
+2024,4,RUS,Mercedes,12.0,8.0,99.212,6667.99,,,2.0,HARD,11.0,True,1,True,False
+2024,4,NOR,McLaren,12.0,9.0,115.643,6677.05,,6583.115,3.0,HARD,1.0,True,1,False,False
+2024,4,STR,Aston Martin,12.0,10.0,101.638,6677.23,6676.07,,2.0,SOFT,11.0,True,1,False,False
+2024,4,OCO,Alpine,12.0,11.0,100.56,6684.085,,,2.0,HARD,11.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,12.0,12.0,100.26,6684.457,,,2.0,MEDIUM,11.0,True,1,True,False
+2024,4,SAR,Williams,12.0,13.0,99.911,6686.679,,,2.0,HARD,11.0,True,1,True,False
+2024,4,GAS,Alpine,12.0,14.0,101.107,6689.87,,,2.0,HARD,11.0,True,1,True,False
+2024,4,BOT,Kick Sauber,12.0,15.0,100.691,6690.13,,,3.0,HARD,6.0,True,1,True,False
+2024,4,TSU,RB,12.0,16.0,100.057,6690.573,,,3.0,HARD,5.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,12.0,17.0,98.847,6692.07,,,3.0,HARD,7.0,True,1,True,False
+2024,4,ZHO,Kick Sauber,12.0,18.0,128.193,6729.683,6728.494,6627.076,4.0,HARD,5.0,False,1,False,False
+2024,4,VER,Red Bull Racing,13.0,1.0,97.727,6747.534,,,2.0,MEDIUM,13.0,False,1,True,False
+2024,4,PER,Red Bull Racing,13.0,2.0,98.125,6752.063,,,2.0,MEDIUM,13.0,False,1,True,False
+2024,4,SAI,Ferrari,13.0,3.0,98.333,6756.311,,,2.0,MEDIUM,12.0,True,1,True,False
+2024,4,LEC,Ferrari,13.0,4.0,98.479,6763.885,,,2.0,MEDIUM,12.0,True,1,True,False
+2024,4,ALO,Aston Martin,13.0,5.0,100.816,6764.098,6762.913,,2.0,SOFT,13.0,False,1,False,False
+2024,4,RUS,Mercedes,13.0,6.0,98.989,6766.979,,,2.0,HARD,12.0,True,1,True,False
+2024,4,HAM,Mercedes,13.0,7.0,100.24,6767.575,,,2.0,HARD,12.0,True,1,True,False
+2024,4,NOR,McLaren,13.0,8.0,95.761,6772.811,,,3.0,HARD,2.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,13.0,9.0,99.267,6783.724,,,2.0,MEDIUM,12.0,True,1,True,False
+2024,4,OCO,Alpine,13.0,10.0,101.341,6785.426,,,2.0,HARD,12.0,True,1,True,False
+2024,4,PIA,McLaren,13.0,11.0,118.558,6785.616,,6689.2,3.0,HARD,1.0,True,1,False,False
+2024,4,SAR,Williams,13.0,12.0,100.197,6786.876,,,2.0,HARD,12.0,True,1,True,False
+2024,4,BOT,Kick Sauber,13.0,13.0,98.282,6788.412,,,3.0,HARD,7.0,True,1,True,False
+2024,4,TSU,RB,13.0,14.0,98.98,6789.553,,,3.0,HARD,6.0,True,1,True,False
+2024,4,GAS,Alpine,13.0,15.0,102.475,6792.345,,,2.0,HARD,12.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,13.0,16.0,100.302,6792.372,,,3.0,HARD,8.0,True,1,True,False
+2024,4,STR,Aston Martin,13.0,17.0,116.221,6793.451,,6699.372,3.0,MEDIUM,1.0,True,1,False,False
+2024,4,VER,Red Bull Racing,14.0,1.0,97.91,6845.444,,,2.0,MEDIUM,14.0,False,1,True,False
+2024,4,PER,Red Bull Racing,14.0,2.0,98.505,6850.568,,,2.0,MEDIUM,14.0,False,1,True,False
+2024,4,SAI,Ferrari,14.0,3.0,98.504,6854.815,,,2.0,MEDIUM,13.0,True,1,True,False
+2024,4,LEC,Ferrari,14.0,4.0,98.595,6862.48,,,2.0,MEDIUM,13.0,True,1,True,False
+2024,4,RUS,Mercedes,14.0,5.0,98.428,6865.407,,,2.0,HARD,13.0,True,1,True,False
+2024,4,HAM,Mercedes,14.0,6.0,99.053,6866.628,,,2.0,HARD,13.0,True,1,True,False
+2024,4,NOR,McLaren,14.0,7.0,96.777,6869.588,,,3.0,HARD,3.0,True,1,True,False
+2024,4,ALO,Aston Martin,14.0,8.0,116.544,6880.642,,6785.914,3.0,MEDIUM,1.0,True,1,False,False
+2024,4,PIA,McLaren,14.0,9.0,97.675,6883.291,,,3.0,HARD,2.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,14.0,10.0,100.786,6884.51,,,2.0,MEDIUM,13.0,True,1,True,False
+2024,4,OCO,Alpine,14.0,11.0,100.787,6886.213,,,2.0,HARD,13.0,True,1,True,False
+2024,4,SAR,Williams,14.0,12.0,99.713,6886.589,,,2.0,HARD,13.0,True,1,True,False
+2024,4,BOT,Kick Sauber,14.0,13.0,98.717,6887.129,,,3.0,HARD,8.0,True,1,True,False
+2024,4,TSU,RB,14.0,14.0,98.51,6888.063,,,3.0,HARD,7.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,14.0,15.0,98.617,6890.989,,,3.0,HARD,9.0,True,1,True,False
+2024,4,STR,Aston Martin,14.0,16.0,97.935,6891.386,,,3.0,MEDIUM,2.0,True,1,True,False
+2024,4,GAS,Alpine,14.0,17.0,101.773,6894.118,,,2.0,HARD,13.0,True,1,True,False
+2024,4,VER,Red Bull Racing,15.0,1.0,97.854,6943.298,,,2.0,MEDIUM,15.0,False,1,True,False
+2024,4,PER,Red Bull Racing,15.0,2.0,100.906,6951.474,6950.225,,2.0,MEDIUM,15.0,False,1,False,False
+2024,4,SAI,Ferrari,15.0,3.0,100.439,6955.254,6954.071,,2.0,MEDIUM,14.0,True,1,False,False
+2024,4,LEC,Ferrari,15.0,4.0,98.172,6960.652,,,2.0,MEDIUM,14.0,True,1,True,False
+2024,4,RUS,Mercedes,15.0,5.0,98.565,6963.972,,,2.0,HARD,14.0,True,1,True,False
+2024,4,HAM,Mercedes,15.0,6.0,98.915,6965.543,,,2.0,HARD,14.0,True,1,True,False
+2024,4,NOR,McLaren,15.0,7.0,96.788,6966.376,,,3.0,HARD,4.0,True,1,True,False
+2024,4,ALO,Aston Martin,15.0,8.0,97.453,6978.095,,,3.0,MEDIUM,2.0,True,1,True,False
+2024,4,PIA,McLaren,15.0,9.0,97.377,6980.668,,,3.0,HARD,3.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,15.0,10.0,99.373,6983.883,,,2.0,MEDIUM,14.0,True,1,True,False
+2024,4,SAR,Williams,15.0,11.0,99.368,6985.957,,,2.0,HARD,14.0,True,1,True,False
+2024,4,OCO,Alpine,15.0,12.0,100.961,6987.174,,,2.0,HARD,14.0,True,1,True,False
+2024,4,BOT,Kick Sauber,15.0,13.0,100.42,6987.549,,,3.0,HARD,9.0,True,1,True,False
+2024,4,TSU,RB,15.0,14.0,99.925,6987.988,,,3.0,HARD,8.0,True,1,True,False
+2024,4,STR,Aston Martin,15.0,15.0,98.125,6989.511,,,3.0,MEDIUM,3.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,15.0,16.0,99.624,6990.613,,,3.0,HARD,10.0,True,1,True,False
+2024,4,GAS,Alpine,15.0,17.0,101.38,6995.498,,,2.0,HARD,14.0,True,1,True,False
+2024,4,VER,Red Bull Racing,16.0,1.0,100.272,7043.57,7042.319,,2.0,MEDIUM,16.0,False,1,False,False
+2024,4,LEC,Ferrari,16.0,2.0,97.876,7058.528,,,2.0,MEDIUM,15.0,True,1,True,False
+2024,4,RUS,Mercedes,16.0,3.0,98.658,7062.63,,,2.0,HARD,15.0,True,1,True,False
+2024,4,HAM,Mercedes,16.0,4.0,98.693,7064.236,,,2.0,HARD,15.0,True,1,True,False
+2024,4,NOR,McLaren,16.0,5.0,98.241,7064.617,,,3.0,HARD,5.0,True,1,True,False
+2024,4,PER,Red Bull Racing,16.0,6.0,114.826,7066.3,,6973.153,3.0,MEDIUM,1.0,True,1,False,False
+2024,4,SAI,Ferrari,16.0,7.0,116.159,7071.413,,6977.184,3.0,MEDIUM,2.0,False,1,False,False
+2024,4,ALO,Aston Martin,16.0,8.0,97.021,7075.116,,,3.0,MEDIUM,3.0,True,1,True,False
+2024,4,PIA,McLaren,16.0,9.0,97.058,7077.726,,,3.0,HARD,4.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,16.0,10.0,99.814,7083.697,,,2.0,MEDIUM,15.0,True,1,True,False
+2024,4,SAR,Williams,16.0,11.0,99.404,7085.361,,,2.0,HARD,15.0,True,1,True,False
+2024,4,BOT,Kick Sauber,16.0,12.0,98.633,7086.182,,,3.0,HARD,10.0,True,1,True,False
+2024,4,OCO,Alpine,16.0,13.0,100.692,7087.866,,,2.0,HARD,15.0,True,1,True,False
+2024,4,TSU,RB,16.0,14.0,100.096,7088.084,,,3.0,HARD,9.0,True,1,True,False
+2024,4,STR,Aston Martin,16.0,15.0,99.274,7088.785,,,3.0,MEDIUM,4.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,16.0,16.0,99.355,7089.968,,,3.0,HARD,11.0,True,1,True,False
+2024,4,GAS,Alpine,16.0,17.0,103.476,7098.974,7097.78,,2.0,HARD,15.0,True,1,False,False
+2024,4,LEC,Ferrari,17.0,1.0,97.856,7156.384,,,2.0,MEDIUM,16.0,True,1,True,False
+2024,4,VER,Red Bull Racing,17.0,2.0,116.478,7160.048,,7065.444,3.0,MEDIUM,1.0,True,1,False,False
+2024,4,RUS,Mercedes,17.0,3.0,99.417,7162.047,,,2.0,HARD,16.0,True,1,True,False
+2024,4,NOR,McLaren,17.0,4.0,97.807,7162.424,,,3.0,HARD,6.0,True,1,True,False
+2024,4,PER,Red Bull Racing,17.0,5.0,97.428,7163.728,,,3.0,MEDIUM,2.0,True,1,True,False
+2024,4,HAM,Mercedes,17.0,6.0,100.53,7164.766,,,2.0,HARD,16.0,True,1,True,False
+2024,4,SAI,Ferrari,17.0,7.0,96.469,7167.882,,,3.0,MEDIUM,3.0,False,1,True,False
+2024,4,ALO,Aston Martin,17.0,8.0,96.999,7172.115,,,3.0,MEDIUM,4.0,True,1,True,False
+2024,4,PIA,McLaren,17.0,9.0,96.747,7174.473,,,3.0,HARD,5.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,17.0,10.0,99.728,7183.425,,,2.0,MEDIUM,16.0,True,1,True,False
+2024,4,SAR,Williams,17.0,11.0,99.216,7184.577,,,2.0,HARD,16.0,True,1,True,False
+2024,4,BOT,Kick Sauber,17.0,12.0,98.718,7184.9,,,3.0,HARD,11.0,True,1,True,False
+2024,4,TSU,RB,17.0,13.0,97.944,7186.028,,,3.0,HARD,10.0,True,1,True,False
+2024,4,STR,Aston Martin,17.0,14.0,98.057,7186.842,,,3.0,MEDIUM,5.0,True,1,True,False
+2024,4,OCO,Alpine,17.0,15.0,100.929,7188.795,,,2.0,HARD,16.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,17.0,16.0,99.312,7189.28,,,3.0,HARD,12.0,True,1,True,False
+2024,4,GAS,Alpine,17.0,17.0,118.732,7217.706,,7121.596,3.0,MEDIUM,1.0,True,1,False,False
+2024,4,LEC,Ferrari,18.0,1.0,97.76,7254.144,,,2.0,MEDIUM,17.0,True,1,True,False
+2024,4,VER,Red Bull Racing,18.0,2.0,96.822,7256.87,,,3.0,MEDIUM,2.0,True,1,True,False
+2024,4,NOR,McLaren,18.0,3.0,96.487,7258.911,,,3.0,HARD,7.0,True,1,True,False
+2024,4,PER,Red Bull Racing,18.0,4.0,97.844,7261.572,,,3.0,MEDIUM,3.0,True,1,True,False
+2024,4,RUS,Mercedes,18.0,5.0,100.317,7262.364,,,2.0,HARD,17.0,True,1,True,False
+2024,4,HAM,Mercedes,18.0,6.0,99.304,7264.07,,,2.0,HARD,17.0,True,1,True,False
+2024,4,SAI,Ferrari,18.0,7.0,96.698,7264.58,,,3.0,MEDIUM,4.0,False,1,True,False
+2024,4,ALO,Aston Martin,18.0,8.0,97.031,7269.146,,,3.0,MEDIUM,5.0,True,1,True,False
+2024,4,PIA,McLaren,18.0,9.0,96.822,7271.295,,,3.0,HARD,6.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,18.0,10.0,99.665,7283.09,,,2.0,MEDIUM,17.0,True,1,True,False
+2024,4,BOT,Kick Sauber,18.0,11.0,98.83,7283.73,,,3.0,HARD,12.0,True,1,True,False
+2024,4,SAR,Williams,18.0,12.0,100.309,7284.886,,,2.0,HARD,17.0,True,1,True,False
+2024,4,TSU,RB,18.0,13.0,99.27,7285.298,,,3.0,HARD,11.0,True,1,True,False
+2024,4,STR,Aston Martin,18.0,14.0,98.843,7285.685,,,3.0,MEDIUM,6.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,18.0,15.0,98.476,7287.756,,,3.0,HARD,13.0,True,1,True,False
+2024,4,OCO,Alpine,18.0,16.0,100.737,7289.532,,,2.0,HARD,17.0,True,1,True,False
+2024,4,GAS,Alpine,18.0,17.0,98.374,7316.08,,,3.0,MEDIUM,2.0,True,1,True,False
+2024,4,LEC,Ferrari,19.0,1.0,97.523,7351.667,,,2.0,MEDIUM,18.0,True,1,True,False
+2024,4,VER,Red Bull Racing,19.0,2.0,96.252,7353.122,,,3.0,MEDIUM,3.0,True,1,True,False
+2024,4,NOR,McLaren,19.0,3.0,96.783,7355.694,,,3.0,HARD,8.0,True,1,True,False
+2024,4,PER,Red Bull Racing,19.0,4.0,96.436,7358.008,,,3.0,MEDIUM,4.0,True,1,True,False
+2024,4,RUS,Mercedes,19.0,5.0,98.392,7360.756,,,2.0,HARD,18.0,True,1,True,False
+2024,4,SAI,Ferrari,19.0,6.0,97.786,7362.366,,,3.0,MEDIUM,5.0,False,1,True,False
+2024,4,HAM,Mercedes,19.0,7.0,99.352,7363.422,,,2.0,HARD,18.0,True,1,True,False
+2024,4,ALO,Aston Martin,19.0,8.0,96.821,7365.967,,,3.0,MEDIUM,6.0,True,1,True,False
+2024,4,PIA,McLaren,19.0,9.0,96.782,7368.077,,,3.0,HARD,7.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,19.0,10.0,99.538,7382.628,,,2.0,MEDIUM,18.0,True,1,True,False
+2024,4,BOT,Kick Sauber,19.0,11.0,99.632,7383.362,,,3.0,HARD,13.0,True,1,True,False
+2024,4,SAR,Williams,19.0,12.0,99.537,7384.423,,,2.0,HARD,18.0,True,1,True,False
+2024,4,TSU,RB,19.0,13.0,99.658,7384.956,,,3.0,HARD,12.0,True,1,True,False
+2024,4,STR,Aston Martin,19.0,14.0,99.757,7385.442,,,3.0,MEDIUM,7.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,19.0,15.0,98.894,7386.65,,,3.0,HARD,14.0,True,1,True,False
+2024,4,OCO,Alpine,19.0,16.0,102.283,7391.815,7390.664,,2.0,HARD,18.0,True,1,False,False
+2024,4,GAS,Alpine,19.0,17.0,98.599,7414.679,,,3.0,MEDIUM,3.0,True,1,True,False
+2024,4,LEC,Ferrari,20.0,1.0,97.48,7449.147,,,2.0,MEDIUM,19.0,True,1,True,False
+2024,4,VER,Red Bull Racing,20.0,2.0,96.402,7449.524,,,3.0,MEDIUM,4.0,True,1,True,False
+2024,4,NOR,McLaren,20.0,3.0,96.847,7452.541,,,3.0,HARD,9.0,True,1,True,False
+2024,4,PER,Red Bull Racing,20.0,4.0,96.206,7454.214,,,3.0,MEDIUM,5.0,True,1,True,False
+2024,4,RUS,Mercedes,20.0,5.0,98.463,7459.219,,,2.0,HARD,19.0,True,1,True,False
+2024,4,SAI,Ferrari,20.0,6.0,97.314,7459.68,,,3.0,MEDIUM,6.0,False,1,True,False
+2024,4,HAM,Mercedes,20.0,7.0,98.619,7462.041,,,2.0,HARD,19.0,True,1,True,False
+2024,4,ALO,Aston Martin,20.0,8.0,97.615,7463.582,,,3.0,MEDIUM,7.0,True,1,True,False
+2024,4,PIA,McLaren,20.0,9.0,96.984,7465.061,,,3.0,HARD,8.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,20.0,10.0,99.262,7481.89,,,2.0,MEDIUM,19.0,True,1,True,False
+2024,4,BOT,Kick Sauber,20.0,11.0,99.113,7482.475,,,3.0,HARD,14.0,True,1,True,False
+2024,4,SAR,Williams,20.0,12.0,98.968,7483.391,,,2.0,HARD,19.0,True,1,True,False
+2024,4,TSU,RB,20.0,13.0,99.1,7484.056,,,3.0,HARD,13.0,True,1,True,False
+2024,4,STR,Aston Martin,20.0,14.0,99.248,7484.69,,,3.0,MEDIUM,8.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,20.0,15.0,99.343,7485.993,,,3.0,HARD,15.0,True,1,True,False
+2024,4,OCO,Alpine,20.0,16.0,118.375,7510.19,,7413.869,3.0,HARD,1.0,True,1,False,False
+2024,4,GAS,Alpine,20.0,17.0,98.741,7513.42,,,3.0,MEDIUM,4.0,True,1,True,False
+2024,4,VER,Red Bull Racing,21.0,1.0,95.617,7545.141,,,3.0,MEDIUM,5.0,True,1,True,False
+2024,4,LEC,Ferrari,21.0,2.0,98.203,7547.35,,,2.0,MEDIUM,20.0,True,1,True,False
+2024,4,NOR,McLaren,21.0,3.0,96.996,7549.537,,,3.0,HARD,10.0,True,1,True,False
+2024,4,PER,Red Bull Racing,21.0,4.0,96.558,7550.772,,,3.0,MEDIUM,6.0,True,1,True,False
+2024,4,SAI,Ferrari,21.0,5.0,97.995,7557.675,,,3.0,MEDIUM,7.0,False,1,True,False
+2024,4,RUS,Mercedes,21.0,6.0,99.492,7558.711,,,2.0,HARD,20.0,True,1,True,False
+2024,4,HAM,Mercedes,21.0,7.0,98.642,7560.683,,,2.0,HARD,20.0,True,1,True,False
+2024,4,ALO,Aston Martin,21.0,8.0,97.565,7561.147,,,3.0,MEDIUM,8.0,True,1,True,False
+2024,4,PIA,McLaren,21.0,9.0,97.416,7562.477,,,3.0,HARD,9.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,21.0,10.0,99.545,7581.435,,,2.0,MEDIUM,20.0,True,1,True,False
+2024,4,BOT,Kick Sauber,21.0,11.0,99.457,7581.932,,,3.0,HARD,15.0,True,1,True,False
+2024,4,SAR,Williams,21.0,12.0,99.612,7583.003,,,2.0,HARD,20.0,True,1,True,False
+2024,4,TSU,RB,21.0,13.0,99.562,7583.618,,,3.0,HARD,14.0,True,1,True,False
+2024,4,STR,Aston Martin,21.0,14.0,99.552,7584.242,,,3.0,MEDIUM,9.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,21.0,15.0,99.78,7585.773,,,3.0,HARD,16.0,True,1,True,False
+2024,4,OCO,Alpine,21.0,16.0,97.716,7607.906,,,3.0,HARD,2.0,True,1,True,False
+2024,4,GAS,Alpine,21.0,17.0,98.415,7611.835,,,3.0,MEDIUM,5.0,True,1,True,False
+2024,4,VER,Red Bull Racing,22.0,1.0,96.384,7641.525,,,3.0,MEDIUM,6.0,True,1,True,False
+2024,4,LEC,Ferrari,22.0,2.0,97.744,7645.094,,,2.0,MEDIUM,21.0,True,1,True,False
+2024,4,PER,Red Bull Racing,22.0,3.0,97.264,7648.036,,,3.0,MEDIUM,7.0,True,1,True,False
+2024,4,NOR,McLaren,22.0,4.0,98.888,7648.425,,,3.0,HARD,11.0,True,1,True,False
+2024,4,SAI,Ferrari,22.0,5.0,96.575,7654.25,,,3.0,MEDIUM,8.0,False,1,True,False
+2024,4,ALO,Aston Martin,22.0,6.0,97.721,7658.868,,,3.0,MEDIUM,9.0,True,1,True,False
+2024,4,RUS,Mercedes,22.0,7.0,100.895,7659.606,7658.477,,2.0,HARD,21.0,True,1,False,False
+2024,4,HAM,Mercedes,22.0,8.0,99.823,7660.506,,,2.0,HARD,21.0,True,1,True,False
+2024,4,PIA,McLaren,22.0,9.0,98.625,7661.102,,,3.0,HARD,10.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,22.0,10.0,102.164,7683.599,7682.273,,2.0,MEDIUM,21.0,True,1,False,False
+2024,4,BOT,Kick Sauber,22.0,11.0,102.311,7684.243,7682.984,,3.0,HARD,16.0,True,1,False,False
+2024,4,SAR,Williams,22.0,12.0,101.989,7684.992,7683.823,,2.0,HARD,21.0,True,1,False,False
+2024,4,HUL,Haas F1 Team,22.0,13.0,99.694,7685.467,,,3.0,HARD,17.0,True,1,True,False
+2024,4,TSU,RB,22.0,14.0,101.916,7685.534,7684.32,,3.0,HARD,15.0,True,1,False,False
+2024,4,STR,Aston Martin,22.0,15.0,102.328,7686.57,7685.374,,3.0,MEDIUM,10.0,True,1,False,False
+2024,4,OCO,Alpine,22.0,16.0,97.775,7705.681,,,3.0,HARD,3.0,True,1,True,False
+2024,4,GAS,Alpine,22.0,17.0,98.382,7710.217,,,3.0,MEDIUM,6.0,True,1,True,False
+2024,4,VER,Red Bull Racing,23.0,1.0,96.205,7737.73,,,3.0,MEDIUM,7.0,True,1,True,False
+2024,4,LEC,Ferrari,23.0,2.0,97.755,7742.849,,,2.0,MEDIUM,22.0,True,1,True,False
+2024,4,PER,Red Bull Racing,23.0,3.0,96.656,7744.692,,,3.0,MEDIUM,8.0,True,1,True,False
+2024,4,NOR,McLaren,23.0,4.0,98.213,7746.638,,,3.0,HARD,12.0,True,1,True,False
+2024,4,SAI,Ferrari,23.0,5.0,96.779,7751.029,,,3.0,MEDIUM,9.0,False,1,True,False
+2024,4,ALO,Aston Martin,23.0,6.0,97.64,7756.508,,,3.0,MEDIUM,10.0,True,1,True,False
+2024,4,PIA,McLaren,23.0,7.0,98.919,7760.021,,,3.0,HARD,11.0,True,1,True,False
+2024,4,HAM,Mercedes,23.0,8.0,101.466,7761.972,7760.721,,2.0,HARD,22.0,True,1,False,False
+2024,4,RUS,Mercedes,23.0,9.0,115.552,7775.158,,7681.873,3.0,HARD,1.0,True,1,False,False
+2024,4,HUL,Haas F1 Team,23.0,10.0,98.965,7784.432,,,3.0,HARD,18.0,True,1,True,False
+2024,4,TSU,RB,23.0,11.0,117.251,7802.785,,7707.738,4.0,HARD,1.0,True,1,False,False
+2024,4,STR,Aston Martin,23.0,12.0,116.743,7803.313,,7708.632,4.0,HARD,1.0,True,1,False,False
+2024,4,OCO,Alpine,23.0,13.0,99.219,7804.9,,,3.0,HARD,4.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,23.0,14.0,121.576,7805.175,,7708.469,3.0,HARD,1.0,True,1,False,False
+2024,4,BOT,Kick Sauber,23.0,15.0,121.647,7805.89,,7708.845,4.0,HARD,1.0,True,1,False,False
+2024,4,SAR,Williams,23.0,16.0,121.843,7806.835,,7709.217,3.0,HARD,1.0,True,1,False,False
+2024,4,GAS,Alpine,23.0,17.0,99.816,7810.033,,,3.0,MEDIUM,7.0,True,1,True,False
+2024,4,VER,Red Bull Racing,24.0,1.0,96.532,7834.262,,,3.0,MEDIUM,8.0,True,1,True,False
+2024,4,LEC,Ferrari,24.0,2.0,98.071,7840.92,,,2.0,MEDIUM,23.0,True,1,True,False
+2024,4,PER,Red Bull Racing,24.0,3.0,96.921,7841.613,,,3.0,MEDIUM,9.0,True,1,True,False
+2024,4,NOR,McLaren,24.0,4.0,97.722,7844.36,,,3.0,HARD,13.0,True,1,True,False
+2024,4,SAI,Ferrari,24.0,5.0,96.805,7847.834,,,3.0,MEDIUM,10.0,False,1,True,False
+2024,4,ALO,Aston Martin,24.0,6.0,97.435,7853.943,,,3.0,MEDIUM,11.0,True,1,True,False
+2024,4,PIA,McLaren,24.0,7.0,97.175,7857.196,,,3.0,HARD,12.0,True,1,True,False
+2024,4,RUS,Mercedes,24.0,8.0,95.149,7870.307,,,3.0,HARD,2.0,True,1,True,False
+2024,4,HAM,Mercedes,24.0,9.0,115.127,7877.099,,7784.066,3.0,HARD,1.0,True,1,False,False
+2024,4,HUL,Haas F1 Team,24.0,10.0,99.261,7883.693,,,3.0,HARD,19.0,True,1,True,False
+2024,4,TSU,RB,24.0,11.0,96.637,7899.422,,,4.0,HARD,2.0,True,1,True,False
+2024,4,STR,Aston Martin,24.0,12.0,96.761,7900.074,,,4.0,HARD,2.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,24.0,13.0,96.654,7901.829,,,3.0,HARD,2.0,True,1,True,False
+2024,4,OCO,Alpine,24.0,14.0,98.924,7903.824,,,3.0,HARD,5.0,True,1,True,False
+2024,4,BOT,Kick Sauber,24.0,15.0,98.126,7904.016,,,4.0,HARD,2.0,True,1,True,False
+2024,4,SAR,Williams,24.0,16.0,98.094,7904.929,,,3.0,HARD,2.0,True,1,True,False
+2024,4,GAS,Alpine,24.0,17.0,98.781,7908.814,,,3.0,MEDIUM,8.0,True,1,True,False
+2024,4,VER,Red Bull Racing,25.0,1.0,96.337,7930.599,,,3.0,MEDIUM,9.0,True,1,True,False
+2024,4,LEC,Ferrari,25.0,2.0,97.918,7938.838,,,2.0,MEDIUM,24.0,True,1,True,False
+2024,4,PER,Red Bull Racing,25.0,3.0,97.76,7939.373,,,3.0,MEDIUM,10.0,True,1,True,False
+2024,4,NOR,McLaren,25.0,4.0,97.558,7941.918,,,3.0,HARD,14.0,True,1,True,False
+2024,4,SAI,Ferrari,25.0,5.0,96.945,7944.779,,,3.0,MEDIUM,11.0,False,1,True,False
+2024,4,ALO,Aston Martin,25.0,6.0,97.423,7951.366,,,3.0,MEDIUM,12.0,True,1,True,False
+2024,4,PIA,McLaren,25.0,7.0,97.776,7954.972,,,3.0,HARD,13.0,True,1,True,False
+2024,4,RUS,Mercedes,25.0,8.0,95.673,7965.98,,,3.0,HARD,3.0,True,1,True,False
+2024,4,HAM,Mercedes,25.0,9.0,95.432,7972.531,,,3.0,HARD,2.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,25.0,10.0,98.781,7982.474,,,3.0,HARD,20.0,True,1,True,False
+2024,4,TSU,RB,25.0,11.0,97.073,7996.495,,,4.0,HARD,3.0,True,1,True,False
+2024,4,STR,Aston Martin,25.0,12.0,96.995,7997.069,,,4.0,HARD,3.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,25.0,13.0,97.033,7998.862,,,3.0,HARD,3.0,True,1,True,False
+2024,4,BOT,Kick Sauber,25.0,14.0,96.608,8000.624,,,4.0,HARD,3.0,True,1,True,False
+2024,4,OCO,Alpine,25.0,15.0,99.084,8002.908,,,3.0,HARD,6.0,True,1,True,False
+2024,4,SAR,Williams,25.0,16.0,98.43,8003.359,,,3.0,HARD,3.0,True,1,True,False
+2024,4,GAS,Alpine,25.0,17.0,99.034,8007.848,,,3.0,MEDIUM,9.0,True,1,True,False
+2024,4,VER,Red Bull Racing,26.0,1.0,96.437,8027.036,,,3.0,MEDIUM,10.0,True,1,True,False
+2024,4,PER,Red Bull Racing,26.0,2.0,97.689,8037.062,,,3.0,MEDIUM,11.0,True,1,True,False
+2024,4,SAI,Ferrari,26.0,3.0,97.137,8041.916,,,3.0,MEDIUM,12.0,False,1,True,False
+2024,4,LEC,Ferrari,26.0,4.0,103.175,8042.013,8040.746,,2.0,MEDIUM,25.0,True,1,False,False
+2024,4,NOR,McLaren,26.0,5.0,100.917,8042.835,8041.517,,3.0,HARD,15.0,True,1,False,False
+2024,4,ALO,Aston Martin,26.0,6.0,97.289,8048.655,,,3.0,MEDIUM,13.0,True,1,True,False
+2024,4,PIA,McLaren,26.0,7.0,97.364,8052.336,,,3.0,HARD,14.0,True,1,True,False
+2024,4,RUS,Mercedes,26.0,8.0,95.775,8061.755,,,3.0,HARD,4.0,True,1,True,False
+2024,4,HAM,Mercedes,26.0,9.0,95.447,8067.978,,,3.0,HARD,3.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,26.0,10.0,99.042,8081.516,,,3.0,HARD,21.0,True,1,True,False
+2024,4,TSU,RB,26.0,11.0,97.037,8093.532,,,4.0,HARD,4.0,True,1,True,False
+2024,4,STR,Aston Martin,26.0,12.0,97.307,8094.376,,,4.0,HARD,4.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,26.0,13.0,97.145,8096.007,,,3.0,HARD,4.0,True,1,True,False
+2024,4,BOT,Kick Sauber,26.0,14.0,96.858,8097.482,,,4.0,HARD,4.0,True,1,True,False
+2024,4,OCO,Alpine,26.0,15.0,98.611,8101.519,,,3.0,HARD,7.0,True,1,True,False
+2024,4,SAR,Williams,26.0,16.0,98.485,8101.844,,,3.0,HARD,4.0,True,1,True,False
+2024,4,GAS,Alpine,26.0,17.0,98.958,8106.806,,,3.0,MEDIUM,10.0,True,1,True,False
+2024,4,VER,Red Bull Racing,27.0,1.0,96.654,8123.69,,,3.0,MEDIUM,11.0,True,1,True,False
+2024,4,PER,Red Bull Racing,27.0,2.0,96.843,8133.905,,,3.0,MEDIUM,12.0,True,1,True,False
+2024,4,SAI,Ferrari,27.0,3.0,97.068,8138.984,,,3.0,MEDIUM,13.0,False,1,True,False
+2024,4,ALO,Aston Martin,27.0,4.0,97.359,8146.014,,,3.0,MEDIUM,14.0,True,1,True,False
+2024,4,PIA,McLaren,27.0,5.0,97.389,8149.725,,,3.0,HARD,15.0,True,1,True,False
+2024,4,LEC,Ferrari,27.0,6.0,115.623,8157.636,,8064.012,3.0,HARD,1.0,True,1,False,False
+2024,4,RUS,Mercedes,27.0,7.0,97.28,8159.035,,,3.0,HARD,5.0,True,1,True,False
+2024,4,NOR,McLaren,27.0,8.0,116.621,8159.456,,8064.855,4.0,HARD,1.0,True,1,False,False
+2024,4,HAM,Mercedes,27.0,9.0,96.135,8164.113,,,3.0,HARD,4.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,27.0,10.0,99.256,8180.772,,,3.0,HARD,22.0,True,1,True,False
+2024,4,TSU,RB,27.0,11.0,97.184,8190.716,,,4.0,HARD,5.0,True,1,True,False
+2024,4,STR,Aston Martin,27.0,12.0,97.244,8191.62,,,4.0,HARD,5.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,27.0,13.0,97.395,8193.402,,,3.0,HARD,5.0,True,1,True,False
+2024,4,BOT,Kick Sauber,27.0,14.0,96.622,8194.104,,,4.0,HARD,5.0,True,1,True,False
+2024,4,SAR,Williams,27.0,15.0,96.59,8198.434,,,3.0,HARD,5.0,True,1,True,False
+2024,4,OCO,Alpine,27.0,16.0,98.943,8200.462,,,3.0,HARD,8.0,True,1,True,False
+2024,4,GAS,Alpine,27.0,17.0,98.902,8205.708,,,3.0,MEDIUM,11.0,True,1,True,False
+2024,4,VER,Red Bull Racing,28.0,1.0,96.496,8220.186,,,3.0,MEDIUM,12.0,True,1,True,False
+2024,4,PER,Red Bull Racing,28.0,2.0,96.733,8230.638,,,3.0,MEDIUM,13.0,True,1,True,False
+2024,4,SAI,Ferrari,28.0,3.0,96.845,8235.829,,,3.0,MEDIUM,14.0,False,1,True,False
+2024,4,ALO,Aston Martin,28.0,4.0,97.341,8243.355,,,3.0,MEDIUM,15.0,True,1,True,False
+2024,4,PIA,McLaren,28.0,5.0,97.438,8247.163,,,3.0,HARD,16.0,True,1,True,False
+2024,4,LEC,Ferrari,28.0,6.0,96.09,8253.726,,,3.0,HARD,2.0,True,1,True,False
+2024,4,NOR,McLaren,28.0,7.0,95.721,8255.177,,,4.0,HARD,2.0,True,1,True,False
+2024,4,RUS,Mercedes,28.0,8.0,97.564,8256.599,,,3.0,HARD,6.0,True,1,True,False
+2024,4,HAM,Mercedes,28.0,9.0,96.295,8260.408,,,3.0,HARD,5.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,28.0,10.0,99.17,8279.942,,,3.0,HARD,23.0,True,1,True,False
+2024,4,TSU,RB,28.0,11.0,97.227,8287.943,,,4.0,HARD,6.0,True,1,True,False
+2024,4,STR,Aston Martin,28.0,12.0,97.088,8288.708,,,4.0,HARD,6.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,28.0,13.0,97.504,8290.906,,,3.0,HARD,6.0,True,1,True,False
+2024,4,BOT,Kick Sauber,28.0,14.0,97.472,8291.576,,,4.0,HARD,6.0,True,1,True,False
+2024,4,SAR,Williams,28.0,15.0,97.429,8295.863,,,3.0,HARD,6.0,True,1,True,False
+2024,4,OCO,Alpine,28.0,16.0,98.612,8299.074,,,3.0,HARD,9.0,True,1,True,False
+2024,4,GAS,Alpine,28.0,17.0,98.873,8304.581,,,3.0,MEDIUM,12.0,True,1,True,False
+2024,4,VER,Red Bull Racing,29.0,1.0,96.655,8316.841,,,3.0,MEDIUM,13.0,True,1,True,False
+2024,4,PER,Red Bull Racing,29.0,2.0,96.969,8327.607,,,3.0,MEDIUM,14.0,True,1,True,False
+2024,4,SAI,Ferrari,29.0,3.0,97.176,8333.005,,,3.0,MEDIUM,15.0,False,1,True,False
+2024,4,ALO,Aston Martin,29.0,4.0,97.782,8341.137,,,3.0,MEDIUM,16.0,True,1,True,False
+2024,4,PIA,McLaren,29.0,5.0,97.771,8344.934,,,3.0,HARD,17.0,True,1,True,False
+2024,4,LEC,Ferrari,29.0,6.0,96.357,8350.083,,,3.0,HARD,3.0,True,1,True,False
+2024,4,NOR,McLaren,29.0,7.0,96.258,8351.435,,,4.0,HARD,3.0,True,1,True,False
+2024,4,RUS,Mercedes,29.0,8.0,96.699,8353.298,,,3.0,HARD,7.0,True,1,True,False
+2024,4,HAM,Mercedes,29.0,9.0,96.746,8357.154,,,3.0,HARD,6.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,29.0,10.0,99.951,8379.893,,,3.0,HARD,24.0,True,1,True,False
+2024,4,TSU,RB,29.0,11.0,97.319,8385.262,,,4.0,HARD,7.0,True,1,True,False
+2024,4,STR,Aston Martin,29.0,12.0,97.633,8386.341,,,4.0,HARD,7.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,29.0,13.0,97.888,8388.794,,,3.0,HARD,7.0,True,1,True,False
+2024,4,BOT,Kick Sauber,29.0,14.0,97.712,8389.288,,,4.0,HARD,7.0,True,1,True,False
+2024,4,SAR,Williams,29.0,15.0,97.679,8393.542,,,3.0,HARD,7.0,True,1,True,False
+2024,4,OCO,Alpine,29.0,16.0,98.702,8397.776,,,3.0,HARD,10.0,True,1,True,False
+2024,4,GAS,Alpine,29.0,17.0,99.052,8403.633,,,3.0,MEDIUM,13.0,True,1,True,False
+2024,4,VER,Red Bull Racing,30.0,1.0,96.849,8413.69,,,3.0,MEDIUM,14.0,True,1,True,False
+2024,4,PER,Red Bull Racing,30.0,2.0,97.097,8424.704,,,3.0,MEDIUM,15.0,True,1,True,False
+2024,4,SAI,Ferrari,30.0,3.0,97.01,8430.015,,,3.0,MEDIUM,16.0,False,1,True,False
+2024,4,ALO,Aston Martin,30.0,4.0,97.643,8438.78,,,3.0,MEDIUM,17.0,True,1,True,False
+2024,4,PIA,McLaren,30.0,5.0,97.946,8442.88,,,3.0,HARD,18.0,True,1,True,False
+2024,4,LEC,Ferrari,30.0,6.0,96.225,8446.308,,,3.0,HARD,4.0,True,1,True,False
+2024,4,NOR,McLaren,30.0,7.0,96.243,8447.678,,,4.0,HARD,4.0,True,1,True,False
+2024,4,RUS,Mercedes,30.0,8.0,96.493,8449.791,,,3.0,HARD,8.0,True,1,True,False
+2024,4,HAM,Mercedes,30.0,9.0,96.399,8453.553,,,3.0,HARD,7.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,30.0,10.0,99.183,8479.076,,,3.0,HARD,25.0,True,1,True,False
+2024,4,TSU,RB,30.0,11.0,97.617,8482.879,,,4.0,HARD,8.0,True,1,True,False
+2024,4,STR,Aston Martin,30.0,12.0,97.361,8483.702,,,4.0,HARD,8.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,30.0,13.0,98.014,8486.808,,,3.0,HARD,8.0,True,1,True,False
+2024,4,BOT,Kick Sauber,30.0,14.0,98.253,8487.541,,,4.0,HARD,8.0,True,1,True,False
+2024,4,SAR,Williams,30.0,15.0,97.511,8491.053,,,3.0,HARD,8.0,True,1,True,False
+2024,4,OCO,Alpine,30.0,16.0,98.499,8496.275,,,3.0,HARD,11.0,True,1,True,False
+2024,4,GAS,Alpine,30.0,17.0,98.894,8502.527,,,3.0,MEDIUM,14.0,True,1,True,False
+2024,4,VER,Red Bull Racing,31.0,1.0,96.761,8510.451,,,3.0,MEDIUM,15.0,True,1,True,False
+2024,4,PER,Red Bull Racing,31.0,2.0,97.118,8521.822,,,3.0,MEDIUM,16.0,True,1,True,False
+2024,4,SAI,Ferrari,31.0,3.0,96.901,8526.916,,,3.0,MEDIUM,17.0,False,1,True,False
+2024,4,ALO,Aston Martin,31.0,4.0,97.451,8536.231,,,3.0,MEDIUM,18.0,True,1,True,False
+2024,4,PIA,McLaren,31.0,5.0,97.845,8540.725,,,3.0,HARD,19.0,True,1,True,False
+2024,4,LEC,Ferrari,31.0,6.0,96.201,8542.509,,,3.0,HARD,5.0,True,1,True,False
+2024,4,NOR,McLaren,31.0,7.0,96.225,8543.903,,,4.0,HARD,5.0,True,1,True,False
+2024,4,RUS,Mercedes,31.0,8.0,96.776,8546.567,,,3.0,HARD,9.0,True,1,True,False
+2024,4,HAM,Mercedes,31.0,9.0,96.586,8550.139,,,3.0,HARD,8.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,31.0,10.0,99.465,8578.541,,,3.0,HARD,26.0,True,1,True,False
+2024,4,TSU,RB,31.0,11.0,97.676,8580.555,,,4.0,HARD,9.0,True,1,True,False
+2024,4,STR,Aston Martin,31.0,12.0,97.729,8581.431,,,4.0,HARD,9.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,31.0,13.0,98.498,8585.306,,,3.0,HARD,9.0,True,1,True,False
+2024,4,BOT,Kick Sauber,31.0,14.0,98.058,8585.599,,,4.0,HARD,9.0,True,1,True,False
+2024,4,SAR,Williams,31.0,15.0,97.495,8588.548,,,3.0,HARD,9.0,True,1,True,False
+2024,4,OCO,Alpine,31.0,16.0,98.662,8594.937,,,3.0,HARD,12.0,True,1,True,False
+2024,4,GAS,Alpine,31.0,17.0,99.45,8601.977,,,3.0,MEDIUM,15.0,True,1,True,False
+2024,4,VER,Red Bull Racing,32.0,1.0,96.92,8607.371,,,3.0,MEDIUM,16.0,True,1,True,False
+2024,4,PER,Red Bull Racing,32.0,2.0,97.106,8618.928,,,3.0,MEDIUM,17.0,True,1,True,False
+2024,4,SAI,Ferrari,32.0,3.0,97.106,8624.022,,,3.0,MEDIUM,18.0,False,1,True,False
+2024,4,ALO,Aston Martin,32.0,4.0,97.635,8633.866,,,3.0,MEDIUM,19.0,True,1,True,False
+2024,4,LEC,Ferrari,32.0,5.0,96.144,8638.653,,,3.0,HARD,6.0,True,1,True,False
+2024,4,PIA,McLaren,32.0,6.0,99.482,8640.207,8639.153,,3.0,HARD,20.0,True,1,False,False
+2024,4,NOR,McLaren,32.0,7.0,96.375,8640.278,,,4.0,HARD,6.0,True,1,True,False
+2024,4,RUS,Mercedes,32.0,8.0,96.744,8643.311,,,3.0,HARD,10.0,True,1,True,False
+2024,4,HAM,Mercedes,32.0,9.0,96.601,8646.74,,,3.0,HARD,9.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,32.0,10.0,100.248,8678.789,,,3.0,HARD,27.0,True,1,True,False
+2024,4,TSU,RB,32.0,11.0,98.624,8679.179,,,4.0,HARD,10.0,True,1,True,False
+2024,4,STR,Aston Martin,32.0,12.0,98.202,8679.633,,,4.0,HARD,10.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,32.0,13.0,98.657,8683.963,,,3.0,HARD,10.0,True,1,True,False
+2024,4,BOT,Kick Sauber,32.0,14.0,98.748,8684.347,,,4.0,HARD,10.0,True,1,True,False
+2024,4,SAR,Williams,32.0,15.0,97.761,8686.309,,,3.0,HARD,10.0,True,1,True,False
+2024,4,OCO,Alpine,32.0,16.0,98.366,8693.303,,,3.0,HARD,13.0,True,1,True,False
+2024,4,GAS,Alpine,32.0,17.0,101.728,8703.705,8702.516,,3.0,MEDIUM,16.0,True,1,False,False
+2024,4,VER,Red Bull Racing,33.0,1.0,97.048,8704.419,,,3.0,MEDIUM,17.0,True,1,True,False
+2024,4,PER,Red Bull Racing,33.0,2.0,99.409,8718.337,8717.143,,3.0,MEDIUM,18.0,True,1,False,False
+2024,4,SAI,Ferrari,33.0,3.0,97.233,8721.255,,,3.0,MEDIUM,19.0,False,1,True,False
+2024,4,ALO,Aston Martin,33.0,4.0,99.794,8733.66,8732.392,,3.0,MEDIUM,20.0,True,1,False,False
+2024,4,LEC,Ferrari,33.0,5.0,95.878,8734.531,,,3.0,HARD,7.0,True,1,True,False
+2024,4,NOR,McLaren,33.0,6.0,96.34,8736.618,,,4.0,HARD,7.0,True,1,True,False
+2024,4,RUS,Mercedes,33.0,7.0,96.383,8739.694,,,3.0,HARD,11.0,True,1,True,False
+2024,4,HAM,Mercedes,33.0,8.0,96.444,8743.184,,,3.0,HARD,10.0,True,1,True,False
+2024,4,PIA,McLaren,33.0,9.0,115.493,8755.7,,8661.799,4.0,HARD,1.0,True,1,False,False
+2024,4,TSU,RB,33.0,10.0,98.692,8777.871,,,4.0,HARD,11.0,True,1,True,False
+2024,4,STR,Aston Martin,33.0,11.0,99.609,8779.242,,,4.0,HARD,11.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,33.0,12.0,98.58,8782.543,,,3.0,HARD,11.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,33.0,13.0,103.896,8782.685,8781.349,,3.0,HARD,28.0,True,1,False,False
+2024,4,BOT,Kick Sauber,33.0,14.0,98.722,8783.069,,,4.0,HARD,11.0,True,1,True,False
+2024,4,SAR,Williams,33.0,15.0,98.166,8784.475,,,3.0,HARD,11.0,True,1,True,False
+2024,4,OCO,Alpine,33.0,16.0,100.764,8794.067,8792.887,,3.0,HARD,14.0,True,1,False,False
+2024,4,GAS,Alpine,33.0,17.0,117.833,8821.538,,8725.541,4.0,HARD,1.0,True,1,False,False
+2024,4,VER,Red Bull Racing,34.0,1.0,99.226,8803.645,8802.429,,3.0,MEDIUM,18.0,True,1,False,False
+2024,4,SAI,Ferrari,34.0,2.0,96.901,8818.156,,,3.0,MEDIUM,20.0,False,1,True,False
+2024,4,LEC,Ferrari,34.0,3.0,96.32,8830.851,,,3.0,HARD,8.0,True,1,True,False
+2024,4,NOR,McLaren,34.0,4.0,96.262,8832.88,,,4.0,HARD,8.0,True,1,True,False
+2024,4,PER,Red Bull Racing,34.0,5.0,114.946,8833.283,,8740.047,4.0,HARD,1.0,True,1,False,False
+2024,4,RUS,Mercedes,34.0,6.0,96.704,8836.398,,,3.0,HARD,12.0,True,1,True,False
+2024,4,HAM,Mercedes,34.0,7.0,96.707,8839.891,,,3.0,HARD,11.0,True,1,True,False
+2024,4,ALO,Aston Martin,34.0,8.0,115.043,8848.703,,8755.488,4.0,HARD,1.0,True,1,False,False
+2024,4,PIA,McLaren,34.0,9.0,95.255,8850.955,,,4.0,HARD,2.0,True,1,True,False
+2024,4,TSU,RB,34.0,10.0,97.793,8875.664,,,4.0,HARD,12.0,True,1,True,False
+2024,4,STR,Aston Martin,34.0,11.0,99.55,8878.792,8877.53,,4.0,HARD,12.0,True,1,False,False
+2024,4,MAG,Haas F1 Team,34.0,12.0,97.93,8880.473,,,3.0,HARD,12.0,True,1,True,False
+2024,4,BOT,Kick Sauber,34.0,13.0,98.003,8881.072,,,4.0,HARD,12.0,True,1,True,False
+2024,4,SAR,Williams,34.0,14.0,100.392,8884.867,8883.67,,3.0,HARD,12.0,True,1,False,False
+2024,4,HUL,Haas F1 Team,34.0,15.0,117.385,8900.07,,8805.476,4.0,HARD,1.0,True,1,False,False
+2024,4,OCO,Alpine,34.0,16.0,117.831,8911.898,,8816.952,4.0,MEDIUM,1.0,True,1,False,False
+2024,4,GAS,Alpine,34.0,17.0,98.671,8920.209,,,4.0,HARD,2.0,True,1,True,False
+2024,4,SAI,Ferrari,35.0,1.0,96.948,8915.104,,,3.0,MEDIUM,21.0,False,1,True,False
+2024,4,VER,Red Bull Racing,35.0,2.0,115.503,8919.148,,8825.581,4.0,HARD,1.0,True,1,False,False
+2024,4,LEC,Ferrari,35.0,3.0,96.056,8926.907,,,3.0,HARD,9.0,True,1,True,False
+2024,4,PER,Red Bull Racing,35.0,4.0,93.945,8927.228,,,4.0,HARD,2.0,True,1,True,False
+2024,4,NOR,McLaren,35.0,5.0,96.614,8929.494,,,4.0,HARD,9.0,True,1,True,False
+2024,4,RUS,Mercedes,35.0,6.0,96.47,8932.868,,,3.0,HARD,13.0,True,1,True,False
+2024,4,HAM,Mercedes,35.0,7.0,96.514,8936.405,,,3.0,HARD,12.0,True,1,True,False
+2024,4,ALO,Aston Martin,35.0,8.0,95.771,8944.474,,,4.0,HARD,2.0,True,1,True,False
+2024,4,PIA,McLaren,35.0,9.0,94.802,8945.757,,,4.0,HARD,3.0,True,1,True,False
+2024,4,TSU,RB,35.0,10.0,97.626,8973.29,,,4.0,HARD,13.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,35.0,11.0,98.046,8978.519,,,3.0,HARD,13.0,True,1,True,False
+2024,4,BOT,Kick Sauber,35.0,12.0,98.007,8979.079,,,4.0,HARD,13.0,True,1,True,False
+2024,4,STR,Aston Martin,35.0,13.0,113.728,8992.52,,8900.378,5.0,SOFT,1.0,True,1,False,False
+2024,4,HUL,Haas F1 Team,35.0,14.0,95.937,8996.007,,,4.0,HARD,2.0,True,1,True,False
+2024,4,SAR,Williams,35.0,15.0,116.181,9001.048,,8907.733,4.0,MEDIUM,1.0,True,1,False,False
+2024,4,OCO,Alpine,35.0,16.0,97.126,9009.024,,,4.0,MEDIUM,2.0,True,1,True,False
+2024,4,GAS,Alpine,35.0,17.0,97.656,9017.865,,,4.0,HARD,3.0,True,1,True,False
+2024,4,VER,Red Bull Racing,36.0,1.0,94.619,9013.767,,,4.0,HARD,2.0,True,1,True,False
+2024,4,SAI,Ferrari,36.0,2.0,99.31,9014.414,9013.275,,3.0,MEDIUM,22.0,False,1,False,False
+2024,4,PER,Red Bull Racing,36.0,3.0,94.479,9021.707,,,4.0,HARD,3.0,True,1,True,False
+2024,4,LEC,Ferrari,36.0,4.0,96.681,9023.588,,,3.0,HARD,10.0,True,1,True,False
+2024,4,NOR,McLaren,36.0,5.0,95.896,9025.39,,,4.0,HARD,10.0,True,1,True,False
+2024,4,RUS,Mercedes,36.0,6.0,96.468,9029.336,,,3.0,HARD,14.0,True,1,True,False
+2024,4,HAM,Mercedes,36.0,7.0,96.191,9032.596,,,3.0,HARD,13.0,True,1,True,False
+2024,4,ALO,Aston Martin,36.0,8.0,95.353,9039.827,,,4.0,HARD,3.0,True,1,True,False
+2024,4,PIA,McLaren,36.0,9.0,95.128,9040.885,,,4.0,HARD,4.0,True,1,True,False
+2024,4,TSU,RB,36.0,10.0,97.103,9070.393,,,4.0,HARD,14.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,36.0,11.0,98.078,9076.597,,,3.0,HARD,14.0,True,1,True,False
+2024,4,BOT,Kick Sauber,36.0,12.0,98.257,9077.336,,,4.0,HARD,14.0,True,1,True,False
+2024,4,STR,Aston Martin,36.0,13.0,95.973,9088.493,,,5.0,SOFT,2.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,36.0,14.0,95.858,9091.865,,,4.0,HARD,3.0,True,1,True,False
+2024,4,SAR,Williams,36.0,15.0,95.497,9096.545,,,4.0,MEDIUM,2.0,True,1,True,False
+2024,4,OCO,Alpine,36.0,16.0,96.983,9106.007,,,4.0,MEDIUM,3.0,True,1,True,False
+2024,4,GAS,Alpine,36.0,17.0,97.283,9115.148,,,4.0,HARD,4.0,True,1,True,False
+2024,4,VER,Red Bull Racing,37.0,1.0,94.97,9108.737,,,4.0,HARD,3.0,True,1,True,False
+2024,4,PER,Red Bull Racing,37.0,2.0,94.808,9116.515,,,4.0,HARD,4.0,True,1,True,False
+2024,4,LEC,Ferrari,37.0,3.0,96.135,9119.723,,,3.0,HARD,11.0,True,1,True,False
+2024,4,NOR,McLaren,37.0,4.0,96.412,9121.802,,,4.0,HARD,11.0,True,1,True,False
+2024,4,RUS,Mercedes,37.0,5.0,98.83,9128.166,9126.931,,3.0,HARD,15.0,True,1,False,False
+2024,4,HAM,Mercedes,37.0,6.0,96.622,9129.218,,,3.0,HARD,14.0,True,1,True,False
+2024,4,SAI,Ferrari,37.0,7.0,115.063,9129.477,,9036.682,4.0,HARD,1.0,True,1,False,False
+2024,4,ALO,Aston Martin,37.0,8.0,95.381,9135.208,,,4.0,HARD,4.0,True,1,True,False
+2024,4,PIA,McLaren,37.0,9.0,95.4,9136.285,,,4.0,HARD,5.0,True,1,True,False
+2024,4,TSU,RB,37.0,10.0,97.419,9167.812,,,4.0,HARD,15.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,37.0,11.0,97.662,9174.259,,,3.0,HARD,15.0,True,1,True,False
+2024,4,BOT,Kick Sauber,37.0,12.0,97.602,9174.938,,,4.0,HARD,15.0,True,1,True,False
+2024,4,STR,Aston Martin,37.0,13.0,96.284,9184.777,,,5.0,SOFT,3.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,37.0,14.0,95.933,9187.798,,,4.0,HARD,4.0,True,1,True,False
+2024,4,SAR,Williams,37.0,15.0,96.103,9192.648,,,4.0,MEDIUM,3.0,True,1,True,False
+2024,4,OCO,Alpine,37.0,16.0,98.763,9204.77,,,4.0,MEDIUM,4.0,True,1,True,False
+2024,4,GAS,Alpine,37.0,17.0,98.426,9213.574,,,4.0,HARD,5.0,True,1,True,False
+2024,4,VER,Red Bull Racing,38.0,1.0,94.986,9203.723,,,4.0,HARD,4.0,True,1,True,False
+2024,4,PER,Red Bull Racing,38.0,2.0,95.245,9211.76,,,4.0,HARD,5.0,True,1,True,False
+2024,4,LEC,Ferrari,38.0,3.0,96.029,9215.752,,,3.0,HARD,12.0,True,1,True,False
+2024,4,NOR,McLaren,38.0,4.0,95.883,9217.685,,,4.0,HARD,12.0,True,1,True,False
+2024,4,SAI,Ferrari,38.0,5.0,93.995,9223.472,,,4.0,HARD,2.0,True,1,True,False
+2024,4,HAM,Mercedes,38.0,6.0,97.458,9226.676,,,3.0,HARD,15.0,True,1,True,False
+2024,4,ALO,Aston Martin,38.0,7.0,95.487,9230.695,,,4.0,HARD,5.0,True,1,True,False
+2024,4,PIA,McLaren,38.0,8.0,95.267,9231.552,,,4.0,HARD,6.0,True,1,True,False
+2024,4,RUS,Mercedes,38.0,9.0,113.925,9242.091,,9149.899,4.0,MEDIUM,2.0,False,1,False,False
+2024,4,TSU,RB,38.0,10.0,97.442,9265.254,,,4.0,HARD,16.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,38.0,11.0,97.789,9272.048,,,3.0,HARD,16.0,True,1,True,False
+2024,4,BOT,Kick Sauber,38.0,12.0,98.0,9272.938,,,4.0,HARD,16.0,True,1,True,False
+2024,4,STR,Aston Martin,38.0,13.0,96.356,9281.133,,,5.0,SOFT,4.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,38.0,14.0,96.13,9283.928,,,4.0,HARD,5.0,True,1,True,False
+2024,4,SAR,Williams,38.0,15.0,96.149,9288.797,,,4.0,MEDIUM,4.0,True,1,True,False
+2024,4,OCO,Alpine,38.0,16.0,96.714,9301.484,,,4.0,MEDIUM,5.0,True,1,True,False
+2024,4,GAS,Alpine,38.0,17.0,96.756,9310.33,,,4.0,HARD,6.0,True,1,True,False
+2024,4,VER,Red Bull Racing,39.0,1.0,94.494,9298.217,,,4.0,HARD,5.0,True,1,True,False
+2024,4,PER,Red Bull Racing,39.0,2.0,94.99,9306.75,,,4.0,HARD,6.0,True,1,True,False
+2024,4,LEC,Ferrari,39.0,3.0,95.693,9311.445,,,3.0,HARD,13.0,True,1,True,False
+2024,4,NOR,McLaren,39.0,4.0,95.706,9313.391,,,4.0,HARD,13.0,True,1,True,False
+2024,4,SAI,Ferrari,39.0,5.0,94.419,9317.891,,,4.0,HARD,3.0,True,1,True,False
+2024,4,HAM,Mercedes,39.0,6.0,99.03,9325.706,9324.495,,3.0,HARD,16.0,True,1,False,False
+2024,4,ALO,Aston Martin,39.0,7.0,95.97,9326.665,,,4.0,HARD,6.0,True,1,True,False
+2024,4,PIA,McLaren,39.0,8.0,96.036,9327.588,,,4.0,HARD,7.0,True,1,True,False
+2024,4,RUS,Mercedes,39.0,9.0,94.404,9336.495,,,4.0,MEDIUM,3.0,False,1,True,False
+2024,4,TSU,RB,39.0,10.0,97.595,9362.849,,,4.0,HARD,17.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,39.0,11.0,97.553,9369.601,,,3.0,HARD,17.0,True,1,True,False
+2024,4,BOT,Kick Sauber,39.0,12.0,97.232,9370.17,,,4.0,HARD,17.0,True,1,True,False
+2024,4,STR,Aston Martin,39.0,13.0,96.614,9377.747,,,5.0,SOFT,5.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,39.0,14.0,95.853,9379.781,,,4.0,HARD,6.0,True,1,True,False
+2024,4,SAR,Williams,39.0,15.0,96.25,9385.047,,,4.0,MEDIUM,5.0,True,1,True,False
+2024,4,OCO,Alpine,39.0,16.0,97.058,9398.542,,,4.0,MEDIUM,6.0,True,1,True,False
+2024,4,GAS,Alpine,39.0,17.0,100.223,9410.553,,,4.0,HARD,7.0,True,1,True,False
+2024,4,VER,Red Bull Racing,40.0,1.0,94.343,9392.56,,,4.0,HARD,6.0,True,1,True,False
+2024,4,PER,Red Bull Racing,40.0,2.0,94.738,9401.488,,,4.0,HARD,7.0,True,1,True,False
+2024,4,LEC,Ferrari,40.0,3.0,96.341,9407.786,,,3.0,HARD,14.0,True,1,True,False
+2024,4,NOR,McLaren,40.0,4.0,96.249,9409.64,,,4.0,HARD,14.0,True,1,True,False
+2024,4,SAI,Ferrari,40.0,5.0,94.396,9412.287,,,4.0,HARD,4.0,True,1,True,False
+2024,4,ALO,Aston Martin,40.0,6.0,95.808,9422.473,,,4.0,HARD,7.0,True,1,True,False
+2024,4,PIA,McLaren,40.0,7.0,95.888,9423.476,,,4.0,HARD,8.0,True,1,True,False
+2024,4,RUS,Mercedes,40.0,8.0,94.537,9431.032,,,4.0,MEDIUM,4.0,False,1,True,False
+2024,4,HAM,Mercedes,40.0,9.0,114.409,9440.115,,9348.309,4.0,MEDIUM,2.0,False,1,False,False
+2024,4,TSU,RB,40.0,10.0,97.441,9460.29,,,4.0,HARD,18.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,40.0,11.0,97.542,9467.143,,,3.0,HARD,18.0,True,1,True,False
+2024,4,BOT,Kick Sauber,40.0,12.0,97.858,9468.028,,,4.0,HARD,18.0,True,1,True,False
+2024,4,STR,Aston Martin,40.0,13.0,95.844,9473.591,,,5.0,SOFT,6.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,40.0,14.0,95.705,9475.486,,,4.0,HARD,7.0,True,1,True,False
+2024,4,SAR,Williams,40.0,15.0,96.282,9481.329,,,4.0,MEDIUM,6.0,True,1,True,False
+2024,4,OCO,Alpine,40.0,16.0,97.58,9496.122,,,4.0,MEDIUM,7.0,True,1,True,False
+2024,4,GAS,Alpine,40.0,17.0,98.072,9508.625,,,4.0,HARD,8.0,True,1,True,False
+2024,4,VER,Red Bull Racing,41.0,1.0,94.273,9486.833,,,4.0,HARD,7.0,True,1,True,False
+2024,4,PER,Red Bull Racing,41.0,2.0,95.03,9496.518,,,4.0,HARD,8.0,True,1,True,False
+2024,4,LEC,Ferrari,41.0,3.0,95.451,9503.237,,,3.0,HARD,15.0,True,1,True,False
+2024,4,NOR,McLaren,41.0,4.0,95.229,9504.869,,,4.0,HARD,15.0,True,1,True,False
+2024,4,SAI,Ferrari,41.0,5.0,94.863,9507.15,,,4.0,HARD,5.0,True,1,True,False
+2024,4,ALO,Aston Martin,41.0,6.0,95.574,9518.047,,,4.0,HARD,8.0,True,1,True,False
+2024,4,PIA,McLaren,41.0,7.0,95.545,9519.021,,,4.0,HARD,9.0,True,1,True,False
+2024,4,RUS,Mercedes,41.0,8.0,94.541,9525.573,,,4.0,MEDIUM,5.0,False,12,True,False
+2024,4,HAM,Mercedes,41.0,9.0,93.952,9534.067,,,4.0,MEDIUM,3.0,False,12,True,False
+2024,4,TSU,RB,41.0,10.0,97.297,9557.587,,,4.0,HARD,19.0,True,12,True,False
+2024,4,MAG,Haas F1 Team,41.0,11.0,97.513,9564.656,,,3.0,HARD,19.0,True,12,True,False
+2024,4,BOT,Kick Sauber,41.0,12.0,97.312,9565.34,,,4.0,HARD,19.0,True,12,True,False
+2024,4,STR,Aston Martin,41.0,13.0,95.798,9569.389,,,5.0,SOFT,7.0,True,12,True,False
+2024,4,HUL,Haas F1 Team,41.0,14.0,95.947,9571.433,,,4.0,HARD,8.0,True,12,True,False
+2024,4,OCO,Alpine,41.0,15.0,99.008,9595.13,,,4.0,MEDIUM,8.0,True,12,True,False
+2024,4,GAS,Alpine,41.0,16.0,97.477,9606.102,,,4.0,HARD,9.0,True,12,True,False
+2024,4,SAR,Williams,41.0,17.0,143.782,9625.111,9623.984,,4.0,MEDIUM,7.0,True,12,False,False
+2024,4,VER,Red Bull Racing,42.0,1.0,94.965,9581.798,,,4.0,HARD,8.0,True,12,True,False
+2024,4,PER,Red Bull Racing,42.0,2.0,95.433,9591.951,,,4.0,HARD,9.0,True,12,True,False
+2024,4,LEC,Ferrari,42.0,3.0,95.797,9599.034,,,3.0,HARD,16.0,True,12,True,False
+2024,4,NOR,McLaren,42.0,4.0,96.217,9601.086,,,4.0,HARD,16.0,True,12,True,False
+2024,4,SAI,Ferrari,42.0,5.0,95.293,9602.443,,,4.0,HARD,6.0,True,12,True,False
+2024,4,ALO,Aston Martin,42.0,6.0,97.292,9615.339,,,4.0,HARD,9.0,True,12,True,False
+2024,4,PIA,McLaren,42.0,7.0,97.548,9616.569,,,4.0,HARD,10.0,True,12,True,False
+2024,4,RUS,Mercedes,42.0,8.0,95.299,9620.872,,,4.0,MEDIUM,6.0,False,21,True,False
+2024,4,HAM,Mercedes,42.0,9.0,94.238,9628.305,,,4.0,MEDIUM,4.0,False,21,True,False
+2024,4,TSU,RB,42.0,10.0,97.493,9655.08,,,4.0,HARD,20.0,True,21,True,False
+2024,4,MAG,Haas F1 Team,42.0,11.0,97.968,9662.624,,,3.0,HARD,20.0,True,21,True,False
+2024,4,BOT,Kick Sauber,42.0,12.0,98.001,9663.341,,,4.0,HARD,20.0,True,21,True,False
+2024,4,STR,Aston Martin,42.0,13.0,96.556,9665.945,,,5.0,SOFT,8.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,42.0,14.0,96.374,9667.807,,,4.0,HARD,9.0,True,1,True,False
+2024,4,OCO,Alpine,42.0,15.0,97.129,9692.259,,,4.0,MEDIUM,9.0,True,1,True,False
+2024,4,GAS,Alpine,42.0,16.0,97.014,9703.116,,,4.0,HARD,10.0,True,1,True,False
+2024,4,SAR,Williams,42.0,17.0,115.171,9740.282,,9647.163,5.0,SOFT,1.0,True,1,False,False
+2024,4,VER,Red Bull Racing,43.0,1.0,94.303,9676.101,,,4.0,HARD,9.0,True,1,True,False
+2024,4,PER,Red Bull Racing,43.0,2.0,95.099,9687.05,,,4.0,HARD,10.0,True,1,True,False
+2024,4,LEC,Ferrari,43.0,3.0,95.713,9694.747,,,3.0,HARD,17.0,True,1,True,False
+2024,4,NOR,McLaren,43.0,4.0,95.92,9697.006,,,4.0,HARD,17.0,True,1,True,False
+2024,4,SAI,Ferrari,43.0,5.0,94.75,9697.193,,,4.0,HARD,7.0,True,1,True,False
+2024,4,ALO,Aston Martin,43.0,6.0,96.092,9711.431,,,4.0,HARD,10.0,True,1,True,False
+2024,4,PIA,McLaren,43.0,7.0,95.841,9712.41,,,4.0,HARD,11.0,True,1,True,False
+2024,4,RUS,Mercedes,43.0,8.0,95.141,9716.013,,,4.0,MEDIUM,7.0,False,1,True,False
+2024,4,HAM,Mercedes,43.0,9.0,94.082,9722.387,,,4.0,MEDIUM,5.0,False,1,True,False
+2024,4,TSU,RB,43.0,10.0,97.498,9752.578,,,4.0,HARD,21.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,43.0,11.0,97.376,9760.0,,,3.0,HARD,21.0,True,1,True,False
+2024,4,BOT,Kick Sauber,43.0,12.0,97.444,9760.785,,,4.0,HARD,21.0,True,1,True,False
+2024,4,STR,Aston Martin,43.0,13.0,96.503,9762.448,,,5.0,SOFT,9.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,43.0,14.0,96.151,9763.958,,,4.0,HARD,10.0,True,1,True,False
+2024,4,OCO,Alpine,43.0,15.0,97.478,9789.737,,,4.0,MEDIUM,10.0,True,1,True,False
+2024,4,GAS,Alpine,43.0,16.0,96.799,9799.915,,,4.0,HARD,11.0,True,1,True,False
+2024,4,SAR,Williams,43.0,17.0,94.9,9835.182,,,5.0,SOFT,2.0,True,1,True,False
+2024,4,VER,Red Bull Racing,44.0,1.0,94.455,9770.556,,,4.0,HARD,10.0,True,1,True,False
+2024,4,PER,Red Bull Racing,44.0,2.0,94.701,9781.751,,,4.0,HARD,11.0,True,1,True,False
+2024,4,LEC,Ferrari,44.0,3.0,95.685,9790.432,,,3.0,HARD,18.0,True,1,True,False
+2024,4,SAI,Ferrari,44.0,4.0,94.336,9791.529,,,4.0,HARD,8.0,True,1,True,False
+2024,4,NOR,McLaren,44.0,5.0,96.391,9793.397,,,4.0,HARD,18.0,True,1,True,False
+2024,4,ALO,Aston Martin,44.0,6.0,95.615,9807.046,,,4.0,HARD,11.0,True,1,True,False
+2024,4,PIA,McLaren,44.0,7.0,95.539,9807.949,,,4.0,HARD,12.0,True,1,True,False
+2024,4,RUS,Mercedes,44.0,8.0,94.834,9810.847,,,4.0,MEDIUM,8.0,False,1,True,False
+2024,4,HAM,Mercedes,44.0,9.0,94.337,9816.724,,,4.0,MEDIUM,6.0,False,1,True,False
+2024,4,TSU,RB,44.0,10.0,97.329,9849.907,,,4.0,HARD,22.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,44.0,11.0,97.475,9857.475,,,3.0,HARD,22.0,True,1,True,False
+2024,4,BOT,Kick Sauber,44.0,12.0,97.507,9858.292,,,4.0,HARD,22.0,True,1,True,False
+2024,4,STR,Aston Martin,44.0,13.0,96.485,9858.933,,,5.0,SOFT,10.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,44.0,14.0,96.769,9860.727,,,4.0,HARD,11.0,True,1,True,False
+2024,4,OCO,Alpine,44.0,15.0,100.961,9890.698,,,4.0,MEDIUM,11.0,True,1,True,False
+2024,4,GAS,Alpine,44.0,16.0,97.201,9897.116,,,4.0,HARD,12.0,True,1,True,False
+2024,4,SAR,Williams,44.0,17.0,95.087,9930.269,,,5.0,SOFT,3.0,True,1,True,False
+2024,4,VER,Red Bull Racing,45.0,1.0,94.606,9865.162,,,4.0,HARD,11.0,True,1,True,False
+2024,4,PER,Red Bull Racing,45.0,2.0,94.996,9876.747,,,4.0,HARD,12.0,True,1,True,False
+2024,4,LEC,Ferrari,45.0,3.0,95.739,9886.171,,,3.0,HARD,19.0,True,1,True,False
+2024,4,SAI,Ferrari,45.0,4.0,95.006,9886.535,,,4.0,HARD,9.0,True,1,True,False
+2024,4,NOR,McLaren,45.0,5.0,96.224,9889.621,,,4.0,HARD,19.0,True,1,True,False
+2024,4,ALO,Aston Martin,45.0,6.0,95.636,9902.682,,,4.0,HARD,12.0,True,1,True,False
+2024,4,PIA,McLaren,45.0,7.0,95.648,9903.597,,,4.0,HARD,13.0,True,1,True,False
+2024,4,RUS,Mercedes,45.0,8.0,94.913,9905.76,,,4.0,MEDIUM,9.0,False,1,True,False
+2024,4,HAM,Mercedes,45.0,9.0,94.791,9911.515,,,4.0,MEDIUM,7.0,False,1,True,False
+2024,4,TSU,RB,45.0,10.0,97.25,9947.157,,,4.0,HARD,23.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,45.0,11.0,97.674,9955.149,,,3.0,HARD,23.0,True,1,True,False
+2024,4,STR,Aston Martin,45.0,12.0,96.806,9955.739,,,5.0,SOFT,11.0,True,1,True,False
+2024,4,BOT,Kick Sauber,45.0,13.0,98.734,9957.026,,,4.0,HARD,23.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,45.0,14.0,96.808,9957.535,,,4.0,HARD,12.0,True,1,True,False
+2024,4,OCO,Alpine,45.0,15.0,96.983,9987.681,,,4.0,MEDIUM,12.0,True,1,True,False
+2024,4,GAS,Alpine,45.0,16.0,96.942,9994.058,,,4.0,HARD,13.0,True,1,True,False
+2024,4,SAR,Williams,45.0,17.0,95.35,10025.619,,,5.0,SOFT,4.0,True,1,True,False
+2024,4,VER,Red Bull Racing,46.0,1.0,94.61,9959.772,,,4.0,HARD,12.0,True,1,True,False
+2024,4,PER,Red Bull Racing,46.0,2.0,94.75,9971.497,,,4.0,HARD,13.0,True,1,True,False
+2024,4,SAI,Ferrari,46.0,3.0,93.841,9980.376,,,4.0,HARD,10.0,True,1,True,False
+2024,4,LEC,Ferrari,46.0,4.0,96.778,9982.949,,,3.0,HARD,20.0,True,1,True,False
+2024,4,NOR,McLaren,46.0,5.0,95.635,9985.256,,,4.0,HARD,20.0,True,1,True,False
+2024,4,ALO,Aston Martin,46.0,6.0,95.827,9998.509,,,4.0,HARD,13.0,True,1,True,False
+2024,4,PIA,McLaren,46.0,7.0,95.755,9999.352,,,4.0,HARD,14.0,True,1,True,False
+2024,4,RUS,Mercedes,46.0,8.0,95.115,10000.875,,,4.0,MEDIUM,10.0,False,1,True,False
+2024,4,HAM,Mercedes,46.0,9.0,94.798,10006.313,,,4.0,MEDIUM,8.0,False,1,True,False
+2024,4,TSU,RB,46.0,10.0,97.046,10044.203,,,4.0,HARD,24.0,True,1,True,False
+2024,4,STR,Aston Martin,46.0,11.0,96.35,10052.089,,,5.0,SOFT,12.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,46.0,12.0,98.332,10053.481,,,3.0,HARD,24.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,46.0,13.0,98.169,10055.704,,,4.0,HARD,13.0,True,1,True,False
+2024,4,BOT,Kick Sauber,46.0,14.0,99.966,10056.992,,,4.0,HARD,24.0,True,1,True,False
+2024,4,OCO,Alpine,46.0,15.0,97.091,10084.772,,,4.0,MEDIUM,13.0,True,1,True,False
+2024,4,GAS,Alpine,46.0,16.0,96.997,10091.055,,,4.0,HARD,14.0,True,1,True,False
+2024,4,SAR,Williams,46.0,17.0,95.778,10121.397,,,5.0,SOFT,5.0,True,1,True,False
+2024,4,VER,Red Bull Racing,47.0,1.0,95.113,10054.885,,,4.0,HARD,13.0,True,1,True,False
+2024,4,PER,Red Bull Racing,47.0,2.0,95.056,10066.553,,,4.0,HARD,14.0,True,1,True,False
+2024,4,SAI,Ferrari,47.0,3.0,95.063,10075.439,,,4.0,HARD,11.0,True,1,True,False
+2024,4,LEC,Ferrari,47.0,4.0,95.922,10078.871,,,3.0,HARD,21.0,True,1,True,False
+2024,4,NOR,McLaren,47.0,5.0,95.633,10080.889,,,4.0,HARD,21.0,True,1,True,False
+2024,4,ALO,Aston Martin,47.0,6.0,95.862,10094.371,,,4.0,HARD,14.0,True,1,True,False
+2024,4,PIA,McLaren,47.0,7.0,95.891,10095.243,,,4.0,HARD,15.0,True,1,True,False
+2024,4,RUS,Mercedes,47.0,8.0,95.317,10096.192,,,4.0,MEDIUM,11.0,False,1,True,False
+2024,4,HAM,Mercedes,47.0,9.0,94.679,10100.992,,,4.0,MEDIUM,9.0,False,1,True,False
+2024,4,TSU,RB,47.0,10.0,97.106,10141.309,,,4.0,HARD,25.0,True,1,True,False
+2024,4,STR,Aston Martin,47.0,11.0,96.704,10148.793,,,5.0,SOFT,13.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,47.0,12.0,98.707,10152.188,,,3.0,HARD,25.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,47.0,13.0,96.827,10152.531,,,4.0,HARD,14.0,True,1,True,False
+2024,4,BOT,Kick Sauber,47.0,14.0,97.9,10154.892,,,4.0,HARD,25.0,True,1,True,False
+2024,4,OCO,Alpine,47.0,15.0,97.381,10182.153,,,4.0,MEDIUM,14.0,True,1,True,False
+2024,4,GAS,Alpine,47.0,16.0,96.759,10187.814,,,4.0,HARD,15.0,True,1,True,False
+2024,4,SAR,Williams,47.0,17.0,95.701,10217.098,,,5.0,SOFT,6.0,True,1,True,False
+2024,4,VER,Red Bull Racing,48.0,1.0,95.75,10150.635,,,4.0,HARD,14.0,True,1,True,False
+2024,4,PER,Red Bull Racing,48.0,2.0,95.383,10161.936,,,4.0,HARD,15.0,True,1,True,False
+2024,4,SAI,Ferrari,48.0,3.0,94.962,10170.401,,,4.0,HARD,12.0,True,1,True,False
+2024,4,LEC,Ferrari,48.0,4.0,95.502,10174.373,,,3.0,HARD,22.0,True,1,True,False
+2024,4,NOR,McLaren,48.0,5.0,95.677,10176.566,,,4.0,HARD,22.0,True,1,True,False
+2024,4,ALO,Aston Martin,48.0,6.0,95.861,10190.232,,,4.0,HARD,15.0,True,1,True,False
+2024,4,PIA,McLaren,48.0,7.0,95.898,10191.141,,,4.0,HARD,16.0,True,1,True,False
+2024,4,RUS,Mercedes,48.0,8.0,95.423,10191.615,,,4.0,MEDIUM,12.0,False,1,True,False
+2024,4,HAM,Mercedes,48.0,9.0,94.9,10195.892,,,4.0,MEDIUM,10.0,False,1,True,False
+2024,4,TSU,RB,48.0,10.0,97.038,10238.347,,,4.0,HARD,26.0,True,1,True,False
+2024,4,STR,Aston Martin,48.0,11.0,98.033,10246.826,,,5.0,SOFT,14.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,48.0,12.0,95.733,10248.264,,,4.0,HARD,15.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,48.0,13.0,98.319,10250.507,,,3.0,HARD,26.0,True,1,True,False
+2024,4,BOT,Kick Sauber,48.0,14.0,97.206,10252.098,,,4.0,HARD,26.0,True,1,True,False
+2024,4,OCO,Alpine,48.0,15.0,96.836,10278.989,,,4.0,MEDIUM,15.0,True,1,True,False
+2024,4,GAS,Alpine,48.0,16.0,96.642,10284.456,,,4.0,HARD,16.0,True,1,True,False
+2024,4,SAR,Williams,48.0,17.0,95.837,10312.935,,,5.0,SOFT,7.0,True,1,True,False
+2024,4,VER,Red Bull Racing,49.0,1.0,94.885,10245.52,,,4.0,HARD,15.0,True,1,True,False
+2024,4,PER,Red Bull Racing,49.0,2.0,95.035,10256.971,,,4.0,HARD,16.0,True,1,True,False
+2024,4,SAI,Ferrari,49.0,3.0,94.752,10265.153,,,4.0,HARD,13.0,True,1,True,False
+2024,4,LEC,Ferrari,49.0,4.0,95.543,10269.916,,,3.0,HARD,23.0,True,1,True,False
+2024,4,NOR,McLaren,49.0,5.0,95.354,10271.92,,,4.0,HARD,23.0,True,1,True,False
+2024,4,ALO,Aston Martin,49.0,6.0,95.831,10286.063,,,4.0,HARD,16.0,True,1,True,False
+2024,4,PIA,McLaren,49.0,7.0,96.179,10287.32,,,4.0,HARD,17.0,True,1,True,False
+2024,4,RUS,Mercedes,49.0,8.0,96.024,10287.639,,,4.0,MEDIUM,13.0,False,1,True,False
+2024,4,HAM,Mercedes,49.0,9.0,95.047,10290.939,,,4.0,MEDIUM,11.0,False,1,True,False
+2024,4,TSU,RB,49.0,10.0,96.557,10334.904,,,4.0,HARD,27.0,True,1,True,False
+2024,4,STR,Aston Martin,49.0,11.0,96.381,10343.207,,,5.0,SOFT,15.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,49.0,12.0,96.235,10344.499,,,4.0,HARD,16.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,49.0,13.0,97.519,10348.026,,,3.0,HARD,27.0,True,1,True,False
+2024,4,BOT,Kick Sauber,49.0,14.0,96.944,10349.042,,,4.0,HARD,27.0,True,1,True,False
+2024,4,OCO,Alpine,49.0,15.0,96.691,10375.68,,,4.0,MEDIUM,16.0,True,1,True,False
+2024,4,GAS,Alpine,49.0,16.0,98.65,10383.106,,,4.0,HARD,17.0,True,1,True,False
+2024,4,SAR,Williams,49.0,17.0,95.619,10408.554,,,5.0,SOFT,8.0,True,1,True,False
+2024,4,VER,Red Bull Racing,50.0,1.0,93.706,10339.226,,,4.0,HARD,16.0,True,1,True,False
+2024,4,PER,Red Bull Racing,50.0,2.0,95.244,10352.215,,,4.0,HARD,17.0,True,1,True,False
+2024,4,SAI,Ferrari,50.0,3.0,94.636,10359.789,,,4.0,HARD,14.0,True,1,True,False
+2024,4,LEC,Ferrari,50.0,4.0,95.274,10365.19,,,3.0,HARD,24.0,True,1,True,False
+2024,4,NOR,McLaren,50.0,5.0,95.268,10367.188,,,4.0,HARD,24.0,True,1,True,False
+2024,4,ALO,Aston Martin,50.0,6.0,96.008,10382.071,,,4.0,HARD,17.0,True,1,True,False
+2024,4,PIA,McLaren,50.0,7.0,96.228,10383.548,,,4.0,HARD,18.0,True,1,True,False
+2024,4,RUS,Mercedes,50.0,8.0,96.465,10384.104,,,4.0,MEDIUM,14.0,False,1,True,False
+2024,4,HAM,Mercedes,50.0,9.0,95.43,10386.369,,,4.0,MEDIUM,12.0,False,1,True,False
+2024,4,TSU,RB,50.0,10.0,96.388,10431.292,,,4.0,HARD,28.0,True,1,True,False
+2024,4,STR,Aston Martin,50.0,11.0,96.165,10439.372,,,5.0,SOFT,16.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,50.0,12.0,95.718,10440.217,,,4.0,HARD,17.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,50.0,13.0,97.42,10445.446,,,3.0,HARD,28.0,True,1,True,False
+2024,4,BOT,Kick Sauber,50.0,14.0,99.195,10448.237,,,4.0,HARD,28.0,True,1,True,False
+2024,4,OCO,Alpine,50.0,15.0,96.636,10472.316,,,4.0,MEDIUM,17.0,True,1,True,False
+2024,4,GAS,Alpine,50.0,16.0,100.961,10484.067,,,4.0,HARD,18.0,True,1,True,False
+2024,4,SAR,Williams,50.0,17.0,95.49,10504.044,,,5.0,SOFT,9.0,True,1,True,False
+2024,4,VER,Red Bull Racing,51.0,1.0,94.768,10433.994,,,4.0,HARD,17.0,True,1,True,False
+2024,4,PER,Red Bull Racing,51.0,2.0,94.89,10447.105,,,4.0,HARD,18.0,True,1,True,False
+2024,4,SAI,Ferrari,51.0,3.0,94.877,10454.666,,,4.0,HARD,15.0,True,1,True,False
+2024,4,LEC,Ferrari,51.0,4.0,95.199,10460.389,,,3.0,HARD,25.0,True,1,True,False
+2024,4,NOR,McLaren,51.0,5.0,95.186,10462.374,,,4.0,HARD,25.0,True,1,True,False
+2024,4,ALO,Aston Martin,51.0,6.0,96.069,10478.14,,,4.0,HARD,18.0,True,1,True,False
+2024,4,PIA,McLaren,51.0,7.0,95.429,10478.977,,,4.0,HARD,19.0,True,1,True,False
+2024,4,RUS,Mercedes,51.0,8.0,95.429,10479.533,,,4.0,MEDIUM,15.0,False,1,True,False
+2024,4,HAM,Mercedes,51.0,9.0,95.476,10481.845,,,4.0,MEDIUM,13.0,False,1,True,False
+2024,4,TSU,RB,51.0,10.0,96.342,10527.634,,,4.0,HARD,29.0,True,1,True,False
+2024,4,STR,Aston Martin,51.0,11.0,96.27,10535.642,,,5.0,SOFT,17.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,51.0,12.0,95.853,10536.07,,,4.0,HARD,18.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,51.0,13.0,98.878,10544.324,,,3.0,HARD,29.0,True,1,True,False
+2024,4,BOT,Kick Sauber,51.0,14.0,97.156,10545.393,,,4.0,HARD,29.0,True,1,True,False
+2024,4,OCO,Alpine,51.0,15.0,96.831,10569.147,,,4.0,MEDIUM,18.0,True,1,True,False
+2024,4,GAS,Alpine,51.0,16.0,97.721,10581.788,,,4.0,HARD,19.0,True,1,True,False
+2024,4,SAR,Williams,51.0,17.0,95.233,10599.277,,,5.0,SOFT,10.0,True,1,True,False
+2024,4,VER,Red Bull Racing,52.0,1.0,94.97,10528.964,,,4.0,HARD,18.0,True,1,True,False
+2024,4,PER,Red Bull Racing,52.0,2.0,94.929,10542.034,,,4.0,HARD,19.0,True,1,True,False
+2024,4,SAI,Ferrari,52.0,3.0,95.203,10549.869,,,4.0,HARD,16.0,True,1,True,False
+2024,4,LEC,Ferrari,52.0,4.0,95.316,10555.705,,,3.0,HARD,26.0,True,1,True,False
+2024,4,NOR,McLaren,52.0,5.0,95.832,10558.206,,,4.0,HARD,26.0,True,1,True,False
+2024,4,ALO,Aston Martin,52.0,6.0,95.633,10573.773,,,4.0,HARD,19.0,True,1,True,False
+2024,4,PIA,McLaren,52.0,7.0,96.164,10575.141,,,4.0,HARD,20.0,True,1,True,False
+2024,4,RUS,Mercedes,52.0,8.0,95.743,10575.276,,,4.0,MEDIUM,16.0,False,1,True,False
+2024,4,HAM,Mercedes,52.0,9.0,95.235,10577.08,,,4.0,MEDIUM,14.0,False,1,True,False
+2024,4,TSU,RB,52.0,10.0,98.195,10625.829,,,4.0,HARD,30.0,True,1,True,False
+2024,4,HUL,Haas F1 Team,52.0,11.0,95.325,10631.395,,,4.0,HARD,19.0,True,1,True,False
+2024,4,STR,Aston Martin,52.0,12.0,99.818,10635.46,,,5.0,SOFT,18.0,True,1,True,False
+2024,4,MAG,Haas F1 Team,52.0,13.0,97.822,10642.146,,,3.0,HARD,30.0,True,1,True,False
+2024,4,BOT,Kick Sauber,52.0,14.0,97.727,10643.12,,,4.0,HARD,30.0,True,1,True,False
+2024,4,OCO,Alpine,52.0,15.0,96.232,10665.379,,,4.0,MEDIUM,19.0,True,1,True,False
+2024,4,GAS,Alpine,52.0,16.0,97.505,10679.293,,,4.0,HARD,20.0,True,1,True,False
+2024,4,SAR,Williams,52.0,17.0,97.715,10696.992,,,5.0,SOFT,11.0,True,1,True,False
+2024,4,VER,Red Bull Racing,53.0,1.0,95.263,10624.227,,,4.0,HARD,19.0,True,1,True,False
+2024,4,PER,Red Bull Racing,53.0,2.0,94.728,10636.762,,,4.0,HARD,20.0,True,1,True,False
+2024,4,SAI,Ferrari,53.0,3.0,95.224,10645.093,,,4.0,HARD,17.0,True,1,True,False
+2024,4,LEC,Ferrari,53.0,4.0,95.044,10650.749,,,3.0,HARD,27.0,True,1,True,False
+2024,4,NOR,McLaren,53.0,5.0,95.721,10653.927,,,4.0,HARD,27.0,True,1,True,False
+2024,4,ALO,Aston Martin,53.0,6.0,94.726,10668.499,,,4.0,HARD,20.0,True,1,True,False
+2024,4,RUS,Mercedes,53.0,7.0,94.902,10670.178,,,4.0,MEDIUM,17.0,False,1,True,False
+2024,4,PIA,McLaren,53.0,8.0,96.611,10671.752,,,4.0,HARD,21.0,True,1,True,False
+2024,4,HAM,Mercedes,53.0,9.0,95.773,10672.853,,,4.0,MEDIUM,15.0,False,1,True,False

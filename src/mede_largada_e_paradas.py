@@ -141,7 +141,7 @@ print("   marcando problema (furo, dano), não escolha estratégica.")
 
 # Os dois descritores lado a lado: o absoluto separa melhor ou pior que o
 # relativo? Uso a variação do alvo explicada por cada um.
-for nome, col in [("absoluto (até 1 / 2 / 3+)", "d_paradas"),
+for nome, col in [("absoluto (até 1 / 2 / 3+)", "paradas_abs"),
                   ("relativo à corrida", "paradas_rel")]:
     m = df.groupby(col)["alvo_ajustado"].transform("mean")
     ve = 1 - ((df["alvo_ajustado"] - m).var() / df["alvo_ajustado"].var())

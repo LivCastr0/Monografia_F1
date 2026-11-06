@@ -35,6 +35,11 @@ QUANTOS_RESULTADOS = 30
 PESO_TAMANHO = 0.5     # o `a` da medida: 0 ignora tamanho, 1 pesa linearmente
 
 df = pd.read_csv(ENTRADA)
+# A base agora traz paradas e momento relativos à corrida. Esta rodada foi feita
+# com as versões absolutas, e estas duas linhas mantêm o resultado reproduzível.
+# A busca com as correções está em busca_subgrupos_rodada2.py.
+df["d_paradas"] = df["paradas_abs"]
+df["d_momento"] = df["momento_abs"]
 descritores = [c for c in df.columns if c.startswith("d_")]
 
 print(f"Base: {len(df)} linhas")

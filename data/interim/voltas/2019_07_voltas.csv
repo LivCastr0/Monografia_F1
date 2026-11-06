@@ -1,0 +1,1313 @@
+ano,round,piloto,equipe,volta,posicao,tempo_volta_s,fim_volta_s,entrada_box_s,saida_box_s,stint,composto,vida_pneu,pneu_novo,bandeira,volta_precisa,gerada_pela_fastf1
+2019,7,VET,Ferrari,1.0,1.0,80.816,2065.016,,,1.0,MEDIUM,6.0,False,12,False,False
+2019,7,HAM,Mercedes,1.0,2.0,82.018,2066.218,,,1.0,MEDIUM,4.0,False,12,False,False
+2019,7,LEC,Ferrari,1.0,3.0,83.464,2067.664,,,1.0,MEDIUM,6.0,False,12,False,False
+2019,7,RIC,Renault,1.0,4.0,84.28,2068.48,,,1.0,SOFT,4.0,False,12,False,False
+2019,7,GAS,Red Bull Racing,1.0,5.0,85.163,2069.363,,,1.0,SOFT,4.0,False,12,False,False
+2019,7,HUL,Renault,1.0,6.0,85.83,2070.03,,,1.0,SOFT,4.0,False,12,False,False
+2019,7,BOT,Mercedes,1.0,7.0,86.523,2070.723,,,1.0,MEDIUM,4.0,False,12,False,False
+2019,7,NOR,McLaren,1.0,8.0,88.019,2072.219,,,1.0,SOFT,4.0,False,12,False,False
+2019,7,VER,Red Bull Racing,1.0,9.0,88.355,2072.555,,,1.0,HARD,1.0,True,12,False,False
+2019,7,KVY,Toro Rosso,1.0,10.0,88.76,2072.96,,,1.0,MEDIUM,1.0,True,12,False,False
+2019,7,SAI,McLaren,1.0,11.0,89.212,2073.412,,,1.0,SOFT,4.0,False,12,False,False
+2019,7,PER,Racing Point,1.0,12.0,90.218,2074.418,,,1.0,MEDIUM,1.0,True,12,False,False
+2019,7,GIO,Alfa Romeo Racing,1.0,13.0,90.799,2074.999,,,1.0,HARD,1.0,True,12,False,False
+2019,7,STR,Racing Point,1.0,14.0,91.449,2075.649,,,1.0,HARD,1.0,True,12,False,False
+2019,7,RUS,Williams,1.0,15.0,92.719,2076.919,,,1.0,MEDIUM,1.0,True,12,False,False
+2019,7,KUB,Williams,1.0,16.0,93.207,2077.407,,,1.0,MEDIUM,1.0,True,12,False,False
+2019,7,RAI,Alfa Romeo Racing,1.0,17.0,93.798,2077.998,,,1.0,MEDIUM,1.0,True,12,False,False
+2019,7,GRO,Haas F1 Team,1.0,18.0,94.725,2078.925,,,1.0,MEDIUM,1.0,True,12,False,False
+2019,7,MAG,Haas F1 Team,1.0,19.0,98.531,2082.731,,1998.385,1.0,HARD,1.0,True,12,False,False
+2019,7,ALB,Toro Rosso,1.0,20.0,126.344,2110.544,2074.058,,1.0,MEDIUM,1.0,True,12,False,False
+2019,7,VET,Ferrari,2.0,1.0,77.197,2142.213,,,1.0,MEDIUM,7.0,False,21,True,False
+2019,7,HAM,Mercedes,2.0,2.0,77.587,2143.805,,,1.0,MEDIUM,5.0,False,21,True,False
+2019,7,LEC,Ferrari,2.0,3.0,77.965,2145.629,,,1.0,MEDIUM,7.0,False,21,True,False
+2019,7,RIC,Renault,2.0,4.0,78.803,2147.283,,,1.0,SOFT,5.0,False,21,True,False
+2019,7,GAS,Red Bull Racing,2.0,5.0,78.634,2147.997,,,1.0,SOFT,5.0,False,21,True,False
+2019,7,HUL,Renault,2.0,6.0,78.96,2148.99,,,1.0,SOFT,5.0,False,21,True,False
+2019,7,BOT,Mercedes,2.0,7.0,78.947,2149.67,,,1.0,MEDIUM,5.0,False,21,True,False
+2019,7,NOR,McLaren,2.0,8.0,78.788,2151.007,,,1.0,SOFT,5.0,False,21,True,False
+2019,7,VER,Red Bull Racing,2.0,9.0,79.047,2151.602,,,1.0,HARD,2.0,True,21,True,False
+2019,7,KVY,Toro Rosso,2.0,10.0,79.873,2152.833,,,1.0,MEDIUM,2.0,True,1,True,False
+2019,7,SAI,McLaren,2.0,11.0,80.193,2153.605,,,1.0,SOFT,5.0,False,1,True,False
+2019,7,PER,Racing Point,2.0,12.0,79.939,2154.357,,,1.0,MEDIUM,2.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,2.0,13.0,80.243,2155.242,,,1.0,HARD,2.0,True,1,True,False
+2019,7,STR,Racing Point,2.0,14.0,80.275,2155.924,,,1.0,HARD,2.0,True,1,True,False
+2019,7,RUS,Williams,2.0,15.0,80.343,2157.262,,,1.0,MEDIUM,2.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,2.0,16.0,81.06,2159.058,,,1.0,MEDIUM,2.0,True,1,True,False
+2019,7,KUB,Williams,2.0,17.0,82.219,2159.626,,,1.0,MEDIUM,2.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,2.0,18.0,81.067,2159.992,,,1.0,MEDIUM,2.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,2.0,19.0,78.822,2161.553,,,1.0,HARD,2.0,True,1,True,False
+2019,7,ALB,Toro Rosso,2.0,20.0,82.732,2193.276,,2112.151,2.0,HARD,1.0,True,1,False,False
+2019,7,VET,Ferrari,3.0,1.0,76.846,2219.059,,,1.0,MEDIUM,8.0,False,1,True,False
+2019,7,HAM,Mercedes,3.0,2.0,77.134,2220.939,,,1.0,MEDIUM,6.0,False,1,True,False
+2019,7,LEC,Ferrari,3.0,3.0,77.009,2222.638,,,1.0,MEDIUM,8.0,False,1,True,False
+2019,7,RIC,Renault,3.0,4.0,77.963,2225.246,,,1.0,SOFT,6.0,False,1,True,False
+2019,7,GAS,Red Bull Racing,3.0,5.0,77.954,2225.951,,,1.0,SOFT,6.0,False,1,True,False
+2019,7,HUL,Renault,3.0,6.0,77.663,2226.653,,,1.0,SOFT,6.0,False,1,True,False
+2019,7,BOT,Mercedes,3.0,7.0,78.084,2227.754,,,1.0,MEDIUM,6.0,False,1,True,False
+2019,7,NOR,McLaren,3.0,8.0,78.048,2229.055,,,1.0,SOFT,6.0,False,1,True,False
+2019,7,VER,Red Bull Racing,3.0,9.0,77.922,2229.524,,,1.0,HARD,3.0,True,1,True,False
+2019,7,KVY,Toro Rosso,3.0,10.0,79.143,2231.976,,,1.0,MEDIUM,3.0,True,1,True,False
+2019,7,PER,Racing Point,3.0,11.0,79.169,2233.526,,,1.0,MEDIUM,3.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,3.0,12.0,78.859,2234.101,,,1.0,HARD,3.0,True,1,True,False
+2019,7,STR,Racing Point,3.0,13.0,78.992,2234.916,,,1.0,HARD,3.0,True,1,True,False
+2019,7,RUS,Williams,3.0,14.0,79.857,2237.119,,,1.0,MEDIUM,3.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,3.0,15.0,78.808,2237.866,,,1.0,MEDIUM,3.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,3.0,16.0,80.354,2240.346,,,1.0,MEDIUM,3.0,True,1,True,False
+2019,7,KUB,Williams,3.0,17.0,81.761,2241.387,,,1.0,MEDIUM,3.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,3.0,18.0,79.954,2241.507,,,1.0,HARD,3.0,True,1,True,False
+2019,7,SAI,McLaren,3.0,19.0,95.736,2249.341,2226.597,,1.0,SOFT,6.0,False,1,False,False
+2019,7,ALB,Toro Rosso,3.0,20.0,79.835,2273.111,,,2.0,HARD,2.0,True,1,True,False
+2019,7,VET,Ferrari,4.0,1.0,76.833,2295.892,,,1.0,MEDIUM,9.0,False,1,True,False
+2019,7,HAM,Mercedes,4.0,2.0,76.831,2297.77,,,1.0,MEDIUM,7.0,False,1,True,False
+2019,7,LEC,Ferrari,4.0,3.0,76.826,2299.464,,,1.0,MEDIUM,9.0,False,1,True,False
+2019,7,RIC,Renault,4.0,4.0,77.488,2302.734,,,1.0,SOFT,7.0,False,1,True,False
+2019,7,GAS,Red Bull Racing,4.0,5.0,77.767,2303.718,,,1.0,SOFT,7.0,False,1,True,False
+2019,7,HUL,Renault,4.0,6.0,77.77,2304.423,,,1.0,SOFT,7.0,False,1,True,False
+2019,7,BOT,Mercedes,4.0,7.0,77.583,2305.337,,,1.0,MEDIUM,7.0,False,1,True,False
+2019,7,NOR,McLaren,4.0,8.0,78.023,2307.078,,,1.0,SOFT,7.0,False,1,True,False
+2019,7,VER,Red Bull Racing,4.0,9.0,77.827,2307.351,,,1.0,HARD,4.0,True,1,True,False
+2019,7,KVY,Toro Rosso,4.0,10.0,78.964,2310.94,,,1.0,MEDIUM,4.0,True,1,True,False
+2019,7,PER,Racing Point,4.0,11.0,78.883,2312.409,,,1.0,MEDIUM,4.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,4.0,12.0,78.797,2312.898,,,1.0,HARD,4.0,True,1,True,False
+2019,7,STR,Racing Point,4.0,13.0,78.609,2313.525,,,1.0,HARD,4.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,4.0,14.0,79.227,2317.093,,,1.0,MEDIUM,4.0,True,1,True,False
+2019,7,RUS,Williams,4.0,15.0,80.396,2317.515,,,1.0,MEDIUM,4.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,4.0,16.0,78.963,2319.309,,,1.0,MEDIUM,4.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,4.0,17.0,79.595,2321.102,,,1.0,HARD,4.0,True,1,True,False
+2019,7,KUB,Williams,4.0,18.0,81.815,2323.202,,,1.0,MEDIUM,4.0,True,1,True,False
+2019,7,SAI,McLaren,4.0,19.0,79.956,2329.297,,2250.839,1.0,SOFT,7.0,False,1,False,False
+2019,7,ALB,Toro Rosso,4.0,20.0,79.464,2352.575,,,2.0,HARD,3.0,True,1,True,False
+2019,7,VET,Ferrari,5.0,1.0,76.535,2372.427,,,1.0,MEDIUM,10.0,False,1,True,False
+2019,7,HAM,Mercedes,5.0,2.0,76.805,2374.575,,,1.0,MEDIUM,8.0,False,1,True,False
+2019,7,LEC,Ferrari,5.0,3.0,76.662,2376.126,,,1.0,MEDIUM,10.0,False,1,True,False
+2019,7,RIC,Renault,5.0,4.0,78.166,2380.9,,,1.0,SOFT,8.0,False,1,True,False
+2019,7,GAS,Red Bull Racing,5.0,5.0,78.045,2381.763,,,1.0,SOFT,8.0,False,1,True,False
+2019,7,HUL,Renault,5.0,6.0,77.958,2382.381,,,1.0,SOFT,8.0,False,1,True,False
+2019,7,BOT,Mercedes,5.0,7.0,78.453,2383.79,,,1.0,MEDIUM,8.0,False,1,True,False
+2019,7,NOR,McLaren,5.0,8.0,78.45,2385.528,,,1.0,SOFT,8.0,False,1,True,False
+2019,7,VER,Red Bull Racing,5.0,9.0,78.455,2385.806,,,1.0,HARD,5.0,True,1,True,False
+2019,7,KVY,Toro Rosso,5.0,10.0,79.143,2390.083,,,1.0,MEDIUM,5.0,True,1,True,False
+2019,7,PER,Racing Point,5.0,11.0,78.843,2391.252,,,1.0,MEDIUM,5.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,5.0,12.0,78.883,2391.781,,,1.0,HARD,5.0,True,1,True,False
+2019,7,STR,Racing Point,5.0,13.0,78.775,2392.3,,,1.0,HARD,5.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,5.0,14.0,79.067,2396.16,,,1.0,MEDIUM,5.0,True,1,True,False
+2019,7,RUS,Williams,5.0,15.0,80.369,2397.884,,,1.0,MEDIUM,5.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,5.0,16.0,79.041,2398.35,,,1.0,MEDIUM,5.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,5.0,17.0,79.323,2400.425,,,1.0,HARD,5.0,True,1,True,False
+2019,7,KUB,Williams,5.0,18.0,80.751,2403.953,,,1.0,MEDIUM,5.0,True,1,True,False
+2019,7,SAI,McLaren,5.0,19.0,77.451,2406.748,,,2.0,HARD,1.0,True,1,True,False
+2019,7,ALB,Toro Rosso,5.0,20.0,79.1,2431.675,,,2.0,HARD,4.0,True,1,True,False
+2019,7,VET,Ferrari,6.0,1.0,76.753,2449.18,,,1.0,MEDIUM,11.0,False,1,True,False
+2019,7,HAM,Mercedes,6.0,2.0,76.826,2451.401,,,1.0,MEDIUM,9.0,False,1,True,False
+2019,7,LEC,Ferrari,6.0,3.0,77.6,2453.726,,,1.0,MEDIUM,11.0,False,1,True,False
+2019,7,RIC,Renault,6.0,4.0,77.905,2458.805,,,1.0,SOFT,9.0,False,1,True,False
+2019,7,GAS,Red Bull Racing,6.0,5.0,78.347,2460.11,,,1.0,SOFT,9.0,False,1,True,False
+2019,7,HUL,Renault,6.0,6.0,78.981,2461.362,,,1.0,SOFT,9.0,False,1,True,False
+2019,7,BOT,Mercedes,6.0,7.0,78.154,2461.944,,,1.0,MEDIUM,9.0,False,1,True,False
+2019,7,VER,Red Bull Racing,6.0,8.0,77.921,2463.727,,,1.0,HARD,6.0,True,1,True,False
+2019,7,NOR,McLaren,6.0,9.0,78.972,2464.5,,,1.0,SOFT,9.0,False,1,True,False
+2019,7,KVY,Toro Rosso,6.0,10.0,79.004,2469.087,,,1.0,MEDIUM,6.0,True,1,True,False
+2019,7,PER,Racing Point,6.0,11.0,78.846,2470.098,,,1.0,MEDIUM,6.0,True,1,True,False
+2019,7,STR,Racing Point,6.0,12.0,79.044,2471.344,,,1.0,HARD,6.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,6.0,13.0,80.435,2472.216,,,1.0,HARD,6.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,6.0,14.0,80.049,2478.399,,,1.0,MEDIUM,6.0,True,1,True,False
+2019,7,RUS,Williams,6.0,15.0,80.926,2478.81,,,1.0,MEDIUM,6.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,6.0,16.0,79.684,2480.109,,,1.0,HARD,6.0,True,1,True,False
+2019,7,SAI,McLaren,6.0,17.0,77.571,2484.319,,,2.0,HARD,2.0,True,1,True,False
+2019,7,KUB,Williams,6.0,18.0,81.414,2485.367,,,1.0,MEDIUM,6.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,6.0,19.0,97.155,2493.315,2469.599,,1.0,MEDIUM,6.0,True,1,False,False
+2019,7,ALB,Toro Rosso,6.0,20.0,78.777,2510.452,,,2.0,HARD,5.0,True,1,True,False
+2019,7,VET,Ferrari,7.0,1.0,76.654,2525.834,,,1.0,MEDIUM,12.0,False,1,True,False
+2019,7,HAM,Mercedes,7.0,2.0,76.751,2528.152,,,1.0,MEDIUM,10.0,False,1,True,False
+2019,7,LEC,Ferrari,7.0,3.0,77.556,2531.282,,,1.0,MEDIUM,12.0,False,1,True,False
+2019,7,RIC,Renault,7.0,4.0,77.966,2536.771,,,1.0,SOFT,10.0,False,1,True,False
+2019,7,HUL,Renault,7.0,5.0,78.337,2539.699,,,1.0,SOFT,10.0,False,1,True,False
+2019,7,BOT,Mercedes,7.0,6.0,78.271,2540.215,,,1.0,MEDIUM,10.0,False,1,True,False
+2019,7,VER,Red Bull Racing,7.0,7.0,77.928,2541.655,,,1.0,HARD,7.0,True,1,True,False
+2019,7,NOR,McLaren,7.0,8.0,79.329,2543.829,,,1.0,SOFT,10.0,False,1,True,False
+2019,7,KVY,Toro Rosso,7.0,9.0,79.384,2548.471,,,1.0,MEDIUM,7.0,True,1,True,False
+2019,7,PER,Racing Point,7.0,10.0,78.955,2549.053,,,1.0,MEDIUM,7.0,True,1,True,False
+2019,7,STR,Racing Point,7.0,11.0,79.222,2550.566,,,1.0,HARD,7.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,7.0,12.0,79.94,2552.156,,,1.0,HARD,7.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,7.0,13.0,93.794,2553.904,2532.698,,1.0,SOFT,10.0,False,1,False,False
+2019,7,GRO,Haas F1 Team,7.0,14.0,79.633,2558.032,,,1.0,MEDIUM,7.0,True,1,True,False
+2019,7,RUS,Williams,7.0,15.0,80.352,2559.162,,,1.0,MEDIUM,7.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,7.0,16.0,79.489,2559.598,,,1.0,HARD,7.0,True,1,True,False
+2019,7,SAI,McLaren,7.0,17.0,78.163,2562.482,,,2.0,HARD,3.0,True,1,True,False
+2019,7,KUB,Williams,7.0,18.0,80.887,2566.254,,,1.0,MEDIUM,7.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,7.0,19.0,80.887,2574.202,,2494.787,2.0,HARD,1.0,True,1,False,False
+2019,7,ALB,Toro Rosso,7.0,20.0,78.661,2589.113,,,2.0,HARD,6.0,True,1,True,False
+2019,7,VET,Ferrari,8.0,1.0,76.776,2602.61,,,1.0,MEDIUM,13.0,False,1,True,False
+2019,7,HAM,Mercedes,8.0,2.0,76.783,2604.935,,,1.0,MEDIUM,11.0,False,1,True,False
+2019,7,LEC,Ferrari,8.0,3.0,77.023,2608.305,,,1.0,MEDIUM,13.0,False,1,True,False
+2019,7,HUL,Renault,8.0,4.0,77.726,2617.425,,,1.0,SOFT,11.0,False,1,True,False
+2019,7,BOT,Mercedes,8.0,5.0,78.654,2618.869,,,1.0,MEDIUM,11.0,False,1,True,False
+2019,7,VER,Red Bull Racing,8.0,6.0,77.761,2619.416,,,1.0,HARD,8.0,True,1,True,False
+2019,7,KVY,Toro Rosso,8.0,7.0,79.245,2627.716,,,1.0,MEDIUM,8.0,True,1,True,False
+2019,7,PER,Racing Point,8.0,8.0,79.125,2628.178,,,1.0,MEDIUM,8.0,True,1,True,False
+2019,7,STR,Racing Point,8.0,9.0,78.596,2629.162,,,1.0,HARD,8.0,True,1,True,False
+2019,7,NOR,McLaren,8.0,10.0,86.576,2630.405,,,1.0,SOFT,11.0,False,1,True,False
+2019,7,RIC,Renault,8.0,11.0,93.91,2630.681,2608.699,,1.0,SOFT,11.0,False,1,False,False
+2019,7,GIO,Alfa Romeo Racing,8.0,12.0,79.189,2631.345,,,1.0,HARD,8.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,8.0,13.0,80.128,2634.032,,2555.338,2.0,HARD,1.0,True,1,False,False
+2019,7,GRO,Haas F1 Team,8.0,14.0,79.611,2637.643,,,1.0,MEDIUM,8.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,8.0,15.0,80.178,2639.776,,,1.0,HARD,8.0,True,1,True,False
+2019,7,RUS,Williams,8.0,16.0,81.008,2640.17,,,1.0,MEDIUM,8.0,True,1,True,False
+2019,7,SAI,McLaren,8.0,17.0,78.338,2640.82,,,2.0,HARD,4.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,8.0,18.0,78.589,2652.791,,,2.0,HARD,2.0,True,1,True,False
+2019,7,KUB,Williams,8.0,19.0,98.012,2664.266,2640.63,,1.0,MEDIUM,8.0,True,12,False,False
+2019,7,ALB,Toro Rosso,8.0,20.0,78.535,2667.648,,,2.0,HARD,7.0,True,12,True,False
+2019,7,VET,Ferrari,9.0,1.0,76.758,2679.368,,,1.0,MEDIUM,14.0,False,12,True,False
+2019,7,HAM,Mercedes,9.0,2.0,76.888,2681.823,,,1.0,MEDIUM,12.0,False,12,True,False
+2019,7,LEC,Ferrari,9.0,3.0,76.868,2685.173,,,1.0,MEDIUM,14.0,False,12,True,False
+2019,7,HUL,Renault,9.0,4.0,77.794,2695.219,,,1.0,SOFT,12.0,False,12,True,False
+2019,7,BOT,Mercedes,9.0,5.0,77.956,2696.825,,,1.0,MEDIUM,12.0,False,12,True,False
+2019,7,VER,Red Bull Racing,9.0,6.0,77.891,2697.307,,,1.0,HARD,9.0,True,12,True,False
+2019,7,KVY,Toro Rosso,9.0,7.0,79.323,2707.039,,,1.0,MEDIUM,9.0,True,12,True,False
+2019,7,PER,Racing Point,9.0,8.0,79.572,2707.75,,,1.0,MEDIUM,9.0,True,12,True,False
+2019,7,STR,Racing Point,9.0,9.0,78.911,2708.073,,,1.0,HARD,9.0,True,12,True,False
+2019,7,GIO,Alfa Romeo Racing,9.0,10.0,78.871,2710.216,,,1.0,HARD,9.0,True,12,True,False
+2019,7,RIC,Renault,9.0,11.0,80.147,2710.828,,2632.778,2.0,HARD,1.0,True,12,False,False
+2019,7,GAS,Red Bull Racing,9.0,12.0,77.218,2711.25,,,2.0,HARD,2.0,True,12,True,False
+2019,7,GRO,Haas F1 Team,9.0,13.0,78.843,2716.486,,,1.0,MEDIUM,9.0,True,12,True,False
+2019,7,MAG,Haas F1 Team,9.0,14.0,79.478,2719.254,,,1.0,HARD,9.0,True,12,True,False
+2019,7,SAI,McLaren,9.0,15.0,79.506,2720.326,,,2.0,HARD,5.0,True,12,True,False
+2019,7,RAI,Alfa Romeo Racing,9.0,16.0,78.786,2731.577,,,2.0,HARD,3.0,True,12,True,False
+2019,7,RUS,Williams,9.0,17.0,97.342,2737.512,2715.312,,1.0,MEDIUM,9.0,True,12,False,False
+2019,7,ALB,Toro Rosso,9.0,18.0,80.542,2748.19,,,2.0,HARD,8.0,True,2,True,False
+2019,7,KUB,Williams,9.0,19.0,83.995,2748.261,,2665.706,1.0,MEDIUM,9.0,True,2,False,False
+2019,7,NOR,McLaren,9.0,,,2780.405,,,1.0,SOFT,12.0,False,12,False,True
+2019,7,VET,Ferrari,10.0,1.0,76.747,2756.115,,,1.0,MEDIUM,15.0,False,2,True,False
+2019,7,HAM,Mercedes,10.0,2.0,76.677,2758.5,,,1.0,MEDIUM,13.0,False,2,True,False
+2019,7,LEC,Ferrari,10.0,3.0,77.162,2762.335,,,1.0,MEDIUM,15.0,False,2,True,False
+2019,7,HUL,Renault,10.0,4.0,78.034,2773.253,,,1.0,SOFT,13.0,False,2,True,False
+2019,7,BOT,Mercedes,10.0,5.0,78.261,2775.086,,,1.0,MEDIUM,13.0,False,2,True,False
+2019,7,VER,Red Bull Racing,10.0,6.0,78.186,2775.493,,,1.0,HARD,10.0,True,2,True,False
+2019,7,KVY,Toro Rosso,10.0,7.0,78.952,2785.991,,,1.0,MEDIUM,10.0,True,2,True,False
+2019,7,STR,Racing Point,10.0,8.0,79.02,2787.093,,,1.0,HARD,10.0,True,2,True,False
+2019,7,PER,Racing Point,10.0,9.0,80.242,2787.992,,,1.0,MEDIUM,10.0,True,2,True,False
+2019,7,RIC,Renault,10.0,10.0,78.235,2789.063,,,2.0,HARD,2.0,True,2,True,False
+2019,7,GIO,Alfa Romeo Racing,10.0,11.0,79.424,2789.64,,,1.0,HARD,10.0,True,2,True,False
+2019,7,GAS,Red Bull Racing,10.0,12.0,78.694,2789.944,,,2.0,HARD,3.0,True,2,True,False
+2019,7,GRO,Haas F1 Team,10.0,13.0,79.408,2795.894,,,1.0,MEDIUM,10.0,True,2,True,False
+2019,7,SAI,McLaren,10.0,14.0,78.117,2798.443,,,2.0,HARD,6.0,True,2,True,False
+2019,7,MAG,Haas F1 Team,10.0,15.0,80.206,2799.46,,,1.0,HARD,10.0,True,2,True,False
+2019,7,RAI,Alfa Romeo Racing,10.0,16.0,78.573,2810.15,,,2.0,HARD,4.0,True,2,True,False
+2019,7,RUS,Williams,10.0,17.0,81.291,2818.803,,2741.77,2.0,HARD,1.0,True,2,False,False
+2019,7,ALB,Toro Rosso,10.0,18.0,79.286,2827.476,,,2.0,HARD,9.0,True,2,True,False
+2019,7,KUB,Williams,10.0,19.0,81.111,2829.372,,,2.0,HARD,1.0,True,2,True,False
+2019,7,VET,Ferrari,11.0,1.0,76.708,2832.823,,,1.0,MEDIUM,16.0,False,2,True,False
+2019,7,HAM,Mercedes,11.0,2.0,76.867,2835.367,,,1.0,MEDIUM,14.0,False,2,True,False
+2019,7,LEC,Ferrari,11.0,3.0,77.058,2839.393,,,1.0,MEDIUM,16.0,False,2,True,False
+2019,7,HUL,Renault,11.0,4.0,78.035,2851.288,,,1.0,SOFT,14.0,False,21,True,False
+2019,7,BOT,Mercedes,11.0,5.0,77.671,2852.757,,,1.0,MEDIUM,14.0,False,21,True,False
+2019,7,VER,Red Bull Racing,11.0,6.0,77.821,2853.314,,,1.0,HARD,11.0,True,21,True,False
+2019,7,KVY,Toro Rosso,11.0,7.0,79.02,2865.011,,,1.0,MEDIUM,11.0,True,21,True,False
+2019,7,STR,Racing Point,11.0,8.0,78.962,2866.055,,,1.0,HARD,11.0,True,21,True,False
+2019,7,RIC,Renault,11.0,9.0,78.258,2867.321,,,2.0,HARD,3.0,True,21,True,False
+2019,7,GAS,Red Bull Racing,11.0,10.0,79.422,2869.366,,,2.0,HARD,4.0,True,21,True,False
+2019,7,GIO,Alfa Romeo Racing,11.0,11.0,80.138,2869.778,,,1.0,HARD,11.0,True,21,True,False
+2019,7,GRO,Haas F1 Team,11.0,12.0,78.909,2874.803,,,1.0,MEDIUM,11.0,True,21,True,False
+2019,7,SAI,McLaren,11.0,13.0,78.741,2877.184,,,2.0,HARD,7.0,True,21,True,False
+2019,7,MAG,Haas F1 Team,11.0,14.0,80.439,2879.899,,,1.0,HARD,11.0,True,21,True,False
+2019,7,PER,Racing Point,11.0,15.0,95.697,2883.689,2861.105,,1.0,MEDIUM,11.0,True,21,False,False
+2019,7,RAI,Alfa Romeo Racing,11.0,16.0,78.485,2888.635,,,2.0,HARD,5.0,True,21,True,False
+2019,7,RUS,Williams,11.0,17.0,79.13,2897.933,,,2.0,HARD,2.0,True,21,True,False
+2019,7,ALB,Toro Rosso,11.0,18.0,78.538,2906.014,,,2.0,HARD,10.0,True,21,True,False
+2019,7,KUB,Williams,11.0,19.0,80.42,2909.792,,,2.0,HARD,2.0,True,21,True,False
+2019,7,VET,Ferrari,12.0,1.0,77.277,2910.1,,,1.0,MEDIUM,17.0,False,21,True,False
+2019,7,HAM,Mercedes,12.0,2.0,76.771,2912.138,,,1.0,MEDIUM,15.0,False,21,True,False
+2019,7,LEC,Ferrari,12.0,3.0,77.108,2916.501,,,1.0,MEDIUM,17.0,False,21,True,False
+2019,7,HUL,Renault,12.0,4.0,77.719,2929.007,,,1.0,SOFT,15.0,False,1,True,False
+2019,7,BOT,Mercedes,12.0,5.0,77.579,2930.336,,,1.0,MEDIUM,15.0,False,1,True,False
+2019,7,VER,Red Bull Racing,12.0,6.0,77.559,2930.873,,,1.0,HARD,12.0,True,1,True,False
+2019,7,RIC,Renault,12.0,7.0,77.697,2945.018,,,2.0,HARD,4.0,True,12,True,False
+2019,7,STR,Racing Point,12.0,8.0,79.658,2945.713,,,1.0,HARD,12.0,True,12,True,False
+2019,7,GAS,Red Bull Racing,12.0,9.0,78.148,2947.514,,,2.0,HARD,5.0,True,12,True,False
+2019,7,GIO,Alfa Romeo Racing,12.0,10.0,79.202,2948.98,,,1.0,HARD,12.0,True,12,True,False
+2019,7,GRO,Haas F1 Team,12.0,11.0,78.599,2953.402,,,1.0,MEDIUM,12.0,True,12,True,False
+2019,7,SAI,McLaren,12.0,12.0,78.294,2955.478,,,2.0,HARD,8.0,True,12,True,False
+2019,7,KVY,Toro Rosso,12.0,13.0,94.409,2959.42,2937.335,,1.0,MEDIUM,12.0,True,12,False,False
+2019,7,MAG,Haas F1 Team,12.0,14.0,80.234,2960.133,,,1.0,HARD,12.0,True,12,True,False
+2019,7,PER,Racing Point,12.0,15.0,79.74,2963.429,,2885.275,2.0,HARD,1.0,True,12,False,False
+2019,7,RAI,Alfa Romeo Racing,12.0,16.0,78.486,2967.121,,,2.0,HARD,6.0,True,12,True,False
+2019,7,RUS,Williams,12.0,17.0,78.812,2976.745,,,2.0,HARD,3.0,True,12,True,False
+2019,7,ALB,Toro Rosso,12.0,18.0,78.086,2984.1,,,2.0,HARD,11.0,True,12,True,False
+2019,7,KUB,Williams,12.0,19.0,81.413,2991.205,,,2.0,HARD,3.0,True,12,True,False
+2019,7,VET,Ferrari,13.0,1.0,76.878,2986.978,,,1.0,MEDIUM,18.0,False,12,True,False
+2019,7,HAM,Mercedes,13.0,2.0,77.443,2989.581,,,1.0,MEDIUM,16.0,False,12,True,False
+2019,7,LEC,Ferrari,13.0,3.0,76.874,2993.375,,,1.0,MEDIUM,18.0,False,12,True,False
+2019,7,HUL,Renault,13.0,4.0,77.192,3006.199,,,1.0,SOFT,16.0,False,12,True,False
+2019,7,BOT,Mercedes,13.0,5.0,77.528,3007.864,,,1.0,MEDIUM,16.0,False,12,True,False
+2019,7,VER,Red Bull Racing,13.0,6.0,77.548,3008.421,,,1.0,HARD,13.0,True,12,True,False
+2019,7,RIC,Renault,13.0,7.0,77.759,3022.777,,,2.0,HARD,5.0,True,21,True,False
+2019,7,STR,Racing Point,13.0,8.0,78.76,3024.473,,,1.0,HARD,13.0,True,21,True,False
+2019,7,GAS,Red Bull Racing,13.0,9.0,78.098,3025.612,,,2.0,HARD,6.0,True,21,True,False
+2019,7,GIO,Alfa Romeo Racing,13.0,10.0,78.652,3027.632,,,1.0,HARD,13.0,True,21,True,False
+2019,7,GRO,Haas F1 Team,13.0,11.0,78.906,3032.308,,,1.0,MEDIUM,13.0,True,21,True,False
+2019,7,SAI,McLaren,13.0,12.0,78.271,3033.749,,,2.0,HARD,9.0,True,21,True,False
+2019,7,MAG,Haas F1 Team,13.0,13.0,80.4,3040.533,,,1.0,HARD,13.0,True,21,True,False
+2019,7,KVY,Toro Rosso,13.0,14.0,81.169,3040.589,,2960.847,2.0,HARD,1.0,True,21,False,False
+2019,7,PER,Racing Point,13.0,15.0,78.455,3041.884,,,2.0,HARD,2.0,True,21,True,False
+2019,7,RAI,Alfa Romeo Racing,13.0,16.0,78.335,3045.456,,,2.0,HARD,7.0,True,21,True,False
+2019,7,RUS,Williams,13.0,17.0,78.989,3055.734,,,2.0,HARD,4.0,True,21,True,False
+2019,7,ALB,Toro Rosso,13.0,18.0,78.648,3062.748,,,2.0,HARD,12.0,True,21,True,False
+2019,7,KUB,Williams,13.0,19.0,81.029,3072.234,,,2.0,HARD,4.0,True,21,True,False
+2019,7,VET,Ferrari,14.0,1.0,76.994,3063.972,,,1.0,MEDIUM,19.0,False,21,True,False
+2019,7,HAM,Mercedes,14.0,2.0,77.157,3066.738,,,1.0,MEDIUM,17.0,False,21,True,False
+2019,7,LEC,Ferrari,14.0,3.0,77.55,3070.925,,,1.0,MEDIUM,19.0,False,21,True,False
+2019,7,HUL,Renault,14.0,4.0,77.717,3083.916,,,1.0,SOFT,17.0,False,1,True,False
+2019,7,BOT,Mercedes,14.0,5.0,77.235,3085.099,,,1.0,MEDIUM,17.0,False,1,True,False
+2019,7,VER,Red Bull Racing,14.0,6.0,77.348,3085.769,,,1.0,HARD,14.0,True,1,True,False
+2019,7,RIC,Renault,14.0,7.0,76.842,3099.619,,,2.0,HARD,6.0,True,1,True,False
+2019,7,STR,Racing Point,14.0,8.0,78.151,3102.624,,,1.0,HARD,14.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,14.0,9.0,77.439,3103.051,,,2.0,HARD,7.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,14.0,10.0,78.383,3106.015,,,1.0,HARD,14.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,14.0,11.0,78.592,3110.9,,,1.0,MEDIUM,14.0,True,1,True,False
+2019,7,SAI,McLaren,14.0,12.0,78.24,3111.989,,,2.0,HARD,10.0,True,1,True,False
+2019,7,KVY,Toro Rosso,14.0,13.0,78.556,3119.145,,,2.0,HARD,2.0,True,1,True,False
+2019,7,PER,Racing Point,14.0,14.0,78.761,3120.645,,,2.0,HARD,3.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,14.0,15.0,81.747,3122.28,,,1.0,HARD,14.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,14.0,16.0,78.039,3123.495,,,2.0,HARD,8.0,True,1,True,False
+2019,7,RUS,Williams,14.0,17.0,78.719,3134.453,,,2.0,HARD,5.0,True,1,True,False
+2019,7,ALB,Toro Rosso,14.0,18.0,79.782,3142.53,,,2.0,HARD,13.0,True,1,True,False
+2019,7,KUB,Williams,14.0,19.0,79.679,3151.913,,,2.0,HARD,5.0,True,1,True,False
+2019,7,VET,Ferrari,15.0,1.0,76.967,3140.939,,,1.0,MEDIUM,20.0,False,1,True,False
+2019,7,HAM,Mercedes,15.0,2.0,76.696,3143.434,,,1.0,MEDIUM,18.0,False,1,True,False
+2019,7,LEC,Ferrari,15.0,3.0,76.716,3147.641,,,1.0,MEDIUM,20.0,False,1,True,False
+2019,7,HUL,Renault,15.0,4.0,77.15,3161.066,,,1.0,SOFT,18.0,False,1,True,False
+2019,7,BOT,Mercedes,15.0,5.0,77.384,3162.483,,,1.0,MEDIUM,18.0,False,1,True,False
+2019,7,VER,Red Bull Racing,15.0,6.0,77.344,3163.113,,,1.0,HARD,15.0,True,1,True,False
+2019,7,RIC,Renault,15.0,7.0,77.2,3176.819,,,2.0,HARD,7.0,True,1,True,False
+2019,7,STR,Racing Point,15.0,8.0,78.126,3180.75,,,1.0,HARD,15.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,15.0,9.0,78.164,3181.215,,,2.0,HARD,8.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,15.0,10.0,78.262,3184.277,,,1.0,HARD,15.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,15.0,11.0,78.424,3189.324,,,1.0,MEDIUM,15.0,True,1,True,False
+2019,7,SAI,McLaren,15.0,12.0,77.711,3189.7,,,2.0,HARD,11.0,True,1,True,False
+2019,7,KVY,Toro Rosso,15.0,13.0,78.507,3197.652,,,2.0,HARD,3.0,True,1,True,False
+2019,7,PER,Racing Point,15.0,14.0,78.298,3198.943,,,2.0,HARD,4.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,15.0,15.0,78.292,3201.787,,,2.0,HARD,9.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,15.0,16.0,80.405,3202.685,,,1.0,HARD,15.0,True,1,True,False
+2019,7,RUS,Williams,15.0,17.0,78.877,3213.33,,,2.0,HARD,6.0,True,1,True,False
+2019,7,ALB,Toro Rosso,15.0,18.0,80.417,3222.947,,,2.0,HARD,14.0,True,1,True,False
+2019,7,KUB,Williams,15.0,19.0,79.741,3231.654,,,2.0,HARD,6.0,True,1,True,False
+2019,7,VET,Ferrari,16.0,1.0,76.799,3217.738,,,1.0,MEDIUM,21.0,False,1,True,False
+2019,7,HAM,Mercedes,16.0,2.0,76.654,3220.088,,,1.0,MEDIUM,19.0,False,1,True,False
+2019,7,LEC,Ferrari,16.0,3.0,76.854,3224.495,,,1.0,MEDIUM,21.0,False,1,True,False
+2019,7,BOT,Mercedes,16.0,4.0,77.342,3239.825,,,1.0,MEDIUM,19.0,False,1,True,False
+2019,7,VER,Red Bull Racing,16.0,5.0,77.398,3240.511,,,1.0,HARD,16.0,True,1,True,False
+2019,7,RIC,Renault,16.0,6.0,76.976,3253.795,,,2.0,HARD,8.0,True,1,True,False
+2019,7,HUL,Renault,16.0,7.0,93.666,3254.732,3232.402,,1.0,SOFT,19.0,False,1,False,False
+2019,7,STR,Racing Point,16.0,8.0,77.8,3258.55,,,1.0,HARD,16.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,16.0,9.0,77.847,3259.062,,,2.0,HARD,9.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,16.0,10.0,78.284,3262.561,,,1.0,HARD,16.0,True,1,True,False
+2019,7,SAI,McLaren,16.0,11.0,77.67,3267.37,,,2.0,HARD,12.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,16.0,12.0,79.012,3268.336,,,1.0,MEDIUM,16.0,True,1,True,False
+2019,7,KVY,Toro Rosso,16.0,13.0,78.217,3275.869,,,2.0,HARD,4.0,True,1,True,False
+2019,7,PER,Racing Point,16.0,14.0,78.377,3277.32,,,2.0,HARD,5.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,16.0,15.0,78.757,3280.544,,,2.0,HARD,10.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,16.0,16.0,79.689,3282.374,,,1.0,HARD,16.0,True,1,True,False
+2019,7,RUS,Williams,16.0,17.0,78.87,3292.2,,,2.0,HARD,7.0,True,1,True,False
+2019,7,ALB,Toro Rosso,16.0,18.0,79.632,3302.579,,,2.0,HARD,15.0,True,1,True,False
+2019,7,KUB,Williams,16.0,19.0,79.573,3311.227,,,2.0,HARD,7.0,True,1,True,False
+2019,7,VET,Ferrari,17.0,1.0,76.654,3294.392,,,1.0,MEDIUM,22.0,False,1,True,False
+2019,7,HAM,Mercedes,17.0,2.0,76.753,3296.841,,,1.0,MEDIUM,20.0,False,1,True,False
+2019,7,LEC,Ferrari,17.0,3.0,76.533,3301.028,,,1.0,MEDIUM,22.0,False,1,True,False
+2019,7,BOT,Mercedes,17.0,4.0,77.082,3316.907,,,1.0,MEDIUM,20.0,False,1,True,False
+2019,7,VER,Red Bull Racing,17.0,5.0,77.069,3317.58,,,1.0,HARD,17.0,True,1,True,False
+2019,7,RIC,Renault,17.0,6.0,77.508,3331.303,,,2.0,HARD,9.0,True,1,True,False
+2019,7,HUL,Renault,17.0,7.0,80.076,3334.808,,3256.267,2.0,HARD,1.0,True,1,False,False
+2019,7,STR,Racing Point,17.0,8.0,77.947,3336.497,,,1.0,HARD,17.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,17.0,9.0,78.019,3337.081,,,2.0,HARD,10.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,17.0,10.0,78.038,3340.599,,,1.0,HARD,17.0,True,1,True,False
+2019,7,SAI,McLaren,17.0,11.0,77.826,3345.196,,,2.0,HARD,13.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,17.0,12.0,78.868,3347.204,,,1.0,MEDIUM,17.0,True,1,True,False
+2019,7,KVY,Toro Rosso,17.0,13.0,77.977,3353.846,,,2.0,HARD,5.0,True,1,True,False
+2019,7,PER,Racing Point,17.0,14.0,77.719,3355.039,,,2.0,HARD,6.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,17.0,15.0,78.232,3358.776,,,2.0,HARD,11.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,17.0,16.0,79.747,3362.121,,,1.0,HARD,17.0,True,1,True,False
+2019,7,RUS,Williams,17.0,17.0,81.207,3373.407,,,2.0,HARD,8.0,True,1,True,False
+2019,7,ALB,Toro Rosso,17.0,18.0,78.44,3381.019,,,2.0,HARD,16.0,True,1,True,False
+2019,7,KUB,Williams,17.0,19.0,79.732,3390.959,,,2.0,HARD,8.0,True,1,True,False
+2019,7,VET,Ferrari,18.0,1.0,77.226,3371.618,,,1.0,MEDIUM,23.0,False,1,True,False
+2019,7,HAM,Mercedes,18.0,2.0,76.604,3373.445,,,1.0,MEDIUM,21.0,False,1,True,False
+2019,7,LEC,Ferrari,18.0,3.0,76.682,3377.71,,,1.0,MEDIUM,23.0,False,1,True,False
+2019,7,BOT,Mercedes,18.0,4.0,77.116,3394.023,,,1.0,MEDIUM,21.0,False,1,True,False
+2019,7,VER,Red Bull Racing,18.0,5.0,77.056,3394.636,,,1.0,HARD,18.0,True,1,True,False
+2019,7,RIC,Renault,18.0,6.0,77.051,3408.354,,,2.0,HARD,10.0,True,1,True,False
+2019,7,HUL,Renault,18.0,7.0,77.376,3412.184,,,2.0,HARD,2.0,True,1,True,False
+2019,7,STR,Racing Point,18.0,8.0,77.906,3414.403,,,1.0,HARD,18.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,18.0,9.0,78.057,3415.138,,,2.0,HARD,11.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,18.0,10.0,78.157,3418.756,,,1.0,HARD,18.0,True,1,True,False
+2019,7,SAI,McLaren,18.0,11.0,77.704,3422.9,,,2.0,HARD,14.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,18.0,12.0,78.495,3425.699,,,1.0,MEDIUM,18.0,True,1,True,False
+2019,7,KVY,Toro Rosso,18.0,13.0,77.912,3431.758,,,2.0,HARD,6.0,True,1,True,False
+2019,7,PER,Racing Point,18.0,14.0,77.989,3433.028,,,2.0,HARD,7.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,18.0,15.0,77.724,3436.5,,,2.0,HARD,12.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,18.0,16.0,79.457,3441.578,,,1.0,HARD,18.0,True,1,True,False
+2019,7,RUS,Williams,18.0,17.0,80.043,3453.45,,,2.0,HARD,9.0,True,1,True,False
+2019,7,ALB,Toro Rosso,18.0,18.0,78.168,3459.187,,,2.0,HARD,17.0,True,1,True,False
+2019,7,KUB,Williams,18.0,19.0,80.976,3471.935,,,2.0,HARD,9.0,True,1,True,False
+2019,7,VET,Ferrari,19.0,1.0,76.73,3448.348,,,1.0,MEDIUM,24.0,False,1,True,False
+2019,7,HAM,Mercedes,19.0,2.0,77.01,3450.455,,,1.0,MEDIUM,22.0,False,1,True,False
+2019,7,LEC,Ferrari,19.0,3.0,76.76,3454.47,,,1.0,MEDIUM,24.0,False,1,True,False
+2019,7,BOT,Mercedes,19.0,4.0,77.094,3471.117,,,1.0,MEDIUM,22.0,False,1,True,False
+2019,7,VER,Red Bull Racing,19.0,5.0,77.525,3472.161,,,1.0,HARD,19.0,True,1,True,False
+2019,7,RIC,Renault,19.0,6.0,77.093,3485.447,,,2.0,HARD,11.0,True,1,True,False
+2019,7,HUL,Renault,19.0,7.0,76.707,3488.891,,,2.0,HARD,3.0,True,1,True,False
+2019,7,STR,Racing Point,19.0,8.0,77.508,3491.911,,,1.0,HARD,19.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,19.0,9.0,77.483,3492.621,,,2.0,HARD,12.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,19.0,10.0,77.805,3496.561,,,1.0,HARD,19.0,True,1,True,False
+2019,7,SAI,McLaren,19.0,11.0,77.698,3500.598,,,2.0,HARD,15.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,19.0,12.0,78.299,3503.998,,,1.0,MEDIUM,19.0,True,1,True,False
+2019,7,KVY,Toro Rosso,19.0,13.0,77.803,3509.561,,,2.0,HARD,7.0,True,1,True,False
+2019,7,PER,Racing Point,19.0,14.0,77.71,3510.738,,,2.0,HARD,8.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,19.0,15.0,77.82,3514.32,,,2.0,HARD,13.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,19.0,16.0,79.491,3521.069,,,1.0,HARD,19.0,True,1,True,False
+2019,7,RUS,Williams,19.0,17.0,80.511,3533.961,,,2.0,HARD,10.0,True,1,True,False
+2019,7,ALB,Toro Rosso,19.0,18.0,78.181,3537.368,,,2.0,HARD,18.0,True,1,True,False
+2019,7,KUB,Williams,19.0,19.0,80.736,3552.671,,,2.0,HARD,10.0,True,1,True,False
+2019,7,VET,Ferrari,20.0,1.0,76.813,3525.161,,,1.0,MEDIUM,25.0,False,1,True,False
+2019,7,HAM,Mercedes,20.0,2.0,77.168,3527.623,,,1.0,MEDIUM,23.0,False,1,True,False
+2019,7,LEC,Ferrari,20.0,3.0,76.951,3531.421,,,1.0,MEDIUM,25.0,False,1,True,False
+2019,7,BOT,Mercedes,20.0,4.0,76.923,3548.04,,,1.0,MEDIUM,23.0,False,1,True,False
+2019,7,VER,Red Bull Racing,20.0,5.0,77.926,3550.087,,,1.0,HARD,20.0,True,1,True,False
+2019,7,RIC,Renault,20.0,6.0,77.062,3562.509,,,2.0,HARD,12.0,True,1,True,False
+2019,7,HUL,Renault,20.0,7.0,76.998,3565.889,,,2.0,HARD,4.0,True,1,True,False
+2019,7,STR,Racing Point,20.0,8.0,77.45,3569.361,,,1.0,HARD,20.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,20.0,9.0,77.879,3570.5,,,2.0,HARD,13.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,20.0,10.0,77.713,3574.274,,,1.0,HARD,20.0,True,1,True,False
+2019,7,SAI,McLaren,20.0,11.0,77.571,3578.169,,,2.0,HARD,16.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,20.0,12.0,77.987,3581.985,,,1.0,MEDIUM,20.0,True,1,True,False
+2019,7,KVY,Toro Rosso,20.0,13.0,77.839,3587.4,,,2.0,HARD,8.0,True,1,True,False
+2019,7,PER,Racing Point,20.0,14.0,77.776,3588.514,,,2.0,HARD,9.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,20.0,15.0,77.859,3592.179,,,2.0,HARD,14.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,20.0,16.0,79.221,3600.29,,,1.0,HARD,20.0,True,1,True,False
+2019,7,RUS,Williams,20.0,17.0,78.652,3612.613,,,2.0,HARD,11.0,True,1,True,False
+2019,7,ALB,Toro Rosso,20.0,18.0,77.981,3615.349,,,2.0,HARD,19.0,True,1,True,False
+2019,7,KUB,Williams,20.0,19.0,79.606,3632.277,,,2.0,HARD,11.0,True,1,True,False
+2019,7,VET,Ferrari,21.0,1.0,77.242,3602.403,,,1.0,MEDIUM,26.0,False,1,True,False
+2019,7,HAM,Mercedes,21.0,2.0,76.985,3604.608,,,1.0,MEDIUM,24.0,False,1,True,False
+2019,7,LEC,Ferrari,21.0,3.0,76.515,3607.936,,,1.0,MEDIUM,26.0,False,1,True,False
+2019,7,BOT,Mercedes,21.0,4.0,76.895,3624.935,,,1.0,MEDIUM,24.0,False,1,True,False
+2019,7,VER,Red Bull Racing,21.0,5.0,76.849,3626.936,,,1.0,HARD,21.0,True,1,True,False
+2019,7,RIC,Renault,21.0,6.0,76.919,3639.428,,,2.0,HARD,13.0,True,1,True,False
+2019,7,HUL,Renault,21.0,7.0,77.456,3643.345,,,2.0,HARD,5.0,True,1,True,False
+2019,7,STR,Racing Point,21.0,8.0,77.354,3646.715,,,1.0,HARD,21.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,21.0,9.0,77.947,3648.447,,,2.0,HARD,14.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,21.0,10.0,77.842,3652.116,,,1.0,HARD,21.0,True,1,True,False
+2019,7,SAI,McLaren,21.0,11.0,77.262,3655.431,,,2.0,HARD,17.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,21.0,12.0,78.167,3660.152,,,1.0,MEDIUM,21.0,True,1,True,False
+2019,7,KVY,Toro Rosso,21.0,13.0,77.427,3664.827,,,2.0,HARD,9.0,True,1,True,False
+2019,7,PER,Racing Point,21.0,14.0,77.556,3666.07,,,2.0,HARD,10.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,21.0,15.0,77.808,3669.987,,,2.0,HARD,15.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,21.0,16.0,81.005,3681.295,,,1.0,HARD,21.0,True,1,True,False
+2019,7,RUS,Williams,21.0,17.0,78.715,3691.328,,,2.0,HARD,12.0,True,1,True,False
+2019,7,ALB,Toro Rosso,21.0,18.0,77.75,3693.099,,,2.0,HARD,20.0,True,1,True,False
+2019,7,KUB,Williams,21.0,19.0,79.14,3711.417,,,2.0,HARD,12.0,True,1,True,False
+2019,7,VET,Ferrari,22.0,1.0,77.27,3679.673,,,1.0,MEDIUM,27.0,False,1,True,False
+2019,7,HAM,Mercedes,22.0,2.0,76.952,3681.56,,,1.0,MEDIUM,25.0,False,1,True,False
+2019,7,LEC,Ferrari,22.0,3.0,76.727,3684.663,,,1.0,MEDIUM,27.0,False,1,True,False
+2019,7,BOT,Mercedes,22.0,4.0,76.886,3701.821,,,1.0,MEDIUM,25.0,False,1,True,False
+2019,7,VER,Red Bull Racing,22.0,5.0,76.812,3703.748,,,1.0,HARD,22.0,True,1,True,False
+2019,7,RIC,Renault,22.0,6.0,76.867,3716.295,,,2.0,HARD,14.0,True,1,True,False
+2019,7,HUL,Renault,22.0,7.0,77.648,3720.993,,,2.0,HARD,6.0,True,1,True,False
+2019,7,STR,Racing Point,22.0,8.0,77.278,3723.993,,,1.0,HARD,22.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,22.0,9.0,77.734,3726.181,,,2.0,HARD,15.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,22.0,10.0,77.914,3730.03,,,1.0,HARD,22.0,True,1,True,False
+2019,7,SAI,McLaren,22.0,11.0,77.486,3732.917,,,2.0,HARD,18.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,22.0,12.0,78.039,3738.191,,,1.0,MEDIUM,22.0,True,1,True,False
+2019,7,KVY,Toro Rosso,22.0,13.0,77.32,3742.147,,,2.0,HARD,10.0,True,1,True,False
+2019,7,PER,Racing Point,22.0,14.0,77.318,3743.388,,,2.0,HARD,11.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,22.0,15.0,77.696,3747.683,,,2.0,HARD,16.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,22.0,16.0,81.078,3762.373,,,1.0,HARD,22.0,True,1,True,False
+2019,7,RUS,Williams,22.0,17.0,78.464,3769.792,,,2.0,HARD,13.0,True,1,True,False
+2019,7,ALB,Toro Rosso,22.0,18.0,78.135,3771.234,,,2.0,HARD,21.0,True,1,True,False
+2019,7,KUB,Williams,22.0,19.0,78.937,3790.354,,,2.0,HARD,13.0,True,1,True,False
+2019,7,VET,Ferrari,23.0,1.0,76.833,3756.506,,,1.0,MEDIUM,28.0,False,1,True,False
+2019,7,HAM,Mercedes,23.0,2.0,76.913,3758.473,,,1.0,MEDIUM,26.0,False,1,True,False
+2019,7,LEC,Ferrari,23.0,3.0,76.595,3761.258,,,1.0,MEDIUM,28.0,False,1,True,False
+2019,7,BOT,Mercedes,23.0,4.0,76.71,3778.531,,,1.0,MEDIUM,26.0,False,1,True,False
+2019,7,VER,Red Bull Racing,23.0,5.0,77.047,3780.795,,,1.0,HARD,23.0,True,1,True,False
+2019,7,RIC,Renault,23.0,6.0,76.928,3793.223,,,2.0,HARD,15.0,True,1,True,False
+2019,7,HUL,Renault,23.0,7.0,77.912,3798.905,,,2.0,HARD,7.0,True,1,True,False
+2019,7,STR,Racing Point,23.0,8.0,77.522,3801.515,,,1.0,HARD,23.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,23.0,9.0,77.578,3803.759,,,2.0,HARD,16.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,23.0,10.0,77.843,3807.873,,,1.0,HARD,23.0,True,1,True,False
+2019,7,SAI,McLaren,23.0,11.0,77.401,3810.318,,,2.0,HARD,19.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,23.0,12.0,78.09,3816.281,,,1.0,MEDIUM,23.0,True,1,True,False
+2019,7,KVY,Toro Rosso,23.0,13.0,77.661,3819.808,,,2.0,HARD,11.0,True,1,True,False
+2019,7,PER,Racing Point,23.0,14.0,77.543,3820.931,,,2.0,HARD,12.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,23.0,15.0,77.78,3825.463,,,2.0,HARD,17.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,23.0,16.0,79.193,3841.566,,,1.0,HARD,23.0,True,1,True,False
+2019,7,RUS,Williams,23.0,17.0,78.891,3848.683,,,2.0,HARD,14.0,True,1,True,False
+2019,7,ALB,Toro Rosso,23.0,18.0,78.094,3849.328,,,2.0,HARD,22.0,True,1,True,False
+2019,7,KUB,Williams,23.0,19.0,79.165,3869.519,,,2.0,HARD,14.0,True,1,True,False
+2019,7,VET,Ferrari,24.0,1.0,77.158,3833.664,,,1.0,MEDIUM,29.0,False,1,True,False
+2019,7,HAM,Mercedes,24.0,2.0,76.846,3835.319,,,1.0,MEDIUM,27.0,False,1,True,False
+2019,7,LEC,Ferrari,24.0,3.0,76.816,3838.074,,,1.0,MEDIUM,29.0,False,1,True,False
+2019,7,BOT,Mercedes,24.0,4.0,76.764,3855.295,,,1.0,MEDIUM,27.0,False,1,True,False
+2019,7,VER,Red Bull Racing,24.0,5.0,76.531,3857.326,,,1.0,HARD,24.0,True,1,True,False
+2019,7,RIC,Renault,24.0,6.0,77.174,3870.397,,,2.0,HARD,16.0,True,1,True,False
+2019,7,HUL,Renault,24.0,7.0,77.105,3876.01,,,2.0,HARD,8.0,True,1,True,False
+2019,7,STR,Racing Point,24.0,8.0,77.387,3878.902,,,1.0,HARD,24.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,24.0,9.0,77.474,3881.233,,,2.0,HARD,17.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,24.0,10.0,77.962,3885.835,,,1.0,HARD,24.0,True,1,True,False
+2019,7,SAI,McLaren,24.0,11.0,77.313,3887.631,,,2.0,HARD,20.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,24.0,12.0,78.759,3895.04,,,1.0,MEDIUM,24.0,True,1,True,False
+2019,7,KVY,Toro Rosso,24.0,13.0,77.744,3897.552,,,2.0,HARD,12.0,True,1,True,False
+2019,7,PER,Racing Point,24.0,14.0,78.462,3899.393,,,2.0,HARD,13.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,24.0,15.0,77.643,3903.106,,,2.0,HARD,18.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,24.0,16.0,78.475,3920.041,,,1.0,HARD,24.0,True,1,True,False
+2019,7,RUS,Williams,24.0,17.0,78.821,3927.504,,,2.0,HARD,15.0,True,1,True,False
+2019,7,ALB,Toro Rosso,24.0,18.0,78.735,3928.063,,,2.0,HARD,23.0,True,1,True,False
+2019,7,KUB,Williams,24.0,19.0,80.808,3950.327,,,2.0,HARD,15.0,True,1,True,False
+2019,7,VET,Ferrari,25.0,1.0,76.925,3910.589,,,1.0,MEDIUM,30.0,False,1,True,False
+2019,7,HAM,Mercedes,25.0,2.0,76.991,3912.31,,,1.0,MEDIUM,28.0,False,1,True,False
+2019,7,LEC,Ferrari,25.0,3.0,76.98,3915.054,,,1.0,MEDIUM,30.0,False,1,True,False
+2019,7,BOT,Mercedes,25.0,4.0,76.795,3932.09,,,1.0,MEDIUM,28.0,False,1,True,False
+2019,7,VER,Red Bull Racing,25.0,5.0,76.749,3934.075,,,1.0,HARD,25.0,True,1,True,False
+2019,7,RIC,Renault,25.0,6.0,77.869,3948.266,,,2.0,HARD,17.0,True,1,True,False
+2019,7,HUL,Renault,25.0,7.0,77.409,3953.419,,,2.0,HARD,9.0,True,1,True,False
+2019,7,STR,Racing Point,25.0,8.0,77.325,3956.227,,,1.0,HARD,25.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,25.0,9.0,77.259,3958.492,,,2.0,HARD,18.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,25.0,10.0,77.759,3963.594,,,1.0,HARD,25.0,True,1,True,False
+2019,7,SAI,McLaren,25.0,11.0,77.482,3965.113,,,2.0,HARD,21.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,25.0,12.0,78.193,3973.233,,,1.0,MEDIUM,25.0,True,1,True,False
+2019,7,KVY,Toro Rosso,25.0,13.0,77.773,3975.325,,,2.0,HARD,13.0,True,1,True,False
+2019,7,PER,Racing Point,25.0,14.0,77.998,3977.391,,,2.0,HARD,14.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,25.0,15.0,77.781,3980.887,,,2.0,HARD,19.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,25.0,16.0,78.896,3998.937,,,1.0,HARD,25.0,True,1,True,False
+2019,7,ALB,Toro Rosso,25.0,17.0,79.33,4007.393,,,2.0,HARD,24.0,True,1,True,False
+2019,7,RUS,Williams,25.0,18.0,81.292,4008.796,,,2.0,HARD,16.0,True,1,True,False
+2019,7,KUB,Williams,25.0,19.0,79.856,4030.183,,,2.0,HARD,16.0,True,1,True,False
+2019,7,HAM,Mercedes,26.0,1.0,77.239,3989.549,,,1.0,MEDIUM,29.0,False,1,True,False
+2019,7,LEC,Ferrari,26.0,2.0,76.784,3991.838,,,1.0,MEDIUM,31.0,False,1,True,False
+2019,7,VET,Ferrari,26.0,3.0,93.538,4004.127,3981.979,,1.0,MEDIUM,31.0,False,1,False,False
+2019,7,BOT,Mercedes,26.0,4.0,76.847,4008.937,,,1.0,MEDIUM,29.0,False,1,True,False
+2019,7,VER,Red Bull Racing,26.0,5.0,76.822,4010.897,,,1.0,HARD,26.0,True,1,True,False
+2019,7,RIC,Renault,26.0,6.0,76.84,4025.106,,,2.0,HARD,18.0,True,1,True,False
+2019,7,HUL,Renault,26.0,7.0,77.099,4030.518,,,2.0,HARD,10.0,True,1,True,False
+2019,7,STR,Racing Point,26.0,8.0,77.394,4033.621,,,1.0,HARD,26.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,26.0,9.0,77.546,4036.038,,,2.0,HARD,19.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,26.0,10.0,77.602,4041.196,,,1.0,HARD,26.0,True,1,True,False
+2019,7,SAI,McLaren,26.0,11.0,77.562,4042.675,,,2.0,HARD,22.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,26.0,12.0,78.244,4051.477,,,1.0,MEDIUM,26.0,True,1,True,False
+2019,7,KVY,Toro Rosso,26.0,13.0,77.482,4052.807,,,2.0,HARD,14.0,True,1,True,False
+2019,7,PER,Racing Point,26.0,14.0,77.869,4055.26,,,2.0,HARD,15.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,26.0,15.0,78.21,4059.097,,,2.0,HARD,20.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,26.0,16.0,78.638,4077.575,,,1.0,HARD,26.0,True,1,True,False
+2019,7,ALB,Toro Rosso,26.0,17.0,79.791,4087.184,,,2.0,HARD,25.0,True,1,True,False
+2019,7,RUS,Williams,26.0,18.0,81.108,4089.904,,,2.0,HARD,17.0,True,1,True,False
+2019,7,KUB,Williams,26.0,19.0,81.595,4111.778,,,2.0,HARD,17.0,True,1,True,False
+2019,7,HAM,Mercedes,27.0,1.0,77.255,4066.804,,,1.0,MEDIUM,30.0,False,1,True,False
+2019,7,LEC,Ferrari,27.0,2.0,77.277,4069.115,,,1.0,MEDIUM,32.0,False,1,True,False
+2019,7,VET,Ferrari,27.0,3.0,78.567,4082.694,,4005.619,2.0,HARD,1.0,False,1,False,False
+2019,7,BOT,Mercedes,27.0,4.0,76.748,4085.685,,,1.0,MEDIUM,30.0,False,1,True,False
+2019,7,VER,Red Bull Racing,27.0,5.0,77.349,4088.246,,,1.0,HARD,27.0,True,1,True,False
+2019,7,RIC,Renault,27.0,6.0,76.868,4101.974,,,2.0,HARD,19.0,True,1,True,False
+2019,7,HUL,Renault,27.0,7.0,77.759,4108.277,,,2.0,HARD,11.0,True,1,True,False
+2019,7,STR,Racing Point,27.0,8.0,77.237,4110.858,,,1.0,HARD,27.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,27.0,9.0,77.244,4113.282,,,2.0,HARD,20.0,True,1,True,False
+2019,7,SAI,McLaren,27.0,10.0,77.536,4120.211,,,2.0,HARD,23.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,27.0,11.0,86.411,4127.607,,,1.0,HARD,27.0,True,1,True,False
+2019,7,KVY,Toro Rosso,27.0,12.0,77.09,4129.897,,,2.0,HARD,15.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,27.0,13.0,79.092,4130.569,,,1.0,MEDIUM,27.0,True,1,True,False
+2019,7,PER,Racing Point,27.0,14.0,77.748,4133.008,,,2.0,HARD,16.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,27.0,15.0,77.503,4136.6,,,2.0,HARD,21.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,27.0,16.0,78.53,4156.105,,,1.0,HARD,27.0,True,1,True,False
+2019,7,ALB,Toro Rosso,27.0,17.0,80.303,4167.487,,,2.0,HARD,26.0,True,1,True,False
+2019,7,RUS,Williams,27.0,18.0,78.495,4168.399,,,2.0,HARD,18.0,True,1,True,False
+2019,7,KUB,Williams,27.0,19.0,80.142,4191.92,,,2.0,HARD,18.0,True,1,True,False
+2019,7,LEC,Ferrari,28.0,1.0,76.941,4146.056,,,1.0,MEDIUM,33.0,False,1,True,False
+2019,7,VET,Ferrari,28.0,2.0,75.333,4158.027,,,2.0,HARD,2.0,False,1,True,False
+2019,7,HAM,Mercedes,28.0,3.0,93.606,4160.41,4138.234,,1.0,MEDIUM,31.0,False,1,False,False
+2019,7,BOT,Mercedes,28.0,4.0,77.008,4162.693,,,1.0,MEDIUM,31.0,False,1,True,False
+2019,7,VER,Red Bull Racing,28.0,5.0,77.092,4165.338,,,1.0,HARD,28.0,True,1,True,False
+2019,7,RIC,Renault,28.0,6.0,76.794,4178.768,,,2.0,HARD,20.0,True,1,True,False
+2019,7,HUL,Renault,28.0,7.0,77.17,4185.447,,,2.0,HARD,12.0,True,1,True,False
+2019,7,STR,Racing Point,28.0,8.0,77.311,4188.169,,,1.0,HARD,28.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,28.0,9.0,77.477,4190.759,,,2.0,HARD,21.0,True,1,True,False
+2019,7,SAI,McLaren,28.0,10.0,77.503,4197.714,,,2.0,HARD,24.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,28.0,11.0,78.071,4205.678,,,1.0,HARD,28.0,True,1,True,False
+2019,7,KVY,Toro Rosso,28.0,12.0,77.718,4207.615,,,2.0,HARD,16.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,28.0,13.0,78.949,4209.518,,,1.0,MEDIUM,28.0,True,1,True,False
+2019,7,PER,Racing Point,28.0,14.0,78.009,4211.017,,,2.0,HARD,17.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,28.0,15.0,78.044,4214.644,,,2.0,HARD,22.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,28.0,16.0,79.595,4235.7,,,1.0,HARD,28.0,True,1,True,False
+2019,7,ALB,Toro Rosso,28.0,17.0,77.886,4245.373,,,2.0,HARD,27.0,True,1,True,False
+2019,7,RUS,Williams,28.0,18.0,78.755,4247.154,,,2.0,HARD,19.0,True,1,True,False
+2019,7,KUB,Williams,28.0,19.0,79.43,4271.35,,,2.0,HARD,19.0,True,1,True,False
+2019,7,LEC,Ferrari,29.0,1.0,76.892,4222.948,,,1.0,MEDIUM,34.0,False,1,True,False
+2019,7,VET,Ferrari,29.0,2.0,75.784,4233.811,,,2.0,HARD,3.0,False,1,True,False
+2019,7,HAM,Mercedes,29.0,3.0,78.372,4238.782,,4161.893,2.0,HARD,1.0,True,1,False,False
+2019,7,BOT,Mercedes,29.0,4.0,77.642,4240.335,,,1.0,MEDIUM,32.0,False,1,True,False
+2019,7,VER,Red Bull Racing,29.0,5.0,76.845,4242.183,,,1.0,HARD,29.0,True,1,True,False
+2019,7,RIC,Renault,29.0,6.0,76.869,4255.637,,,2.0,HARD,21.0,True,1,True,False
+2019,7,HUL,Renault,29.0,7.0,76.73,4262.177,,,2.0,HARD,13.0,True,1,True,False
+2019,7,STR,Racing Point,29.0,8.0,77.057,4265.226,,,1.0,HARD,29.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,29.0,9.0,76.878,4267.637,,,2.0,HARD,22.0,True,1,True,False
+2019,7,SAI,McLaren,29.0,10.0,78.862,4276.576,,,2.0,HARD,25.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,29.0,11.0,77.755,4283.433,,,1.0,HARD,29.0,True,1,True,False
+2019,7,KVY,Toro Rosso,29.0,12.0,77.719,4285.334,,,2.0,HARD,17.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,29.0,13.0,78.256,4287.774,,,1.0,MEDIUM,29.0,True,1,True,False
+2019,7,PER,Racing Point,29.0,14.0,77.196,4288.213,,,2.0,HARD,18.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,29.0,15.0,77.805,4292.449,,,2.0,HARD,23.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,29.0,16.0,79.926,4315.626,,,1.0,HARD,29.0,True,12,True,False
+2019,7,ALB,Toro Rosso,29.0,17.0,77.806,4323.179,,,2.0,HARD,28.0,True,12,True,False
+2019,7,RUS,Williams,29.0,18.0,78.342,4325.496,,,2.0,HARD,20.0,True,12,True,False
+2019,7,KUB,Williams,29.0,19.0,78.824,4350.174,,,2.0,HARD,20.0,True,12,True,False
+2019,7,LEC,Ferrari,30.0,1.0,77.036,4299.984,,,1.0,MEDIUM,35.0,False,12,True,False
+2019,7,VET,Ferrari,30.0,2.0,75.827,4309.638,,,2.0,HARD,4.0,False,12,True,False
+2019,7,HAM,Mercedes,30.0,3.0,75.742,4314.524,,,2.0,HARD,2.0,True,12,True,False
+2019,7,VER,Red Bull Racing,30.0,4.0,76.679,4318.862,,,1.0,HARD,30.0,True,12,True,False
+2019,7,RIC,Renault,30.0,5.0,76.982,4332.619,,,2.0,HARD,22.0,True,12,True,False
+2019,7,BOT,Mercedes,30.0,6.0,93.553,4333.888,4314.586,,1.0,MEDIUM,33.0,False,12,False,False
+2019,7,HUL,Renault,30.0,7.0,76.8,4338.977,,,2.0,HARD,14.0,True,12,True,False
+2019,7,STR,Racing Point,30.0,8.0,77.102,4342.328,,,1.0,HARD,30.0,True,12,True,False
+2019,7,GAS,Red Bull Racing,30.0,9.0,77.296,4344.933,,,2.0,HARD,23.0,True,12,True,False
+2019,7,SAI,McLaren,30.0,10.0,77.462,4354.038,,,2.0,HARD,26.0,True,12,True,False
+2019,7,GIO,Alfa Romeo Racing,30.0,11.0,77.849,4361.282,,,1.0,HARD,30.0,True,12,True,False
+2019,7,KVY,Toro Rosso,30.0,12.0,77.452,4362.786,,,2.0,HARD,18.0,True,12,True,False
+2019,7,GRO,Haas F1 Team,30.0,13.0,78.264,4366.038,,,1.0,MEDIUM,30.0,True,12,True,False
+2019,7,PER,Racing Point,30.0,14.0,78.246,4366.459,,,2.0,HARD,19.0,True,12,True,False
+2019,7,RAI,Alfa Romeo Racing,30.0,15.0,77.617,4370.066,,,2.0,HARD,24.0,True,12,True,False
+2019,7,MAG,Haas F1 Team,30.0,16.0,79.291,4394.917,,,1.0,HARD,30.0,True,21,True,False
+2019,7,ALB,Toro Rosso,30.0,17.0,77.905,4401.084,,,2.0,HARD,29.0,True,21,True,False
+2019,7,RUS,Williams,30.0,18.0,78.364,4403.86,,,2.0,HARD,21.0,True,21,True,False
+2019,7,KUB,Williams,30.0,19.0,79.435,4429.609,,,2.0,HARD,21.0,True,21,True,False
+2019,7,LEC,Ferrari,31.0,1.0,77.36,4377.344,,,1.0,MEDIUM,36.0,False,21,True,False
+2019,7,VET,Ferrari,31.0,2.0,75.959,4385.597,,,2.0,HARD,5.0,False,21,True,False
+2019,7,HAM,Mercedes,31.0,3.0,75.602,4390.126,,,2.0,HARD,3.0,True,21,True,False
+2019,7,VER,Red Bull Racing,31.0,4.0,77.175,4396.037,,,1.0,HARD,31.0,True,21,True,False
+2019,7,RIC,Renault,31.0,5.0,77.223,4409.842,,,2.0,HARD,23.0,True,21,True,False
+2019,7,BOT,Mercedes,31.0,6.0,78.106,4411.994,,4335.677,2.0,HARD,1.0,True,21,False,False
+2019,7,HUL,Renault,31.0,7.0,77.807,4416.784,,,2.0,HARD,15.0,True,21,True,False
+2019,7,STR,Racing Point,31.0,8.0,77.232,4419.56,,,1.0,HARD,31.0,True,21,True,False
+2019,7,GAS,Red Bull Racing,31.0,9.0,77.514,4422.447,,,2.0,HARD,24.0,True,21,True,False
+2019,7,SAI,McLaren,31.0,10.0,77.247,4431.285,,,2.0,HARD,27.0,True,21,True,False
+2019,7,GIO,Alfa Romeo Racing,31.0,11.0,78.099,4439.381,,,1.0,HARD,31.0,True,21,True,False
+2019,7,KVY,Toro Rosso,31.0,12.0,76.925,4439.711,,,2.0,HARD,19.0,True,21,True,False
+2019,7,GRO,Haas F1 Team,31.0,13.0,78.722,4444.76,,,1.0,MEDIUM,31.0,True,21,True,False
+2019,7,PER,Racing Point,31.0,14.0,78.494,4444.953,,,2.0,HARD,20.0,True,21,True,False
+2019,7,RAI,Alfa Romeo Racing,31.0,15.0,77.869,4447.935,,,2.0,HARD,25.0,True,21,True,False
+2019,7,MAG,Haas F1 Team,31.0,16.0,80.1,4475.017,,,1.0,HARD,31.0,True,1,True,False
+2019,7,ALB,Toro Rosso,31.0,17.0,77.534,4478.618,,,2.0,HARD,30.0,True,1,True,False
+2019,7,RUS,Williams,31.0,18.0,78.021,4481.881,,,2.0,HARD,22.0,True,1,True,False
+2019,7,KUB,Williams,31.0,19.0,80.285,4509.894,,,2.0,HARD,22.0,True,1,True,False
+2019,7,LEC,Ferrari,32.0,1.0,77.153,4454.497,,,1.0,MEDIUM,37.0,False,1,True,False
+2019,7,VET,Ferrari,32.0,2.0,75.911,4461.508,,,2.0,HARD,6.0,False,1,True,False
+2019,7,HAM,Mercedes,32.0,3.0,75.534,4465.66,,,2.0,HARD,4.0,True,1,True,False
+2019,7,VER,Red Bull Racing,32.0,4.0,77.188,4473.225,,,1.0,HARD,32.0,True,1,True,False
+2019,7,RIC,Renault,32.0,5.0,76.915,4486.757,,,2.0,HARD,24.0,True,1,True,False
+2019,7,BOT,Mercedes,32.0,6.0,75.689,4487.683,,,2.0,HARD,2.0,True,1,True,False
+2019,7,HUL,Renault,32.0,7.0,76.855,4493.639,,,2.0,HARD,16.0,True,1,True,False
+2019,7,STR,Racing Point,32.0,8.0,77.078,4496.638,,,1.0,HARD,32.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,32.0,9.0,76.955,4499.402,,,2.0,HARD,25.0,True,1,True,False
+2019,7,SAI,McLaren,32.0,10.0,77.842,4509.127,,,2.0,HARD,28.0,True,1,True,False
+2019,7,KVY,Toro Rosso,32.0,11.0,77.689,4517.4,,,2.0,HARD,20.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,32.0,12.0,78.664,4518.045,,,1.0,HARD,32.0,True,1,True,False
+2019,7,PER,Racing Point,32.0,13.0,78.342,4523.295,,,2.0,HARD,21.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,32.0,14.0,80.131,4524.891,,,1.0,MEDIUM,32.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,32.0,15.0,77.889,4525.824,,,2.0,HARD,26.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,32.0,16.0,78.399,4553.416,,,1.0,HARD,32.0,True,1,True,False
+2019,7,ALB,Toro Rosso,32.0,17.0,77.673,4556.291,,,2.0,HARD,31.0,True,1,True,False
+2019,7,RUS,Williams,32.0,18.0,78.076,4559.957,,,2.0,HARD,23.0,True,1,True,False
+2019,7,KUB,Williams,32.0,19.0,79.601,4589.495,,,2.0,HARD,23.0,True,1,True,False
+2019,7,VET,Ferrari,33.0,1.0,75.909,4537.417,,,2.0,HARD,7.0,False,1,True,False
+2019,7,HAM,Mercedes,33.0,2.0,75.471,4541.131,,,2.0,HARD,5.0,True,1,True,False
+2019,7,LEC,Ferrari,33.0,3.0,93.611,4548.108,4525.898,,1.0,MEDIUM,38.0,False,1,False,False
+2019,7,VER,Red Bull Racing,33.0,4.0,76.568,4549.793,,,1.0,HARD,33.0,True,1,True,False
+2019,7,RIC,Renault,33.0,5.0,76.675,4563.432,,,2.0,HARD,25.0,True,1,True,False
+2019,7,BOT,Mercedes,33.0,6.0,76.106,4563.789,,,2.0,HARD,3.0,True,1,True,False
+2019,7,HUL,Renault,33.0,7.0,76.87,4570.509,,,2.0,HARD,17.0,True,1,True,False
+2019,7,STR,Racing Point,33.0,8.0,77.035,4573.673,,,1.0,HARD,33.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,33.0,9.0,76.817,4576.219,,,2.0,HARD,26.0,True,1,True,False
+2019,7,SAI,McLaren,33.0,10.0,76.928,4586.055,,,2.0,HARD,29.0,True,1,True,False
+2019,7,KVY,Toro Rosso,33.0,11.0,78.266,4595.666,,,2.0,HARD,21.0,True,1,True,False
+2019,7,PER,Racing Point,33.0,12.0,77.685,4600.98,,,2.0,HARD,22.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,33.0,13.0,78.981,4603.872,,,1.0,MEDIUM,33.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,33.0,14.0,78.349,4604.173,,,2.0,HARD,27.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,33.0,15.0,95.209,4613.254,4590.886,,1.0,HARD,33.0,True,1,False,False
+2019,7,MAG,Haas F1 Team,33.0,16.0,78.504,4631.92,,,1.0,HARD,33.0,True,1,True,False
+2019,7,ALB,Toro Rosso,33.0,17.0,77.486,4633.777,,,2.0,HARD,32.0,True,1,True,False
+2019,7,RUS,Williams,33.0,18.0,78.232,4638.189,,,2.0,HARD,24.0,True,1,True,False
+2019,7,KUB,Williams,33.0,19.0,79.092,4668.587,,,2.0,HARD,24.0,True,1,True,False
+2019,7,VET,Ferrari,34.0,1.0,75.849,4613.266,,,2.0,HARD,8.0,False,1,True,False
+2019,7,HAM,Mercedes,34.0,2.0,75.234,4616.365,,,2.0,HARD,6.0,True,1,True,False
+2019,7,VER,Red Bull Racing,34.0,3.0,76.948,4626.741,,,1.0,HARD,34.0,True,1,True,False
+2019,7,LEC,Ferrari,34.0,4.0,79.663,4627.771,,4549.854,2.0,HARD,1.0,False,1,False,False
+2019,7,RIC,Renault,34.0,5.0,77.338,4640.77,,,2.0,HARD,26.0,True,1,True,False
+2019,7,BOT,Mercedes,34.0,6.0,77.309,4641.098,,,2.0,HARD,4.0,True,1,True,False
+2019,7,HUL,Renault,34.0,7.0,76.767,4647.276,,,2.0,HARD,18.0,True,1,True,False
+2019,7,STR,Racing Point,34.0,8.0,77.005,4650.678,,,1.0,HARD,34.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,34.0,9.0,76.569,4652.788,,,2.0,HARD,27.0,True,1,True,False
+2019,7,SAI,McLaren,34.0,10.0,76.842,4662.897,,,2.0,HARD,30.0,True,1,True,False
+2019,7,KVY,Toro Rosso,34.0,11.0,77.442,4673.108,,,2.0,HARD,22.0,True,1,True,False
+2019,7,PER,Racing Point,34.0,12.0,77.269,4678.249,,,2.0,HARD,23.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,34.0,13.0,78.866,4683.039,,,2.0,HARD,28.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,34.0,14.0,81.552,4694.806,,4615.07,2.0,MEDIUM,1.0,True,1,False,False
+2019,7,GRO,Haas F1 Team,34.0,15.0,95.392,4699.264,4678.302,,1.0,MEDIUM,34.0,True,1,False,False
+2019,7,MAG,Haas F1 Team,34.0,16.0,78.523,4710.443,,,1.0,HARD,34.0,True,1,True,False
+2019,7,ALB,Toro Rosso,34.0,17.0,77.927,4711.704,,,2.0,HARD,33.0,True,1,True,False
+2019,7,RUS,Williams,34.0,18.0,78.267,4716.456,,,2.0,HARD,25.0,True,1,True,False
+2019,7,KUB,Williams,34.0,19.0,78.926,4747.513,,,2.0,HARD,25.0,True,1,True,False
+2019,7,VET,Ferrari,35.0,1.0,76.267,4689.533,,,2.0,HARD,9.0,False,1,True,False
+2019,7,HAM,Mercedes,35.0,2.0,76.087,4692.452,,,2.0,HARD,7.0,True,1,True,False
+2019,7,LEC,Ferrari,35.0,3.0,75.424,4703.195,,,2.0,HARD,2.0,False,1,True,False
+2019,7,VER,Red Bull Racing,35.0,4.0,77.117,4703.858,,,1.0,HARD,35.0,True,1,True,False
+2019,7,RIC,Renault,35.0,5.0,77.19,4717.96,,,2.0,HARD,27.0,True,1,True,False
+2019,7,BOT,Mercedes,35.0,6.0,77.368,4718.466,,,2.0,HARD,5.0,True,1,True,False
+2019,7,HUL,Renault,35.0,7.0,76.853,4724.129,,,2.0,HARD,19.0,True,1,True,False
+2019,7,STR,Racing Point,35.0,8.0,77.31,4727.988,,,1.0,HARD,35.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,35.0,9.0,76.792,4729.58,,,2.0,HARD,28.0,True,1,True,False
+2019,7,SAI,McLaren,35.0,10.0,76.747,4739.644,,,2.0,HARD,31.0,True,1,True,False
+2019,7,KVY,Toro Rosso,35.0,11.0,77.027,4750.135,,,2.0,HARD,23.0,True,1,True,False
+2019,7,PER,Racing Point,35.0,12.0,77.015,4755.264,,,2.0,HARD,24.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,35.0,13.0,77.439,4760.478,,,2.0,HARD,29.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,35.0,14.0,77.758,4772.564,,,2.0,MEDIUM,2.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,35.0,15.0,83.575,4782.839,,4702.255,2.0,HARD,1.0,True,1,False,False
+2019,7,MAG,Haas F1 Team,35.0,16.0,78.233,4788.676,,,1.0,HARD,35.0,True,1,True,False
+2019,7,ALB,Toro Rosso,35.0,17.0,77.45,4789.154,,,2.0,HARD,34.0,True,1,True,False
+2019,7,RUS,Williams,35.0,18.0,80.365,4796.821,,,2.0,HARD,26.0,True,1,True,False
+2019,7,KUB,Williams,35.0,19.0,78.693,4826.206,,,2.0,HARD,26.0,True,1,True,False
+2019,7,VET,Ferrari,36.0,1.0,75.904,4765.437,,,2.0,HARD,10.0,False,1,True,False
+2019,7,HAM,Mercedes,36.0,2.0,75.405,4767.857,,,2.0,HARD,8.0,True,1,True,False
+2019,7,LEC,Ferrari,36.0,3.0,75.554,4778.749,,,2.0,HARD,3.0,False,1,True,False
+2019,7,VER,Red Bull Racing,36.0,4.0,77.299,4781.157,,,1.0,HARD,36.0,True,1,True,False
+2019,7,RIC,Renault,36.0,5.0,77.067,4795.027,,,2.0,HARD,28.0,True,1,True,False
+2019,7,BOT,Mercedes,36.0,6.0,77.463,4795.929,,,2.0,HARD,6.0,True,1,True,False
+2019,7,HUL,Renault,36.0,7.0,76.725,4800.854,,,2.0,HARD,20.0,True,1,True,False
+2019,7,STR,Racing Point,36.0,8.0,77.092,4805.08,,,1.0,HARD,36.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,36.0,9.0,76.869,4806.449,,,2.0,HARD,29.0,True,1,True,False
+2019,7,SAI,McLaren,36.0,10.0,76.885,4816.529,,,2.0,HARD,32.0,True,1,True,False
+2019,7,KVY,Toro Rosso,36.0,11.0,77.023,4827.158,,,2.0,HARD,24.0,True,1,True,False
+2019,7,PER,Racing Point,36.0,12.0,76.899,4832.163,,,2.0,HARD,25.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,36.0,13.0,77.846,4838.324,,,2.0,HARD,30.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,36.0,14.0,77.371,4849.935,,,2.0,MEDIUM,3.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,36.0,15.0,77.26,4860.099,,,2.0,HARD,2.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,36.0,16.0,78.006,4866.682,,,1.0,HARD,36.0,True,1,True,False
+2019,7,ALB,Toro Rosso,36.0,17.0,77.915,4867.069,,,2.0,HARD,35.0,True,1,True,False
+2019,7,RUS,Williams,36.0,18.0,78.657,4875.478,,,2.0,HARD,27.0,True,1,True,False
+2019,7,KUB,Williams,36.0,19.0,80.135,4906.341,,,2.0,HARD,27.0,True,1,True,False
+2019,7,VET,Ferrari,37.0,1.0,75.724,4841.161,,,2.0,HARD,11.0,False,1,True,False
+2019,7,HAM,Mercedes,37.0,2.0,75.282,4843.139,,,2.0,HARD,9.0,True,1,True,False
+2019,7,LEC,Ferrari,37.0,3.0,75.372,4854.121,,,2.0,HARD,4.0,False,1,True,False
+2019,7,VER,Red Bull Racing,37.0,4.0,76.414,4857.571,,,1.0,HARD,37.0,True,1,True,False
+2019,7,RIC,Renault,37.0,5.0,76.814,4871.841,,,2.0,HARD,29.0,True,1,True,False
+2019,7,BOT,Mercedes,37.0,6.0,76.558,4872.487,,,2.0,HARD,7.0,True,1,True,False
+2019,7,HUL,Renault,37.0,7.0,76.381,4877.235,,,2.0,HARD,21.0,True,1,True,False
+2019,7,STR,Racing Point,37.0,8.0,76.976,4882.056,,,1.0,HARD,37.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,37.0,9.0,77.071,4883.52,,,2.0,HARD,30.0,True,1,True,False
+2019,7,SAI,McLaren,37.0,10.0,76.471,4893.0,,,2.0,HARD,33.0,True,1,True,False
+2019,7,KVY,Toro Rosso,37.0,11.0,77.359,4904.517,,,2.0,HARD,25.0,True,1,True,False
+2019,7,PER,Racing Point,37.0,12.0,77.091,4909.254,,,2.0,HARD,26.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,37.0,13.0,77.383,4915.707,,,2.0,HARD,31.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,37.0,14.0,77.324,4927.259,,,2.0,MEDIUM,4.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,37.0,15.0,77.003,4937.102,,,2.0,HARD,3.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,37.0,16.0,78.279,4944.961,,,1.0,HARD,37.0,True,1,True,False
+2019,7,ALB,Toro Rosso,37.0,17.0,78.522,4945.591,,,2.0,HARD,36.0,True,1,True,False
+2019,7,RUS,Williams,37.0,18.0,80.06,4955.538,,,2.0,HARD,28.0,True,1,True,False
+2019,7,KUB,Williams,37.0,19.0,79.454,4985.795,,,2.0,HARD,28.0,True,1,True,False
+2019,7,VET,Ferrari,38.0,1.0,75.807,4916.968,,,2.0,HARD,12.0,False,1,True,False
+2019,7,HAM,Mercedes,38.0,2.0,75.42,4918.559,,,2.0,HARD,10.0,True,1,True,False
+2019,7,LEC,Ferrari,38.0,3.0,75.687,4929.808,,,2.0,HARD,5.0,False,1,True,False
+2019,7,VER,Red Bull Racing,38.0,4.0,76.414,4933.985,,,1.0,HARD,38.0,True,1,True,False
+2019,7,BOT,Mercedes,38.0,5.0,77.087,4949.574,,,2.0,HARD,8.0,True,1,True,False
+2019,7,RIC,Renault,38.0,6.0,77.83,4949.671,,,2.0,HARD,30.0,True,1,True,False
+2019,7,HUL,Renault,38.0,7.0,77.196,4954.431,,,2.0,HARD,22.0,True,1,True,False
+2019,7,STR,Racing Point,38.0,8.0,76.887,4958.943,,,1.0,HARD,38.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,38.0,9.0,76.94,4960.46,,,2.0,HARD,31.0,True,1,True,False
+2019,7,SAI,McLaren,38.0,10.0,76.656,4969.656,,,2.0,HARD,34.0,True,1,True,False
+2019,7,KVY,Toro Rosso,38.0,11.0,77.111,4981.628,,,2.0,HARD,26.0,True,1,True,False
+2019,7,PER,Racing Point,38.0,12.0,77.146,4986.4,,,2.0,HARD,27.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,38.0,13.0,79.481,4995.188,,,2.0,HARD,32.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,38.0,14.0,77.465,5004.724,,,2.0,MEDIUM,5.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,38.0,15.0,76.939,5014.041,,,2.0,HARD,4.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,38.0,16.0,78.025,5022.986,,,1.0,HARD,38.0,True,1,True,False
+2019,7,ALB,Toro Rosso,38.0,17.0,77.914,5023.505,,,2.0,HARD,37.0,True,1,True,False
+2019,7,RUS,Williams,38.0,18.0,78.384,5033.922,,,2.0,HARD,29.0,True,1,True,False
+2019,7,KUB,Williams,38.0,19.0,95.999,5081.794,5060.994,,2.0,HARD,29.0,True,1,False,False
+2019,7,VET,Ferrari,39.0,1.0,76.114,4993.082,,,2.0,HARD,13.0,False,1,True,False
+2019,7,HAM,Mercedes,39.0,2.0,75.318,4993.877,,,2.0,HARD,11.0,True,1,True,False
+2019,7,LEC,Ferrari,39.0,3.0,75.872,5005.68,,,2.0,HARD,6.0,False,1,True,False
+2019,7,VER,Red Bull Racing,39.0,4.0,76.633,5010.618,,,1.0,HARD,39.0,True,1,True,False
+2019,7,BOT,Mercedes,39.0,5.0,76.268,5025.842,,,2.0,HARD,9.0,True,1,True,False
+2019,7,RIC,Renault,39.0,6.0,77.697,5027.368,,,2.0,HARD,31.0,True,1,True,False
+2019,7,HUL,Renault,39.0,7.0,76.844,5031.275,,,2.0,HARD,23.0,True,1,True,False
+2019,7,STR,Racing Point,39.0,8.0,76.965,5035.908,,,1.0,HARD,39.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,39.0,9.0,76.991,5037.451,,,2.0,HARD,32.0,True,1,True,False
+2019,7,SAI,McLaren,39.0,10.0,76.918,5046.574,,,2.0,HARD,35.0,True,1,True,False
+2019,7,KVY,Toro Rosso,39.0,11.0,76.862,5058.49,,,2.0,HARD,27.0,True,1,True,False
+2019,7,PER,Racing Point,39.0,12.0,77.621,5064.021,,,2.0,HARD,28.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,39.0,13.0,77.26,5072.448,,,2.0,HARD,33.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,39.0,14.0,79.158,5083.882,,,2.0,MEDIUM,6.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,39.0,15.0,76.797,5090.838,,,2.0,HARD,5.0,True,1,True,False
+2019,7,ALB,Toro Rosso,39.0,16.0,81.119,5104.624,,,2.0,HARD,38.0,True,1,True,False
+2019,7,RUS,Williams,39.0,17.0,77.835,5111.757,,,2.0,HARD,30.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,39.0,18.0,94.788,5117.774,5094.893,,1.0,HARD,39.0,True,1,False,False
+2019,7,KUB,Williams,39.0,19.0,83.521,5165.315,,5083.334,3.0,HARD,1.0,True,1,False,False
+2019,7,VET,Ferrari,40.0,1.0,75.45,5068.532,,,2.0,HARD,14.0,False,1,True,False
+2019,7,HAM,Mercedes,40.0,2.0,75.535,5069.412,,,2.0,HARD,12.0,True,1,True,False
+2019,7,LEC,Ferrari,40.0,3.0,75.946,5081.626,,,2.0,HARD,7.0,False,1,True,False
+2019,7,VER,Red Bull Racing,40.0,4.0,76.733,5087.351,,,1.0,HARD,40.0,True,1,True,False
+2019,7,BOT,Mercedes,40.0,5.0,76.035,5101.877,,,2.0,HARD,10.0,True,1,True,False
+2019,7,RIC,Renault,40.0,6.0,77.352,5104.72,,,2.0,HARD,32.0,True,1,True,False
+2019,7,HUL,Renault,40.0,7.0,76.734,5108.009,,,2.0,HARD,24.0,True,1,True,False
+2019,7,STR,Racing Point,40.0,8.0,77.034,5112.942,,,1.0,HARD,40.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,40.0,9.0,77.016,5114.467,,,2.0,HARD,33.0,True,1,True,False
+2019,7,SAI,McLaren,40.0,10.0,77.123,5123.697,,,2.0,HARD,36.0,True,1,True,False
+2019,7,KVY,Toro Rosso,40.0,11.0,76.668,5135.158,,,2.0,HARD,28.0,True,1,True,False
+2019,7,PER,Racing Point,40.0,12.0,76.645,5140.666,,,2.0,HARD,29.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,40.0,13.0,77.236,5149.684,,,2.0,HARD,34.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,40.0,14.0,77.417,5161.299,,,2.0,MEDIUM,7.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,40.0,15.0,76.974,5167.812,,,2.0,HARD,6.0,True,1,True,False
+2019,7,ALB,Toro Rosso,40.0,16.0,78.884,5183.508,,,2.0,HARD,39.0,True,1,True,False
+2019,7,RUS,Williams,40.0,17.0,81.052,5192.809,,,2.0,HARD,31.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,40.0,18.0,80.125,5197.899,,5119.295,2.0,MEDIUM,1.0,True,1,False,False
+2019,7,KUB,Williams,40.0,19.0,78.191,5243.506,,,3.0,HARD,2.0,True,1,True,False
+2019,7,VET,Ferrari,41.0,1.0,75.208,5143.74,,,2.0,HARD,15.0,False,1,True,False
+2019,7,HAM,Mercedes,41.0,2.0,75.627,5145.039,,,2.0,HARD,13.0,True,1,True,False
+2019,7,LEC,Ferrari,41.0,3.0,75.297,5156.923,,,2.0,HARD,8.0,False,1,True,False
+2019,7,VER,Red Bull Racing,41.0,4.0,77.06,5164.411,,,1.0,HARD,41.0,True,1,True,False
+2019,7,BOT,Mercedes,41.0,5.0,75.215,5177.092,,,2.0,HARD,11.0,True,1,True,False
+2019,7,RIC,Renault,41.0,6.0,77.039,5181.759,,,2.0,HARD,33.0,True,1,True,False
+2019,7,HUL,Renault,41.0,7.0,76.57,5184.579,,,2.0,HARD,25.0,True,1,True,False
+2019,7,STR,Racing Point,41.0,8.0,77.407,5190.349,,,1.0,HARD,41.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,41.0,9.0,77.283,5191.75,,,2.0,HARD,34.0,True,1,True,False
+2019,7,SAI,McLaren,41.0,10.0,76.813,5200.51,,,2.0,HARD,37.0,True,1,True,False
+2019,7,KVY,Toro Rosso,41.0,11.0,76.808,5211.966,,,2.0,HARD,29.0,True,1,True,False
+2019,7,PER,Racing Point,41.0,12.0,76.645,5217.311,,,2.0,HARD,30.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,41.0,13.0,76.983,5226.667,,,2.0,HARD,35.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,41.0,14.0,77.584,5238.883,,,2.0,MEDIUM,8.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,41.0,15.0,77.557,5245.369,,,2.0,HARD,7.0,True,1,True,False
+2019,7,ALB,Toro Rosso,41.0,16.0,79.334,5262.842,,,2.0,HARD,40.0,True,1,True,False
+2019,7,RUS,Williams,41.0,17.0,77.973,5270.782,,,2.0,HARD,32.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,41.0,18.0,77.309,5275.208,,,2.0,MEDIUM,2.0,True,1,True,False
+2019,7,KUB,Williams,41.0,19.0,77.918,5321.424,,,3.0,HARD,3.0,True,1,True,False
+2019,7,VET,Ferrari,42.0,1.0,75.428,5219.168,,,2.0,HARD,16.0,False,1,True,False
+2019,7,HAM,Mercedes,42.0,2.0,75.36,5220.399,,,2.0,HARD,14.0,True,1,True,False
+2019,7,LEC,Ferrari,42.0,3.0,75.443,5232.366,,,2.0,HARD,9.0,False,1,True,False
+2019,7,VER,Red Bull Racing,42.0,4.0,76.754,5241.165,,,1.0,HARD,42.0,True,1,True,False
+2019,7,BOT,Mercedes,42.0,5.0,75.582,5252.674,,,2.0,HARD,12.0,True,1,True,False
+2019,7,RIC,Renault,42.0,6.0,76.974,5258.733,,,2.0,HARD,34.0,True,1,True,False
+2019,7,HUL,Renault,42.0,7.0,76.706,5261.285,,,2.0,HARD,26.0,True,1,True,False
+2019,7,STR,Racing Point,42.0,8.0,76.983,5267.332,,,1.0,HARD,42.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,42.0,9.0,76.674,5268.424,,,2.0,HARD,35.0,True,1,True,False
+2019,7,SAI,McLaren,42.0,10.0,77.086,5277.596,,,2.0,HARD,38.0,True,1,True,False
+2019,7,KVY,Toro Rosso,42.0,11.0,76.532,5288.498,,,2.0,HARD,30.0,True,1,True,False
+2019,7,PER,Racing Point,42.0,12.0,78.333,5295.644,,,2.0,HARD,31.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,42.0,13.0,77.138,5303.805,,,2.0,HARD,36.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,42.0,14.0,77.468,5316.351,,,2.0,MEDIUM,9.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,42.0,15.0,77.251,5322.62,,,2.0,HARD,8.0,True,1,True,False
+2019,7,ALB,Toro Rosso,42.0,16.0,77.58,5340.422,,,2.0,HARD,41.0,True,1,True,False
+2019,7,RUS,Williams,42.0,17.0,77.646,5348.428,,,2.0,HARD,33.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,42.0,18.0,77.49,5352.698,,,2.0,MEDIUM,3.0,True,1,True,False
+2019,7,KUB,Williams,42.0,19.0,79.368,5400.792,,,3.0,HARD,4.0,True,1,True,False
+2019,7,VET,Ferrari,43.0,1.0,75.478,5294.646,,,2.0,HARD,17.0,False,1,True,False
+2019,7,HAM,Mercedes,43.0,2.0,75.32,5295.719,,,2.0,HARD,15.0,True,1,True,False
+2019,7,LEC,Ferrari,43.0,3.0,75.369,5307.735,,,2.0,HARD,10.0,False,1,True,False
+2019,7,VER,Red Bull Racing,43.0,4.0,76.705,5317.87,,,1.0,HARD,43.0,True,1,True,False
+2019,7,BOT,Mercedes,43.0,5.0,75.046,5327.72,,,2.0,HARD,13.0,True,1,True,False
+2019,7,RIC,Renault,43.0,6.0,76.986,5335.719,,,2.0,HARD,35.0,True,1,True,False
+2019,7,HUL,Renault,43.0,7.0,76.454,5337.739,,,2.0,HARD,27.0,True,1,True,False
+2019,7,STR,Racing Point,43.0,8.0,76.941,5344.273,,,1.0,HARD,43.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,43.0,9.0,76.367,5344.791,,,2.0,HARD,36.0,True,1,True,False
+2019,7,SAI,McLaren,43.0,10.0,77.517,5355.113,,,2.0,HARD,39.0,True,1,True,False
+2019,7,KVY,Toro Rosso,43.0,11.0,76.709,5365.207,,,2.0,HARD,31.0,True,1,True,False
+2019,7,PER,Racing Point,43.0,12.0,78.158,5373.802,,,2.0,HARD,32.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,43.0,13.0,76.99,5380.795,,,2.0,HARD,37.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,43.0,14.0,78.524,5394.875,,,2.0,MEDIUM,10.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,43.0,15.0,77.247,5399.867,,,2.0,HARD,9.0,True,1,True,False
+2019,7,ALB,Toro Rosso,43.0,16.0,77.454,5417.876,,,2.0,HARD,42.0,True,1,True,False
+2019,7,RUS,Williams,43.0,17.0,77.452,5425.88,,,2.0,HARD,34.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,43.0,18.0,77.578,5430.276,,,2.0,MEDIUM,4.0,True,1,True,False
+2019,7,KUB,Williams,43.0,19.0,79.293,5480.085,,,3.0,HARD,5.0,True,1,True,False
+2019,7,VET,Ferrari,44.0,1.0,75.283,5369.929,,,2.0,HARD,18.0,False,1,True,False
+2019,7,HAM,Mercedes,44.0,2.0,75.319,5371.038,,,2.0,HARD,16.0,True,1,True,False
+2019,7,LEC,Ferrari,44.0,3.0,75.442,5383.177,,,2.0,HARD,11.0,False,1,True,False
+2019,7,VER,Red Bull Racing,44.0,4.0,77.294,5395.164,,,1.0,HARD,44.0,True,1,True,False
+2019,7,BOT,Mercedes,44.0,5.0,74.933,5402.653,,,2.0,HARD,14.0,True,1,True,False
+2019,7,RIC,Renault,44.0,6.0,76.647,5412.366,,,2.0,HARD,36.0,True,1,True,False
+2019,7,HUL,Renault,44.0,7.0,76.427,5414.166,,,2.0,HARD,28.0,True,1,True,False
+2019,7,STR,Racing Point,44.0,8.0,77.128,5421.401,,,1.0,HARD,44.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,44.0,9.0,76.981,5421.772,,,2.0,HARD,37.0,True,1,True,False
+2019,7,SAI,McLaren,44.0,10.0,76.981,5432.094,,,2.0,HARD,40.0,True,1,True,False
+2019,7,KVY,Toro Rosso,44.0,11.0,76.198,5441.405,,,2.0,HARD,32.0,True,1,True,False
+2019,7,PER,Racing Point,44.0,12.0,77.149,5450.951,,,2.0,HARD,33.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,44.0,13.0,77.132,5457.927,,,2.0,HARD,38.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,44.0,14.0,78.8,5473.675,,,2.0,MEDIUM,11.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,44.0,15.0,77.348,5477.215,,,2.0,HARD,10.0,True,1,True,False
+2019,7,ALB,Toro Rosso,44.0,16.0,77.275,5495.151,,,2.0,HARD,43.0,True,1,True,False
+2019,7,RUS,Williams,44.0,17.0,77.817,5503.697,,,2.0,HARD,35.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,44.0,18.0,77.74,5508.016,,,2.0,MEDIUM,5.0,True,1,True,False
+2019,7,KUB,Williams,44.0,19.0,79.154,5559.239,,,3.0,HARD,6.0,True,1,True,False
+2019,7,VET,Ferrari,45.0,1.0,75.463,5445.392,,,2.0,HARD,19.0,False,1,True,False
+2019,7,HAM,Mercedes,45.0,2.0,74.939,5445.977,,,2.0,HARD,17.0,True,1,True,False
+2019,7,LEC,Ferrari,45.0,3.0,75.635,5458.812,,,2.0,HARD,12.0,False,1,True,False
+2019,7,VER,Red Bull Racing,45.0,4.0,76.752,5471.916,,,1.0,HARD,45.0,True,1,True,False
+2019,7,BOT,Mercedes,45.0,5.0,76.313,5478.966,,,2.0,HARD,15.0,True,1,True,False
+2019,7,RIC,Renault,45.0,6.0,76.855,5489.221,,,2.0,HARD,37.0,True,1,True,False
+2019,7,HUL,Renault,45.0,7.0,76.344,5490.51,,,2.0,HARD,29.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,45.0,8.0,76.926,5498.698,,,2.0,HARD,38.0,True,1,True,False
+2019,7,SAI,McLaren,45.0,9.0,77.283,5509.377,,,2.0,HARD,41.0,True,1,True,False
+2019,7,STR,Racing Point,45.0,10.0,93.215,5514.616,5494.32,,1.0,HARD,45.0,True,1,False,False
+2019,7,KVY,Toro Rosso,45.0,11.0,76.429,5517.834,,,2.0,HARD,33.0,True,1,True,False
+2019,7,PER,Racing Point,45.0,12.0,76.454,5527.405,,,2.0,HARD,34.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,45.0,13.0,78.653,5536.58,,,2.0,HARD,39.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,45.0,14.0,77.456,5551.131,,,2.0,MEDIUM,12.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,45.0,15.0,76.742,5553.957,,,2.0,HARD,11.0,True,1,True,False
+2019,7,ALB,Toro Rosso,45.0,16.0,77.36,5572.511,,,2.0,HARD,44.0,True,1,True,False
+2019,7,RUS,Williams,45.0,17.0,77.698,5581.395,,,2.0,HARD,36.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,45.0,18.0,78.025,5586.041,,,2.0,MEDIUM,6.0,True,1,True,False
+2019,7,KUB,Williams,45.0,19.0,78.617,5637.856,,,3.0,HARD,7.0,True,1,True,False
+2019,7,VET,Ferrari,46.0,1.0,75.036,5520.428,,,2.0,HARD,20.0,False,1,True,False
+2019,7,HAM,Mercedes,46.0,2.0,75.192,5521.169,,,2.0,HARD,18.0,True,1,True,False
+2019,7,LEC,Ferrari,46.0,3.0,75.489,5534.301,,,2.0,HARD,13.0,False,1,True,False
+2019,7,VER,Red Bull Racing,46.0,4.0,76.606,5548.522,,,1.0,HARD,46.0,True,1,True,False
+2019,7,BOT,Mercedes,46.0,5.0,76.45,5555.416,,,2.0,HARD,16.0,True,1,True,False
+2019,7,RIC,Renault,46.0,6.0,76.296,5565.517,,,2.0,HARD,38.0,True,1,True,False
+2019,7,HUL,Renault,46.0,7.0,76.31,5566.82,,,2.0,HARD,30.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,46.0,8.0,76.266,5574.964,,,2.0,HARD,39.0,True,1,True,False
+2019,7,SAI,McLaren,46.0,9.0,77.582,5586.959,,,2.0,HARD,42.0,True,1,True,False
+2019,7,STR,Racing Point,46.0,10.0,79.019,5593.635,,5516.122,2.0,MEDIUM,1.0,True,1,False,False
+2019,7,KVY,Toro Rosso,46.0,11.0,76.413,5594.247,,,2.0,HARD,34.0,True,1,True,False
+2019,7,PER,Racing Point,46.0,12.0,77.192,5604.597,,,2.0,HARD,35.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,46.0,13.0,77.602,5614.182,,,2.0,HARD,40.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,46.0,14.0,77.628,5628.759,,,2.0,MEDIUM,13.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,46.0,15.0,79.363,5633.32,,,2.0,HARD,12.0,True,1,True,False
+2019,7,ALB,Toro Rosso,46.0,16.0,77.198,5649.709,,,2.0,HARD,45.0,True,1,True,False
+2019,7,RUS,Williams,46.0,17.0,77.578,5658.973,,,2.0,HARD,37.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,46.0,18.0,78.716,5664.757,,,2.0,MEDIUM,7.0,True,1,True,False
+2019,7,KUB,Williams,46.0,19.0,78.478,5716.334,,,3.0,HARD,8.0,True,1,True,False
+2019,7,VET,Ferrari,47.0,1.0,75.343,5595.771,,,2.0,HARD,21.0,False,1,True,False
+2019,7,HAM,Mercedes,47.0,2.0,75.288,5596.457,,,2.0,HARD,19.0,True,1,True,False
+2019,7,LEC,Ferrari,47.0,3.0,75.005,5609.306,,,2.0,HARD,14.0,False,1,True,False
+2019,7,VER,Red Bull Racing,47.0,4.0,76.74,5625.262,,,1.0,HARD,47.0,True,1,True,False
+2019,7,BOT,Mercedes,47.0,5.0,76.164,5631.58,,,2.0,HARD,17.0,True,1,True,False
+2019,7,RIC,Renault,47.0,6.0,76.333,5641.85,,,2.0,HARD,39.0,True,1,True,False
+2019,7,HUL,Renault,47.0,7.0,76.41,5643.23,,,2.0,HARD,31.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,47.0,8.0,76.622,5651.586,,,2.0,HARD,40.0,True,1,True,False
+2019,7,SAI,McLaren,47.0,9.0,77.766,5664.725,,,2.0,HARD,43.0,True,1,True,False
+2019,7,STR,Racing Point,47.0,10.0,76.043,5669.678,,,2.0,MEDIUM,2.0,True,1,True,False
+2019,7,KVY,Toro Rosso,47.0,11.0,77.146,5671.393,,,2.0,HARD,35.0,True,1,True,False
+2019,7,PER,Racing Point,47.0,12.0,77.484,5682.081,,,2.0,HARD,36.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,47.0,13.0,77.232,5691.414,,,2.0,HARD,41.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,47.0,14.0,77.293,5706.052,,,2.0,MEDIUM,14.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,47.0,15.0,78.737,5712.057,,,2.0,HARD,13.0,True,1,True,False
+2019,7,ALB,Toro Rosso,47.0,16.0,77.151,5726.86,,,2.0,HARD,46.0,True,1,True,False
+2019,7,RUS,Williams,47.0,17.0,77.56,5736.533,,,2.0,HARD,38.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,47.0,18.0,79.243,5744.0,,,2.0,MEDIUM,8.0,True,1,True,False
+2019,7,KUB,Williams,47.0,19.0,78.443,5794.777,,,3.0,HARD,9.0,True,1,True,False
+2019,7,VET,Ferrari,48.0,1.0,77.255,5673.026,,,2.0,HARD,22.0,False,1,True,False
+2019,7,HAM,Mercedes,48.0,2.0,77.396,5673.853,,,2.0,HARD,20.0,True,1,True,False
+2019,7,LEC,Ferrari,48.0,3.0,75.092,5684.398,,,2.0,HARD,15.0,False,1,True,False
+2019,7,BOT,Mercedes,48.0,4.0,75.76,5707.34,,,2.0,HARD,18.0,True,1,True,False
+2019,7,VER,Red Bull Racing,48.0,5.0,92.785,5718.047,5696.174,,1.0,HARD,48.0,True,1,False,False
+2019,7,RIC,Renault,48.0,6.0,76.406,5718.256,,,2.0,HARD,40.0,True,1,True,False
+2019,7,HUL,Renault,48.0,7.0,76.149,5719.379,,,2.0,HARD,32.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,48.0,8.0,76.439,5728.025,,,2.0,HARD,41.0,True,1,True,False
+2019,7,SAI,McLaren,48.0,9.0,76.776,5741.501,,,2.0,HARD,44.0,True,1,True,False
+2019,7,STR,Racing Point,48.0,10.0,76.621,5746.299,,,2.0,MEDIUM,3.0,True,1,True,False
+2019,7,KVY,Toro Rosso,48.0,11.0,78.499,5749.892,,,2.0,HARD,36.0,True,1,True,False
+2019,7,PER,Racing Point,48.0,12.0,77.079,5759.16,,,2.0,HARD,37.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,48.0,13.0,77.322,5768.736,,,2.0,HARD,42.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,48.0,14.0,78.075,5784.127,,,2.0,MEDIUM,15.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,48.0,15.0,77.351,5789.408,,,2.0,HARD,14.0,True,1,True,False
+2019,7,ALB,Toro Rosso,48.0,16.0,78.957,5805.817,,,2.0,HARD,47.0,True,1,True,False
+2019,7,RUS,Williams,48.0,17.0,77.25,5813.783,,,2.0,HARD,39.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,48.0,18.0,78.289,5822.289,,,2.0,MEDIUM,9.0,True,1,True,False
+2019,7,KUB,Williams,48.0,19.0,81.695,5876.472,,,3.0,HARD,10.0,True,1,True,False
+2019,7,VET,Ferrari,49.0,1.0,75.664,5748.69,,,2.0,HARD,23.0,False,1,True,False
+2019,7,HAM,Mercedes,49.0,2.0,75.95,5749.803,,,2.0,HARD,21.0,True,1,True,False
+2019,7,LEC,Ferrari,49.0,3.0,75.589,5759.987,,,2.0,HARD,16.0,False,1,True,False
+2019,7,BOT,Mercedes,49.0,4.0,76.158,5783.498,,,2.0,HARD,19.0,True,1,True,False
+2019,7,RIC,Renault,49.0,5.0,76.846,5795.102,,,2.0,HARD,41.0,True,1,True,False
+2019,7,HUL,Renault,49.0,6.0,76.555,5795.934,,,2.0,HARD,33.0,True,1,True,False
+2019,7,VER,Red Bull Racing,49.0,7.0,78.859,5796.906,,5720.014,2.0,MEDIUM,6.0,False,1,False,False
+2019,7,GAS,Red Bull Racing,49.0,8.0,76.971,5804.996,,,2.0,HARD,42.0,True,1,True,False
+2019,7,SAI,McLaren,49.0,9.0,76.815,5818.316,,,2.0,HARD,45.0,True,1,True,False
+2019,7,STR,Racing Point,49.0,10.0,76.88,5823.179,,,2.0,MEDIUM,4.0,True,1,True,False
+2019,7,KVY,Toro Rosso,49.0,11.0,77.803,5827.695,,,2.0,HARD,37.0,True,1,True,False
+2019,7,PER,Racing Point,49.0,12.0,78.995,5838.155,,,2.0,HARD,38.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,49.0,13.0,77.253,5845.989,,,2.0,HARD,43.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,49.0,14.0,77.832,5861.959,,,2.0,MEDIUM,16.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,49.0,15.0,77.023,5866.431,,,2.0,HARD,15.0,True,1,True,False
+2019,7,ALB,Toro Rosso,49.0,16.0,78.586,5884.403,,,2.0,HARD,48.0,True,1,True,False
+2019,7,RUS,Williams,49.0,17.0,77.58,5891.363,,,2.0,HARD,40.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,49.0,18.0,81.175,5903.464,,,2.0,MEDIUM,10.0,True,1,True,False
+2019,7,KUB,Williams,49.0,19.0,78.345,5954.817,,,3.0,HARD,11.0,True,1,True,False
+2019,7,VET,Ferrari,50.0,1.0,75.577,5824.267,,,2.0,HARD,24.0,False,1,True,False
+2019,7,HAM,Mercedes,50.0,2.0,75.172,5824.975,,,2.0,HARD,22.0,True,1,True,False
+2019,7,LEC,Ferrari,50.0,3.0,76.011,5835.998,,,2.0,HARD,17.0,False,1,True,False
+2019,7,BOT,Mercedes,50.0,4.0,75.354,5858.852,,,2.0,HARD,20.0,True,1,True,False
+2019,7,RIC,Renault,50.0,5.0,76.691,5871.793,,,2.0,HARD,42.0,True,1,True,False
+2019,7,VER,Red Bull Racing,50.0,6.0,75.715,5872.621,,,2.0,MEDIUM,7.0,False,1,True,False
+2019,7,HUL,Renault,50.0,7.0,77.447,5873.381,,,2.0,HARD,34.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,50.0,8.0,76.318,5881.314,,,2.0,HARD,43.0,True,1,True,False
+2019,7,SAI,McLaren,50.0,9.0,76.923,5895.239,,,2.0,HARD,46.0,True,1,True,False
+2019,7,STR,Racing Point,50.0,10.0,79.102,5902.281,,,2.0,MEDIUM,5.0,True,1,True,False
+2019,7,KVY,Toro Rosso,50.0,11.0,77.09,5904.785,,,2.0,HARD,38.0,True,1,True,False
+2019,7,PER,Racing Point,50.0,12.0,76.87,5915.025,,,2.0,HARD,39.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,50.0,13.0,77.413,5923.402,,,2.0,HARD,44.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,50.0,14.0,77.451,5939.41,,,2.0,MEDIUM,17.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,50.0,15.0,76.668,5943.099,,,2.0,HARD,16.0,True,1,True,False
+2019,7,ALB,Toro Rosso,50.0,16.0,77.75,5962.153,,,2.0,HARD,49.0,True,1,True,False
+2019,7,RUS,Williams,50.0,17.0,77.669,5969.032,,,2.0,HARD,41.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,50.0,18.0,79.961,5983.425,,,2.0,MEDIUM,11.0,True,1,True,False
+2019,7,KUB,Williams,50.0,19.0,78.158,6032.975,,,3.0,HARD,12.0,True,1,True,False
+2019,7,VET,Ferrari,51.0,1.0,75.821,5900.088,,,2.0,HARD,25.0,False,1,True,False
+2019,7,HAM,Mercedes,51.0,2.0,75.76,5900.735,,,2.0,HARD,23.0,True,1,True,False
+2019,7,LEC,Ferrari,51.0,3.0,75.27,5911.268,,,2.0,HARD,18.0,False,1,True,False
+2019,7,BOT,Mercedes,51.0,4.0,75.561,5934.413,,,2.0,HARD,21.0,True,1,True,False
+2019,7,VER,Red Bull Racing,51.0,5.0,75.397,5948.018,,,2.0,MEDIUM,8.0,False,1,True,False
+2019,7,RIC,Renault,51.0,6.0,76.886,5948.679,,,2.0,HARD,43.0,True,1,True,False
+2019,7,HUL,Renault,51.0,7.0,76.886,5950.267,,,2.0,HARD,35.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,51.0,8.0,76.157,5957.471,,,2.0,HARD,44.0,True,1,True,False
+2019,7,SAI,McLaren,51.0,9.0,76.556,5971.795,,,2.0,HARD,47.0,True,1,True,False
+2019,7,STR,Racing Point,51.0,10.0,77.239,5979.52,,,2.0,MEDIUM,6.0,True,1,True,False
+2019,7,KVY,Toro Rosso,51.0,11.0,77.394,5982.179,,,2.0,HARD,39.0,True,1,True,False
+2019,7,PER,Racing Point,51.0,12.0,76.75,5991.775,,,2.0,HARD,40.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,51.0,13.0,77.061,6000.463,,,2.0,HARD,45.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,51.0,14.0,77.17,6016.58,,,2.0,MEDIUM,18.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,51.0,15.0,77.224,6020.323,,,2.0,HARD,17.0,True,1,True,False
+2019,7,ALB,Toro Rosso,51.0,16.0,77.892,6040.045,,,2.0,HARD,50.0,True,1,True,False
+2019,7,RUS,Williams,51.0,17.0,77.587,6046.619,,,2.0,HARD,42.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,51.0,18.0,78.242,6061.667,,,2.0,MEDIUM,12.0,True,1,True,False
+2019,7,KUB,Williams,51.0,19.0,79.079,6112.054,,,3.0,HARD,13.0,True,1,True,False
+2019,7,VET,Ferrari,52.0,1.0,74.903,5974.991,,,2.0,HARD,26.0,False,1,True,False
+2019,7,HAM,Mercedes,52.0,2.0,75.626,5976.361,,,2.0,HARD,24.0,True,1,True,False
+2019,7,LEC,Ferrari,52.0,3.0,75.094,5986.362,,,2.0,HARD,19.0,False,1,True,False
+2019,7,BOT,Mercedes,52.0,4.0,75.493,6009.906,,,2.0,HARD,22.0,True,1,True,False
+2019,7,VER,Red Bull Racing,52.0,5.0,76.41,6024.428,,,2.0,MEDIUM,9.0,False,1,True,False
+2019,7,RIC,Renault,52.0,6.0,76.561,6025.24,,,2.0,HARD,44.0,True,1,True,False
+2019,7,HUL,Renault,52.0,7.0,76.523,6026.79,,,2.0,HARD,36.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,52.0,8.0,76.281,6033.752,,,2.0,HARD,45.0,True,1,True,False
+2019,7,SAI,McLaren,52.0,9.0,76.962,6048.757,,,2.0,HARD,48.0,True,1,True,False
+2019,7,STR,Racing Point,52.0,10.0,76.893,6056.413,,,2.0,MEDIUM,7.0,True,1,True,False
+2019,7,KVY,Toro Rosso,52.0,11.0,77.04,6059.219,,,2.0,HARD,40.0,True,1,True,False
+2019,7,PER,Racing Point,52.0,12.0,77.095,6068.87,,,2.0,HARD,41.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,52.0,13.0,77.5,6077.963,,,2.0,HARD,46.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,52.0,14.0,77.069,6093.649,,,2.0,MEDIUM,19.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,52.0,15.0,76.635,6096.958,,,2.0,HARD,18.0,True,1,True,False
+2019,7,ALB,Toro Rosso,52.0,16.0,77.733,6117.778,,,2.0,HARD,51.0,True,1,True,False
+2019,7,RUS,Williams,52.0,17.0,78.022,6124.641,,,2.0,HARD,43.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,52.0,18.0,79.5,6141.167,,,2.0,MEDIUM,13.0,True,1,True,False
+2019,7,KUB,Williams,52.0,19.0,78.418,6190.472,,,3.0,HARD,14.0,True,1,True,False
+2019,7,VET,Ferrari,53.0,1.0,75.034,6050.025,,,2.0,HARD,27.0,False,1,True,False
+2019,7,HAM,Mercedes,53.0,2.0,75.416,6051.777,,,2.0,HARD,25.0,True,1,True,False
+2019,7,LEC,Ferrari,53.0,3.0,75.647,6062.009,,,2.0,HARD,20.0,False,1,True,False
+2019,7,BOT,Mercedes,53.0,4.0,74.895,6084.801,,,2.0,HARD,23.0,True,1,True,False
+2019,7,VER,Red Bull Racing,53.0,5.0,75.933,6100.361,,,2.0,MEDIUM,10.0,False,1,True,False
+2019,7,RIC,Renault,53.0,6.0,76.491,6101.731,,,2.0,HARD,45.0,True,1,True,False
+2019,7,HUL,Renault,53.0,7.0,76.151,6102.941,,,2.0,HARD,37.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,53.0,8.0,77.33,6111.082,,,2.0,HARD,46.0,True,1,True,False
+2019,7,SAI,McLaren,53.0,9.0,79.758,6128.515,,,2.0,HARD,49.0,True,1,True,False
+2019,7,STR,Racing Point,53.0,10.0,76.935,6133.348,,,2.0,MEDIUM,8.0,True,1,True,False
+2019,7,KVY,Toro Rosso,53.0,11.0,76.939,6136.158,,,2.0,HARD,41.0,True,1,True,False
+2019,7,PER,Racing Point,53.0,12.0,76.882,6145.752,,,2.0,HARD,42.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,53.0,13.0,77.315,6155.278,,,2.0,HARD,47.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,53.0,14.0,76.937,6170.586,,,2.0,MEDIUM,20.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,53.0,15.0,76.546,6173.504,,,2.0,HARD,19.0,True,1,True,False
+2019,7,ALB,Toro Rosso,53.0,16.0,78.038,6195.816,,,2.0,HARD,52.0,True,1,True,False
+2019,7,RUS,Williams,53.0,17.0,82.569,6207.21,,,2.0,HARD,44.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,53.0,18.0,78.343,6219.51,,,2.0,MEDIUM,14.0,True,1,True,False
+2019,7,KUB,Williams,53.0,19.0,77.912,6268.384,,,3.0,HARD,15.0,True,1,True,False
+2019,7,VET,Ferrari,54.0,1.0,75.572,6125.597,,,2.0,HARD,28.0,False,1,True,False
+2019,7,HAM,Mercedes,54.0,2.0,75.423,6127.2,,,2.0,HARD,26.0,True,1,True,False
+2019,7,LEC,Ferrari,54.0,3.0,75.281,6137.29,,,2.0,HARD,21.0,False,1,True,False
+2019,7,BOT,Mercedes,54.0,4.0,75.318,6160.119,,,2.0,HARD,24.0,True,1,True,False
+2019,7,VER,Red Bull Racing,54.0,5.0,75.848,6176.209,,,2.0,MEDIUM,11.0,False,1,True,False
+2019,7,RIC,Renault,54.0,6.0,76.362,6178.093,,,2.0,HARD,46.0,True,1,True,False
+2019,7,HUL,Renault,54.0,7.0,76.36,6179.301,,,2.0,HARD,38.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,54.0,8.0,76.292,6187.374,,,2.0,HARD,47.0,True,1,True,False
+2019,7,SAI,McLaren,54.0,9.0,77.569,6206.084,,,2.0,HARD,50.0,True,1,True,False
+2019,7,STR,Racing Point,54.0,10.0,76.931,6210.279,,,2.0,MEDIUM,9.0,True,1,True,False
+2019,7,KVY,Toro Rosso,54.0,11.0,78.011,6214.169,,,2.0,HARD,42.0,True,1,True,False
+2019,7,PER,Racing Point,54.0,12.0,76.54,6222.292,,,2.0,HARD,43.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,54.0,13.0,77.331,6232.609,,,2.0,HARD,48.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,54.0,14.0,77.0,6247.586,,,2.0,MEDIUM,21.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,54.0,15.0,76.865,6250.369,,,2.0,HARD,20.0,True,1,True,False
+2019,7,ALB,Toro Rosso,54.0,16.0,77.943,6273.759,,,2.0,HARD,53.0,True,1,True,False
+2019,7,RUS,Williams,54.0,17.0,77.841,6285.051,,,2.0,HARD,45.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,54.0,18.0,78.085,6297.595,,,2.0,MEDIUM,15.0,True,1,True,False
+2019,7,KUB,Williams,54.0,19.0,78.043,6346.427,,,3.0,HARD,16.0,True,1,True,False
+2019,7,VET,Ferrari,55.0,1.0,75.405,6201.002,,,2.0,HARD,29.0,False,1,True,False
+2019,7,HAM,Mercedes,55.0,2.0,75.693,6202.893,,,2.0,HARD,27.0,True,1,True,False
+2019,7,LEC,Ferrari,55.0,3.0,75.173,6212.463,,,2.0,HARD,22.0,False,1,True,False
+2019,7,BOT,Mercedes,55.0,4.0,75.625,6235.744,,,2.0,HARD,25.0,True,1,True,False
+2019,7,VER,Red Bull Racing,55.0,5.0,75.845,6252.054,,,2.0,MEDIUM,12.0,False,1,True,False
+2019,7,RIC,Renault,55.0,6.0,76.075,6254.168,,,2.0,HARD,47.0,True,1,True,False
+2019,7,HUL,Renault,55.0,7.0,76.228,6255.529,,,2.0,HARD,39.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,55.0,8.0,76.359,6263.733,,,2.0,HARD,48.0,True,1,True,False
+2019,7,SAI,McLaren,55.0,9.0,76.88,6282.964,,,2.0,HARD,51.0,True,1,True,False
+2019,7,STR,Racing Point,55.0,10.0,78.16,6288.439,,,2.0,MEDIUM,10.0,True,1,True,False
+2019,7,KVY,Toro Rosso,55.0,11.0,76.833,6291.002,,,2.0,HARD,43.0,True,1,True,False
+2019,7,PER,Racing Point,55.0,12.0,76.996,6299.288,,,2.0,HARD,44.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,55.0,13.0,77.181,6309.79,,,2.0,HARD,49.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,55.0,14.0,76.903,6324.489,,,2.0,MEDIUM,22.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,55.0,15.0,77.495,6327.864,,,2.0,HARD,21.0,True,1,True,False
+2019,7,ALB,Toro Rosso,55.0,16.0,79.855,6353.614,,,2.0,HARD,54.0,True,1,True,False
+2019,7,RUS,Williams,55.0,17.0,81.249,6366.3,,,2.0,HARD,46.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,55.0,18.0,78.629,6376.224,,,2.0,MEDIUM,16.0,True,1,True,False
+2019,7,KUB,Williams,55.0,19.0,78.123,6424.55,,,3.0,HARD,17.0,True,1,True,False
+2019,7,VET,Ferrari,56.0,1.0,75.02,6276.022,,,2.0,HARD,30.0,False,1,True,False
+2019,7,HAM,Mercedes,56.0,2.0,74.912,6277.805,,,2.0,HARD,28.0,True,1,True,False
+2019,7,LEC,Ferrari,56.0,3.0,75.007,6287.47,,,2.0,HARD,23.0,False,1,True,False
+2019,7,BOT,Mercedes,56.0,4.0,75.66,6311.404,,,2.0,HARD,26.0,True,1,True,False
+2019,7,VER,Red Bull Racing,56.0,5.0,75.982,6328.036,,,2.0,MEDIUM,13.0,False,1,True,False
+2019,7,RIC,Renault,56.0,6.0,76.803,6330.971,,,2.0,HARD,48.0,True,1,True,False
+2019,7,HUL,Renault,56.0,7.0,76.478,6332.007,,,2.0,HARD,40.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,56.0,8.0,76.321,6340.054,,,2.0,HARD,49.0,True,1,True,False
+2019,7,SAI,McLaren,56.0,9.0,76.837,6359.801,,,2.0,HARD,52.0,True,1,True,False
+2019,7,STR,Racing Point,56.0,10.0,77.418,6365.857,,,2.0,MEDIUM,11.0,True,1,True,False
+2019,7,KVY,Toro Rosso,56.0,11.0,76.962,6367.964,,,2.0,HARD,44.0,True,1,True,False
+2019,7,PER,Racing Point,56.0,12.0,76.861,6376.149,,,2.0,HARD,45.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,56.0,13.0,78.612,6388.402,,,2.0,HARD,50.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,56.0,14.0,76.924,6401.413,,,2.0,MEDIUM,23.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,56.0,15.0,77.658,6405.522,,,2.0,HARD,22.0,True,1,True,False
+2019,7,ALB,Toro Rosso,56.0,16.0,79.4,6433.014,,,2.0,HARD,55.0,True,1,True,False
+2019,7,RUS,Williams,56.0,17.0,79.474,6445.774,,,2.0,HARD,47.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,56.0,18.0,78.492,6454.716,,,2.0,MEDIUM,17.0,True,1,True,False
+2019,7,KUB,Williams,56.0,19.0,79.031,6503.581,,,3.0,HARD,18.0,True,1,True,False
+2019,7,VET,Ferrari,57.0,1.0,74.875,6350.897,,,2.0,HARD,31.0,False,1,True,False
+2019,7,HAM,Mercedes,57.0,2.0,75.881,6353.686,,,2.0,HARD,29.0,True,1,True,False
+2019,7,LEC,Ferrari,57.0,3.0,75.145,6362.615,,,2.0,HARD,24.0,False,1,True,False
+2019,7,BOT,Mercedes,57.0,4.0,75.551,6386.955,,,2.0,HARD,27.0,True,1,True,False
+2019,7,VER,Red Bull Racing,57.0,5.0,75.984,6404.02,,,2.0,MEDIUM,14.0,False,1,True,False
+2019,7,RIC,Renault,57.0,6.0,76.416,6407.387,,,2.0,HARD,49.0,True,1,True,False
+2019,7,HUL,Renault,57.0,7.0,75.995,6408.002,,,2.0,HARD,41.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,57.0,8.0,76.227,6416.281,,,2.0,HARD,50.0,True,1,True,False
+2019,7,SAI,McLaren,57.0,9.0,77.461,6437.262,,,2.0,HARD,53.0,True,1,True,False
+2019,7,STR,Racing Point,57.0,10.0,76.541,6442.398,,,2.0,MEDIUM,12.0,True,1,True,False
+2019,7,KVY,Toro Rosso,57.0,11.0,76.704,6444.668,,,2.0,HARD,45.0,True,1,True,False
+2019,7,PER,Racing Point,57.0,12.0,76.627,6452.776,,,2.0,HARD,46.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,57.0,13.0,77.601,6466.003,,,2.0,HARD,51.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,57.0,14.0,76.926,6478.339,,,2.0,MEDIUM,24.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,57.0,15.0,76.598,6482.12,,,2.0,HARD,23.0,True,1,True,False
+2019,7,ALB,Toro Rosso,57.0,16.0,78.168,6511.182,,,2.0,HARD,56.0,True,1,True,False
+2019,7,RUS,Williams,57.0,17.0,77.566,6523.34,,,2.0,HARD,48.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,57.0,18.0,77.933,6532.649,,,2.0,MEDIUM,18.0,True,1,True,False
+2019,7,KUB,Williams,57.0,19.0,78.923,6582.504,,,3.0,HARD,19.0,True,1,True,False
+2019,7,VET,Ferrari,58.0,1.0,74.919,6425.816,,,2.0,HARD,32.0,False,1,True,False
+2019,7,HAM,Mercedes,58.0,2.0,75.017,6428.703,,,2.0,HARD,30.0,True,1,True,False
+2019,7,LEC,Ferrari,58.0,3.0,74.672,6437.287,,,2.0,HARD,25.0,False,1,True,False
+2019,7,BOT,Mercedes,58.0,4.0,75.243,6462.198,,,2.0,HARD,28.0,True,1,True,False
+2019,7,VER,Red Bull Racing,58.0,5.0,75.84,6479.86,,,2.0,MEDIUM,15.0,False,1,True,False
+2019,7,RIC,Renault,58.0,6.0,76.603,6483.99,,,2.0,HARD,50.0,True,1,True,False
+2019,7,HUL,Renault,58.0,7.0,76.491,6484.493,,,2.0,HARD,42.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,58.0,8.0,76.834,6493.115,,,2.0,HARD,51.0,True,1,True,False
+2019,7,SAI,McLaren,58.0,9.0,78.009,6515.271,,,2.0,HARD,54.0,True,1,True,False
+2019,7,STR,Racing Point,58.0,10.0,76.385,6518.783,,,2.0,MEDIUM,13.0,True,1,True,False
+2019,7,KVY,Toro Rosso,58.0,11.0,76.969,6521.637,,,2.0,HARD,46.0,True,1,True,False
+2019,7,PER,Racing Point,58.0,12.0,76.723,6529.499,,,2.0,HARD,47.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,58.0,13.0,77.905,6556.244,,,2.0,MEDIUM,25.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,58.0,14.0,77.261,6559.381,,,2.0,HARD,24.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,58.0,15.0,95.566,6561.569,6538.401,,2.0,HARD,52.0,True,1,False,False
+2019,7,ALB,Toro Rosso,58.0,16.0,79.714,6590.896,,,2.0,HARD,57.0,True,1,True,False
+2019,7,RUS,Williams,58.0,17.0,77.241,6600.581,,,2.0,HARD,49.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,58.0,18.0,78.283,6610.932,,,2.0,MEDIUM,19.0,True,1,True,False
+2019,7,KUB,Williams,58.0,19.0,77.94,6660.444,,,3.0,HARD,20.0,True,1,True,False
+2019,7,VET,Ferrari,59.0,1.0,75.45,6501.266,,,2.0,HARD,33.0,False,1,True,False
+2019,7,HAM,Mercedes,59.0,2.0,75.152,6503.855,,,2.0,HARD,31.0,True,1,True,False
+2019,7,LEC,Ferrari,59.0,3.0,74.983,6512.27,,,2.0,HARD,26.0,False,1,True,False
+2019,7,BOT,Mercedes,59.0,4.0,75.182,6537.38,,,2.0,HARD,29.0,True,1,True,False
+2019,7,VER,Red Bull Racing,59.0,5.0,75.851,6555.711,,,2.0,MEDIUM,16.0,False,1,True,False
+2019,7,RIC,Renault,59.0,6.0,76.934,6560.924,,,2.0,HARD,51.0,True,1,True,False
+2019,7,HUL,Renault,59.0,7.0,77.008,6561.501,,,2.0,HARD,43.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,59.0,8.0,77.299,6570.414,,,2.0,HARD,52.0,True,1,True,False
+2019,7,SAI,McLaren,59.0,9.0,77.061,6592.332,,,2.0,HARD,55.0,True,1,True,False
+2019,7,STR,Racing Point,59.0,10.0,76.252,6595.035,,,2.0,MEDIUM,14.0,True,1,True,False
+2019,7,KVY,Toro Rosso,59.0,11.0,76.41,6598.047,,,2.0,HARD,47.0,True,1,True,False
+2019,7,PER,Racing Point,59.0,12.0,76.674,6606.173,,,2.0,HARD,48.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,59.0,13.0,77.209,6633.453,,,2.0,MEDIUM,26.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,59.0,14.0,76.304,6635.685,,,2.0,HARD,25.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,59.0,15.0,78.44,6640.009,,6563.169,3.0,SOFT,1.0,True,1,False,False
+2019,7,ALB,Toro Rosso,59.0,16.0,79.707,6670.603,,,2.0,HARD,58.0,True,1,True,False
+2019,7,RUS,Williams,59.0,17.0,77.561,6678.142,,,2.0,HARD,50.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,59.0,18.0,79.36,6690.292,,,2.0,MEDIUM,20.0,True,1,True,False
+2019,7,KUB,Williams,59.0,19.0,78.886,6739.33,,,3.0,HARD,21.0,True,1,True,False
+2019,7,VET,Ferrari,60.0,1.0,75.192,6576.458,,,2.0,HARD,34.0,False,1,True,False
+2019,7,HAM,Mercedes,60.0,2.0,74.934,6578.789,,,2.0,HARD,32.0,True,1,True,False
+2019,7,LEC,Ferrari,60.0,3.0,75.112,6587.382,,,2.0,HARD,27.0,False,1,True,False
+2019,7,BOT,Mercedes,60.0,4.0,75.229,6612.609,,,2.0,HARD,30.0,True,1,True,False
+2019,7,VER,Red Bull Racing,60.0,5.0,76.16,6631.871,,,2.0,MEDIUM,17.0,False,1,True,False
+2019,7,RIC,Renault,60.0,6.0,76.679,6637.603,,,2.0,HARD,52.0,True,1,True,False
+2019,7,HUL,Renault,60.0,7.0,77.121,6638.622,,,2.0,HARD,44.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,60.0,8.0,77.242,6647.656,,,2.0,HARD,53.0,True,1,True,False
+2019,7,SAI,McLaren,60.0,9.0,77.3,6669.632,,,2.0,HARD,56.0,True,1,True,False
+2019,7,STR,Racing Point,60.0,10.0,76.319,6671.354,,,2.0,MEDIUM,15.0,True,1,True,False
+2019,7,KVY,Toro Rosso,60.0,11.0,76.373,6674.42,,,2.0,HARD,48.0,True,1,True,False
+2019,7,PER,Racing Point,60.0,12.0,76.511,6682.684,,,2.0,HARD,49.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,60.0,13.0,76.947,6710.4,,,2.0,MEDIUM,27.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,60.0,14.0,76.245,6711.93,,,2.0,HARD,26.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,60.0,15.0,75.442,6715.451,,,3.0,SOFT,2.0,True,1,True,False
+2019,7,ALB,Toro Rosso,60.0,16.0,,6746.565,6746.569,,2.0,HARD,59.0,True,1,False,False
+2019,7,RUS,Williams,60.0,17.0,77.557,6755.699,,,2.0,HARD,51.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,60.0,18.0,77.852,6768.144,,,2.0,MEDIUM,21.0,True,1,True,False
+2019,7,KUB,Williams,60.0,19.0,77.756,6817.086,,,3.0,HARD,22.0,True,1,True,False
+2019,7,VET,Ferrari,61.0,1.0,75.508,6651.966,,,2.0,HARD,35.0,False,1,True,False
+2019,7,HAM,Mercedes,61.0,2.0,74.908,6653.697,,,2.0,HARD,33.0,True,1,True,False
+2019,7,LEC,Ferrari,61.0,3.0,74.734,6662.116,,,2.0,HARD,28.0,False,1,True,False
+2019,7,BOT,Mercedes,61.0,4.0,75.428,6688.037,,,2.0,HARD,31.0,True,1,True,False
+2019,7,VER,Red Bull Racing,61.0,5.0,76.162,6708.033,,,2.0,MEDIUM,18.0,False,1,True,False
+2019,7,RIC,Renault,61.0,6.0,76.775,6714.378,,,2.0,HARD,53.0,True,1,True,False
+2019,7,HUL,Renault,61.0,7.0,77.641,6716.263,,,2.0,HARD,45.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,61.0,8.0,76.921,6724.577,,,2.0,HARD,54.0,True,1,True,False
+2019,7,SAI,McLaren,61.0,9.0,76.901,6746.533,,,2.0,HARD,57.0,True,1,True,False
+2019,7,STR,Racing Point,61.0,10.0,76.721,6748.075,,,2.0,MEDIUM,16.0,True,1,True,False
+2019,7,KVY,Toro Rosso,61.0,11.0,76.565,6750.985,,,2.0,HARD,49.0,True,1,True,False
+2019,7,PER,Racing Point,61.0,12.0,76.314,6758.998,,,2.0,HARD,50.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,61.0,13.0,76.51,6786.91,,,2.0,MEDIUM,28.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,61.0,14.0,76.247,6788.177,,,2.0,HARD,27.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,61.0,15.0,75.905,6791.356,,,3.0,SOFT,3.0,True,1,True,False
+2019,7,RUS,Williams,61.0,16.0,77.701,6833.4,,,2.0,HARD,52.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,61.0,17.0,77.617,6845.761,,,2.0,MEDIUM,22.0,True,1,True,False
+2019,7,KUB,Williams,61.0,18.0,77.493,6894.579,,,3.0,HARD,23.0,True,1,True,False
+2019,7,VET,Ferrari,62.0,1.0,75.021,6726.987,,,2.0,HARD,36.0,False,1,True,False
+2019,7,HAM,Mercedes,62.0,2.0,74.813,6728.51,,,2.0,HARD,34.0,True,1,True,False
+2019,7,LEC,Ferrari,62.0,3.0,75.248,6737.364,,,2.0,HARD,29.0,False,1,True,False
+2019,7,BOT,Mercedes,62.0,4.0,74.903,6762.94,,,2.0,HARD,32.0,True,1,True,False
+2019,7,VER,Red Bull Racing,62.0,5.0,76.03,6784.063,,,2.0,MEDIUM,19.0,False,1,True,False
+2019,7,RIC,Renault,62.0,6.0,77.799,6792.177,,,2.0,HARD,54.0,True,1,True,False
+2019,7,HUL,Renault,62.0,7.0,77.449,6793.712,,,2.0,HARD,46.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,62.0,8.0,76.645,6801.222,,,2.0,HARD,55.0,True,1,True,False
+2019,7,SAI,McLaren,62.0,9.0,76.589,6823.122,,,2.0,HARD,58.0,True,1,True,False
+2019,7,STR,Racing Point,62.0,10.0,76.592,6824.667,,,2.0,MEDIUM,17.0,True,1,True,False
+2019,7,KVY,Toro Rosso,62.0,11.0,76.71,6827.695,,,2.0,HARD,50.0,True,1,True,False
+2019,7,PER,Racing Point,62.0,12.0,77.066,6836.064,,,2.0,HARD,51.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,62.0,13.0,76.557,6863.467,,,2.0,MEDIUM,29.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,62.0,14.0,76.88,6865.057,,,2.0,HARD,28.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,62.0,15.0,75.962,6867.318,,,3.0,SOFT,4.0,True,1,True,False
+2019,7,RUS,Williams,62.0,16.0,77.705,6911.105,,,2.0,HARD,53.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,62.0,17.0,77.941,6923.702,,,2.0,MEDIUM,23.0,True,1,True,False
+2019,7,KUB,Williams,62.0,18.0,77.736,6972.315,,,3.0,HARD,24.0,True,1,True,False
+2019,7,VET,Ferrari,63.0,1.0,75.373,6802.36,,,2.0,HARD,37.0,False,1,True,False
+2019,7,HAM,Mercedes,63.0,2.0,74.873,6803.383,,,2.0,HARD,35.0,True,1,True,False
+2019,7,LEC,Ferrari,63.0,3.0,74.356,6811.72,,,2.0,HARD,30.0,False,1,True,False
+2019,7,BOT,Mercedes,63.0,4.0,75.093,6838.033,,,2.0,HARD,33.0,True,1,True,False
+2019,7,VER,Red Bull Racing,63.0,5.0,75.874,6859.937,,,2.0,MEDIUM,20.0,False,1,True,False
+2019,7,RIC,Renault,63.0,6.0,77.023,6869.2,,,2.0,HARD,55.0,True,1,True,False
+2019,7,HUL,Renault,63.0,7.0,77.15,6870.862,,,2.0,HARD,47.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,63.0,8.0,79.402,6880.624,,,2.0,HARD,56.0,True,1,True,False
+2019,7,SAI,McLaren,63.0,9.0,76.639,6899.761,,,2.0,HARD,59.0,True,1,True,False
+2019,7,STR,Racing Point,63.0,10.0,76.316,6900.983,,,2.0,MEDIUM,18.0,True,1,True,False
+2019,7,KVY,Toro Rosso,63.0,11.0,76.543,6904.238,,,2.0,HARD,51.0,True,1,True,False
+2019,7,PER,Racing Point,63.0,12.0,76.99,6913.054,,,2.0,HARD,52.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,63.0,13.0,76.581,6940.048,,,2.0,MEDIUM,30.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,63.0,14.0,76.62,6941.677,,,2.0,HARD,29.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,63.0,15.0,76.15,6943.468,,,3.0,SOFT,5.0,True,1,True,False
+2019,7,RUS,Williams,63.0,16.0,78.705,6989.81,,,2.0,HARD,54.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,63.0,17.0,77.789,7001.491,,,2.0,MEDIUM,24.0,True,1,True,False
+2019,7,KUB,Williams,63.0,18.0,77.706,7050.021,,,3.0,HARD,25.0,True,1,True,False
+2019,7,VET,Ferrari,64.0,1.0,75.642,6878.002,,,2.0,HARD,38.0,False,1,True,False
+2019,7,HAM,Mercedes,64.0,2.0,75.133,6878.516,,,2.0,HARD,36.0,True,1,True,False
+2019,7,LEC,Ferrari,64.0,3.0,74.69,6886.41,,,2.0,HARD,31.0,False,1,True,False
+2019,7,BOT,Mercedes,64.0,4.0,75.356,6913.389,,,2.0,HARD,34.0,True,1,True,False
+2019,7,VER,Red Bull Racing,64.0,5.0,75.947,6935.884,,,2.0,MEDIUM,21.0,False,1,True,False
+2019,7,RIC,Renault,64.0,6.0,76.747,6945.947,,,2.0,HARD,56.0,True,1,True,False
+2019,7,HUL,Renault,64.0,7.0,78.746,6949.608,,,2.0,HARD,48.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,64.0,8.0,76.948,6957.572,,,2.0,HARD,57.0,True,1,True,False
+2019,7,SAI,McLaren,64.0,9.0,77.426,6977.187,,,2.0,HARD,60.0,True,1,True,False
+2019,7,STR,Racing Point,64.0,10.0,76.551,6977.534,,,2.0,MEDIUM,19.0,True,1,True,False
+2019,7,KVY,Toro Rosso,64.0,11.0,76.251,6980.489,,,2.0,HARD,52.0,True,1,True,False
+2019,7,PER,Racing Point,64.0,12.0,78.278,6991.332,,,2.0,HARD,53.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,64.0,13.0,76.413,7016.461,,,2.0,MEDIUM,31.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,64.0,14.0,76.272,7017.949,,,2.0,HARD,30.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,64.0,15.0,76.311,7019.779,,,3.0,SOFT,6.0,True,1,True,False
+2019,7,RUS,Williams,64.0,16.0,79.753,7069.563,,,2.0,HARD,55.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,64.0,17.0,77.478,7078.969,,,2.0,MEDIUM,25.0,True,1,True,False
+2019,7,KUB,Williams,64.0,18.0,77.285,7127.306,,,3.0,HARD,26.0,True,1,True,False
+2019,7,VET,Ferrari,65.0,1.0,75.419,6953.421,,,2.0,HARD,39.0,False,1,True,False
+2019,7,HAM,Mercedes,65.0,2.0,75.566,6954.082,,,2.0,HARD,37.0,True,1,True,False
+2019,7,LEC,Ferrari,65.0,3.0,74.999,6961.409,,,2.0,HARD,32.0,False,1,True,False
+2019,7,BOT,Mercedes,65.0,4.0,75.373,6988.762,,,2.0,HARD,35.0,True,1,True,False
+2019,7,VER,Red Bull Racing,65.0,5.0,75.663,7011.547,,,2.0,MEDIUM,22.0,False,1,True,False
+2019,7,RIC,Renault,65.0,6.0,76.915,7022.862,,,2.0,HARD,57.0,True,1,True,False
+2019,7,HUL,Renault,65.0,7.0,77.233,7026.841,,,2.0,HARD,49.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,65.0,8.0,76.773,7034.345,,,2.0,HARD,58.0,True,1,True,False
+2019,7,SAI,McLaren,65.0,9.0,77.813,7055.0,,,2.0,HARD,61.0,True,1,True,False
+2019,7,STR,Racing Point,65.0,10.0,77.715,7055.249,,,2.0,MEDIUM,20.0,True,1,True,False
+2019,7,KVY,Toro Rosso,65.0,11.0,76.222,7056.711,,,2.0,HARD,53.0,True,1,True,False
+2019,7,PER,Racing Point,65.0,12.0,77.258,7068.59,,,2.0,HARD,54.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,65.0,13.0,76.548,7093.009,,,2.0,MEDIUM,32.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,65.0,14.0,76.43,7094.379,,,2.0,HARD,31.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,65.0,15.0,76.423,7096.202,,,3.0,SOFT,7.0,True,1,True,False
+2019,7,RUS,Williams,65.0,16.0,78.021,7147.584,,,2.0,HARD,56.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,65.0,17.0,77.524,7156.493,,,2.0,MEDIUM,26.0,True,1,True,False
+2019,7,KUB,Williams,65.0,18.0,77.635,7204.941,,,3.0,HARD,27.0,True,1,True,False
+2019,7,VET,Ferrari,66.0,1.0,75.106,7028.527,,,2.0,HARD,40.0,False,1,True,False
+2019,7,HAM,Mercedes,66.0,2.0,75.178,7029.26,,,2.0,HARD,38.0,True,1,True,False
+2019,7,LEC,Ferrari,66.0,3.0,74.494,7035.903,,,2.0,HARD,33.0,False,1,True,False
+2019,7,BOT,Mercedes,66.0,4.0,74.848,7063.61,,,2.0,HARD,36.0,True,1,True,False
+2019,7,VER,Red Bull Racing,66.0,5.0,75.025,7086.572,,,2.0,MEDIUM,23.0,False,1,True,False
+2019,7,RIC,Renault,66.0,6.0,77.241,7100.103,,,2.0,HARD,58.0,True,1,True,False
+2019,7,HUL,Renault,66.0,7.0,79.236,7106.077,,,2.0,HARD,50.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,66.0,8.0,77.02,7111.365,,,2.0,HARD,59.0,True,1,True,False
+2019,7,STR,Racing Point,66.0,9.0,77.477,7132.726,,,2.0,MEDIUM,21.0,True,1,True,False
+2019,7,SAI,McLaren,66.0,10.0,78.241,7133.241,,,2.0,HARD,62.0,True,1,True,False
+2019,7,KVY,Toro Rosso,66.0,11.0,76.715,7133.426,,,2.0,HARD,54.0,True,1,True,False
+2019,7,PER,Racing Point,66.0,12.0,76.876,7145.466,,,2.0,HARD,55.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,66.0,13.0,76.413,7169.422,,,2.0,MEDIUM,33.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,66.0,14.0,76.452,7170.831,,,2.0,HARD,32.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,66.0,15.0,76.079,7172.281,,,3.0,SOFT,8.0,True,1,True,False
+2019,7,RUS,Williams,66.0,16.0,77.922,7225.506,,,2.0,HARD,57.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,66.0,17.0,79.296,7235.789,,,2.0,MEDIUM,27.0,True,1,True,False
+2019,7,KUB,Williams,66.0,18.0,77.662,7282.603,,,3.0,HARD,28.0,True,1,True,False
+2019,7,VET,Ferrari,67.0,1.0,75.18,7103.707,,,2.0,HARD,41.0,False,1,True,False
+2019,7,HAM,Mercedes,67.0,2.0,75.203,7104.463,,,2.0,HARD,39.0,True,1,True,False
+2019,7,LEC,Ferrari,67.0,3.0,75.559,7111.462,,,2.0,HARD,34.0,False,1,True,False
+2019,7,BOT,Mercedes,67.0,4.0,91.24,7154.85,7136.473,,2.0,HARD,37.0,True,1,False,False
+2019,7,VER,Red Bull Racing,67.0,5.0,74.767,7161.339,,,2.0,MEDIUM,24.0,False,1,True,False
+2019,7,RIC,Renault,67.0,6.0,77.215,7177.318,,,2.0,HARD,59.0,True,1,True,False
+2019,7,HUL,Renault,67.0,7.0,76.139,7182.216,,,2.0,HARD,51.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,67.0,8.0,78.087,7189.452,,,2.0,HARD,60.0,True,1,True,False
+2019,7,STR,Racing Point,67.0,9.0,76.803,7209.529,,,2.0,MEDIUM,22.0,True,1,True,False
+2019,7,KVY,Toro Rosso,67.0,10.0,77.964,7211.39,,,2.0,HARD,55.0,True,1,True,False
+2019,7,SAI,McLaren,67.0,11.0,78.937,7212.178,,,2.0,HARD,63.0,True,1,True,False
+2019,7,PER,Racing Point,67.0,12.0,76.899,7222.365,,,2.0,HARD,56.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,67.0,13.0,76.73,7246.152,,,2.0,MEDIUM,34.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,67.0,14.0,76.56,7247.391,,,2.0,HARD,33.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,67.0,15.0,76.533,7248.814,,,3.0,SOFT,9.0,True,1,True,False
+2019,7,RUS,Williams,67.0,16.0,77.912,7303.418,,,2.0,HARD,58.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,67.0,17.0,78.955,7314.744,,,2.0,MEDIUM,28.0,True,1,True,False
+2019,7,KUB,Williams,67.0,18.0,77.747,7360.35,,,3.0,HARD,29.0,True,1,True,False
+2019,7,VET,Ferrari,68.0,1.0,75.196,7178.903,,,2.0,HARD,42.0,False,1,True,False
+2019,7,HAM,Mercedes,68.0,2.0,75.025,7179.488,,,2.0,HARD,40.0,True,1,True,False
+2019,7,LEC,Ferrari,68.0,3.0,74.84,7186.302,,,2.0,HARD,35.0,False,1,True,False
+2019,7,BOT,Mercedes,68.0,4.0,79.206,7234.056,,7156.374,3.0,SOFT,3.0,False,1,False,False
+2019,7,VER,Red Bull Racing,68.0,5.0,75.533,7236.872,,,2.0,MEDIUM,25.0,False,1,True,False
+2019,7,RIC,Renault,68.0,6.0,79.615,7256.933,,,2.0,HARD,60.0,True,1,True,False
+2019,7,HUL,Renault,68.0,7.0,76.253,7258.469,,,2.0,HARD,52.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,68.0,8.0,78.239,7267.691,,,2.0,HARD,61.0,True,1,True,False
+2019,7,STR,Racing Point,68.0,9.0,76.392,7285.921,,,2.0,MEDIUM,23.0,True,1,True,False
+2019,7,KVY,Toro Rosso,68.0,10.0,77.076,7288.466,,,2.0,HARD,56.0,True,1,True,False
+2019,7,SAI,McLaren,68.0,11.0,77.848,7290.026,,,2.0,HARD,64.0,True,1,True,False
+2019,7,PER,Racing Point,68.0,12.0,76.686,7299.051,,,2.0,HARD,57.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,68.0,13.0,76.651,7322.803,,,2.0,MEDIUM,35.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,68.0,14.0,76.656,7324.047,,,2.0,HARD,34.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,68.0,15.0,76.228,7325.042,,,3.0,SOFT,10.0,True,1,True,False
+2019,7,RUS,Williams,68.0,16.0,80.574,7383.992,,,2.0,HARD,59.0,True,1,True,False
+2019,7,MAG,Haas F1 Team,68.0,17.0,77.822,7392.566,,,2.0,MEDIUM,29.0,True,1,True,False
+2019,7,VET,Ferrari,69.0,1.0,75.64,7254.543,,,2.0,HARD,43.0,False,1,True,False
+2019,7,HAM,Mercedes,69.0,2.0,75.552,7255.04,,,2.0,HARD,41.0,True,1,True,False
+2019,7,LEC,Ferrari,69.0,3.0,74.86,7261.162,,,2.0,HARD,36.0,False,1,True,False
+2019,7,BOT,Mercedes,69.0,4.0,73.078,7307.134,,,3.0,SOFT,4.0,False,1,True,False
+2019,7,VER,Red Bull Racing,69.0,5.0,76.221,7313.093,,,2.0,MEDIUM,26.0,False,1,True,False
+2019,7,RIC,Renault,69.0,6.0,77.424,7334.357,,,2.0,HARD,61.0,True,1,True,False
+2019,7,HUL,Renault,69.0,7.0,76.29,7334.759,,,2.0,HARD,53.0,True,1,True,False
+2019,7,GAS,Red Bull Racing,69.0,8.0,77.134,7344.825,,,2.0,HARD,62.0,True,1,True,False
+2019,7,STR,Racing Point,69.0,9.0,77.39,7363.311,,,2.0,MEDIUM,24.0,True,1,True,False
+2019,7,KVY,Toro Rosso,69.0,10.0,77.333,7365.799,,,2.0,HARD,57.0,True,1,True,False
+2019,7,SAI,McLaren,69.0,11.0,77.941,7367.967,,,2.0,HARD,65.0,True,1,True,False
+2019,7,PER,Racing Point,69.0,12.0,77.148,7376.199,,,2.0,HARD,58.0,True,1,True,False
+2019,7,GIO,Alfa Romeo Racing,69.0,13.0,76.365,7399.168,,,2.0,MEDIUM,36.0,True,1,True,False
+2019,7,GRO,Haas F1 Team,69.0,14.0,76.79,7400.837,,,2.0,HARD,35.0,True,1,True,False
+2019,7,RAI,Alfa Romeo Racing,69.0,15.0,76.355,7401.397,,,3.0,SOFT,11.0,True,1,True,False
+2019,7,VET,Ferrari,70.0,1.0,75.399,7329.942,,,2.0,HARD,44.0,False,1,True,False
+2019,7,HAM,Mercedes,70.0,2.0,76.244,7331.284,,,2.0,HARD,42.0,True,1,True,False
+2019,7,LEC,Ferrari,70.0,3.0,74.818,7335.98,,,2.0,HARD,37.0,False,1,True,False
+2019,7,BOT,Mercedes,70.0,4.0,75.193,7382.327,,,3.0,SOFT,5.0,False,1,True,False
+2019,7,VER,Red Bull Racing,70.0,5.0,75.846,7388.939,,,2.0,MEDIUM,27.0,False,1,True,False

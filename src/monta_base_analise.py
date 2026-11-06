@@ -14,7 +14,14 @@ O que ele faz, em ordem:
    Calcula também a versão com referência de temporada, para verificação de
    robustez - nunca como alvo principal.
 3. Monta os descritores em faixas, todos com prefixo `d_`.
-4. Confere e salva.
+4. Tira da amostra as linhas incompletas.
+5. Aplica as duas correções validadas nos scripts de medição: desconta do alvo
+   o efeito da posição de largada e mede paradas e momento da parada em relação
+   ao pelotão da própria corrida.
+6. Confere e salva.
+
+O alvo da busca é `alvo_ajustado`. O `alvo` sem a correção continua na tabela
+para conferência e para reproduzir a primeira rodada.
 
 Convenção do prefixo: na configuração da busca, os descritores são
 `[c for c in df.columns if c.startswith("d_")]`. As colunas de identificação
@@ -148,7 +155,9 @@ def faixa_paradas(n):
     return "3+ paradas"
 
 
-amostra["d_paradas"] = amostra["n_paradas"].map(faixa_paradas)
+# Versão absoluta, sem o prefixo d_: não entra na busca, fica para conferência.
+# A versão que a busca usa é relativa à corrida (seção 4b).
+amostra["paradas_abs"] = amostra["n_paradas"].map(faixa_paradas)
 
 # Momento da primeira parada: cortado pelos terços da distribuição OBSERVADA,
 # não por terços da distância da corrida.
@@ -171,7 +180,7 @@ def faixa_momento(m):
     return "parada tardia"
 
 
-amostra["d_momento"] = amostra["momento_primeira_parada"].map(faixa_momento)
+amostra["momento_abs"] = amostra["momento_primeira_parada"].map(faixa_momento)
 
 # Dureza relativa à escolha daquele fim de semana, não o nome do composto:
 # a Pirelli leva três de uma escala de cinco por evento, então o "hard" de uma
@@ -206,24 +215,69 @@ DESCRITORES = [c for c in amostra.columns if c.startswith("d_")]
 # 4. Linhas incompletas
 # ---------------------------------------------------------------------------
 print("Vazios na amostra:")
-faltando = amostra[["alvo"] + DESCRITORES].isna().sum()
+OBRIGATORIAS = ["alvo", "paradas_abs", "momento_abs"] + DESCRITORES
+faltando = amostra[OBRIGATORIAS].isna().sum()
 faltando = faltando[faltando > 0]
 print(faltando.to_string() if len(faltando) else "  nenhum")
 
 antes = len(amostra)
-final = amostra.dropna(subset=["alvo"] + DESCRITORES).copy()
+final = amostra.dropna(subset=OBRIGATORIAS).copy()
 print(f"\nLinhas descartadas por estarem incompletas: {antes - len(final)}")
 print(f"Tabela final: {len(final)} linhas")
+
+
+# ---------------------------------------------------------------------------
+# 4b. As correções validadas nas medições
+# ---------------------------------------------------------------------------
+# Rodam depois do corte das linhas incompletas para a conta usar exatamente as
+# linhas que vão para a busca, como nos scripts de medição.
+CORRIDA = ["ano", "round"]
+
+# Largada fora do alvo. A média por grid é calculada na base inteira, não por
+# temporada. Medido: amplitude de 2,88 posições entre a melhor e a pior largada,
+# e rho -0,303 -> -0,023 depois da correção.
+for original, ajustado in [("alvo", "alvo_ajustado"),
+                           ("alvo_temporada", "alvo_temporada_ajustado"),
+                           ("alvo_pos_bruta", "alvo_pos_bruta_ajustado")]:
+    final[ajustado] = final[original] - final.groupby("grid")[original].transform("mean")
+
+# Paradas contra a mediana da corrida: em corrida com chuva ou safety car todo
+# mundo para mais, então o número absoluto mede a corrida, não a escolha.
+final["paradas_extra"] = (
+    final["n_paradas"] - final.groupby(CORRIDA)["n_paradas"].transform("median")
+)
+final["d_paradas"] = pd.cut(
+    final["paradas_extra"], [-np.inf, -0.5, 0.5, np.inf],
+    labels=["parou menos que o pelotão", "parou igual ao pelotão",
+            "parou mais que o pelotão"],
+).astype(str)
+
+# Momento contra a mediana da corrida. O rótulo diz só isso: undercut e overcut
+# dependem da disputa com um adversário específico e não dá para afirmá-los aqui.
+final["momento_extra"] = (
+    final["momento_primeira_parada"]
+    - final.groupby(CORRIDA)["momento_primeira_parada"].transform("median")
+)
+q1_rel, q2_rel = final["momento_extra"].quantile([1 / 3, 2 / 3])
+final["d_momento"] = pd.cut(
+    final["momento_extra"], [-np.inf, q1_rel, q2_rel, np.inf],
+    labels=["parou antes do pelotão", "parou junto com o pelotão",
+            "parou depois do pelotão"],
+).astype(str)
+
+DESCRITORES = [c for c in final.columns if c.startswith("d_")]
 
 COLUNAS = (
     # identificação - para conferência, NÃO entram no espaço de busca
     ["ano", "round", "data", "circuito", "piloto", "equipe", "cluster"]
     # o alvo e suas peças
-    + ["alvo", "alvo_temporada", "alvo_pos_bruta",
+    + ["alvo_ajustado", "alvo_temporada_ajustado", "alvo_pos_bruta_ajustado",
+       "alvo", "alvo_temporada", "alvo_pos_bruta",
        "posicao_final", "pos_norm", "n_terminaram", "ref_movel", "ref_temporada"]
     # os descritores
     + DESCRITORES
     # cru, para quem quiser refazer uma faixa sem remontar tudo
+    + ["paradas_abs", "momento_abs", "paradas_extra", "momento_extra"]
     + ["grid", "n_paradas", "momento_primeira_parada", "composto_largada_rel",
        "pct_tempo_chuva", "n_periodos_sc", "voltas_corrida"]
 )
@@ -231,7 +285,7 @@ final = final[COLUNAS].sort_values(["ano", "round", "posicao_final"])
 
 
 # ---------------------------------------------------------------------------
-# 5. Conferência
+# 6. Conferência
 # ---------------------------------------------------------------------------
 print("\n" + "=" * 64)
 print("CONFERÊNCIA")
@@ -259,6 +313,12 @@ print(f"\nViés de abandono (alvo médio da corrida x nº de finalistas):")
 print(f"  antes da correção o rho era -0,827")
 print(f"  agora: {por_corrida['n_terminaram'].corr(por_corrida['alvo'], method='spearman'):+.3f}")
 
+aj = final["alvo_ajustado"]
+print(f"\nO alvo sem o efeito da largada: média {aj.mean():+.3f}, desvio {aj.std():.2f}")
+print(f"  correlação com a largada: antes "
+      f"{final['alvo'].corr(final['grid'], method='spearman'):+.3f}, depois "
+      f"{aj.corr(final['grid'], method='spearman'):+.3f}")
+
 print("\nO alvo por perfil de circuito (média tem que ficar perto de zero -")
 print("o alvo é relativo ao próprio piloto, não ao perfil):")
 print(final.groupby("d_perfil")["alvo"].agg(
@@ -266,7 +326,9 @@ print(final.groupby("d_perfil")["alvo"].agg(
 ).to_string(float_format=lambda x: f"{x:+.3f}"))
 
 print(f"\nCortes do momento da parada: {q1:.3f} e {q2:.3f} da distância")
-print("(fração da corrida em que a primeira parada aconteceu)")
+print("(fração da corrida em que a primeira parada aconteceu; versão absoluta)")
+print(f"Cortes do momento relativo: {q1_rel:+.3f} e {q2_rel:+.3f} da distância")
+print("(negativo = parou antes da mediana daquela corrida)")
 
 print("\nOs descritores:")
 for d in DESCRITORES:
