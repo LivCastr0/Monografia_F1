@@ -1,0 +1,23 @@
+descobre_em,regra,firme,selecionada,efeito_dentro,efeito_fora,linhas_fora
+2018-21,neutralizacao=safety car ou VSC,True,True,0.09501290526668477,0.125159671629217,2547
+2018-21,fase=segundo terço E paradas_feitas=0 paradas,True,True,0.08522724155366795,0.06983846712938963,4376
+2018-21,dist_frente=mais de 3 s E paradas_feitas=0 paradas,True,True,0.05240491350864516,0.06732597312383459,6008
+2018-21,fase=segundo terço E idade_pneu=20–29 voltas,True,True,0.05706917318698399,0.05257677343554864,5367
+2018-21,idade_pneu=30+ voltas E paradas_feitas=0 paradas,True,True,0.10585602662070157,0.10962800783435037,1361
+2018-21,posicao=top 5 E rival_tras=rival de trás parou,True,True,0.1401298402766742,0.20445951258534353,472
+2018-21,paradas_feitas=0 paradas E rival_frente=rival da frente parou,True,False,0.08407677228330768,0.14747183924173798,550
+2018-21,idade_pneu=20–29 voltas E paradas_feitas=0 paradas,True,True,0.0660385937324651,0.04930191873987221,3362
+2018-21,idade_pneu=0–9 voltas,True,True,-0.019515541835322232,-0.01974430458971918,25899
+2018-21,fase=último terço,True,True,-0.012265907825913075,-0.014010352484356184,22755
+2018-21,composto=duro E fase=primeiro terço,True,False,-0.02455448761887597,-0.023166522068974918,6098
+2022+,neutralizacao=safety car ou VSC,True,False,0.125159671629217,0.09501290526668477,2032
+2022+,fase=segundo terço E paradas_feitas=0 paradas,True,True,0.06983846712938963,0.08522724155366795,3670
+2022+,dist_frente=mais de 3 s E paradas_feitas=0 paradas,True,True,0.06732597312383459,0.05240491350864516,6206
+2022+,fase=segundo terço E idade_pneu=20–29 voltas,True,True,0.05257677343554864,0.05706917318698399,4328
+2022+,idade_pneu=30+ voltas E paradas_feitas=0 paradas,True,False,0.10962800783435037,0.10585602662070157,1204
+2022+,posicao=top 5 E rival_tras=rival de trás parou,True,True,0.20445951258534353,0.1401298402766742,335
+2022+,paradas_feitas=0 paradas E rival_frente=rival da frente parou,True,False,0.14747183924173798,0.08407677228330768,423
+2022+,idade_pneu=20–29 voltas E paradas_feitas=0 paradas,True,False,0.04930191873987221,0.0660385937324651,3277
+2022+,idade_pneu=0–9 voltas,True,True,-0.01974430458971918,-0.019515541835322232,17024
+2022+,fase=último terço,True,True,-0.014010352484356184,-0.012265907825913075,16928
+2022+,composto=duro E fase=primeiro terço,True,False,-0.023166522068974918,-0.02455448761887597,3226
