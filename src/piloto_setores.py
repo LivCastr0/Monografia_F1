@@ -50,9 +50,9 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 # --------------------------------------------------------------------------
 CACHE = "data/cache"
 SAIDA = Path("data/processed/piloto_setores")
-ARQ_CLUSTERS = "data/raw/clusters_circuitos.csv"
+ARQ_CLUSTERS = "data/processed/clusters_circuitos.csv"
 ARQ_FEATURES = "data/processed/features_completas_por_circuito.csv"
-ARQ_COMPRIMENTO = "data/raw/circuit_length.csv"
+ARQ_COMPRIMENTO = "data/external/circuit_length.csv"
 
 # Uma corrida seca por perfil, com estratégias variadas (necessário para o C5).
 CORRIDAS = [
@@ -374,11 +374,29 @@ def reparticao_sustentada(mod):
 FEATS_PROJ = ["vel_media", "vel_minima", "zonas_freio_km", "pico_desac", "densidade_curvas"]
 
 
+def achar(caminho):
+    """Usa o caminho configurado; se não existir, procura o arquivo pelo nome no repositório."""
+    p = Path(caminho)
+    if p.exists():
+        return p
+    achados = sorted(x for x in Path(".").rglob(p.name)
+                     if ".venv" not in x.parts and "cache" not in x.parts)
+    if not achados:
+        raise FileNotFoundError(
+            f"{p.name} não encontrado em {caminho} nem em nenhuma pasta do repositório; "
+            f"ajuste a constante no topo do script")
+    if len(achados) > 1:
+        print(f"    aviso: {p.name} existe em {len(achados)} lugares; usando {achados[0]}")
+    else:
+        print(f"    {p.name} encontrado em {achados[0]}")
+    return achados[0]
+
+
 def espaco_etapa1():
-    feats = pd.read_csv(ARQ_FEATURES)
-    comp = pd.read_csv(ARQ_COMPRIMENTO, sep=";", decimal=",", encoding="utf-8-sig")
+    feats = pd.read_csv(achar(ARQ_FEATURES))
+    comp = pd.read_csv(achar(ARQ_COMPRIMENTO), sep=";", decimal=",", encoding="utf-8-sig")
     comp.columns = ["circuito", "comprimento_m"]
-    cl = pd.read_csv(ARQ_CLUSTERS)[["circuito", COL_CLUSTER]]
+    cl = pd.read_csv(achar(ARQ_CLUSTERS))[["circuito", COL_CLUSTER]]
     f = feats.merge(comp, on="circuito").merge(cl, on="circuito")
     if len(f) != 26:
         print(f"    aviso: {len(f)} circuitos casaram entre os três arquivos (esperado 26)")
