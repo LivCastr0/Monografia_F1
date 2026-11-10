@@ -26,6 +26,13 @@ Seleção, fixada antes de rodar (cobertura ponderada, como no CN2-SD, Lavrač e
   - a primeira regra escolhida é a de maior |z| da busca (o z ponderado coincide com o
     z original enquanto todos os pesos são 1).
 
+Ajuste decidido DEPOIS de ver a primeira rodada (commit fe040b7; declarar assim):
+  - quando uma regra entra, saem da disputa as candidatas aninhadas nela, ou seja, as
+    que têm as mesmas condições e mais alguma, ou um pedaço das condições dela.
+  - motivo: com os pesos 1/(1+k), versões mais gerais ou mais específicas da mesma
+    regra continuavam entrando (pneu 10+ mais novo logo depois de pneu 10+ mais novo E
+    defensor livre; safety car em 4 das 8 regras de parada).
+
 Para cada regra escolhida:
   efeito     taxa, diferença para a taxa geral (p.p.) e razão, com intervalo de 95%
              por reamostragem de circuitos (1.000 sorteios dos 26 circuitos)
@@ -82,7 +89,9 @@ def seleciona(y, mascaras, sentido, limiar, maximo, base, dp):
             break
         escolhidas.append((melhor, sentido * melhor_z))
         cobertas += mascaras[melhor]
-        restantes.remove(melhor)
+        c = set(melhor.split(" E "))
+        restantes = [r for r in restantes
+                     if not (set(r.split(" E ")) <= c or c <= set(r.split(" E ")))]
     return escolhidas
 
 
