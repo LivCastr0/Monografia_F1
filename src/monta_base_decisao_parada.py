@@ -15,10 +15,20 @@ Grão: piloto em cada volta L, em corrida seca. Alvo `parou`: o piloto entra no 
 volta L e troca de pneu (mesma detecção de parada do A1).
 
 Os descritores descrevem a situação no fim da volta L-1, antes da decisão. A exceção
-é a neutralização, que é a da própria volta L: safety car e VSC aparecem durante a
-volta e a equipe decide na hora.
+é a neutralização, medida no ponto de decisão da volta L: safety car e VSC aparecem
+durante a volta e a equipe decide na hora.
 
-Ficam de fora: volta 1, a última volta, a volta de saída do box, voltas com pneu de
+Neutralização (corrigida em 2026-11-10, ver verifica_horario_sc_parada.py): SC ou VSC
+ativo no ponto de decisão de cada piloto, pelo horário dos avisos de bandeira
+(data/interim/corridas/*_bandeiras.csv, códigos 4, 6 e 7). Voltas com bandeira
+vermelha no ponto de decisão saem da base: a troca de pneu sob vermelha é livre e
+geral, não é decisão (antes contavam como neutralização; eram 97 paradas). Ponto de decisão = entrada
+do box para quem parou, fim da volta L para quem não parou (em média 2,6 s depois).
+Antes, a neutralização valia para a volta L inteira e juntava a bandeira de todos os
+pilotos; com isso, paradas feitas antes do SC ou depois de ele sair contavam como "sob
+SC", e voltas de quem nunca viu o SC também.
+
+Ficam de fora: voltas com bandeira vermelha no ponto de decisão, volta 1, a última volta, a volta de saída do box, voltas com pneu de
 chuva, corridas com chuva, corrida sem disputa efetiva e corridas com dado de
 parada incompleto (regra de 80% do A1).
 
@@ -49,7 +59,8 @@ FEATURES = Path("data/processed/features_completas_por_circuito.csv")
 SAIDA = Path("data/processed/base_decisao_parada.csv")
 
 MIN_CONFERIDOS = 0.80
-NEUTRALIZACAO = set("4567")
+NEUTRALIZACAO = {"4", "6", "7"}   # SC, VSC, VSC terminando
+VERMELHA = "5"
 SECOS = ["HYPERSOFT", "ULTRASOFT", "SUPERSOFT", "SOFT", "MEDIUM", "HARD"]
 NOMES_PERFIL = {0: "alto downforce", 1: "stop-and-go", 2: "potência", 3: "urbano-técnico"}
 
@@ -86,8 +97,15 @@ def corrida(arquivo, info):
         return None
 
     rotulo = dureza(set(v["composto"].dropna()))
-    neutra = v.groupby("volta")["bandeira"].agg(
-        lambda b: any(set(str(x)) & NEUTRALIZACAO for x in b))
+    b = pd.read_csv(A.CORRIDAS / f"{info['ano']}_{info['round']:02d}_bandeiras.csv") \
+        .sort_values("tempo_s")
+    avisos_t, avisos_cod = b["tempo_s"].to_numpy(), b["codigo"].astype(str).to_numpy()
+
+    def bandeira_em(t):
+        if pd.isna(t):
+            return "1"
+        i = np.searchsorted(avisos_t, t, side="right") - 1
+        return avisos_cod[max(i, 0)]
     ultima = int(v["volta"].max())
 
     # Ordem e distâncias no fim de cada volta
@@ -106,7 +124,9 @@ def corrida(arquivo, info):
     # O estado no fim da volta L-1 vira a linha da volta L
     ant = v.rename(columns=lambda c: c + "_ant").rename(columns={"piloto_ant": "piloto"})
     ant["volta"] = ant["volta_ant"] + 1
-    atual = v[["piloto", "volta", "parou_aqui", "saida", "composto"]]
+    v["t_decisao"] = np.where(v["parou_aqui"] & v["entrada_box_s"].notna(),
+                              v["entrada_box_s"], v["fim_volta_s"])
+    atual = v[["piloto", "volta", "parou_aqui", "saida", "composto", "t_decisao"]]
     d = atual.merge(ant, on=["piloto", "volta"])
     d = d[(d["volta"] >= 2) & (d["volta"] < ultima) & ~d["saida"] & ~d["saida_ant"]]
 
@@ -116,6 +136,9 @@ def corrida(arquivo, info):
     d["rival_frente_parou"] = [parou_em(p, l - 1) for p, l in zip(d["frente_ant"], d["volta"])]
     d["rival_tras_parou"] = [parou_em(p, l - 1) for p, l in zip(d["tras_ant"], d["volta"])]
     d = d[d["composto_ant"].isin(rotulo.keys())]
+    # Bandeira vermelha no ponto de decisão: troca de pneu livre, não é decisão; sai.
+    d = d.assign(bandeira_decisao=[bandeira_em(t) for t in d["t_decisao"]])
+    d = d[d["bandeira_decisao"] != VERMELHA]
 
     total = info["voltas"]
     perda = info["perda_box"]
@@ -127,8 +150,8 @@ def corrida(arquivo, info):
         "d_idade_pneu": [faixa(x, [9, 19, 29], ["0–9 voltas", "10–19 voltas", "20–29 voltas",
                                                 "30+ voltas"]) for x in d["vida_pneu_ant"]],
         "d_composto": d["composto_ant"].map(rotulo).to_numpy(),
-        "d_neutralizacao": ["safety car ou VSC" if neutra.get(l, False) else "bandeira verde"
-                            for l in d["volta"]],
+        "d_neutralizacao": np.where(d["bandeira_decisao"].isin(NEUTRALIZACAO),
+                                    "safety car ou VSC", "bandeira verde"),
         "d_rival_frente": np.where(d["rival_frente_parou"], "rival da frente parou",
                                    "rival da frente não parou"),
         "d_rival_tras": np.where(d["rival_tras_parou"], "rival de trás parou",
