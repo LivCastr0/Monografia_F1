@@ -1,0 +1,11 @@
+H1: NÃO CONFIRMADA. Previstos: vel_minima=baixa +0.0479 (z_acr +1.81, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x vel_minima = -0.46, p = 0.0096
+H2: NÃO CONFIRMADA. Previstos: distancia=0,6 a 1,0 s E vel_media=alta -0.0151 (z_acr -2.39, não acrescenta, firme); vel_media=alta E distancia=0,3 a 0,6 s -0.0060 (z_acr -0.65, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x vel_media = -0.02, p = 0.5272
+H3: NÃO CONFIRMADA. Previstos: vel_media=alta +0.0661 (z_acr +8.96, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x vel_media = +0.45, p = 0.0109
+H4: NÃO CONFIRMADA. Previstos: zonas_freio=alta -0.0200 (z_acr -7.93, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x zonas_freio = -0.22, p = 0.8604
+Qualidade de H5 (metades de stints, entre circuitos): Spearman 0.49 (>= 0,50) FALHA: H5 não é interpretada
+H5: NÃO CONFIRMADA (medida não passou na qualidade; não interpretar). Previstos: densidade_curvas=alta +0.0193 (z_acr +2.97, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x densidade_curvas = +0.28, p = 0.0806
