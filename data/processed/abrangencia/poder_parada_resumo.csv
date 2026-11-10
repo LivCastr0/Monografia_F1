@@ -1,25 +1,25 @@
-ordem,regra,perfil,efeito_original_pp,menor_delta_80pct,subida_efetiva_pp,como_pct_do_efeito
-1,neutralizacao=safety car ou VSC,alto downforce,11.723809659467413,8.0,7.691412127468069,65.60505800481815
-1,neutralizacao=safety car ou VSC,potência,12.06814473011557,,,
-1,neutralizacao=safety car ou VSC,stop-and-go,10.172470106198885,,,
-2,fase=segundo terço E paradas_feitas=0 paradas,alto downforce,8.996282600378864,1.0,0.9628688461472588,10.70296353414586
-2,fase=segundo terço E paradas_feitas=0 paradas,potência,9.874245049228254,1.0,0.9306620648295723,9.425146532111945
-2,fase=segundo terço E paradas_feitas=0 paradas,stop-and-go,5.749146090701853,,,
-3,dist_frente=mais de 3 s E paradas_feitas=0 paradas,alto downforce,5.874621844800149,5.0,4.518060545941126,76.90810856089799
-3,dist_frente=mais de 3 s E paradas_feitas=0 paradas,potência,6.216971407760692,3.0,2.697217896355829,43.38475632988872
-3,dist_frente=mais de 3 s E paradas_feitas=0 paradas,stop-and-go,6.314541456191028,3.0,2.702747574818843,42.80196105402019
-4,fase=segundo terço E idade_pneu=20–29 voltas,alto downforce,6.3573143321446315,5.0,4.624965375590399,72.75030199789056
-4,fase=segundo terço E idade_pneu=20–29 voltas,potência,7.219907725390017,5.0,4.56263358855311,63.195178693321026
-4,fase=segundo terço E idade_pneu=20–29 voltas,stop-and-go,4.30076012440779,,,
-5,idade_pneu=30+ voltas E paradas_feitas=0 paradas,alto downforce,14.616807898597123,2.0,1.9734753756569114,13.501411452813302
-5,idade_pneu=30+ voltas E paradas_feitas=0 paradas,potência,10.230670610032755,,,
-5,idade_pneu=30+ voltas E paradas_feitas=0 paradas,stop-and-go,9.881395327319227,,,
-6,posicao=top 5 E rival_tras=rival de trás parou,alto downforce,14.72548895023894,,,
-6,posicao=top 5 E rival_tras=rival de trás parou,potência,17.47704742162696,1.0,1.0619257609018367,6.076116493154086
-6,posicao=top 5 E rival_tras=rival de trás parou,stop-and-go,22.526301705063602,1.0,1.0325988978877783,4.583969936155406
-7,paradas_feitas=0 paradas E rival_frente=rival da frente parou,alto downforce,11.666642958560272,,,
-7,paradas_feitas=0 paradas E rival_frente=rival da frente parou,potência,11.060024719105385,,,
-7,paradas_feitas=0 paradas E rival_frente=rival da frente parou,stop-and-go,13.167179100907877,8.0,7.805381046534659,59.279067951589404
-8,idade_pneu=20–29 voltas E paradas_feitas=0 paradas,alto downforce,6.8464282805271175,2.0,1.8721002020129667,27.344187732714122
-8,idade_pneu=20–29 voltas E paradas_feitas=0 paradas,potência,8.240281992331163,2.0,1.9359118872295058,23.493272305864856
-8,idade_pneu=20–29 voltas E paradas_feitas=0 paradas,stop-and-go,3.990791008857138,,,
+ordem,regra,circuitos_no_grupo,efeito_medio_no_grupo_pp,poder_delta0,menor_delta_80pct,subida_efetiva_pp,como_pct_do_efeito
+1,neutralizacao=safety car ou VSC,5,11.34527186594735,0.05,,,
+1,neutralizacao=safety car ou VSC,8,11.188544357229112,0.05,,,
+1,neutralizacao=safety car ou VSC,11,11.302888154872349,0.045,,,
+2,fase=segundo terço E paradas_feitas=0 paradas,5,7.781166868717418,0.06,8.0,7.424568769294821,95.41716421920951
+2,fase=segundo terço E paradas_feitas=0 paradas,8,7.6853039026106735,0.065,8.0,7.495854555930344,97.53491405049091
+2,fase=segundo terço E paradas_feitas=0 paradas,11,7.704258923602864,0.035,8.0,7.462181426010534,96.85787432648846
+3,dist_frente=mais de 3 s E paradas_feitas=0 paradas,5,6.053395355569422,0.04,5.0,4.498447868321837,74.31280470030829
+3,dist_frente=mais de 3 s E paradas_feitas=0 paradas,8,5.981932073888197,0.05,5.0,4.513135998030913,75.44612580492608
+3,dist_frente=mais de 3 s E paradas_feitas=0 paradas,11,5.998021169582331,0.075,3.0,2.6997668183339307,45.01095848119402
+4,fase=segundo terço E idade_pneu=20–29 voltas,5,5.656254111297672,0.05,,,
+4,fase=segundo terço E idade_pneu=20–29 voltas,8,5.449294957644257,0.045,8.0,7.330417716155964,134.52047967917156
+4,fase=segundo terço E idade_pneu=20–29 voltas,11,5.542288569898059,0.055,8.0,7.364913199486814,132.8857764550192
+5,idade_pneu=30+ voltas E paradas_feitas=0 paradas,5,11.558826696105815,0.045,,,
+5,idade_pneu=30+ voltas E paradas_feitas=0 paradas,8,11.209919715191855,0.04,,,
+5,idade_pneu=30+ voltas E paradas_feitas=0 paradas,11,11.043786183152893,0.055,,,
+6,posicao=top 5 E rival_tras=rival de trás parou,5,17.41107784400497,0.125,,,
+6,posicao=top 5 E rival_tras=rival de trás parou,8,17.647764924346674,0.12,,,
+6,posicao=top 5 E rival_tras=rival de trás parou,11,17.905298613334683,0.16,,,
+7,paradas_feitas=0 paradas E rival_frente=rival da frente parou,5,12.3411834485344,0.04,,,
+7,paradas_feitas=0 paradas E rival_frente=rival da frente parou,8,11.963630571441257,0.055,,,
+7,paradas_feitas=0 paradas E rival_frente=rival da frente parou,11,11.955514148769176,0.07,,,
+8,idade_pneu=20–29 voltas E paradas_feitas=0 paradas,5,5.975038281728523,0.015,8.0,7.549062620416675,126.34333479505007
+8,idade_pneu=20–29 voltas E paradas_feitas=0 paradas,8,5.850039640180993,0.035,8.0,7.492832268596776,128.08173498743943
+8,idade_pneu=20–29 voltas E paradas_feitas=0 paradas,11,5.801261493996048,0.045,8.0,7.582794657133752,130.7094097547832

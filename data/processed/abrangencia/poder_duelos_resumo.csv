@@ -1,16 +1,16 @@
-ordem,regra,perfil,efeito_original_pp,menor_delta_80pct,subida_efetiva_pp,como_pct_do_efeito
-1,"distancia=até 0,3 s",alto downforce,51.224403427059976,5.0,4.747195445920305,9.26744896635055
-1,"distancia=até 0,3 s",potência,40.232937133107995,5.0,4.522844998680975,11.241647567806059
-1,"distancia=até 0,3 s",stop-and-go,30.633506340090232,,,
-2,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,alto downforce,32.380227430958456,20.0,17.89910234393131,55.27787716159811
-2,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,potência,29.464879195238737,30.0,27.594601741111376,93.65251952422875
-2,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,stop-and-go,33.67320857334085,20.0,17.623337514251133,52.33637737807845
-3,"distancia=0,3 a 0,6 s E trem=defensor livre",alto downforce,18.974300588721842,,,
-3,"distancia=0,3 a 0,6 s E trem=defensor livre",potência,21.953993854164715,,,
-3,"distancia=0,3 a 0,6 s E trem=defensor livre",stop-and-go,20.684788391372283,,,
-4,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,alto downforce,37.94962157395842,30.0,28.27270982438092,74.50063703344559
-4,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,potência,33.91980581997668,,,
-4,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,stop-and-go,37.16508218112898,30.0,28.144697868350587,75.72887295441363
-5,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",alto downforce,33.25259367098307,,,
-5,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",potência,38.42172152878894,,,
-5,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",stop-and-go,37.17087831655569,,,
+ordem,regra,circuitos_no_grupo,efeito_medio_no_grupo_pp,poder_delta0,menor_delta_80pct,subida_efetiva_pp,como_pct_do_efeito
+1,"distancia=até 0,3 s",5,42.829151884636396,0.11,,,
+1,"distancia=até 0,3 s",8,42.54851534997516,0.105,30.0,27.981845217586837,65.76456308152518
+1,"distancia=até 0,3 s",11,42.43543379224341,0.08,30.0,28.284216597466973,66.65235646215291
+2,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,5,31.78550517905771,0.075,30.0,27.060446321319496,85.13454849586162
+2,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,8,31.82455189666281,0.035,30.0,26.93516809615562,84.63644102080852
+2,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,11,31.759705644798526,0.04,30.0,26.84237173966339,84.51706712861025
+3,"distancia=0,3 a 0,6 s E trem=defensor livre",5,18.9432717313778,0.035,,,
+3,"distancia=0,3 a 0,6 s E trem=defensor livre",8,18.92439159081106,0.095,,,
+3,"distancia=0,3 a 0,6 s E trem=defensor livre",11,19.081179266499902,0.055,,,
+4,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,5,35.842659050343386,0.03,,,
+4,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,8,35.78738192032945,0.06,30.0,28.13061127939596,78.6048315633171
+4,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,11,35.4629807414137,0.07,30.0,28.54136257138383,80.48213087190722
+5,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",5,35.16198558183256,0.05,,,
+5,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",8,33.479323188570326,0.125,,,
+5,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",11,34.03303760416745,0.075,,,

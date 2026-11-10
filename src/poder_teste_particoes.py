@@ -13,19 +13,24 @@ Desenho fixado antes de rodar
 -----------------------------
 - Regras: as regras globais acima da média, menos a regra marginal dos duelos (pneu 10+
   mais novo e primeiro terço, abaixo do suporte em todos os perfis).
-- Efeito plantado: em UM perfil testado de cada vez, nas voltas da regra naquele perfil
-  em que o alvo é 0, o alvo vira 1 com probabilidade Δ / (1 − taxa da regra no perfil).
-  Assim a taxa da regra naquele perfil sobe Δ p.p. em média, e o resto da base fica
-  como é: a variação real entre circuitos continua lá.
+- Tipologia sorteada (ajuste depois da primeira rodada, commit 80ef1ca; declarar): em
+  cada repetição, os 26 circuitos são divididos ao acaso com os tamanhos reais
+  (2/5/8/11), e o efeito é plantado num dos grupos de 5, 8 ou 11. O teste compara essa
+  divisão com as partições aleatórias de referência, como na tarefa 3.
+  Motivo: plantando nos perfis reais, o resultado misturava o efeito plantado com as
+  diferenças que já existem entre os perfis (com Δ = 0 o "poder" dava 100% em algumas
+  regras, e plantar no perfil de menor efeito escondia a diferença). Com a tipologia
+  sorteada, Δ = 0 dá cerca de 5% e os dados ficam como são, com toda a variação real
+  entre circuitos.
+- Efeito plantado: nas voltas da regra dentro do grupo em que o alvo é 0, o alvo vira 1
+  com probabilidade Δ / (1 − taxa da regra no grupo). A taxa da regra no grupo sobe Δ
+  p.p. em média; o resto da base fica como é.
 - Δ (p.p.): duelos 0, 5, 10, 15, 20, 30; parada 0, 1, 2, 3, 5, 8.
-- Em cada repetição, o mesmo teste da tarefa 3 (Q/gl do efeito entre os três perfis
-  testados contra partições aleatórias 2/5/8/11), com 1.000 partições sorteadas uma vez.
-  Detectou = p < 0,05 para aquela regra (sem a correção entre regras, que exigiria
-  efeitos ainda maiores).
-- 200 repetições por regra, perfil e Δ. Poder = fração das repetições que detectam.
-- Δ = 0 não tem sorteio: repete o p real da tarefa 3 (com outras partições).
-- Também é guardado quanto a diferença de efeito (taxa na regra − taxa do perfil) do
-  perfil plantado subiu de fato, porque a taxa do perfil também sobe um pouco.
+- Detectou = p < 0,05 para aquela regra (sem a correção entre regras, que exigiria
+  efeitos ainda maiores). 200 repetições por regra, tamanho de grupo e Δ; 1.000
+  partições de referência sorteadas uma vez. Poder = fração das repetições que detectam.
+- Também é guardado quanto a diferença de efeito (taxa na regra − taxa do grupo) subiu
+  de fato, porque a taxa do grupo também sobe um pouco.
 
 Associação, não causa.
 """
@@ -78,67 +83,68 @@ def roda(nome, cfg, rng):
     cod = pd.Categorical(df["circuito"], categories=circuitos).codes
     perfil_c = df.drop_duplicates("circuito").set_index("circuito")["d_perfil"] \
         .reindex(circuitos).to_numpy()
-    perfil_l = df["d_perfil"].to_numpy()
     tamanhos = pd.Series(perfil_c).value_counts()
     testados = sorted(g for g in tamanhos.index if g != URBANO)
     rot = np.concatenate([[g] * k for g, k in tamanhos.items()])
     parts = np.array([rng.permutation(rot) for _ in range(PARTICOES)])
     H_parts = np.stack([(parts == g) for g in testados], axis=1).astype(float)  # P×3×26
-    H_real = np.stack([(perfil_c == g) for g in testados]).astype(float)        # 3×26
     nc = np.bincount(cod, minlength=len(circuitos)).astype(float)
-    print(f"\n{'=' * 78}\n{nome.upper()}: {len(regras)} regras, perfis testados {testados}\n{'=' * 78}")
+    print(f"\n{'=' * 78}\n{nome.upper()}: {len(regras)} regras; grupos plantados com o tamanho de "
+          f"{', '.join(f'{g} ({tamanhos[g]})' for g in testados)}\n{'=' * 78}")
 
     linhas = []
     for r in regras.itertuples():
         m = mascara(df, r.regra)
         mc = np.bincount(cod, weights=m, minlength=len(circuitos))
         for g in testados:
-            alvo_l = m & (perfil_l == g)
-            cand = np.flatnonzero(alvo_l & (y0 == 0))
-            taxa_rg = y0[alvo_l].mean()
-            d_orig = taxa_rg - y0[perfil_l == g].mean()
             for delta in cfg["deltas"]:
-                prob = min(delta / 100 / max(1 - taxa_rg, 1e-9), 1.0)
-                reps = 1 if delta == 0 else REPETICOES
-                det, subida = 0, []
-                for _ in range(reps):
+                det, subida, orig = 0, [], []
+                for _ in range(REPETICOES):
+                    pseudo = rng.permutation(rot)                 # tipologia sorteada
+                    no_grupo = (pseudo == g)[cod]
+                    alvo_l = m & no_grupo
+                    taxa_rg = y0[alvo_l].mean()
+                    d0 = taxa_rg - y0[no_grupo].mean()
                     y = y0.copy()
+                    prob = min(delta / 100 / max(1 - taxa_rg, 1e-9), 1.0)
                     if prob > 0:
+                        cand = np.flatnonzero(alvo_l & (y0 == 0))
                         y[cand[rng.random(len(cand)) < prob]] = 1.0
                     tot = np.column_stack([nc, np.bincount(cod, weights=y, minlength=len(circuitos)),
                                            mc, np.bincount(cod, weights=y * m, minlength=len(circuitos))])
-                    q_obs = q_efeito(H_real @ tot, cfg["suporte"])
+                    H = np.stack([(pseudo == t) for t in testados]).astype(float)
+                    q_obs = q_efeito(H @ tot, cfg["suporte"])
                     q_ref = q_efeito(H_parts @ tot, cfg["suporte"])
-                    p = (np.sum(q_ref >= q_obs) + 1) / (PARTICOES + 1)
-                    det += p < 0.05
-                    subida.append(y[alvo_l].mean() - y[perfil_l == g].mean() - d_orig)
-                linhas.append({"regra": r.regra, "ordem": r.ordem, "perfil_plantado": g,
-                               "voltas_regra_no_perfil": int(alvo_l.sum()),
-                               "efeito_original_pp": 100 * d_orig, "delta_pp": delta,
+                    det += (np.sum(q_ref >= q_obs) + 1) / (PARTICOES + 1) < 0.05
+                    subida.append(y[alvo_l].mean() - y[no_grupo].mean() - d0)
+                    orig.append(d0)
+                linhas.append({"regra": r.regra, "ordem": r.ordem, "grupo_plantado": g,
+                               "circuitos_no_grupo": int(tamanhos[g]),
+                               "efeito_medio_no_grupo_pp": 100 * np.mean(orig), "delta_pp": delta,
                                "subida_efetiva_pp": 100 * np.mean(subida),
-                               "poder": det / reps, "p_real": p if delta == 0 else np.nan})
+                               "poder": det / REPETICOES})
     t = pd.DataFrame(linhas)
-    t["p_real"] = t.groupby(["regra", "perfil_plantado"])["p_real"].transform("first")
     t.to_csv(SAIDA / f"poder_{nome}.csv", index=False)
 
     pd.set_option("display.width", 250)
-    tab = t.pivot_table(index=["ordem", "regra", "perfil_plantado"], columns="delta_pp",
+    tab = t.pivot_table(index=["ordem", "regra", "circuitos_no_grupo"], columns="delta_pp",
                         values="poder").reset_index()
     tab.columns = [f"Δ{c}" if isinstance(c, (int, np.integer)) else c for c in tab.columns]
     print("Poder (fração das repetições com p < 0,05), por Δ em p.p.:")
     print(tab.to_string(index=False, max_colwidth=60, float_format=lambda x: f"{x:.2f}"))
 
     menor = []
-    for (o, regra, g), s in t.groupby(["ordem", "regra", "perfil_plantado"]):
+    for (o, regra, k), s in t.groupby(["ordem", "regra", "circuitos_no_grupo"]):
         ok = s[(s["delta_pp"] > 0) & (s["poder"] >= 0.8)]
-        menor.append({"ordem": o, "regra": regra, "perfil": g,
-                      "efeito_original_pp": s["efeito_original_pp"].iloc[0],
+        menor.append({"ordem": o, "regra": regra, "circuitos_no_grupo": k,
+                      "efeito_medio_no_grupo_pp": s["efeito_medio_no_grupo_pp"].iloc[0],
+                      "poder_delta0": s.loc[s["delta_pp"] == 0, "poder"].iloc[0],
                       "menor_delta_80pct": ok["delta_pp"].min() if len(ok) else np.nan,
                       "subida_efetiva_pp": ok["subida_efetiva_pp"].iloc[0] if len(ok) else np.nan})
     menor = pd.DataFrame(menor)
-    menor["como_pct_do_efeito"] = 100 * menor["subida_efetiva_pp"] / menor["efeito_original_pp"]
+    menor["como_pct_do_efeito"] = 100 * menor["subida_efetiva_pp"] / menor["efeito_medio_no_grupo_pp"]
     print("\nMenor Δ com poder de 80% (NaN = nenhum Δ testado chegou a 80%):")
-    print(menor.to_string(index=False, max_colwidth=60, float_format=lambda x: f"{x:.1f}"))
+    print(menor.to_string(index=False, max_colwidth=60, float_format=lambda x: f"{x:.2f}"))
     menor.to_csv(SAIDA / f"poder_{nome}_resumo.csv", index=False)
 
 
