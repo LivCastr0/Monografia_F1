@@ -15,26 +15,33 @@ Desenho (decidido antes de rodar):
     stint x setor, em % do tempo típico do setor. Mesmos filtros da análise de
     degradação por volta (`monta_base_stint.py`), com o tráfego medido na
     entrada de cada setor, não só na linha de chegada.
-  - Combustível: suposição externa (0,03 s/kg; sensibilidade 0,02 e 0,04),
-    repartida entre setores de duas formas (proporcional ao tempo do setor ou ao
-    tempo de pé embaixo). Um modelo com efeitos fixos de piloto, que separa vida
-    do pneu e número da volta usando pilotos em estratégias diferentes, serve de
-    checagem independente dessa repartição.
+  - Efeito da volta (combustível + evolução da pista): estimado na própria
+    corrida, por setor, com um modelo de efeitos fixos de piloto e composto
+    (tempo ~ vida + volta). Vida e volta só se separam porque pilotos param em
+    voltas diferentes. O efeito estimado é subtraído antes da inclinação.
+    Versão 2 do piloto: na versão 1 o combustível era uma suposição externa
+    (0,03 s/kg) repartida proporcionalmente ao tempo do setor, e em Monza essa
+    repartição inflou a degradação do S1 (o modelo estimou 18% do efeito da
+    volta nesse setor, contra 33% supostos). A suposição externa continua
+    calculada, só como comparação.
+  - Ajuste cruzado: os pilotos são divididos em duas metades; o efeito da volta
+    aplicado a uma metade é estimado só com a outra, para a correção não usar
+    as mesmas voltas que ela corrige.
 
-Critérios de decisão (fixados antes de rodar):
-  C1 cobertura   : >= 85% das voltas limpas têm os três tempos de setor
-  C2 fronteiras  : desvio-padrão do limite de setor entre pilotos <= 1% da volta
-  C3 sinal       : perfil de degradação entre setores acima do acaso
-                   (permutação dentro do stint, p < 0,05) em >= 3 de 4 corridas
-  C4 combustível : perfil entre setores estável ao variar K (0,02 e 0,04 s/kg)
-                   na repartição principal (Spearman mínimo >= 0,80)
-  C5 repartição  : se o perfil muda entre repartição por tempo e por pé
-                   embaixo (Spearman < 0,80), o modelo cruzado decide qual
-                   delas os dados sustentam; passa se apontar a mesma em
-                   >= 3 de 4 corridas
-  D6 (diagnóstico, não decide): correlação vida x volta no modelo cruzado
+Critérios de decisão (fixados antes de rodar a versão 2):
+  C1 cobertura      : >= 85% das voltas limpas têm os três tempos de setor
+  C2 fronteiras     : desvio-padrão do limite de setor entre pilotos <= 1% da volta
+  C3 sinal          : perfil de degradação entre setores acima do acaso
+                      (permutação dentro do stint, p < 0,05) em >= 3 de 4 corridas
+  C4 especificação  : perfil entre setores estável trocando o efeito linear da
+                      volta por um quadrático (Spearman >= 0,80)
+  C5 estabilidade   : perfil com ajuste cruzado igual ao do ajuste na amostra
+                      inteira (Spearman >= 0,80)
+  Os perfis são as medianas por corrida x setor, centradas na média da corrida
+  (12 valores). Diagnósticos, sem decidir: comparação com a suposição externa
+  de combustível e correlação vida x volta (> 0,9 deixa o modelo frágil).
 
-Rodar da raiz do repositório:  python piloto_setores.py
+Rodar da raiz do repositório:  python src/piloto_setores.py
 """
 from pathlib import Path
 import warnings
@@ -73,10 +80,16 @@ MIN_VOLTAS_LIMPAS = 8
 MIN_SPAN_VIDA = 6
 TETO_TEMPO_SETOR = 1.07     # descarta setor > 107% da mediana limpa (erro, bandeira local)
 
-# Combustível
+# Efeito da volta
+CORRECOES_MODELO = ["modelo_cf", "modelo_cf_quad", "modelo_inteiro"]
+VERSAO_PRINCIPAL = "modelo_cf"       # linear, ajuste cruzado
+VERSAO_C4 = "modelo_cf_quad"
+VERSAO_C5 = "modelo_inteiro"
+
+# Suposição externa de combustível (só comparação, versão 1)
 K_COMB = [0.02, 0.03, 0.04]          # s por kg
 REPARTICOES = ["tempo", "acel"]
-VERSAO_PRINCIPAL = "K0.03_tempo"
+LIMIAR_CHUVA = 0.02                  # fração das amostras de clima com chuva
 
 # Critérios
 LIM_C1, LIM_C2, LIM_C3_P, LIM_C3_N, LIM_C4 = 0.85, 0.01, 0.05, 3, 0.80
@@ -259,7 +272,10 @@ def reparticao_combustivel(setores, longo):
 
 
 def inclinacoes(longo, reparticoes, n_voltas, ano):
-    """Theil-Sen por stint x setor, em % do tempo típico, para as 6 variantes."""
+    """
+    Theil-Sen por stint x setor, em % do tempo típico. Variantes do modelo
+    (colunas aj_<versão> já calculadas em `longo`) e da suposição externa.
+    """
     comb0 = combustivel_inicial(ano)
     longo = longo.copy()
     longo["comb_kg"] = comb0 * (1 - (longo["LapNumber"] - 1) / n_voltas)
@@ -273,6 +289,9 @@ def inclinacoes(longo, reparticoes, n_voltas, ano):
         r = {"piloto": drv, "equipe": g["Team"].iloc[0], "stint": int(stint),
              "setor": s, "composto": g["Compound"].iloc[0], "n_voltas": len(g),
              "vida_ini": x.min(), "vida_fim": x.max(), "tempo_tipico": ref}
+        for v in CORRECOES_MODELO:
+            y = g["tempo"].to_numpy() - g[f"aj_{v}"].to_numpy()
+            r[v] = theilslopes(y, x)[0] / ref * 100
         for K in K_COMB:
             for rep, frac in reparticoes.items():
                 y = g["tempo"].to_numpy() - K * g["comb_kg"].to_numpy() * frac[s]
@@ -323,33 +342,67 @@ def ic_bootstrap(incl, col, rng):
                          "n_stints": len(X)})
 
 
-def estabilidade_combustivel(incl_todas):
-    """C4. Perfil centrado por corrida (12 valores) sob cada variante."""
-    variantes = [f"K{K:.2f}_{r}" for K in K_COMB for r in REPARTICOES]
-    perfis = {}
-    for v in variantes:
-        m = incl_todas.groupby(["circuito", "setor"])[v].median()
-        perfis[v] = m - m.groupby(level=0).transform("mean")
-    principal = perfis[VERSAO_PRINCIPAL]
-    rhos = {v: spearmanr(principal, perfis[v])[0] for v in variantes if v != VERSAO_PRINCIPAL}
-    rep_princ = VERSAO_PRINCIPAL.split("_")[1]
-    rho_k = min(r for v, r in rhos.items() if v.endswith(rep_princ))
-    rho_rep = min(r for v, r in rhos.items() if not v.endswith(rep_princ))
-    return rho_k, rho_rep, rhos
+def perfil(incl_todas, col):
+    m = incl_todas.groupby(["circuito", "setor"], sort=False)[col].median()
+    return m - m.groupby(level=0).transform("mean")
+
+
+def estabilidade(incl_todas):
+    """C4, C5 e a comparação com a suposição externa (perfis centrados)."""
+    principal = perfil(incl_todas, VERSAO_PRINCIPAL)
+    outras = CORRECOES_MODELO[1:] + [f"K{K:.2f}_{r}" for K in K_COMB for r in REPARTICOES]
+    rhos = {v: spearmanr(principal, perfil(incl_todas, v))[0] for v in outras}
+    return rhos[VERSAO_C4], rhos[VERSAO_C5], rhos
+
+
+def _ajuste(g, quad=False):
+    """tempo ~ vida + volta (+ volta²) + efeitos fixos de piloto e composto."""
+    D = pd.get_dummies(g[["Driver", "Compound"]], drop_first=True, dtype=float)
+    cols = [np.ones(len(g)), g["TyreLife"], g["LapNumber"]]
+    if quad:
+        cols.append(g["LapNumber"] ** 2)
+    X = np.column_stack(cols + [D.to_numpy()])
+    b, *_ = np.linalg.lstsq(X, g["tempo"].to_numpy(), rcond=None)
+    return b
+
+
+def efeito_volta(b, voltas, quad):
+    return b[2] * voltas + (b[3] * voltas ** 2 if quad else 0.0)
+
+
+def corrigir_volta(longo, rng):
+    """
+    Acrescenta as colunas aj_<versão>: o efeito da volta a subtrair de cada
+    tempo de setor. No ajuste cruzado, cada metade de pilotos é corrigida com
+    o efeito estimado na outra metade.
+    """
+    longo = longo.copy()
+    pilotos = np.array(sorted(longo["Driver"].unique()))
+    metade_a = set(rng.permutation(pilotos)[: len(pilotos) // 2])
+    em_a = longo["Driver"].isin(metade_a)
+    for v in CORRECOES_MODELO:
+        longo[f"aj_{v}"] = np.nan
+    for s, g in longo.groupby("setor"):
+        lap = g["LapNumber"].to_numpy(float)
+        b = _ajuste(g)
+        longo.loc[g.index, "aj_modelo_inteiro"] = efeito_volta(b, lap, False)
+        for quad, nome in [(False, "aj_modelo_cf"), (True, "aj_modelo_cf_quad")]:
+            ga, gb = g[em_a.loc[g.index]], g[~em_a.loc[g.index]]
+            ba, bb = _ajuste(ga, quad), _ajuste(gb, quad)
+            longo.loc[gb.index, nome] = efeito_volta(ba, gb["LapNumber"].to_numpy(float), quad)
+            longo.loc[ga.index, nome] = efeito_volta(bb, ga["LapNumber"].to_numpy(float), quad)
+    return longo
 
 
 def modelo_cruzado(longo, rep):
     """
-    C5/D6. Por setor: tempo ~ vida + volta + efeitos fixos de piloto e composto.
-    Vida e volta só se separam porque pilotos param em voltas diferentes.
-    `b_volta` junta combustível e evolução da pista; a fração dele em cada
-    setor testa a repartição proporcional ao tempo.
+    Diagnóstico por setor, na amostra inteira: degradação estimada pelo modelo,
+    efeito da volta e a fração dele em cada setor, comparada às repartições
+    que a versão 1 supunha.
     """
     out = []
     for s, g in longo.groupby("setor"):
-        D = pd.get_dummies(g[["Driver", "Compound"]], drop_first=True, dtype=float)
-        X = np.column_stack([np.ones(len(g)), g["TyreLife"], g["LapNumber"], D.to_numpy()])
-        b, *_ = np.linalg.lstsq(X, g["tempo"].to_numpy(), rcond=None)
+        b = _ajuste(g)
         ref = g["tempo"].median()
         out.append({"setor": s, "n": len(g), "b_vida_pct": b[1] / ref * 100,
                     "b_volta_s": b[2], "tempo_tipico": ref,
@@ -359,13 +412,6 @@ def modelo_cruzado(longo, rep):
     out["frac_tempo"] = out["setor"].map(rep["tempo"])
     out["frac_acel"] = out["setor"].map(rep["acel"])
     return out
-
-
-def reparticao_sustentada(mod):
-    """Qual repartição fica mais perto do que o modelo cruzado estimou."""
-    e_t = (mod["frac_volta"] - mod["frac_tempo"]).abs().sum()
-    e_a = (mod["frac_volta"] - mod["frac_acel"]).abs().sum()
-    return "tempo" if e_t <= e_a else "acel"
 
 
 # --------------------------------------------------------------------------
@@ -469,7 +515,7 @@ def main():
 
         r = carregar(ano, rnd, "R", laps=True, telemetry=False, weather=True)
         chuva = float(r.weather_data["Rainfall"].mean()) if r.weather_data is not None else 0.0
-        if chuva > 0:
+        if chuva > LIMIAR_CHUVA:
             print(f"    AVISO: chuva em {chuva:.0%} das amostras de clima; trocar a corrida")
         laps = pd.DataFrame(r.laps)
         n_voltas = int(laps["LapNumber"].max())
@@ -477,6 +523,7 @@ def main():
         print(f"    {n_base} voltas limpas; {c1:.1%} com os três setores")
 
         rep = reparticao_combustivel(setores, longo)
+        longo = corrigir_volta(longo, rng)
         incl = inclinacoes(longo, rep, n_voltas, ano)
         incl.insert(0, "circuito", circ)
         stat, p, n_st = teste_sinal_setores(incl, VERSAO_PRINCIPAL, rng)
@@ -484,7 +531,6 @@ def main():
               f"setor explica {stat:.1%} da variação dentro do stint (p = {p:.4f})")
 
         mod = modelo_cruzado(longo, rep)
-        rep_dados = reparticao_sustentada(mod)
         mod.insert(0, "circuito", circ)
         ic = ic_bootstrap(incl, VERSAO_PRINCIPAL, rng)
         ic.insert(0, "circuito", circ)
@@ -498,14 +544,15 @@ def main():
         criterios.append({"circuito": circ, "ano": ano, "chuva": chuva,
                           "c1_cobertura": c1, "c2_fronteira": c2,
                           "c3_estat": stat, "c3_p": p, "c3_n_stints": n_st,
-                          "n_stint_setores": len(incl), "reparticao_dados": rep_dados})
+                          "n_stint_setores": len(incl),
+                          "corr_vida_volta_max": mod["corr_vida_volta"].abs().max()})
 
     setores = pd.concat(todas_setores, ignore_index=True)
     incl = pd.concat(todas_incl, ignore_index=True)
     modelos = pd.concat(todos_modelos, ignore_index=True)
     ics = pd.concat(ics, ignore_index=True)
     crit = pd.DataFrame(criterios)
-    c4, c5_rho, rhos = estabilidade_combustivel(incl)
+    c4, c5, rhos = estabilidade(incl)
     proj = projetar(setores, mu, sd, centroides)
 
     setores.merge(proj, on=["circuito", "setor"]).to_csv(SAIDA / "setores_features.csv", index=False)
@@ -521,28 +568,35 @@ def main():
     n3 = int((crit["c3_p"] < LIM_C3_P).sum())
     ok3 = n3 >= LIM_C3_N
     ok4 = c4 >= LIM_C4
-    rep_princ = VERSAO_PRINCIPAL.split("_")[1]
-    n5 = int((crit["reparticao_dados"] == rep_princ).sum())
-    ok5 = c5_rho >= LIM_C4 or n5 >= LIM_C3_N
+    ok5 = c5 >= LIM_C4
     rot = lambda ok: "PASSA" if ok else "FALHA"
 
     print("\n" + "=" * 70 + "\nRESUMO DO PILOTO\n" + "=" * 70)
     print(f"C1 cobertura   mín {crit['c1_cobertura'].min():.1%} (>= {LIM_C1:.0%})  {rot(ok1)}")
     print(f"C2 fronteiras  máx {crit['c2_fronteira'].max():.2%} (<= {LIM_C2:.0%})  {rot(ok2)}")
     print(f"C3 sinal       {n3} de {len(crit)} corridas com p < {LIM_C3_P} (>= {LIM_C3_N})  {rot(ok3)}")
-    print(f"C4 combustível Spearman mín ao variar K {c4:.2f} (>= {LIM_C4})  {rot(ok4)}")
-    print(f"C5 repartição  Spearman tempo x pé embaixo {c5_rho:.2f}; modelo cruzado "
-          f"aponta '{rep_princ}' em {n5} de {len(crit)} corridas  {rot(ok5)}")
+    print(f"C4 especificação  linear x quadrático: Spearman {c4:.2f} (>= {LIM_C4})  {rot(ok4)}")
+    print(f"C5 estabilidade   ajuste cruzado x amostra inteira: Spearman {c5:.2f} "
+          f"(>= {LIM_C4})  {rot(ok5)}")
+    print("\nComparação com a suposição externa de combustível (versão 1, não decide):")
     for v, rho in rhos.items():
-        print(f"      {v}: {rho:.2f}")
+        if v.startswith("K"):
+            print(f"      {v}: {rho:.2f}")
+
+    comp = (incl.groupby(["circuito", "setor"], sort=False)
+            [[VERSAO_PRINCIPAL, "K0.03_tempo"]].median()
+            .join(modelos.set_index(["circuito", "setor"])["b_vida_pct"]))
+    comp.columns = ["principal", "versao1_K0.03", "modelo_amostra_inteira"]
+    print("\nDegradação mediana por setor nas três estimativas (% por volta):")
+    print(comp.round(3).to_string())
 
     print("\nDegradação média por setor (% por volta, IC 95% por bootstrap de stints):")
     print(ics.round(4).to_string(index=False))
 
-    print("\nC5 - modelo cruzado (vida do pneu separada do número da volta):")
+    print("\nModelo cruzado (vida do pneu separada do número da volta):")
     print(modelos[["circuito", "setor", "n", "b_vida_pct", "frac_volta", "frac_tempo",
                    "frac_acel", "corr_vida_volta"]].round(3).to_string(index=False))
-    print("  |corr_vida_volta| > 0,9 -> pouca variação de estratégia, C5 pouco confiável")
+    print("  |corr_vida_volta| > 0,9 -> pouca variação de estratégia, correção frágil")
 
     print("\nSetores projetados nos centroides da Etapa 1:")
     print(proj.round(2).to_string(index=False))
