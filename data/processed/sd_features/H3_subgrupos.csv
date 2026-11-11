@@ -1,0 +1,600 @@
+descricao,linhas,circuitos,media,diferenca,z,acima_do_limiar,firme,tem_feature
+fase=primeiro terço E posicao=11.º em diante,5085,26,0.6407079646017699,0.21457189271473526,30.940592382112378,True,True,False
+dif_idade=diferença de até 4 voltas E posicao=11.º em diante,7330,26,0.5832196452933152,0.15708357340628049,27.19524953828767,True,True,False
+posicao=top 5,3154,26,0.19403931515535827,-0.2320967567316764,-26.35785716706572,True,True,False
+relargada=após relargada E posicao=11.º em diante,1864,26,0.7258583690987125,0.2997222972116778,26.166898652272074,True,True,False
+relargada=corrida normal E posicao=top 5,2498,26,0.16733386709367493,-0.25880220479335975,-26.156181906306003,True,True,False
+posicao=top 5 E mesma_equipe=equipes diferentes,2802,26,0.1948608137044968,-0.23127525818253789,-24.755598472710876,True,True,False
+dif_idade=diferença de até 4 voltas E fase=primeiro terço,8967,26,0.5507973681275788,0.12466129624054417,23.87072302631297,True,True,False
+dif_idade=atacante 10+ voltas mais novo E relargada=corrida normal,2308,26,0.18804159445407279,-0.2380944774329619,-23.13009654628353,True,True,False
+dif_idade=atacante 10+ voltas mais novo,2558,26,0.2032838154808444,-0.22285225640619027,-22.791741536290882,True,True,False
+dif_idade=atacante 10+ voltas mais novo E mesma_equipe=equipes diferentes,2417,26,0.19735208936698387,-0.2287839825200508,-22.744381453494572,True,True,False
+dif_composto=mesmo composto E posicao=top 5,2426,26,0.19950535861500412,-0.22663071327203055,-22.572223290218247,True,True,False
+fase=primeiro terço,9522,26,0.5403276622558286,0.11419159036879395,22.532460740562886,True,True,False
+fase=primeiro terço E mesma_equipe=equipes diferentes,8617,26,0.5445050481606127,0.11836897627357806,22.219093336190234,True,True,False
+dif_idade=diferença de até 4 voltas E relargada=após relargada,3109,26,0.6227082663235767,0.196572194436542,22.163725618845874,True,True,False
+fase=último terço E relargada=corrida normal,4101,26,0.2579858571080224,-0.16815021477901226,-21.77471312675904,True,True,False
+"distancia=0,6 a 1,0 s E posicao=top 5",2250,26,0.2,-0.22613607188703466,-21.690585741998774,True,True,False
+relargada=após relargada,3755,26,0.5973368841544607,0.17120081226742606,21.21392966039684,True,True,False
+relargada=após relargada E mesma_equipe=equipes diferentes,3405,26,0.6014684287812041,0.17533235689416943,20.68859217399258,True,True,False
+largada=defensor largou à frente E posicao=top 5,2032,25,0.2002952755905512,-0.2258407962964835,-20.586117027382716,True,True,False
+dif_idade=diferença de até 4 voltas E posicao=top 5,2474,26,0.22473726758286175,-0.20139880430417292,-20.256616240217415,True,True,False
+largada=defensor largou à frente E fase=primeiro terço,6045,26,0.5548387096774193,0.12870263779038466,20.234662938689937,True,True,False
+dif_idade=atacante 10+ voltas mais novo E largada=atacante largou à frente,1713,26,0.18855808523058962,-0.23757798665644506,-19.88360195002654,True,True,False
+fase=primeiro terço E relargada=após relargada,2229,25,0.633019291161956,0.20688321927492132,19.751068655535494,True,True,False
+fase=primeiro terço E densidade_curvas=baixa,3286,9,0.5906877662811929,0.16455169439415823,19.074208010518504,True,True,True
+fase=primeiro terço E pico_desac=baixa,4146,9,0.5721177038109021,0.14598163192386743,19.007421426980322,True,True,True
+largada=defensor largou à frente E posicao=11.º em diante,5545,26,0.5518485121731289,0.12571244028609424,18.92950934733677,True,True,False
+fase=último terço,4840,26,0.29173553719008266,-0.134400534696952,-18.907484672819322,True,True,False
+fase=primeiro terço E vel_media=alta,3495,9,0.5816881258941344,0.15555205400709976,18.595577363227896,True,True,True
+fase=último terço E mesma_equipe=equipes diferentes,4438,26,0.28841820639927895,-0.13771786548775572,-18.552141334927203,True,True,False
+fase=último terço E posicao=top 5,894,25,0.11968680089485459,-0.3064492709921801,-18.528385224545165,True,True,False
+posicao=top 5 E vel_media=baixa,1154,9,0.158578856152513,-0.2675572157345217,-18.379333249430925,True,True,True
+fase=segundo terço E relargada=corrida normal,4326,26,0.29218677762367085,-0.13394929426336383,-17.815326970461715,True,True,False
+"distancia=0,3 a 0,6 s E fase=primeiro terço",2673,26,0.5944631500187055,0.16832707813167086,17.598019837664967,True,True,False
+"distancia=0,6 a 1,0 s E fase=último terço",2901,26,0.26680455015511895,-0.15933152173191573,-17.35344636973379,True,True,False
+dif_idade=atacante 10+ voltas mais novo E fase=último terço,1283,26,0.18706157443491817,-0.2390744974521165,-17.316366358516742,True,True,False
+posicao=11.º em diante,10178,26,0.5108076242876793,0.08467155240064467,17.273454170266707,True,False,False
+fase=primeiro terço E zonas_freio=baixa,3720,9,0.5653225806451613,0.1391865087581266,17.16638875798218,True,True,True
+"dif_idade=atacante 10+ voltas mais novo E distancia=0,6 a 1,0 s",1175,26,0.17957446808510638,-0.2465616038019283,-17.09049313484679,True,True,False
+dif_composto=mesmo composto E relargada=após relargada,2493,26,0.5940633774568793,0.16792730556984464,16.954805448860547,True,True,False
+posicao=11.º em diante E vel_media=alta,3393,9,0.5682287061597406,0.14209263427270596,16.736854308758165,True,True,True
+largada=defensor largou à frente E relargada=após relargada,2217,26,0.6017140279657195,0.17557795607868482,16.71718552002863,True,True,False
+largada=atacante largou à frente E posicao=top 5,1122,26,0.18270944741532977,-0.2434266244717049,-16.488254441029888,True,True,False
+"distancia=0,6 a 1,0 s E fase=primeiro terço",6386,26,0.5280300657688693,0.10189399388183468,16.465442911164942,True,True,False
+posicao=top 5 E densidade_curvas=alta,1116,9,0.1827956989247312,-0.2433403729623035,-16.438283977843252,True,True,True
+posicao=top 5 E zonas_freio=baixa,1281,9,0.19984387197501952,-0.22629219991201516,-16.377752282535695,True,True,True
+relargada=após relargada E vel_media=alta,1430,9,0.6391608391608392,0.21302476727380454,16.28952472641722,True,True,True
+dif_composto=mesmo composto E fase=primeiro terço,6226,26,0.5277867009315772,0.10165062904454253,16.219034647160917,True,False,False
+posicao=top 5 E densidade_curvas=média,989,8,0.1718907987866532,-0.2542452731003815,-16.16818323330194,True,True,True
+dif_idade=atacante 10+ voltas mais novo E pico_desac=baixa,1023,9,0.176930596285435,-0.24920547560159967,-16.117793862668876,True,True,True
+posicao=top 5 E zonas_freio=alta,953,9,0.16998950682056663,-0.25614656506646805,-15.989880024759378,True,True,True
+"distancia=0,3 a 0,6 s E relargada=após relargada",1216,26,0.6504934210526315,0.22435734916559685,15.82039541630977,True,True,False
+posicao=top 5 E vel_minima=média,1156,8,0.1972318339100346,-0.22890423797700007,-15.737761457039284,True,True,True
+posicao=top 5 E pico_desac=alta,981,9,0.18042813455657492,-0.24570793733045976,-15.561945061888874,True,True,True
+posicao=top 5 E pico_desac=média,879,8,0.16723549488054607,-0.2589005770064886,-15.521641096013093,True,True,True
+posicao=top 5 E vel_minima=alta,939,9,0.1757188498402556,-0.2504172220467791,-15.516979798476935,True,True,True
+posicao=11.º em diante E mesma_equipe=equipes diferentes,9328,26,0.505360205831904,0.07922413394486932,15.472562161715546,True,False,False
+dif_composto=mesmo composto E fase=último terço,2909,26,0.28429013406668957,-0.1418459378203451,-15.470306732026756,True,True,False
+dif_idade=atacante 10+ voltas mais novo E zonas_freio=média,846,8,0.16666666666666666,-0.259469405220368,-15.260949608746602,True,True,True
+dif_idade=atacante 10+ voltas mais novo E dif_composto=mesmo composto,1405,26,0.22491103202846974,-0.20122503985856494,-15.252126213836707,True,True,False
+dif_composto=mesmo composto E posicao=11.º em diante,6229,26,0.5215925509712634,0.09545647908422877,15.234386796398791,True,False,False
+posicao=11.º em diante E zonas_freio=baixa,3557,9,0.5524318245712679,0.12629575268423326,15.231442987491885,True,True,True
+"distancia=0,6 a 1,0 s E relargada=após relargada",2292,26,0.5824607329842932,0.15632466109725857,15.133700575003108,True,True,False
+fase=último terço E pico_desac=baixa,1749,9,0.24871355060034306,-0.17742252128669161,-15.004234179402067,True,True,True
+relargada=após relargada E vel_minima=alta,1317,9,0.6302201974183751,0.20408412553134042,14.976572165569568,True,True,True
+fase=segundo terço E posicao=top 5,748,25,0.15641711229946523,-0.2697189595875694,-14.91668971839268,True,True,False
+fase=primeiro terço E relargada=corrida normal,7293,26,0.5119978061154532,0.08586173422841853,14.827339018742304,True,False,False
+posicao=top 5 E pico_desac=baixa,1294,9,0.22256568778979907,-0.2035703840972356,-14.8078469448069,True,True,True
+"dif_idade=diferença de até 4 voltas E distancia=0,3 a 0,6 s",4006,26,0.5409385921118323,0.11480252022479759,14.69322896593466,True,True,False
+dif_idade=atacante 10+ voltas mais novo E densidade_curvas=alta,1142,9,0.2119089316987741,-0.21422714018826058,-14.639213192023831,True,True,True
+dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,1123,26,0.21193232413178986,-0.2142037477552448,-14.515337251685525,True,True,False
+posicao=top 5 E vel_minima=baixa,1059,9,0.20679886685552407,-0.2193372050315106,-14.433459865742051,True,True,True
+dif_idade=atacante 10+ voltas mais novo E vel_media=média,857,8,0.1855309218203034,-0.24060515006673128,-14.243132814946867,True,True,True
+posicao=top 5 E vel_media=alta,1211,9,0.22378199834847234,-0.20235407353856233,-14.239482393245611,True,True,True
+dif_idade=diferença de até 4 voltas E vel_media=alta,5528,9,0.5204413892908828,0.09430531740384812,14.178510614644692,True,True,True
+fase=primeiro terço E densidade_curvas=alta,3429,9,0.5447652376786235,0.11862916579158883,14.047065146092004,True,False,True
+fase=último terço E vel_minima=média,1505,8,0.2478405315614618,-0.17829554032557288,-13.986817278018373,True,True,True
+dif_idade=atacante 10+ voltas mais novo E dif_composto=atacante mais macio,779,26,0.17843388960205392,-0.24770218228498075,-13.980050660929312,True,True,False
+fase=primeiro terço E vel_minima=baixa,3202,9,0.5480949406620862,0.12195886877505152,13.9551473018275,True,False,True
+dif_idade=atacante 10+ voltas mais novo E posicao=top 5,349,25,0.05730659025787966,-0.368829481629155,-13.933125618560162,True,True,False
+dif_idade=atacante 10+ voltas mais novo E posicao=6.º a 10.º,860,26,0.19186046511627908,-0.2342756067707556,-13.892694890464972,True,True,False
+fase=último terço E densidade_curvas=alta,1726,9,0.261297798377752,-0.16483827350928265,-13.848049370758323,True,True,True
+fase=primeiro terço E zonas_freio=média,2949,8,0.5520515428958969,0.1259154710088622,13.826963137922416,True,True,True
+dif_idade=diferença de até 4 voltas,14351,26,0.4828931781757369,0.05675710628870223,13.74902476562954,True,False,False
+dif_idade=atacante 10+ voltas mais novo E vel_media=baixa,1014,9,0.21301775147928995,-0.21311832040774473,-13.723027489607563,True,True,True
+relargada=após relargada E densidade_curvas=alta,1216,9,0.6200657894736842,0.1939297175866495,13.674814905977653,True,True,True
+dif_idade=atacante 10+ voltas mais novo E vel_minima=baixa,1020,9,0.21470588235294116,-0.2114301895340935,-13.654546178945024,True,True,True
+fase=segundo terço E mesma_equipe=equipes diferentes,4762,26,0.3286434271314574,-0.09749264475557728,-13.60431397651603,True,True,False
+posicao=11.º em diante E densidade_curvas=baixa,3034,9,0.5477916941331575,0.12165562224612286,13.550344709572112,True,True,True
+dif_idade=atacante 10+ voltas mais novo E pico_desac=média,716,8,0.17597765363128492,-0.25015841825574975,-13.535735178333221,True,True,True
+dif_composto=atacante mais macio E fase=primeiro terço,1394,26,0.6047345767575323,0.1785985048704976,13.484022968311693,True,True,False
+largada=defensor largou à frente E fase=último terço,2607,26,0.2961258151131569,-0.13001025677387779,-13.42326760904973,True,True,False
+relargada=após relargada E zonas_freio=baixa,1423,9,0.6015460295151089,0.17540995762807426,13.380335631774862,True,True,True
+largada=atacante largou à frente E fase=último terço,2233,26,0.28660994178235555,-0.13952613010467912,-13.332453486452636,True,True,False
+fase=primeiro terço E posicao=top 5,1512,26,0.2566137566137566,-0.16952231527327805,-13.329471137801496,True,True,False
+"distancia=0,6 a 1,0 s E posicao=11.º em diante",6131,26,0.5100309900505627,0.08389491816352806,13.283476579513755,True,False,False
+"distancia=0,3 a 0,6 s E posicao=11.º em diante",3378,26,0.5390763765541741,0.11294030466713939,13.273612372543175,True,True,False
+dif_idade=diferença de até 4 voltas E mesma_equipe=equipes diferentes,13025,26,0.4836084452975048,0.05747237341047012,13.263513201132287,True,False,False
+fase=último terço E vel_media=baixa,1785,9,0.2711484593837535,-0.1549876125032812,-13.241166520824972,True,True,True
+dif_idade=atacante 10+ voltas mais novo E posicao=11.º em diante,1349,26,0.24833209785025945,-0.17780397403677523,-13.205584150872506,True,True,False
+posicao=top 5 E zonas_freio=média,920,8,0.2108695652173913,-0.21526650666964336,-13.203241587056965,True,True,True
+relargada=após relargada E pico_desac=alta,1296,9,0.6072530864197531,0.1811170145327184,13.184754147305362,True,True,True
+largada=atacante largou à frente E relargada=corrida normal,6671,26,0.3464248238644881,-0.07971124802254659,-13.16512712055988,True,True,False
+dif_idade=atacante 10+ voltas mais novo E vel_minima=alta,837,9,0.2019115890083632,-0.22422448287867147,-13.117648450371238,True,True,True
+"distancia=0,3 a 0,6 s E posicao=top 5",763,25,0.1913499344692005,-0.23478613741783416,-13.114294696654644,True,True,False
+largada=atacante largou à frente E relargada=após relargada,1538,26,0.5910273081924577,0.16489123630542307,13.076335620598101,True,True,False
+posicao=top 5 E densidade_curvas=baixa,1049,9,0.22688274547187798,-0.1992533264151567,-13.049788272571648,True,True,True
+relargada=após relargada E zonas_freio=média,1203,8,0.6118038237738986,0.18566775188686396,13.02205699139167,True,True,True
+fase=primeiro terço E vel_minima=média,3238,8,0.5392217418159357,0.11308566992890107,13.012368824267853,True,True,True
+relargada=após relargada E vel_minima=baixa,1229,9,0.6078112286411717,0.18167515675413698,12.878988996480187,True,True,True
+posicao=top 5 E vel_media=média,789,8,0.2002534854245881,-0.22588258646244658,-12.83014161428195,True,True,True
+relargada=após relargada E densidade_curvas=baixa,1227,9,0.6071719641401793,0.1810358922531446,12.823225226336055,True,True,True
+relargada=após relargada E pico_desac=baixa,1447,9,0.5922598479612993,0.1661237760742646,12.778397063799382,True,True,True
+dif_idade=atacante 10+ voltas mais novo E vel_minima=média,701,8,0.18830242510699002,-0.23783364678004465,-12.733345122783213,True,True,True
+dif_idade=atacante 10+ voltas mais novo E densidade_curvas=média,860,8,0.2116279069767442,-0.21450816491029048,-12.720472714876342,True,True,True
+dif_idade=atacante 10+ voltas mais novo E zonas_freio=alta,893,9,0.21724524076147816,-0.2088908311255565,-12.622789145871911,True,True,True
+"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",1040,26,0.23365384615384616,-0.19248222573318852,-12.552131509642345,True,True,False
+fase=segundo terço,5113,26,0.34070017602190494,-0.08543589586512973,-12.353452050063725,True,True,False
+fase=último terço E densidade_curvas=baixa,1361,9,0.2623071271124173,-0.16382894477461735,-12.221649928639337,True,True,True
+dif_idade=diferença de até 4 voltas E densidade_curvas=baixa,5052,9,0.5108867775138559,0.08475070562682124,12.18106990540301,True,True,True
+fase=último terço E zonas_freio=alta,1515,9,0.27194719471947193,-0.15418887716756274,-12.135829878915828,True,True,True
+posicao=11.º em diante E vel_minima=alta,3581,9,0.5261100251326445,0.09997395324560981,12.097606944653394,True,False,True
+dif_idade=atacante 10+ voltas mais novo E densidade_curvas=baixa,556,9,0.17266187050359713,-0.25347420138343757,-12.085965468654425,True,True,True
+relargada=após relargada E vel_media=baixa,1489,9,0.5809267965077233,0.1547907246206886,12.078210512446933,True,True,True
+fase=primeiro terço E vel_minima=alta,3082,9,0.5334198572355613,0.10728378534852662,12.043722919472504,True,False,True
+dif_idade=diferença de até 4 voltas E pico_desac=baixa,5869,9,0.5038337025046856,0.07769763061765095,12.036501969765181,True,False,True
+posicao=11.º em diante E pico_desac=baixa,3884,9,0.5203398558187435,0.09420378393170886,11.871849840812107,True,False,True
+dif_idade=diferença de até 4 voltas E largada=defensor largou à frente,9039,26,0.48711140612899656,0.06097533424196189,11.722625117740211,True,False,False
+dif_idade=diferença de até 4 voltas E zonas_freio=baixa,5474,9,0.5043843624406285,0.07824829055359378,11.706787726485066,True,False,True
+fase=último terço E posicao=6.º a 10.º,1577,26,0.28154724159797084,-0.14458883028906383,-11.610761754254714,True,True,False
+dif_idade=atacante 10+ voltas mais novo E zonas_freio=baixa,819,9,0.2258852258852259,-0.20025084600180879,-11.588481161715832,True,True,True
+posicao=11.º em diante E pico_desac=alta,3700,9,0.518918918918919,0.09278284703188427,11.412451764729417,True,True,True
+dif_idade=atacante 10+ voltas mais novo E vel_media=alta,687,9,0.21106259097525473,-0.21507348091177994,-11.399227330640304,True,True,True
+posicao=11.º em diante E vel_minima=baixa,3456,9,0.5219907407407407,0.09585466885370603,11.394900692249305,True,False,True
+dif_composto=atacante mais macio E posicao=top 5,389,24,0.14138817480719795,-0.2847478970798367,-11.356528208419823,True,True,False
+dif_idade=atacante 10+ voltas mais novo E largada=defensor largou à frente,845,26,0.2331360946745562,-0.19299997721247847,-11.344773701066535,True,True,False
+relargada=corrida normal E densidade_curvas=média,4761,8,0.34593572778827975,-0.08020034409875493,-11.190136356334285,True,True,True
+largada=atacante largou à frente E fase=segundo terço,2499,26,0.3157262905162065,-0.11040978137082819,-11.160940701122703,True,True,False
+fase=segundo terço E vel_minima=média,1593,8,0.28876333961079725,-0.13737273227623742,-11.08711624120273,True,True,True
+dif_composto=atacante mais macio E fase=último terço,1200,26,0.2683333333333333,-0.15780273855370136,-11.053894479837277,True,True,False
+relargada=corrida normal E mesma_equipe=equipes diferentes,14412,26,0.3808631695809048,-0.04527290230612985,-10.99031813249216,True,True,False
+relargada=corrida normal E vel_media=baixa,5508,9,0.3533042846768337,-0.07283178721020095,-10.930195364390823,True,True,True
+dif_idade=atacante 5 a 9 voltas mais novo E relargada=corrida normal,1304,26,0.276840490797546,-0.14929558108948865,-10.90174271619991,True,True,False
+fase=primeiro terço E vel_media=baixa,3305,9,0.5192133131618759,0.09307724127484124,10.820308078250099,True,False,True
+posicao=11.º em diante E densidade_curvas=alta,3941,9,0.511291550367927,0.08515547848089228,10.810012977150388,True,False,True
+fase=último terço E vel_minima=baixa,1636,9,0.2952322738386308,-0.13090379804840385,-10.706659286754789,True,True,True
+relargada=após relargada E pico_desac=média,1012,8,0.591897233201581,0.16576116131454638,10.663096494749691,True,True,True
+largada=atacante largou à frente E fase=primeiro terço,3477,26,0.5150992234685073,0.08896315158147267,10.60774051906772,True,False,False
+dif_idade=atacante 5 a 9 voltas mais novo E posicao=top 5,230,23,0.08260869565217391,-0.34352737623486074,-10.535023818575707,True,True,False
+fase=último terço E pico_desac=média,1200,8,0.2758333333333333,-0.15030273855370135,-10.528528285849026,True,True,True
+dif_composto=atacante mais duro E relargada=após relargada,633,26,0.631911532385466,0.20577546049843137,10.469012095187038,True,True,False
+fase=último terço E zonas_freio=baixa,1726,9,0.30243337195828507,-0.1237026999287496,-10.39225263408964,True,True,True
+relargada=corrida normal,15720,26,0.3852417302798982,-0.04089434160713645,-10.368102649886179,True,False,False
+relargada=após relargada E densidade_curvas=média,1312,8,0.5670731707317073,0.1409370988446726,10.322920435921084,True,True,True
+fase=último terço E zonas_freio=média,1599,8,0.29893683552220135,-0.12719923636483332,-10.28534564630671,True,True,True
+fase=segundo terço E relargada=após relargada,787,23,0.6073697585768743,0.18123368668983958,10.28102942661774,True,True,False
+relargada=corrida normal E zonas_freio=alta,4951,9,0.35427186426984447,-0.0718642076171902,-10.225135447017182,True,True,True
+relargada=após relargada E zonas_freio=alta,1129,9,0.5766164747564216,0.15048040286938696,10.224385245816611,True,True,True
+fase=segundo terço E densidade_curvas=média,1513,8,0.29808327825512226,-0.1280527936319124,-10.072068393402597,True,True,True
+fase=último terço E vel_media=média,1420,8,0.29507042253521126,-0.1310656493518234,-9.98718781924306,True,True,True
+fase=segundo terço E vel_media=média,1287,8,0.289044289044289,-0.13709178284274565,-9.94513957635464,True,True,True
+dif_idade=atacante 10+ voltas mais novo E dif_composto=atacante mais duro,374,22,0.17379679144385027,-0.25233928044318443,-9.868038584990723,True,True,False
+dif_idade=atacante 5 a 9 voltas mais novo E mesma_equipe=equipes diferentes,1403,26,0.2965074839629366,-0.1296285879240981,-9.818378279099457,True,True,False
+fase=primeiro terço E pico_desac=alta,3100,9,0.5129032258064516,0.08676715391941697,9.768920799639483,True,True,True
+relargada=após relargada E posicao=6.º a 10.º,1235,26,0.5635627530364372,0.13742668114940254,9.765958185935375,True,True,False
+"distancia=até 0,3 s E relargada=corrida normal",924,26,0.2683982683982684,-0.15773780348876626,-9.695763119964791,True,True,False
+dif_idade=diferença de até 4 voltas E vel_minima=baixa,4825,9,0.4947150259067358,0.0685789540197011,9.632742838694787,True,False,True
+dif_idade=atacante 5 a 9 voltas mais novo,1506,26,0.30345285524568394,-0.12268321664135073,-9.627372420630888,True,True,False
+dif_idade=atacante 10+ voltas mais novo E pico_desac=alta,819,9,0.2600732600732601,-0.16606281181377458,-9.610025519630707,True,True,True
+dif_composto=atacante mais duro E fase=primeiro terço,1902,26,0.5341745531019979,0.10803848121496323,9.52783159085961,True,False,False
+dif_idade=diferença de até 4 voltas E zonas_freio=média,4484,8,0.495985727029438,0.06984965514240332,9.458180201966794,True,True,True
+fase=primeiro terço E posicao=6.º a 10.º,2925,26,0.5124786324786325,0.08634256059159778,9.442744143219365,True,False,False
+fase=último terço E vel_media=alta,1635,9,0.3113149847094801,-0.11482108717755457,-9.388379609684455,True,True,True
+"distancia=0,6 a 1,0 s E fase=segundo terço",3115,26,0.3431781701444623,-0.08295790174257239,-9.362608042254775,True,True,False
+fase=segundo terço E vel_media=baixa,1907,9,0.32039853172522287,-0.1057375401618118,-9.337157129336651,True,True,True
+dif_idade=diferença de até 4 voltas E vel_minima=alta,4729,9,0.4922816663142313,0.06614559442719664,9.198054824725421,True,False,True
+fase=primeiro terço E vel_media=média,2722,8,0.5128581925055107,0.086722120618476,9.1492261821944,True,True,True
+dif_idade=diferença de até 4 voltas E fase=último terço,2422,26,0.3344343517753922,-0.09170172011164246,-9.125877450461891,True,True,False
+"distancia=0,3 a 0,6 s E vel_media=alta",2151,9,0.5230125523012552,0.09687648041422053,9.085502201829616,True,True,True
+posicao=top 5 E mesma_equipe=mesma equipe,352,25,0.1875,-0.23863607188703467,-9.053523625775933,True,True,False
+fase=primeiro terço E pico_desac=média,2276,8,0.5197715289982425,0.09363545711120785,9.033100934535497,True,False,True
+"dif_idade=atacante 5 a 9 voltas mais novo E distancia=0,6 a 1,0 s",813,26,0.27060270602706027,-0.1555333658599744,-8.967657073771855,True,True,False
+dif_idade=diferença de até 4 voltas E densidade_curvas=alta,5094,9,0.4876325088339223,0.06149643694688761,8.87544041089152,True,False,True
+dif_idade=diferença de até 4 voltas E dif_composto=mesmo composto,9777,26,0.47049197095223483,0.044355899065200155,8.868799494607854,True,False,False
+dif_idade=atacante 5 a 9 voltas mais novo E dif_composto=mesmo composto,992,25,0.2872983870967742,-0.13883768479026048,-8.842465218494127,True,True,False
+relargada=após relargada E vel_minima=média,1209,8,0.5508684863523573,0.12473241446532263,8.770065389360964,True,True,True
+"dif_idade=atacante 10+ voltas mais novo E distancia=até 0,3 s",343,24,0.1924198250728863,-0.23371624681414838,-8.752783809975954,True,True,False
+dif_idade=diferença de até 4 voltas E dif_composto=atacante mais macio,2100,26,0.5204761904761904,0.09434011858915575,8.742113795997929,True,True,False
+relargada=corrida normal E posicao=6.º a 10.º,4908,26,0.36511817440912797,-0.0610178974779067,-8.644093820603935,True,True,False
+"distancia=0,3 a 0,6 s E largada=defensor largou à frente",3269,26,0.5007647598654023,0.07462868797836758,8.628268833323665,True,False,False
+dif_composto=mesmo composto E relargada=corrida normal,10324,26,0.3841534289035258,-0.0419826429835089,-8.62588331641741,True,True,False
+"distancia=0,6 a 1,0 s E relargada=corrida normal",10110,26,0.3837784371909001,-0.04235763469613457,-8.612259626539336,True,False,False
+posicao=11.º em diante E mesma_equipe=mesma equipe,850,26,0.5705882352941176,0.14445216340708295,8.516159917049075,True,False,False
+relargada=corrida normal E pico_desac=média,3938,8,0.3590655154900965,-0.06707055639693815,-8.5109832068519,True,True,True
+dif_composto=atacante mais duro E fase=segundo terço,731,26,0.27359781121751026,-0.15253826066952442,-8.339646327510328,True,True,False
+fase=último terço E vel_minima=alta,1699,9,0.3272513243084167,-0.09888474757861798,-8.242065155830677,True,True,True
+largada=defensor largou à frente E vel_media=alta,4086,9,0.4887420460107685,0.06260597412373381,8.092364477635654,True,False,True
+posicao=11.º em diante E vel_media=baixa,3785,9,0.49114927344782033,0.06501320156078566,8.088071319421333,True,False,True
+posicao=11.º em diante E zonas_freio=média,3198,8,0.49624765478424016,0.07011158289720548,8.017509377823304,True,True,True
+"distancia=até 0,3 s",1171,26,0.3116994022203245,-0.11443666966671018,-7.918698314121111,True,True,False
+dif_composto=atacante mais duro E posicao=top 5,339,24,0.2153392330383481,-0.21079683884868658,-7.848274466602234,True,True,False
+dif_composto=mesmo composto E fase=segundo terço,3682,26,0.36230309614340034,-0.06383297574363433,-7.832438626728949,True,True,False
+fase=segundo terço E pico_desac=baixa,1949,9,0.33863519753719856,-0.08750087434983611,-7.81139180870423,True,True,True
+"distancia=0,3 a 0,6 s E pico_desac=baixa",2348,9,0.5055366269165247,0.07940055502949,7.780061251166006,True,False,True
+fase=segundo terço E zonas_freio=média,1477,8,0.32701421800947866,-0.09912185387755601,-7.70317455117548,True,True,True
+fase=segundo terço E posicao=6.º a 10.º,1641,26,0.332114564290067,-0.09402150759696765,-7.7017887479590454,True,True,False
+"distancia=até 0,3 s E mesma_equipe=equipes diferentes",1096,26,0.31113138686131386,-0.11500468502572081,-7.698940631539965,True,True,False
+relargada=corrida normal E vel_minima=média,5127,8,0.37312268383070024,-0.05301338805633443,-7.675862427240799,True,True,True
+dif_idade=atacante 5 a 9 voltas mais novo E posicao=6.º a 10.º,415,22,0.24096385542168675,-0.18517221646534793,-7.627989546574873,True,True,False
+"distancia=até 0,3 s E densidade_curvas=média",622,8,0.27491961414790994,-0.15121645773912473,-7.626134715208033,True,True,True
+dif_composto=atacante mais macio E relargada=após relargada,629,26,0.575516693163752,0.1493806212767173,7.5758236712733655,True,True,False
+"distancia=até 0,3 s E fase=segundo terço",364,23,0.23076923076923078,-0.1953668411178039,-7.537229760945305,True,True,False
+relargada=após relargada E vel_media=média,836,8,0.5550239234449761,0.1288878515579414,7.5357310837582006,True,True,True
+"distancia=0,3 a 0,6 s E zonas_freio=média",1597,8,0.5190983093299938,0.09296223744295912,7.512239018521646,True,True,True
+"distancia=até 0,3 s E posicao=top 5",141,20,0.11347517730496454,-0.31266089458207014,-7.507466378444988,True,True,False
+fase=primeiro terço E zonas_freio=alta,2853,9,0.4956186470382054,0.06948257515117073,7.504766435713648,True,False,True
+vel_media=alta E densidade_curvas=baixa,4584,6,0.4805846422338569,0.05444857034682221,7.454514356072226,False,False,True
+"dif_idade=diferença de até 4 voltas E distancia=0,6 a 1,0 s",9745,26,0.4634171369933299,0.03728106510629525,7.442004905617726,False,False,False
+fase=último terço E pico_desac=alta,1891,9,0.3416181914331042,-0.0845178804539305,-7.431979314624609,False,False,True
+dif_idade=diferença de até 4 voltas E dif_composto=atacante mais duro,2474,26,0.5,0.07386392811296533,7.429210799760993,False,False,False
+dif_idade=atacante 5 a 9 voltas mais novo E fase=último terço,722,26,0.2894736842105263,-0.13666238767650835,-7.425535855874022,False,False,False
+dif_idade=atacante 5 a 9 voltas mais novo E largada=atacante largou à frente,797,25,0.2961104140526976,-0.13002565783433706,-7.422810708112376,False,False,False
+dif_composto=atacante mais duro E posicao=11.º em diante,1928,26,0.5093360995850622,0.08320002769802753,7.3873273638019885,False,False,False
+fase=segundo terço E zonas_freio=alta,1712,9,0.3382009345794392,-0.08793513730759545,-7.357400942292086,False,False,True
+dif_idade=diferença de até 4 voltas E largada=atacante largou à frente,5312,26,0.47571536144578314,0.04957928955874846,7.307012503294554,False,False,False
+relargada=corrida normal E pico_desac=alta,5385,9,0.3773444753946147,-0.048791596492419986,-7.240153936407069,False,False,True
+vel_media=alta,7049,9,0.46829337494680096,0.04215730305976628,7.15726643045631,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E vel_minima=média,506,8,0.2707509881422925,-0.1553850837447422,-7.067970890847088,False,False,True
+"distancia=0,3 a 0,6 s E fase=último terço",1595,26,0.33918495297805645,-0.08695111890897822,-7.0220770171960485,False,False,False
+dif_idade=defensor 5+ voltas mais novo E relargada=corrida normal,866,25,0.3083140877598152,-0.11782198412721945,-7.011250349278602,False,False,False
+dif_idade=atacante 5 a 9 voltas mais novo E zonas_freio=média,429,8,0.25874125874125875,-0.16739481314577592,-7.011013552001644,False,False,True
+relargada=corrida normal E vel_media=média,4593,8,0.37513607663836274,-0.05099999524867194,-6.9892118503755185,False,False,True
+mesma_equipe=equipes diferentes E vel_media=alta,6523,9,0.4688026981450253,0.042666626257990614,6.9682318754121395,False,False,True
+largada=atacante largou à frente E posicao=6.º a 10.º,2454,26,0.3569682151589242,-0.06916785672811049,-6.928698523756478,False,False,False
+fase=último terço E densidade_curvas=média,1753,8,0.34455219623502564,-0.08158387565200903,-6.907252977845356,False,False,True
+dif_composto=atacante mais macio E fase=segundo terço,700,25,0.29714285714285715,-0.12899321474417752,-6.901223379629383,False,False,False
+largada=defensor largou à frente E densidade_curvas=baixa,3663,9,0.48211848211848213,0.055982410231447455,6.851419801646091,False,False,True
+fase=segundo terço E pico_desac=média,1474,8,0.3385345997286296,-0.08760147215840508,-6.8009594850263175,False,False,True
+relargada=após relargada E posicao=top 5,656,26,0.29573170731707316,-0.13040436456996152,-6.753893638393804,False,False,False
+fase=segundo terço E pico_desac=alta,1690,9,0.3449704142011834,-0.08116565768585127,-6.74723406227196,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E fase=segundo terço,538,25,0.2825278810408922,-0.14360819084614246,-6.735666069769157,False,False,False
+relargada=corrida normal E posicao=11.º em diante,8314,26,0.4625932162617272,0.03645714437469255,6.721998126072657,False,False,False
+largada=atacante largou à frente E vel_media=baixa,3026,9,0.3661599471249174,-0.05997612476211728,-6.671489848037897,False,False,True
+"distancia=até 0,3 s E largada=atacante largou à frente",632,25,0.2958860759493671,-0.13024999593766756,-6.621348890274685,False,False,False
+"distancia=0,3 a 0,6 s E densidade_curvas=baixa",1926,9,0.5,0.07386392811296533,6.5549741839245526,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E zonas_freio=baixa,542,9,0.2878228782287823,-0.1383131936582524,-6.511386121387809,False,False,True
+posicao=11.º em diante E zonas_freio=alta,3423,9,0.48115687992988604,0.055020808042851366,6.509398589550278,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E densidade_curvas=baixa,320,9,0.246875,-0.17926107188703466,-6.4844204769757345,False,False,True
+fase=segundo terço E zonas_freio=baixa,1924,9,0.35343035343035345,-0.07270571845668122,-6.44883335931045,False,False,True
+"dif_idade=defensor 5+ voltas mais novo E distancia=até 0,3 s",112,17,0.125,-0.3011360718870347,-6.444393462155253,False,False,False
+fase=segundo terço E densidade_curvas=baixa,1604,9,0.3472568578553616,-0.07887921403167308,-6.388145827593642,False,False,True
+posicao=6.º a 10.º E zonas_freio=alta,1704,9,0.34976525821596244,-0.07637081367107224,-6.374883300350634,False,False,True
+largada=defensor largou à frente E fase=segundo terço,2614,25,0.36457536342769703,-0.06156070845933764,-6.36453142222349,False,False,False
+vel_media=alta E zonas_freio=baixa,4781,6,0.47144948755490484,0.04531341566787017,6.335731448854176,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E pico_desac=baixa,451,9,0.2793791574279379,-0.14675691445909678,-6.302269816610951,False,False,True
+posicao=11.º em diante E vel_minima=média,3141,8,0.481056988220312,0.054920916333277336,6.224181826913523,False,False,True
+largada=atacante largou à frente,8209,26,0.3922524058959678,-0.03388366599106685,-6.207907826566736,False,False,False
+fase=último terço E posicao=11.º em diante,2369,26,0.3634444913465597,-0.06269158054047497,-6.170235962789438,False,False,False
+dif_idade=atacante 5 a 9 voltas mais novo E largada=defensor largou à frente,709,26,0.31170662905500707,-0.1144294428320276,-6.161281792077691,False,False,False
+dif_idade=defensor 5+ voltas mais novo E relargada=após relargada,194,20,0.6443298969072165,0.21819382502018186,6.145448578572966,False,False,False
+"dif_composto=mesmo composto E distancia=0,3 a 0,6 s",3770,26,0.4755968169761273,0.04946074508909265,6.141039488657574,False,False,False
+dif_idade=atacante 5 a 9 voltas mais novo E vel_media=alta,445,9,0.28314606741573034,-0.14299000447130433,-6.099522804559678,False,False,True
+zonas_freio=baixa E pico_desac=baixa,3757,4,0.4751131221719457,0.048977050284911006,6.070490911776492,False,False,True
+zonas_freio=baixa E densidade_curvas=baixa,3953,5,0.473817353908424,0.047681282021389326,6.06208333883444,False,False,True
+posicao=11.º em diante E pico_desac=média,2594,8,0.48496530454895914,0.05882923266192447,6.05882852054598,False,False,True
+largada=atacante largou à frente E mesma_equipe=equipes diferentes,7598,26,0.39181363516714923,-0.03432243671988544,-6.049751198928821,False,False,False
+largada=atacante largou à frente E zonas_freio=alta,2538,9,0.3668242710795902,-0.05931180080744447,-6.042225191688529,False,False,True
+relargada=corrida normal E densidade_curvas=alta,5935,9,0.387363100252738,-0.03877297163429666,-6.0401708198143576,False,False,True
+relargada=corrida normal E vel_minima=alta,5174,9,0.38461538461538464,-0.041520687271650036,-6.0393131056947436,False,False,True
+"distancia=até 0,3 s E posicao=6.º a 10.º",361,24,0.27146814404432135,-0.15466792784271333,-5.942429928823463,False,False,False
+dif_idade=atacante 5 a 9 voltas mais novo E vel_minima=alta,598,9,0.3060200668896321,-0.12011600499740255,-5.93966085073309,False,False,True
+largada=atacante largou à frente E vel_media=média,2220,8,0.36396396396396397,-0.06217210792307071,-5.923550238965227,False,False,True
+"distancia=até 0,3 s E vel_minima=média",564,8,0.30319148936170215,-0.12294458252533252,-5.9041738192755995,False,False,True
+posicao=6.º a 10.º E pico_desac=alta,2000,9,0.361,-0.06513607188703469,-5.8904243796055376,False,False,True
+relargada=corrida normal E zonas_freio=média,4822,8,0.3842803815844048,-0.04185569030262987,-5.877300898392187,False,False,True
+largada=atacante largou à frente E densidade_curvas=média,2567,8,0.36930268796260224,-0.056833383924432435,-5.822727409799384,False,False,True
+largada=defensor largou à frente E zonas_freio=baixa,4239,9,0.46968624675631043,0.04355017486927576,5.733663602889199,False,False,True
+posicao=11.º em diante E densidade_curvas=média,3203,8,0.4751795192007493,0.04904344731371463,5.612676407612654,False,False,True
+dif_idade=diferença de até 4 voltas E pico_desac=média,3530,8,0.47280453257790367,0.046668460690868996,5.60688175743454,False,False,True
+mesma_equipe=mesma equipe E vel_minima=baixa,560,9,0.5428571428571428,0.11672107097010814,5.58539147515494,False,False,True
+dif_idade=diferença de até 4 voltas E pico_desac=alta,4952,9,0.46526655896607433,0.039130487079039655,5.56821736666204,False,False,True
+"dif_composto=mesmo composto E distancia=até 0,3 s",706,26,0.32294617563739375,-0.10318989624964092,-5.544337616150078,False,False,False
+zonas_freio=alta E pico_desac=média,2896,5,0.3756906077348066,-0.05044546415222806,-5.489481180154459,False,False,True
+largada=atacante largou à frente E pico_desac=média,2117,8,0.36797354747283895,-0.058162524414195726,-5.411450011970503,False,False,True
+"distancia=até 0,3 s E fase=último terço",344,23,0.2819767441860465,-0.14415932770098816,-5.406698778194729,False,False,False
+"distancia=0,3 a 0,6 s E zonas_freio=baixa",2500,9,0.4796,0.05346392811296535,5.405568242409444,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E vel_media=média,479,8,0.3048016701461378,-0.12133440174089688,-5.369846761750468,False,False,True
+"distancia=0,3 a 0,6 s",5902,26,0.46069129108776685,0.03455521920073218,5.368141717384702,False,False,False
+"distancia=0,3 a 0,6 s E fase=segundo terço",1634,25,0.36046511627906974,-0.06567095560796493,-5.367961847883583,False,False,False
+mesma_equipe=equipes diferentes E zonas_freio=alta,5463,9,0.390261760937214,-0.03587431094982069,-5.361779508511589,False,False,True
+fase=primeiro terço E densidade_curvas=média,2807,8,0.47595297470609194,0.04981690281905726,5.337138159715896,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E densidade_curvas=média,597,8,0.31825795644891125,-0.10787811543812342,-5.330042362523137,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E pico_desac=média,431,8,0.29930394431554525,-0.12683212757148943,-5.324491192435428,False,False,True
+fase=segundo terço E vel_minima=alta,1710,9,0.36257309941520466,-0.06356297247183001,-5.315110124419728,False,False,True
+"distancia=0,3 a 0,6 s E mesma_equipe=mesma equipe",388,25,0.5592783505154639,0.13314227862842926,5.303250046512397,False,False,False
+largada=defensor largou à frente,11266,26,0.45082549263270016,0.02468942074566549,5.299156591969915,False,False,False
+dif_idade=atacante 5 a 9 voltas mais novo E vel_media=baixa,582,9,0.3178694158075601,-0.10826665607947455,-5.281610097068852,False,False,True
+fase=segundo terço E densidade_curvas=alta,1996,9,0.36773547094188375,-0.05840060094515093,-5.276033967688238,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E densidade_curvas=alta,589,9,0.31918505942275044,-0.10695101246428423,-5.24871170571418,False,False,True
+"distancia=até 0,3 s E vel_minima=alta",365,9,0.29041095890410956,-0.1357251129829251,-5.24344606874308,False,False,True
+vel_media=média E pico_desac=alta,3806,5,0.38413032054650553,-0.04200575134052914,-5.240261531217446,False,False,True
+dif_idade=defensor 5+ voltas mais novo E posicao=top 5,101,18,0.16831683168316833,-0.2578192402038664,-5.239456260272142,False,False,False
+dif_composto=atacante mais duro E mesma_equipe=mesma equipe,218,23,0.6009174311926605,0.17478135930562583,5.2183547893075355,False,False,False
+vel_media=média E densidade_curvas=média,3441,5,0.3821563498982854,-0.043979721988749276,-5.216805319825468,False,False,True
+fase=segundo terço E vel_minima=baixa,1810,9,0.36574585635359114,-0.060390215533443536,-5.195362555440703,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E pico_desac=alta,624,9,0.32371794871794873,-0.10241812316908594,-5.173438219721587,False,False,True
+dif_idade=defensor 5+ voltas mais novo E vel_minima=média,332,8,0.286144578313253,-0.13999149357378166,-5.157994775439174,False,False,True
+densidade_curvas=média,6073,8,0.3937098633294912,-0.03242620855754347,-5.109842796449196,False,False,True
+largada=defensor largou à frente E vel_minima=alta,3556,9,0.468503937007874,0.04236786512083934,5.108908003895444,False,False,True
+vel_media=baixa E pico_desac=média,2798,4,0.3784846318799142,-0.04765144000712046,-5.096942617395981,False,False,True
+mesma_equipe=equipes diferentes E densidade_curvas=média,5532,8,0.39226319595083153,-0.03387287593620314,-5.0945156515277965,False,False,True
+dif_idade=diferença de até 4 voltas E vel_minima=média,4797,8,0.4617469251615593,0.03561085327452462,4.987442316294481,False,False,True
+dif_idade=diferença de até 4 voltas E vel_media=média,3806,8,0.466106148187073,0.03997007630003835,4.986317918808519,False,False,True
+largada=defensor largou à frente E pico_desac=baixa,4537,9,0.46264051135111306,0.036504439464078386,4.972109627999014,False,False,True
+relargada=após relargada E mesma_equipe=mesma equipe,350,26,0.5571428571428572,0.1310067852558225,4.9560770650846635,False,False,False
+posicao=11.º em diante E vel_media=média,3000,8,0.4706666666666667,0.044530594779632005,4.932074739712415,False,False,True
+largada=atacante largou à frente E posicao=11.º em diante,4633,26,0.4616878912151953,0.03555181932816065,4.893320462134638,False,False,False
+densidade_curvas=baixa,6251,9,0.45672692369220924,0.030590851805174568,4.890769061185107,False,False,True
+dif_composto=atacante mais macio E relargada=corrida normal,2665,26,0.3793621013133208,-0.04677397057371385,-4.882730679559401,False,False,False
+"distancia=até 0,3 s E zonas_freio=baixa",577,9,0.32582322357019067,-0.100312848316844,-4.872530997553112,False,False,True
+dif_idade=diferença de até 4 voltas E posicao=6.º a 10.º,4547,26,0.46162304816362437,0.0354869762765897,4.838849183549581,False,False,False
+zonas_freio=alta,6080,9,0.39555921052631576,-0.03057686136071891,-4.8211916825688625,False,False,True
+posicao=6.º a 10.º E vel_media=baixa,2058,9,0.37366375121477163,-0.05247232067226304,-4.813521576889758,False,False,True
+mesma_equipe=equipes diferentes E vel_media=baixa,6388,9,0.3963681903569192,-0.029767881530115448,-4.811052104785153,False,False,True
+vel_media=alta E vel_minima=alta,3704,5,0.46517278617710583,0.03903671429007116,4.804181045726015,False,False,True
+dif_composto=atacante mais macio E posicao=11.º em diante,2021,26,0.4789708065314201,0.05283473464438543,4.803006166238488,False,False,False
+posicao=6.º a 10.º E densidade_curvas=média,1881,8,0.37161084529505584,-0.05452522659197884,-4.7819153683612425,False,False,True
+"distancia=0,3 a 0,6 s E vel_minima=baixa",1967,9,0.47941026944585663,0.053274197558821956,4.777817723896949,False,False,True
+largada=defensor largou à frente E vel_minima=baixa,3886,9,0.46397323726196604,0.03783716537493137,4.769585213796689,False,False,True
+pico_desac=baixa E densidade_curvas=baixa,3793,4,0.46374901133667285,0.03761293944963817,4.6842422642362695,False,False,True
+mesma_equipe=equipes diferentes E densidade_curvas=baixa,5720,9,0.45664335664335665,0.030507284756321973,4.665652219075777,False,False,True
+vel_media=baixa E zonas_freio=alta,4570,6,0.3927789934354486,-0.033357078451586086,-4.5599057482040495,False,False,True
+largada=defensor largou à frente E mesma_equipe=mesma equipe,1047,25,0.49570200573065903,0.06956593384362436,4.5517702849828225,False,False,False
+fase=primeiro terço E mesma_equipe=mesma equipe,905,26,0.5005524861878453,0.07441641430081064,4.5269257010872295,False,False,False
+dif_composto=atacante mais macio E largada=atacante largou à frente,1116,26,0.3593189964157706,-0.06681707547126409,-4.5136689837979596,False,False,False
+"distancia=até 0,3 s E largada=defensor largou à frente",539,25,0.3302411873840445,-0.09589488450299016,-4.501942783881921,False,False,False
+dif_idade=defensor 5+ voltas mais novo E mesma_equipe=equipes diferentes,972,26,0.3549382716049383,-0.07119780028209638,-4.488588591893143,False,False,False
+dif_composto=mesmo composto E vel_minima=média,4200,8,0.3919047619047619,-0.03423130998227275,-4.48598668158325,False,False,True
+"distancia=0,6 a 1,0 s E largada=atacante largou à frente",4944,26,0.3946197411003236,-0.031516330786711066,-4.481099786008735,False,False,False
+dif_composto=mesmo composto E vel_media=alta,4763,9,0.45811463363426413,0.03197856174722946,4.462825754934826,False,False,True
+dif_composto=atacante mais macio E vel_media=alta,1025,9,0.4946341463414634,0.06849807445442874,4.434561854076394,False,False,True
+largada=defensor largou à frente E zonas_freio=média,3485,8,0.4631276901004304,0.03699161821339575,4.415860132374837,False,False,True
+dif_composto=atacante mais duro E largada=defensor largou à frente,1726,26,0.47856315179606024,0.052427079909025565,4.404397068028233,False,False,False
+largada=atacante largou à frente E pico_desac=alta,2785,9,0.38527827648114904,-0.04085779540588563,-4.360110118145198,False,False,True
+dif_idade=defensor 5+ voltas mais novo E densidade_curvas=baixa,323,9,0.3065015479876161,-0.11963452389941859,-4.347783927369045,False,False,True
+dif_composto=mesmo composto E largada=atacante largou à frente,5455,26,0.39706691109074244,-0.029069160796292237,-4.3414978420955626,False,False,False
+largada=atacante largou à frente E densidade_curvas=alta,3054,9,0.3873608382449247,-0.038775233642109996,-4.3331007220516895,False,False,True
+dif_idade=defensor 5+ voltas mais novo E zonas_freio=alta,259,9,0.29343629343629346,-0.1326997784507412,-4.318474203401197,False,False,True
+largada=atacante largou à frente E zonas_freio=média,2540,8,0.3838582677165354,-0.042277804170499256,-4.30862998685981,False,False,True
+relargada=corrida normal E vel_minima=baixa,5419,9,0.3973057759734268,-0.028830295913607862,-4.291590386886821,False,False,True
+dif_composto=atacante mais duro E vel_media=alta,1261,9,0.4853291038858049,0.05919303199877024,4.250485809474915,False,False,True
+pico_desac=alta E densidade_curvas=média,4286,5,0.39407372841810545,-0.03206234346892922,-4.244544138966079,False,False,True
+"dif_composto=atacante mais macio E distancia=até 0,3 s",256,24,0.296875,-0.12926107188703467,-4.18213394296722,False,False,False
+"distancia=0,3 a 0,6 s E mesma_equipe=equipes diferentes",5514,26,0.45375408052230687,0.027618008635272195,4.147024539971629,False,False,False
+mesma_equipe=equipes diferentes E vel_media=média,4906,8,0.3968609865470852,-0.02927508533994949,-4.14640401240341,False,False,True
+"distancia=0,3 a 0,6 s E densidade_curvas=alta",2025,9,0.47160493827160493,0.04546886638457026,4.137492022285807,False,False,True
+vel_media=baixa,6997,9,0.4017436044018865,-0.024392467485148173,-4.125922948909173,False,False,True
+largada=defensor largou à frente E mesma_equipe=equipes diferentes,10219,26,0.4462276152265388,0.020091543339504137,4.107036799437832,False,False,False
+largada=atacante largou à frente E vel_minima=média,2512,8,0.3857484076433121,-0.04038766424372259,-4.093252105835998,False,False,True
+posicao=6.º a 10.º E vel_media=média,1640,8,0.37621951219512195,-0.04991655969191272,-4.087677374962447,False,False,True
+mesma_equipe=mesma equipe E densidade_curvas=alta,586,9,0.5085324232081911,0.08239635132115647,4.033361143552771,False,False,True
+dif_idade=diferença de até 4 voltas E vel_media=baixa,5017,9,0.4542555311939406,0.028119459306905903,4.027539730455049,False,False,True
+dif_composto=atacante mais duro E pico_desac=baixa,1338,9,0.48056801195814647,0.054431940071111795,4.0261719547598345,False,False,True
+dif_composto=atacante mais duro E zonas_freio=média,1036,8,0.4874517374517375,0.061315665564702804,3.9908158710014905,False,False,True
+fase=último terço E mesma_equipe=mesma equipe,402,25,0.3283582089552239,-0.09777786293181079,-3.9642749747176573,False,False,False
+dif_composto=mesmo composto E zonas_freio=baixa,5020,9,0.4537848605577689,0.027648788670734226,3.961309132079,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E dif_composto=atacante mais duro,240,24,0.3,-0.12613607188703468,-3.951437910267733,False,False,False
+"dif_idade=atacante 5 a 9 voltas mais novo E distancia=0,3 a 0,6 s",577,25,0.34488734835355284,-0.08124872353348184,-3.946523049040654,False,False,False
+posicao=6.º a 10.º E mesma_equipe=equipes diferentes,5687,26,0.40038684719535783,-0.025749224691676842,-3.9265882509230385,False,False,False
+"dif_composto=atacante mais duro E distancia=até 0,3 s",209,21,0.291866028708134,-0.13427004317890068,-3.9252064866595537,False,False,False
+largada=defensor largou à frente E densidade_curvas=alta,4097,9,0.45643153526970953,0.03029546338267486,3.9212203460722823,False,False,True
+dif_idade=diferença de até 4 voltas E relargada=corrida normal,11242,26,0.44422700587084146,0.01809093398380679,3.8787694208601016,False,False,False
+zonas_freio=baixa,7370,9,0.44843962008141114,0.022303548194376466,3.8718516543192325,False,False,True
+dif_composto=mesmo composto E densidade_curvas=média,4039,8,0.39613765783609806,-0.029998414050936617,-3.8551820792964797,False,False,True
+dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,152,21,0.27631578947368424,-0.14982028241335044,-3.7351033952125174,False,False,False
+"distancia=0,3 a 0,6 s E zonas_freio=alta",1805,9,0.3828254847645429,-0.04331058712249175,-3.7208540478492567,False,False,True
+dif_idade=defensor 5+ voltas mais novo,1060,26,0.36981132075471695,-0.05632475113231772,-3.7081927833468815,False,False,False
+dif_composto=atacante mais macio E vel_media=baixa,1255,9,0.3745019920318725,-0.05163407985516216,-3.698863538763214,False,False,True
+"distancia=até 0,3 s E pico_desac=baixa",310,9,0.3225806451612903,-0.10355542672574436,-3.6869213281288733,False,False,True
+dif_composto=mesmo composto E zonas_freio=alta,3898,9,0.39712673165726015,-0.029009340229774527,-3.6624227675970946,False,False,True
+dif_idade=diferença de até 4 voltas E mesma_equipe=mesma equipe,1326,26,0.475867269984917,0.049731198097882345,3.6619389571754835,False,False,False
+dif_composto=atacante mais duro E fase=último terço,731,25,0.359781121751026,-0.06635495013600867,-3.627789935598515,False,False,False
+largada=atacante largou à frente E vel_minima=alta,2935,9,0.3931856899488927,-0.03295038193814198,-3.6097265912487546,False,False,True
+"distancia=0,3 a 0,6 s E vel_minima=alta",1953,9,0.46646185355862774,0.040325781671593064,3.6036662028249635,False,False,True
+mesma_equipe=equipes diferentes E zonas_freio=baixa,6740,9,0.4473293768545994,0.02119330496756472,3.5183551521594656,False,False,True
+dif_composto=atacante mais duro E densidade_curvas=baixa,1093,9,0.4784995425434584,0.052363470656423716,3.5006522201475074,False,False,True
+"distancia=0,6 a 1,0 s E vel_media=alta",4546,9,0.4516058073031236,0.025469735416088934,3.4725622414652046,False,False,True
+vel_media=média,5429,8,0.40283661816172406,-0.023299453725310615,-3.4714838232721132,False,False,True
+"distancia=0,6 a 1,0 s E vel_media=baixa",4491,9,0.40057893564907593,-0.025557136237958744,-3.4633253495726537,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E vel_minima=baixa,402,9,0.3407960199004975,-0.08534005198653716,-3.4599998490373376,False,False,True
+dif_idade=defensor 5+ voltas mais novo E fase=segundo terço,490,25,0.3489795918367347,-0.07715648005029996,-3.453668050290383,False,False,False
+vel_minima=baixa E zonas_freio=média,3015,4,0.4570480928689884,0.030912020981953725,3.4322728231394435,False,False,True
+dif_composto=mesmo composto E largada=defensor largou à frente,7362,26,0.445666938331975,0.019530866444940342,3.3886794279518537,False,False,False
+dif_idade=defensor 5+ voltas mais novo E vel_media=baixa,384,9,0.3411458333333333,-0.08499023855370136,-3.367788575638354,False,False,True
+posicao=6.º a 10.º,6143,26,0.40501383688751424,-0.02112223499952043,-3.347646197238668,False,False,False
+dif_idade=defensor 5+ voltas mais novo E pico_desac=média,273,8,0.326007326007326,-0.10012874587970866,-3.345417161141202,False,False,True
+dif_composto=atacante mais macio E densidade_curvas=média,1012,8,0.37450592885375494,-0.05163014303327973,-3.3212653955361717,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E zonas_freio=alta,535,9,0.35514018691588783,-0.07099588497114684,-3.3206277020234993,False,False,True
+"distancia=0,6 a 1,0 s E zonas_freio=média",4252,8,0.40098777046095957,-0.025148301426075104,-3.3160025097207035,False,False,True
+dif_composto=atacante mais duro E relargada=corrida normal,2731,26,0.39509337239106557,-0.031042699495969106,-3.280425130036668,False,False,False
+dif_idade=defensor 5+ voltas mais novo E dif_composto=atacante mais macio,141,24,0.2907801418439716,-0.13535593004306307,-3.250102649968627,False,False,False
+mesma_equipe=mesma equipe E pico_desac=baixa,642,9,0.48909657320872274,0.06296050132168807,3.225863453959852,False,False,True
+dif_idade=defensor 5+ voltas mais novo E largada=atacante largou à frente,387,25,0.3462532299741602,-0.07988284191287448,-3.1777459107220447,False,False,False
+posicao=6.º a 10.º E vel_minima=alta,1971,9,0.3911719939117199,-0.034964077975314756,-3.13888428939688,False,False,True
+fase=segundo terço E posicao=11.º em diante,2724,26,0.3964757709251101,-0.02966030096192457,-3.1303209256646545,False,False,False
+mesma_equipe=mesma equipe E pico_desac=alta,621,9,0.48792270531400966,0.06178663342697499,3.113512791513906,False,False,True
+largada=atacante largou à frente E vel_minima=baixa,2762,9,0.39717595944967415,-0.02896011243736052,-3.077668389331418,False,False,True
+vel_minima=média,6336,8,0.40703914141414144,-0.019096930472893237,-3.0738343907656835,False,False,True
+dif_composto=atacante mais duro E vel_minima=média,1098,8,0.47176684881602915,0.045630776928994476,3.057520873841898,False,False,True
+"distancia=até 0,3 s E zonas_freio=média",176,8,0.3125,-0.11363607188703467,-3.048475711931266,False,False,True
+dif_idade=diferença de até 4 voltas E fase=segundo terço,2962,26,0.3987170830519919,-0.02741898883504279,-3.0175445760558195,False,False,False
+"distancia=até 0,3 s E densidade_curvas=alta",276,9,0.33695652173913043,-0.08917955014790424,-2.9959182304654797,False,False,True
+fase=segundo terço E mesma_equipe=mesma equipe,351,24,0.5042735042735043,0.07813743238646959,2.9602132336139437,False,False,False
+relargada=corrida normal E pico_desac=baixa,6397,9,0.40800375175863685,-0.018132320128397827,-2.9325876456012105,False,False,True
+dif_composto=atacante mais duro E pico_desac=alta,1234,9,0.38492706645056723,-0.04120900543646744,-2.927249418682696,False,False,True
+"distancia=até 0,3 s E vel_media=alta",352,9,0.3494318181818182,-0.0767042537052165,-2.910053353601562,False,False,True
+dif_idade=atacante 10+ voltas mais novo E mesma_equipe=mesma equipe,141,23,0.3049645390070922,-0.12117153287994248,-2.9095136036602818,False,False,False
+fase=último terço E relargada=após relargada,739,23,0.4790257104194858,0.0528896385324511,2.907389168420007,False,False,False
+dif_composto=mesmo composto E densidade_curvas=baixa,4176,9,0.4482758620689655,0.022139790181930852,2.893108386599701,False,False,True
+dif_composto=mesmo composto E pico_desac=média,3379,8,0.4015981059485055,-0.024537965938529194,-2.8843118741358333,False,False,True
+"dif_composto=mesmo composto E distancia=0,6 a 1,0 s",8341,26,0.41074211725212806,-0.015393954634906615,-2.842944276275397,False,False,False
+pico_desac=baixa,7844,9,0.44199388067312595,0.015857808786091276,2.8400325286020482,False,False,True
+largada=defensor largou à frente E pico_desac=alta,3896,9,0.44815195071868585,0.02201587883165118,2.7787945413725565,False,False,True
+pico_desac=média,4950,8,0.4066666666666667,-0.019469405220367997,-2.769903267152138,False,False,True
+mesma_equipe=mesma equipe,1658,26,0.45958986731001206,0.033453795422977384,2.754534734458514,False,False,False
+vel_media=baixa E densidade_curvas=alta,4104,5,0.40497076023391815,-0.021165311653116525,-2.7418125292493856,False,False,True
+"distancia=0,6 a 1,0 s E zonas_freio=baixa",4293,9,0.44677381784300024,0.02063774595596557,2.7343472783716756,False,False,True
+"dif_composto=atacante mais duro E distancia=0,6 a 1,0 s",2114,26,0.4555345316934721,0.029398459806437405,2.733302970933501,False,False,False
+vel_media=baixa E pico_desac=baixa,3385,4,0.4029542097488922,-0.023181862138142495,-2.7273267866608775,False,False,True
+fase=segundo terço E vel_media=alta,1919,9,0.39551849921834287,-0.030617572668691806,-2.7121770670030525,False,False,True
+vel_minima=alta E zonas_freio=baixa,2913,4,0.4507380707174734,0.02460199883043873,2.685045134059806,False,False,True
+dif_composto=atacante mais macio E densidade_curvas=baixa,982,9,0.4684317718940937,0.04229570000705901,2.6801706325631818,False,False,True
+dif_composto=atacante mais macio E pico_desac=média,779,8,0.37869062901155326,-0.047445442875481414,-2.6777697798579054,False,False,True
+dif_composto=mesmo composto E vel_media=baixa,4558,9,0.40653795524352787,-0.019598116643506802,-2.675536542517176,False,False,True
+"distancia=até 0,3 s E posicao=11.º em diante",669,26,0.375186846038864,-0.05094922584817069,-2.664776296355763,False,False,False
+dif_composto=mesmo composto E vel_media=média,3496,8,0.40389016018306634,-0.022245911703968335,-2.659778475768756,False,False,True
+dif_composto=atacante mais duro E posicao=6.º a 10.º,1097,26,0.3865086599817685,-0.0396274119052662,-2.654049619073485,False,False,False
+dif_idade=atacante 10+ voltas mais novo E relargada=após relargada,250,25,0.344,-0.0821360718870347,-2.6261173056598572,False,False,False
+dif_idade=defensor 5+ voltas mais novo E pico_desac=alta,286,9,0.34965034965034963,-0.07648572223668504,-2.6156137763938303,False,False,True
+posicao=6.º a 10.º E densidade_curvas=alta,2094,9,0.3982808022922636,-0.02785526959477108,-2.5775405705478542,False,False,True
+dif_composto=mesmo composto E vel_minima=baixa,4287,9,0.44553300676463725,0.01939693487760258,2.5681528055720326,False,False,True
+mesma_equipe=equipes diferentes E vel_minima=média,5747,8,0.4099530189664173,-0.01618305292061739,-2.4807916639702845,False,False,True
+"distancia=0,6 a 1,0 s E densidade_curvas=média",3500,8,0.4054285714285714,-0.020707500458463257,-2.477258273296205,False,False,True
+"distancia=0,6 a 1,0 s E vel_media=média",3365,8,0.4050520059435364,-0.021084065943498265,-2.4731843741822797,False,False,True
+posicao=6.º a 10.º E vel_media=alta,2445,9,0.4507157464212679,0.02457967453423321,2.457685463451633,False,False,True
+vel_minima=alta E densidade_curvas=média,2836,4,0.4033850493653032,-0.022751022521731445,-2.4499858696144954,False,False,True
+"distancia=0,6 a 1,0 s E posicao=6.º a 10.º",4021,26,0.40736135289728925,-0.01877471898974542,-2.407408906331687,False,False,False
+mesma_equipe=mesma equipe E zonas_freio=média,411,8,0.48418491484184917,0.058048842954814495,2.3797142712734187,False,False,True
+mesma_equipe=mesma equipe E pico_desac=média,395,8,0.3670886075949367,-0.05904746429209795,-2.3730665433208196,False,False,True
+"distancia=0,6 a 1,0 s E vel_minima=média",3790,8,0.4071240105540897,-0.019012061332944974,-2.366782215909266,False,False,True
+largada=defensor largou à frente E relargada=corrida normal,9049,26,0.4138578848491546,-0.012278187037880084,-2.3618009419873425,False,False,False
+mesma_equipe=mesma equipe E vel_minima=média,589,8,0.37860780984719866,-0.04752826203983601,-2.3324896733217133,False,False,True
+dif_composto=atacante mais macio E zonas_freio=alta,1150,9,0.39217391304347826,-0.03396215884355641,-2.3289176064454225,False,False,True
+dif_composto=atacante mais macio E vel_media=média,1014,8,0.3905325443786982,-0.03560352750833645,-2.2925667278671953,False,False,True
+dif_idade=defensor 5+ voltas mais novo E fase=último terço,413,26,0.3704600484261501,-0.05567602346088457,-2.287986402318196,False,False,False
+dif_idade=diferença de até 4 voltas E densidade_curvas=média,4205,8,0.44351961950059454,0.01738354761355987,2.279463479300419,False,False,True
+dif_composto=atacante mais duro E largada=atacante largou à frente,1638,26,0.3986568986568987,-0.02747917323013599,-2.248901424591791,False,False,False
+dif_idade=defensor 5+ voltas mais novo E largada=defensor largou à frente,673,26,0.3833580980683507,-0.04277797381868398,-2.244077356750155,False,False,False
+relargada=corrida normal E zonas_freio=baixa,5947,9,0.4118042710610392,-0.0143318008259955,-2.2349039659390275,False,False,True
+dif_idade=defensor 5+ voltas mais novo E dif_composto=mesmo composto,643,26,0.38258164852255055,-0.04355442336448412,-2.233304221061008,False,False,False
+dif_idade=diferença de até 4 voltas E zonas_freio=alta,4393,9,0.44274982927384476,0.01661375738681009,2.2266890540865143,False,False,True
+vel_minima=média E zonas_freio=baixa,3634,4,0.4441386901485966,0.01800261826156191,2.1945182280962556,False,False,True
+mesma_equipe=equipes diferentes E pico_desac=média,4555,8,0.4100987925356751,-0.016037279351359568,-2.1886890359999684,False,False,True
+dif_idade=defensor 5+ voltas mais novo E zonas_freio=baixa,535,9,0.3794392523364486,-0.04669681955058608,-2.1841092077030773,False,False,True
+"dif_idade=atacante 5 a 9 voltas mais novo E distancia=até 0,3 s",116,21,0.3275862068965517,-0.09854986499048296,-2.1463241525503816,False,False,False
+dif_composto=atacante mais duro E zonas_freio=alta,1032,9,0.39341085271317827,-0.0327252191738564,-2.125848983494585,False,False,True
+dif_idade=defensor 5+ voltas mais novo E densidade_curvas=média,411,8,0.3746958637469586,-0.05144020814007605,-2.1087922283680007,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E dif_composto=atacante mais macio,274,25,0.36496350364963503,-0.06117256823739964,-2.0475864043641767,False,False,False
+"distancia=0,6 a 1,0 s E densidade_curvas=baixa",4052,9,0.4420039486673248,0.015867876780290113,2.042512459532884,False,False,True
+vel_minima=baixa E zonas_freio=alta,2810,4,0.40711743772241993,-0.019018634164614745,-2.0386465182757187,False,False,True
+"distancia=0,3 a 0,6 s E relargada=corrida normal",4686,26,0.4114383269312847,-0.014697744955749992,-2.0345158860152175,False,False,False
+"distancia=0,3 a 0,6 s E pico_desac=alta",2098,9,0.44804575786463297,0.021909685977598292,2.029316350809614,False,False,True
+"distancia=0,6 a 1,0 s E largada=defensor largou à frente",7458,26,0.43765084473049076,0.01151477284345609,2.0108434470055454,False,False,False
+mesma_equipe=equipes diferentes E pico_desac=baixa,7202,9,0.4377950569286309,0.011658985041596237,2.000778259486044,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E posicao=11.º em diante,861,26,0.39256678281068524,-0.03356928907634943,-1.9918363143213034,False,False,False
+"distancia=até 0,3 s E vel_minima=baixa",242,9,0.36363636363636365,-0.06249970825067103,-1.9660559993782947,False,False,True
+zonas_freio=alta E densidade_curvas=alta,3359,4,0.4096457278952069,-0.01649034399182775,-1.9326089357826448,False,False,True
+dif_composto=atacante mais macio E largada=defensor largou à frente,2178,26,0.4462809917355372,0.02014491984850253,1.9011009892749586,False,False,False
+"distancia=até 0,3 s E densidade_curvas=baixa",273,9,0.36996336996337,-0.05617270192366469,-1.8767948381656534,False,False,True
+dif_composto=mesmo composto E posicao=6.º a 10.º,4162,26,0.41182123978856316,-0.014314832098471508,-1.8674390995664327,False,False,False
+dif_composto=atacante mais macio E posicao=6.º a 10.º,884,26,0.39592760180995473,-0.03020847007707994,-1.816205002216009,False,False,False
+"distancia=0,6 a 1,0 s E densidade_curvas=alta",4850,9,0.4134020618556701,-0.012734010031364595,-1.7932670976293315,False,False,True
+largada=defensor largou à frente E densidade_curvas=média,3506,8,0.41158014831717055,-0.014555923569864126,-1.7428292365145273,False,False,True
+mesma_equipe=mesma equipe E zonas_freio=baixa,630,9,0.4603174603174603,0.03418138843042562,1.7348835686866075,False,False,True
+mesma_equipe=equipes diferentes E pico_desac=alta,6060,9,0.4151815181518152,-0.010954553735219474,-1.724406717594612,False,False,True
+dif_composto=atacante mais macio E vel_minima=média,1038,8,0.39980732177263967,-0.026328750114395005,-1.7152951310751186,False,False,True
+dif_idade=defensor 5+ voltas mais novo E vel_media=média,287,8,0.37630662020905925,-0.04982945167797542,-1.7070146504337635,False,False,True
+dif_composto=atacante mais duro E pico_desac=média,792,8,0.45580808080808083,0.029672008921046156,1.6885739731257177,False,False,True
+dif_composto=mesmo composto E pico_desac=baixa,5209,9,0.4377039738913419,0.01156790200430724,1.6882760160313004,False,False,True
+"distancia=0,6 a 1,0 s E zonas_freio=alta",3857,9,0.41275602800103706,-0.013380043885997617,-1.6803181335100257,False,False,True
+dif_idade=defensor 5+ voltas mais novo E posicao=11.º em diante,638,25,0.3934169278996865,-0.032719143987348154,-1.671176708252661,False,False,False
+vel_minima=baixa,6648,9,0.4362214199759326,0.010085348088897939,1.6628317681813245,False,False,True
+mesma_equipe=mesma equipe E vel_media=alta,526,9,0.4619771863117871,0.03584111442475241,1.6622056486933237,False,False,True
+mesma_equipe=mesma equipe E vel_minima=alta,509,9,0.46168958742632615,0.03555351553929148,1.6220038968235218,False,False,True
+pico_desac=baixa E densidade_curvas=alta,3228,4,0.41201982651796776,-0.014116245369066915,-1.6217912082323651,False,False,True
+mesma_equipe=mesma equipe E vel_media=baixa,609,9,0.458128078817734,0.03199200693069931,1.5964692693613758,False,False,True
+dif_composto=atacante mais duro,3364,26,0.4396551724137931,0.01351910052675842,1.585576015505121,False,False,False
+posicao=6.º a 10.º E mesma_equipe=mesma equipe,456,25,0.46271929824561403,0.03658322635857936,1.5797005521865986,False,False,False
+"distancia=0,3 a 0,6 s E largada=atacante largou à frente",2633,26,0.41093809342954807,-0.015197978457486605,-1.5769601001439721,False,False,False
+"distancia=0,6 a 1,0 s E mesma_equipe=equipes diferentes",11207,26,0.41884536450432763,-0.00729070738270704,-1.5607096047424365,False,False,False
+largada=atacante largou à frente E vel_media=alta,2963,9,0.4400944988187648,0.013958426931730106,1.5364326653062668,False,False,True
+dif_idade=defensor 5+ voltas mais novo E dif_composto=atacante mais duro,276,25,0.3804347826086957,-0.045701289278339,-1.5352997067190075,False,False,False
+mesma_equipe=mesma equipe E vel_media=média,523,8,0.4588910133843212,0.03275494149728653,1.5147398784860753,False,False,True
+"distancia=até 0,3 s E relargada=após relargada",247,24,0.47368421052631576,0.04754813863928109,1.5110966512716302,False,False,False
+"distancia=0,3 a 0,6 s E pico_desac=média",1456,8,0.4065934065934066,-0.01954266529362808,-1.5079050314121771,False,False,True
+dif_composto=atacante mais duro E densidade_curvas=média,1022,8,0.40313111545988256,-0.023004956427152112,-1.487156573748023,False,False,True
+dif_composto=atacante mais macio E mesma_equipe=equipes diferentes,3049,26,0.41292226959658906,-0.013213802290445609,-1.475420482669725,False,False,False
+mesma_equipe=mesma equipe E densidade_curvas=baixa,531,9,0.4576271186440678,0.031491046757033125,1.4673873103911552,False,False,True
+largada=atacante largou à frente E pico_desac=baixa,3307,9,0.4136679770184457,-0.012468094868588964,-1.4498607030917448,False,False,True
+dif_idade=defensor 5+ voltas mais novo E posicao=6.º a 10.º,321,26,0.3862928348909657,-0.039843236996068954,-1.4435016553460247,False,False,False
+largada=atacante largou à frente E mesma_equipe=mesma equipe,611,26,0.397708674304419,-0.0284273975826157,-1.4209136202563535,False,False,False
+dif_idade=atacante 5 a 9 voltas mais novo E relargada=após relargada,202,24,0.4752475247524752,0.04911145286544055,1.4114603727767814,False,False,False
+dif_composto=mesmo composto E vel_minima=alta,4330,9,0.4367205542725173,0.010584482385482652,1.4083979408564358,False,False,True
+dif_idade=defensor 5+ voltas mais novo E vel_minima=baixa,401,9,0.3915211970074813,-0.03461487487955339,-1.401667508604813,False,False,True
+posicao=6.º a 10.º E vel_minima=baixa,2133,9,0.41115799343647447,-0.014978078450560206,-1.3988169812409315,False,False,True
+"distancia=0,3 a 0,6 s E densidade_curvas=média",1951,8,0.4105586878523834,-0.015577384034651254,-1.3913376760770855,False,False,True
+vel_minima=alta,6491,9,0.434447696810969,0.008311624923934335,1.354110632391254,False,False,True
+posicao=6.º a 10.º E densidade_curvas=baixa,2168,9,0.4404981549815498,0.014362083094515143,1.3522535313809836,False,False,True
+"dif_idade=defensor 5+ voltas mais novo E distancia=0,6 a 1,0 s",669,26,0.40059790732436473,-0.02553816456266994,-1.3357116686612411,False,False,False
+largada=defensor largou à frente E posicao=6.º a 10.º,3689,26,0.4369747899159664,0.010838718028931715,1.3312011802219357,False,False,False
+dif_composto=mesmo composto E zonas_freio=média,3899,8,0.4157476275968197,-0.01038844429021496,-1.3117040093104153,False,False,True
+dif_idade=defensor 5+ voltas mais novo E vel_media=alta,389,9,0.39331619537275064,-0.03281987651428403,-1.3089463189010453,False,False,True
+posicao=6.º a 10.º E vel_minima=média,2039,8,0.4119666503187837,-0.014169421568250962,-1.293808931212628,False,False,True
+"distancia=0,6 a 1,0 s",12402,26,0.42049669408159973,-0.005639377805434942,-1.26994260909408,False,False,False
+"distancia=até 0,3 s E fase=primeiro terço",463,26,0.39740820734341253,-0.02872786454362214,-1.2499826710283606,False,False,False
+dif_composto=atacante mais macio E mesma_equipe=mesma equipe,245,22,0.46530612244897956,0.03917005056194489,1.2397878456069926,False,False,False
+zonas_freio=média E densidade_curvas=alta,2964,4,0.43724696356275305,0.011110891675718382,1.223206125251356,False,False,True
+vel_media=baixa E vel_minima=baixa,4492,6,0.41718610863757793,-0.008949963249456738,-1.2129677915379635,False,False,True
+largada=defensor largou à frente E zonas_freio=alta,3542,9,0.4161490683229814,-0.009987003564053298,-1.2018994130839655,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E fase=primeiro terço,246,20,0.3902439024390244,-0.03589216944801027,-1.1383542778264153,False,False,False
+posicao=6.º a 10.º E pico_desac=média,1477,8,0.4116452268111036,-0.01449084507593107,-1.1261423317241395,False,False,True
+dif_composto=atacante mais macio E densidade_curvas=alta,1300,9,0.4107692307692308,-0.015366841117803898,-1.120381350238036,False,False,True
+dif_composto=atacante mais macio,3294,26,0.41681845780206433,-0.009317614084970338,-1.0813723671049897,False,False,False
+"dif_idade=defensor 5+ voltas mais novo E distancia=0,3 a 0,6 s",279,24,0.3942652329749104,-0.03187083891212428,-1.0764795469716253,False,False,False
+mesma_equipe=equipes diferentes E densidade_curvas=alta,6565,9,0.41964965727341963,-0.006486414613615044,-1.0627469506674352,False,False,True
+largada=defensor largou à frente E pico_desac=média,2833,8,0.4355806565478292,0.009444584660794508,1.0165249731902315,False,False,True
+dif_composto=atacante mais duro E vel_media=baixa,1184,9,0.41216216216216217,-0.013973909724872502,-0.9723066638296926,False,False,True
+dif_idade=defensor 5+ voltas mais novo E pico_desac=baixa,501,9,0.405189620758483,-0.020946451128551646,-0.9480675455483181,False,False,True
+mesma_equipe=equipes diferentes E vel_minima=alta,5982,9,0.43212972250083587,0.005993650613801194,0.9374060322970826,False,False,True
+"distancia=0,3 a 0,6 s E vel_minima=média",1982,8,0.4364278506559031,0.010291778768868443,0.9265175483214521,False,False,True
+dif_composto=atacante mais duro E zonas_freio=baixa,1296,9,0.4382716049382716,0.012135533051236935,0.8834305889668483,False,False,True
+relargada=corrida normal E densidade_curvas=baixa,5024,9,0.419984076433121,-0.00615199545391365,-0.8817561268600784,False,False,True
+dif_composto=atacante mais macio E pico_desac=alta,1218,9,0.43842364532019706,0.012287573433162391,0.8671633238810076,False,False,True
+posicao=6.º a 10.º E pico_desac=baixa,2666,9,0.43435858964741186,0.00822251776037719,0.8585123075934471,False,False,True
+"distancia=0,6 a 1,0 s E pico_desac=média",3077,8,0.41858953526161846,-0.007546536625416211,-0.846485734263092,False,False,True
+dif_composto=atacante mais duro E vel_media=média,919,8,0.41240478781284007,-0.013731284074194605,-0.8417410743168281,False,False,True
+"distancia=0,6 a 1,0 s E pico_desac=baixa",5186,9,0.4203625144620131,-0.005773557425021558,-0.8407506242633223,False,False,True
+mesma_equipe=equipes diferentes,17817,26,0.4230229556041982,-0.003113116282836448,-0.8402661996987033,False,False,False
+mesma_equipe=mesma equipe E densidade_curvas=média,541,8,0.40850277264325324,-0.01763329924378143,-0.8293580996013948,False,False,True
+vel_minima=alta E pico_desac=alta,3225,4,0.41891472868217056,-0.007221343204864117,-0.8292603689724587,False,False,True
+mesma_equipe=mesma equipe E zonas_freio=alta,617,9,0.44246353322528365,0.016327461338248972,0.8201096449317133,False,False,True
+"distancia=0,6 a 1,0 s E vel_minima=alta",4173,9,0.43206326383896476,0.005927191951930089,0.7742587372890227,False,False,True
+largada=atacante largou à frente E zonas_freio=baixa,3131,9,0.41967422548706484,-0.006461846399969828,-0.7311496878916559,False,False,True
+"dif_idade=diferença de até 4 voltas E distancia=até 0,3 s",600,26,0.4116666666666667,-0.014469405220367992,-0.7166979756163312,False,False,False
+"dif_composto=atacante mais duro E distancia=0,3 a 0,6 s",1041,26,0.43707973102785785,0.010943659140823181,0.7140013536500106,False,False,False
+pico_desac=alta,6681,9,0.421942822930699,-0.00419324895633566,-0.6930706640298484,False,False,True
+"distancia=0,6 a 1,0 s E mesma_equipe=mesma equipe",1195,26,0.43598326359832634,0.00984719171129167,0.688347059886533,False,False,False
+"distancia=0,6 a 1,0 s E vel_minima=baixa",4439,9,0.4210407749493129,-0.0050952969377217605,-0.6864661942611017,False,False,True
+dif_composto=atacante mais duro E densidade_curvas=alta,1249,9,0.4355484387510008,0.009412366863966126,0.6726531594174241,False,False,True
+dif_composto=atacante mais duro E vel_minima=baixa,1152,9,0.4166666666666667,-0.009469405220367988,-0.6499170714294775,False,False,True
+largada=defensor largou à frente E vel_minima=média,3824,8,0.42102510460251047,-0.005110967284524204,-0.6391009569189761,False,False,True
+dif_composto=atacante mais macio E zonas_freio=baixa,1054,9,0.43548387096774194,0.009347799080707264,0.6136783294469216,False,False,True
+dif_idade=atacante 5 a 9 voltas mais novo E mesma_equipe=mesma equipe,103,19,0.39805825242718446,-0.028077819459850217,-0.5762252781880376,False,False,False
+zonas_freio=média,6025,8,0.42970954356846475,0.0035734716814300738,0.5608985230263472,False,False,True
+largada=atacante largou à frente E densidade_curvas=baixa,2588,9,0.42078825347758886,-0.005347818409445815,-0.550131673602911,False,False,True
+relargada=corrida normal E mesma_equipe=mesma equipe,1308,26,0.4334862385321101,0.007350166645075429,0.5375425210151746,False,False,False
+"distancia=0,6 a 1,0 s E pico_desac=alta",4139,9,0.4220826286542643,-0.0040534432327703485,-0.5273253104629236,False,False,True
+vel_minima=baixa E densidade_curvas=alta,3990,5,0.43007518796992483,0.0039391160828901595,0.5031521952696485,False,False,True
+dif_composto=atacante mais macio E pico_desac=baixa,1297,9,0.41942945258288356,-0.006706619304151118,-0.48840797186898005,False,False,True
+dif_composto=mesmo composto E mesma_equipe=mesma equipe,1195,26,0.4326359832635983,0.0064999113765636385,0.4543628306770209,False,False,False
+dif_composto=mesmo composto E mesma_equipe=equipes diferentes,11622,26,0.4241954913095853,-0.0019405805774493912,-0.4230316517403266,False,False,False
+dif_composto=mesmo composto E densidade_curvas=alta,4602,9,0.42916123424598,0.0030251623589453436,0.4149896620976004,False,False,True
+largada=defensor largou à frente E vel_media=média,3209,8,0.4297288875038953,0.003592815616860645,0.4115610891388948,False,False,True
+dif_composto=atacante mais duro E vel_minima=alta,1114,9,0.43177737881508077,0.005641306928046097,0.3807454219247237,False,False,True
+"dif_composto=atacante mais macio E distancia=0,3 a 0,6 s",1091,26,0.4317140238313474,0.005577951944312709,0.3725622157473584,False,False,False
+pico_desac=média E densidade_curvas=alta,3109,4,0.4293985204245738,0.003262448537539153,0.36784911592219827,False,False,True
+vel_minima=alta E pico_desac=média,2514,4,0.4295942720763723,0.0034582001893376235,0.35062895113681114,False,False,True
+largada=defensor largou à frente E vel_media=baixa,3971,9,0.42885922941324606,0.002723157526211384,0.347007675116976,False,False,True
+dif_composto=atacante mais macio E vel_minima=baixa,1209,9,0.4218362282878412,-0.004299843599193498,-0.3023248967225729,False,False,True
+dif_composto=atacante mais duro E mesma_equipe=equipes diferentes,3146,26,0.42848061029879214,0.0023445384117574686,0.26592135414860835,False,False,False
+dif_composto=mesmo composto,12817,26,0.42498244518998207,-0.001153626697052601,-0.26409052745093975,False,False,False
+dif_composto=mesmo composto E pico_desac=alta,4229,9,0.4279971624497517,0.0018610905627170493,0.24474009009885608,False,False,True
+posicao=6.º a 10.º E zonas_freio=média,1907,8,0.4237021499737808,-0.002433921913253867,-0.21492505340490917,False,False,True
+posicao=6.º a 10.º E zonas_freio=baixa,2532,9,0.42812006319115326,0.001983991304118582,0.20187744493531226,False,False,True
+relargada=corrida normal E vel_media=alta,5619,9,0.4248086848193629,-0.0013273870676717703,-0.20119841103092725,False,False,True
+"distancia=0,3 a 0,6 s E vel_media=baixa",2113,9,0.42404164694746804,-0.0020944249395666303,-0.19467827567571808,False,False,True
+dif_idade=defensor 5+ voltas mais novo E fase=primeiro terço,157,20,0.43312101910828027,0.0069849472212455965,0.17697956405212042,False,False,False
+"dif_composto=atacante mais macio E distancia=0,6 a 1,0 s",1947,26,0.42424242424242425,-0.001893647644610419,-0.16896088074240392,False,False,False
+densidade_curvas=alta,7151,9,0.4269332960425115,0.0007972241554768389,0.13633108939790417,False,False,True
+dif_composto=atacante mais macio E vel_minima=alta,1047,9,0.4278892072588348,0.0017531353718001075,0.11471102560183115,False,False,True
+dif_composto=atacante mais macio E zonas_freio=média,1090,8,0.42477064220183486,-0.0013654296851998149,-0.09115616246441183,False,False,True
+"distancia=0,3 a 0,6 s E posicao=6.º a 10.º",1761,26,0.42703009653605906,0.0008940246490243831,0.07586683027315085,False,False,False
+dif_idade=defensor 5+ voltas mais novo E vel_minima=alta,327,9,0.42813455657492355,0.0019984846878888796,0.0730780712000144,False,False,True
+mesma_equipe=equipes diferentes E zonas_freio=média,5614,8,0.42572141075881725,-0.0004146611282174195,-0.06281987412457253,False,False,True
+dif_idade=defensor 5+ voltas mais novo E zonas_freio=média,266,8,0.424812030075188,-0.001324041811846699,-0.04366698662947454,False,False,True
+mesma_equipe=equipes diferentes E vel_minima=baixa,6088,9,0.4264126149802891,0.00027654309325442217,0.04363861093466459,False,False,True
+vel_minima=baixa E pico_desac=baixa,4165,5,0.42593037214885954,-0.00020569973817513576,-0.026839171315333074,False,False,True
+zonas_freio=média E pico_desac=baixa,3129,4,0.4263342921061042,0.00019822021906951148,0.02242539776919787,False,False,True
+dif_idade=defensor 5+ voltas mais novo E densidade_curvas=alta,326,9,0.4263803680981595,0.00024429621112481703,0.008919543087516262,False,False,True
+"distancia=0,3 a 0,6 s E vel_media=média",1638,8,0.4261294261294261,-6.645757608558789e-06,-0.0005416762918898755,False,False,True

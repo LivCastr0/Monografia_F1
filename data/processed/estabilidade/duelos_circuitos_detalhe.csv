@@ -1,0 +1,801 @@
+divisao,regra,firme,selecionada,efeito_dentro,efeito_fora,linhas_fora
+0,"distancia=até 0,3 s",True,False,0.43276125482837113,0.4216054199708564,698
+0,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.365263128789748,0.2546960269342073,907
+0,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.2581408124273914,0.12491786683631179,1638
+0,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.39452319709646944,0.30156998184459116,511
+0,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.42738448976168364,0.23326301006517597,473
+0,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5403193943632549,0.29490413057257553,64
+0,"distancia=0,6 a 1,0 s",True,False,-0.07792702330176743,-0.07631238153458572,5823
+0,trem=defensor em trem de DRS,True,False,-0.0970892041827025,-0.052507485589040635,3960
+1,"distancia=até 0,3 s",True,True,0.41314798543993975,0.4301092836010669,551
+1,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.33859516477031737,0.29489780276441185,983
+1,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.22701819772368986,0.1425519917741882,1475
+1,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.40505492235115875,0.3012786790957361,558
+1,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.38119877473300773,0.29072176815931855,476
+1,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4984763958557967,0.3675090047931025,69
+1,"distancia=0,6 a 1,0 s",True,True,-0.09217362939490668,-0.06080624462059658,6223
+1,trem=defensor em trem de DRS,True,True,-0.08128397796347733,-0.06943281027722215,4336
+2,"distancia=até 0,3 s",True,True,0.3996800061991363,0.45754454255214055,470
+2,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.2699094143437068,0.3647068384452628,1032
+2,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1486324976879838,0.22516140946407553,1654
+2,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.299376092535426,0.41106993469377745,548
+2,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2824749397715157,0.38942909521266317,561
+2,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4905730866309708,0.382926622264457,71
+2,"distancia=0,6 a 1,0 s",True,True,-0.07688940505075792,-0.07624645021427365,6521
+2,trem=defensor em trem de DRS,True,True,-0.06735602527663567,-0.08282039146348022,4424
+3,"distancia=até 0,3 s",True,True,0.48187490331562943,0.38195801627660636,698
+3,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.31534254120037797,0.31991999875241717,1104
+3,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.2421165301837734,0.13990943382021426,1677
+3,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.39679110798131,0.32389475224325165,657
+3,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.37748213845774825,0.30638955067370427,545
+3,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.513371645775827,0.40734261026219626,103
+3,"distancia=0,6 a 1,0 s",True,True,-0.09092596121440125,-0.06393967946860224,6619
+3,trem=defensor em trem de DRS,True,True,-0.08366285036650042,-0.06833488696262004,4408
+4,"distancia=até 0,3 s",True,False,0.36894058747663944,0.427327847665224,876
+4,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.25784440448091117,0.375882169968604,1054
+4,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.21970175850899687,0.162684658591801,1808
+4,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.25541110550003404,0.45822998267694803,555
+4,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.33059712729115814,0.3552623091210392,510
+4,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3443078191150575,0.5357308601778256,77
+4,"distancia=0,6 a 1,0 s",True,True,-0.06118836409104936,-0.08880335771738816,6507
+4,trem=defensor em trem de DRS,True,True,-0.06491905033994883,-0.08344899533643507,4354
+5,"distancia=até 0,3 s",True,True,0.4026650375723351,0.444398632570842,537
+5,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.29065191124863254,0.3397860744707826,1119
+5,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.17674404869678295,0.19982773407790658,1614
+5,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3343039139430727,0.37027196577961363,598
+5,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.30307984149200634,0.3734222125185923,551
+5,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3814467710859298,0.5123140669009987,68
+5,"distancia=0,6 a 1,0 s",True,True,-0.07833014942419869,-0.07490656398606846,6551
+5,trem=defensor em trem de DRS,True,True,-0.07351212769319368,-0.07724989009863903,4383
+6,"distancia=até 0,3 s",True,True,0.3881056735478209,0.4612254633408243,517
+6,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.2890091337070907,0.3442528640987215,1053
+6,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1943558248392445,0.18275581877844083,1667
+6,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3181473134137609,0.38612650436593604,581
+6,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.30652868371395037,0.37321772639691714,522
+6,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4808359023249664,0.39376567160239656,73
+6,"distancia=0,6 a 1,0 s",True,True,-0.08306918805225239,-0.07070338046207608,6794
+6,trem=defensor em trem de DRS,True,True,-0.08030267889866227,-0.07116442206686398,4459
+7,"distancia=até 0,3 s",True,False,0.4828138718025945,0.35499510296576975,562
+7,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.36082113291646745,0.277933857313164,1057
+7,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.18206478674432178,0.1950071804831485,1544
+7,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.4016118113846625,0.3136744228550541,612
+7,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.32634578887977017,0.35407846325909453,528
+7,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.39552877080748106,0.4924183842077111,69
+7,"distancia=0,6 a 1,0 s",True,True,-0.08291800296293372,-0.07011061057786666,6248
+7,trem=defensor em trem de DRS,True,True,-0.0818057873665641,-0.06920596168922397,4207
+8,"distancia=até 0,3 s",True,True,0.48533799370427894,0.364994391760987,622
+8,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.29618907864428945,0.3372948612445551,1065
+8,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1959889380049213,0.18068316727119113,1568
+8,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.36460215461642975,0.34435947112606646,630
+8,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3082364755633732,0.37380065399190676,511
+8,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5178212966793851,0.39560663665894624,98
+8,"distancia=0,6 a 1,0 s",True,True,-0.0843140792401728,-0.06892141443440612,6295
+8,trem=defensor em trem de DRS,True,True,-0.07217048081239227,-0.07868791870832703,4155
+9,"distancia=até 0,3 s",True,True,0.39068922665137173,0.47868790767686903,456
+9,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.2849132346875345,0.3578895883491379,952
+9,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.11739550754213646,0.26507212501192723,1546
+9,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.293772230603941,0.4175565208155551,548
+9,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2439171581401728,0.45204856341457395,488
+9,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,True,True,0.34761773503619087,0.6496062750238079,49
+9,"distancia=0,6 a 1,0 s",True,True,-0.06909034083096735,-0.08389835209923893,6521
+9,trem=defensor em trem de DRS,True,True,-0.06266480069211078,-0.0876930005715091,4316
+10,"distancia=até 0,3 s",True,True,0.37443821929370985,0.46850098129625695,592
+10,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.341278488563376,0.2853349581302337,875
+10,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19501923018766404,0.18144737030821964,1525
+10,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3907107597908899,0.30451863159962145,490
+10,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.38228352030325347,0.2816512614169242,439
+10,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.46786783014146643,0.3911477660120072,58
+10,"distancia=0,6 a 1,0 s",True,False,-0.06963609253474022,-0.08518290536521783,5622
+10,trem=defensor em trem de DRS,True,False,-0.07760263682276572,-0.07272074450664015,4047
+11,"distancia=até 0,3 s",True,True,0.4179268356827267,0.4267246624446902,583
+11,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.2556304019577216,0.3769197575699308,1048
+11,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.12073939620057406,0.2639904928259449,1532
+11,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.2988437857961054,0.41335374168871886,547
+11,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.246589286578578,0.4580428006544178,472
+11,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.25377624393917997,0.6116042681506633,79
+11,"distancia=0,6 a 1,0 s",True,True,-0.06794903258446774,-0.08484916428533824,6710
+11,trem=defensor em trem de DRS,True,True,-0.0552843775341823,-0.0939929958292065,4286
+12,"distancia=até 0,3 s",True,True,0.37586997905958497,0.45196042337781867,656
+12,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3140891898160538,0.32327526272429524,939
+12,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19315802901086085,0.18227256875548659,1569
+12,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3070761975676346,0.4165299926987665,491
+12,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3500623885918004,0.3299345398536773,490
+12,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,True,True,0.3746078431372549,0.5790711175616836,52
+12,"distancia=0,6 a 1,0 s",True,True,-0.06516659295297066,-0.08858962920198389,5752
+12,trem=defensor em trem de DRS,True,True,-0.06994804394100995,-0.08142921417152485,3942
+13,"distancia=até 0,3 s",True,True,0.3991411302508311,0.44858031908950596,421
+13,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.346182524586343,0.2945804887535711,1120
+13,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.142932465352511,0.22835980645079923,1675
+13,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3619710622236202,0.3477033729783511,633
+13,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.29726677696184367,0.3742645780089677,589
+13,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4989690872400784,0.4007312824043648,90
+13,"distancia=0,6 a 1,0 s",True,False,-0.0810559582150144,-0.07208719194732938,7044
+13,trem=defensor em trem de DRS,True,False,-0.08359057706624211,-0.06855103962258735,4609
+14,"distancia=até 0,3 s",True,True,0.404253326319301,0.4388733300135055,581
+14,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3580414540874278,0.27200631070215375,955
+14,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1978563234744078,0.17759481555324988,1491
+14,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.4037335154419819,0.2931745685812216,510
+14,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3861555019287526,0.2902708718912781,497
+14,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.48311793730561914,0.3874627186238474,69
+14,"distancia=0,6 a 1,0 s",True,True,-0.07206229425271438,-0.08189201874735141,5536
+14,trem=defensor em trem de DRS,True,True,-0.07822878290857094,-0.07215480086068515,3799
+15,"distancia=até 0,3 s",True,True,0.37891524066846793,0.4934380886339396,459
+15,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.28404344579667307,0.34709762498950825,1063
+15,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.12242939161186417,0.26464329043370605,1487
+15,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.30456579828928576,0.39697420393476074,585
+15,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.24040836444057012,0.43513152683784634,531
+15,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3220970588502861,0.6050938620544188,64
+15,"distancia=0,6 a 1,0 s",True,True,-0.06788976591914735,-0.08582240966754004,6330
+15,trem=defensor em trem de DRS,True,True,-0.05846880385843374,-0.09348903235240327,3987
+16,"distancia=até 0,3 s",True,True,0.41300164369109915,0.42950848656294205,606
+16,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.341654544379398,0.2990323458029961,1138
+16,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19096878049050917,0.18599943620435425,1647
+16,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.4088340315588852,0.3142539076699382,655
+16,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3855497897391743,0.30792170101871597,603
+16,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.456262923250072,0.4288919413919414,91
+16,"distancia=0,6 a 1,0 s",True,True,-0.07492965919090036,-0.07791789730037826,6433
+16,trem=defensor em trem de DRS,True,True,-0.07775980009501018,-0.07325378018505982,4220
+17,"distancia=até 0,3 s",True,True,0.4087047745968285,0.43333744499094573,631
+17,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.31117449219378457,0.3228793169201186,977
+17,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.24064775859028573,0.15699130785522933,1915
+17,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.34770180082013213,0.35866232613199167,575
+17,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.39834145144280775,0.2931244072607395,567
+17,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5036497195417735,0.3786623261319917,78
+17,"distancia=0,6 a 1,0 s",True,False,-0.07327501053181153,-0.08110214884347443,6114
+17,trem=defensor em trem de DRS,True,False,-0.07996641284874609,-0.07134929907144935,4301
+18,"distancia=até 0,3 s",True,True,0.434299266359205,0.40507483423991386,533
+18,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.30006877536478826,0.33513243860201514,1024
+18,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.16652103695299736,0.21226858736372864,1494
+18,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3401530975003924,0.36684613014877765,556
+18,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2733664655699365,0.4268075151610352,449
+18,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3987843187332397,0.48652752788772946,70
+18,"distancia=0,6 a 1,0 s",True,True,-0.0808621650030586,-0.07219428791472915,6659
+18,trem=defensor em trem de DRS,True,True,-0.08087275254677545,-0.07021802816254974,4171
+19,"distancia=até 0,3 s",True,True,0.43621741671673897,0.41466694279310007,800
+19,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.35778598721585597,0.2842840599102172,1110
+19,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.247542066546133,0.14287566986369488,1799
+19,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3893890249826868,0.32201644112085925,598
+19,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.41781983354772356,0.2820067404322232,593
+19,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.547484263077925,0.3346994103255676,77
+19,"distancia=0,6 a 1,0 s",True,False,-0.0719489353026419,-0.08096217235062883,6227
+19,trem=defensor em trem de DRS,True,False,-0.07943611749293139,-0.07174130343221932,4305
+20,"distancia=até 0,3 s",True,True,0.3881662456083058,0.4743106707732382,492
+20,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.27481454916236703,0.34360424186020955,1190
+20,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1320148660031682,0.25798766964993014,1462
+20,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.30665920056840956,0.38243702267895907,654
+20,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.23352076305271488,0.4244979606042516,573
+20,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.35023778514065596,0.5212130068852069,79
+20,"distancia=0,6 a 1,0 s",True,True,-0.07468187905215934,-0.0797387279433784,6549
+20,trem=defensor em trem de DRS,True,True,-0.05808320708444586,-0.09263335787282445,4155
+21,"distancia=até 0,3 s",True,True,0.37352420123119007,0.47731831821881376,519
+21,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3273273452351637,0.3115104753235663,1124
+21,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.18875711955189256,0.18626984306014305,1551
+21,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.36490630564142273,0.3437594896244551,593
+21,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.35256305603691607,0.3301065575034915,551
+21,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.468970166309057,0.42024569845932935,87
+21,"distancia=0,6 a 1,0 s",True,True,-0.08301086085051049,-0.06999169297856529,6661
+21,trem=defensor em trem de DRS,True,True,-0.08206307011743787,-0.06910579280393706,4383
+22,"distancia=até 0,3 s",True,True,0.37221779562799756,0.4647400742871979,627
+22,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.3309335959015954,0.30238360253574337,963
+22,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.18856391372125259,0.1881157157074825,1601
+22,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.40215705394001805,0.3020955731870687,548
+22,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.36030429610840753,0.31724640984164454,489
+22,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5156581981047779,0.31003513010856953,57
+22,"distancia=0,6 a 1,0 s",True,False,-0.07138372009945655,-0.08171654463527656,6212
+22,trem=defensor em trem de DRS,True,False,-0.07751669196509192,-0.07329640774219794,4397
+23,"distancia=até 0,3 s",True,False,0.42436706773622923,0.41321989352744803,740
+23,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.2784381298397086,0.35545350645071616,1044
+23,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19557598370084334,0.18106381925519116,1687
+23,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.2756286931181991,0.4440460026554439,530
+23,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3109448585234997,0.3746564798143337,501
+23,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.30275067175788434,0.5622063800139345,80
+23,"distancia=0,6 a 1,0 s",True,True,-0.06745034982722031,-0.08476385526160632,6333
+23,trem=defensor em trem de DRS,True,True,-0.06816749191477037,-0.08142844054862612,4124
+24,"distancia=até 0,3 s",True,True,0.38678833584300754,0.45933619494258604,560
+24,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.36692039990963343,0.2756774076866765,1112
+24,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19616497926220416,0.1797719186391793,1518
+24,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.38644917981256444,0.32354413942691246,597
+24,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.38916834118986887,0.2941343893132711,538
+24,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5682097513069763,0.33965180956052626,86
+24,"distancia=0,6 a 1,0 s",True,True,-0.07460777503800436,-0.07855326407016773,5791
+24,trem=defensor em trem de DRS,True,True,-0.07185310766363862,-0.07949278247431321,3941
+25,"distancia=até 0,3 s",True,True,0.4064349548800212,0.4757234071457682,340
+25,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.2854405608205572,0.34873891147188174,1013
+25,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.13030073193535732,0.2803165405499547,1273
+25,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.2890132162654215,0.4179597611468281,555
+25,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2176411637254626,0.5284529881868177,417
+25,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.2805625120400694,0.5717061905030135,82
+25,"distancia=0,6 a 1,0 s",True,True,-0.08227811554044262,-0.07344016248879742,6347
+25,trem=defensor em trem de DRS,True,True,-0.06659287361318003,-0.08550070866878187,3852
+26,"distancia=até 0,3 s",True,True,0.4319774165571676,0.4012193491362992,508
+26,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3324111019156867,0.2944317754518622,915
+26,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.21095951546960703,0.1679285503237936,1663
+26,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.38640534157332784,0.3219776837205594,577
+26,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3656039827831422,0.31093820137718464,503
+26,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4953449251964558,0.3766534986347352,73
+26,"distancia=0,6 a 1,0 s",True,False,-0.0873074720927568,-0.06657518941689645,6410
+26,trem=defensor em trem de DRS,True,False,-0.08998373120128705,-0.061821890603845964,4481
+27,"distancia=até 0,3 s",True,True,0.4479748092415575,0.3924305735187801,580
+27,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.317148054609778,0.31826409190218274,1087
+27,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.204550870564257,0.17233241092124676,1644
+27,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.35906629303446136,0.3486949413348721,600
+27,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3295222128613634,0.3489214457297335,493
+27,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4523741324226066,0.44286160800153873,112
+27,"distancia=0,6 a 1,0 s",True,True,-0.08738274995136552,-0.06675942607601706,6808
+27,trem=defensor em trem de DRS,True,True,-0.08432826676065017,-0.06782373780991982,4381
+28,"distancia=até 0,3 s",True,True,0.43297200805564173,0.39787516212144486,317
+28,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.334753984010699,0.2998328537154326,1020
+28,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.14855266654854715,0.2462129442131702,1313
+28,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3819564050637019,0.32449508609955235,566
+28,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2897811933575008,0.4005449280188382,475
+28,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5070027132338879,0.38968744723823495,89
+28,"distancia=0,6 a 1,0 s",True,True,-0.08615349184160385,-0.0668431127270605,6009
+28,trem=defensor em trem de DRS,True,True,-0.07469104211256203,-0.07639716335735956,3790
+29,"distancia=até 0,3 s",True,True,0.38526100176164596,0.44061528857767107,726
+29,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3349101848243024,0.2963357837667603,893
+29,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.20058506701905726,0.17353510632667232,1413
+29,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.34105431744188647,0.36981639050604564,495
+29,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.34947657236301466,0.3286589731015974,421
+29,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,True,True,0.40501154294296754,0.5351440860662994,43
+29,"distancia=0,6 a 1,0 s",True,False,-0.06590120955403203,-0.08907050936009847,5637
+29,trem=defensor em trem de DRS,True,False,-0.0784676616150477,-0.0715187606844885,3734
+30,"distancia=até 0,3 s",True,True,0.3683727536188397,0.49063728794209144,517
+30,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.3202253956784372,0.3153447491708504,1006
+30,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.16020324728419574,0.21767533779745607,1566
+30,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3552902971291755,0.35244277172256305,524
+30,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.32743013804049825,0.35252918969750185,530
+30,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.47888456596551443,0.38466652344324886,61
+30,"distancia=0,6 a 1,0 s",True,False,-0.07131580499881343,-0.08176557803101168,6276
+30,trem=defensor em trem de DRS,True,False,-0.06706333374480836,-0.08394524618722453,4073
+31,"distancia=até 0,3 s",True,True,0.3929997124651929,0.5021695876266316,349
+31,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.2601951451528952,0.3914045926689712,895
+31,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1163376760729923,0.3043121354665784,1244
+31,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.30534512927624274,0.4219525541571443,470
+31,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.24939263694552083,0.4785340465729032,418
+31,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.39152247923613476,0.4987986117291092,68
+31,"distancia=0,6 a 1,0 s",True,True,-0.07258200865431746,-0.0825993168920221,5833
+31,trem=defensor em trem de DRS,True,True,-0.060373710015390915,-0.09458556274993099,3633
+32,"distancia=até 0,3 s",True,True,0.4362894153042888,0.3945658655975887,346
+32,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.31075837676354146,0.32416949895844754,1008
+32,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.14548321001532485,0.25279595724592274,1298
+32,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.38141234269136715,0.3270001421769491,593
+32,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.27801025060025364,0.4195367130892192,461
+32,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.44053183954671304,0.4359707411944724,92
+32,"distancia=0,6 a 1,0 s",True,True,-0.08837462056839643,-0.06549897116932961,6205
+32,trem=defensor em trem de DRS,True,True,-0.06735166152068556,-0.08460310099062301,3927
+33,"distancia=até 0,3 s",True,True,0.4763700011604326,0.367021419738224,587
+33,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3181636540877357,0.31716437534303116,917
+33,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.18569638937377395,0.19100662342729297,1634
+33,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.37225541261928674,0.33569929545113414,575
+33,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.32817801888807163,0.353760305268806,496
+33,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4362254045089866,0.44287320849461237,80
+33,"distancia=0,6 a 1,0 s",True,True,-0.07752481216634707,-0.0753844684079243,5992
+33,trem=defensor em trem de DRS,True,True,-0.07400696161509926,-0.07695437771228414,4060
+34,"distancia=até 0,3 s",True,True,0.4445682984296325,0.3896076004659289,480
+34,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.31528544609395026,0.32226292590971595,845
+34,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.16337852325313137,0.22266438512669587,1356
+34,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.33625066888637845,0.38405853504536813,428
+34,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3081549997263423,0.38588053624574536,436
+34,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4104626395160603,0.49472123682956526,55
+34,"distancia=0,6 a 1,0 s",True,True,-0.07610613002462532,-0.07736177275344429,5616
+34,trem=defensor em trem de DRS,True,True,-0.07133170627812868,-0.08049232940784386,3565
+35,"distancia=até 0,3 s",True,True,0.4489099692767107,0.3959546749849333,601
+35,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.3082105385807654,0.3289137993359147,830
+35,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.20287339421670994,0.17484512611906203,1626
+35,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3475543073947329,0.35945323569907783,463
+35,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.3578794127529509,0.3138590850659909,436
+35,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.46682447384799797,0.4167019891321365,81
+35,"distancia=0,6 a 1,0 s",True,False,-0.07787058592992174,-0.07517553495071691,6117
+35,trem=defensor em trem de DRS,True,False,-0.07871543225528842,-0.07228654549475738,4039
+36,"distancia=até 0,3 s",True,True,0.39690326690119215,0.44137936141119427,614
+36,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.33022929099427534,0.3039221120381066,1121
+36,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.18052957068741743,0.1954696952355474,1570
+36,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.36280215705950786,0.3425071089271387,595
+36,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.37017019225012365,0.31256191345764656,575
+36,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5733959987017366,0.34232036756392675,90
+36,"distancia=0,6 a 1,0 s",True,True,-0.06839472197768534,-0.0851726843475264,5717
+36,trem=defensor em trem de DRS,True,True,-0.06821919233006393,-0.08343206511314949,3928
+37,"distancia=até 0,3 s",True,True,0.4251671038713079,0.4222397798233425,511
+37,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.2380825486415914,0.39392204344620174,1046
+37,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.12458270107190215,0.2641210758739868,1490
+37,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.2831324718366759,0.41492577161594535,598
+37,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.21114223984644387,0.5118679598624815,455
+37,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.31712514582934986,0.5709413189358405,74
+37,"distancia=0,6 a 1,0 s",True,True,-0.07683089812669408,-0.077859166943297,6942
+37,trem=defensor em trem de DRS,True,True,-0.061415078064213806,-0.08815946651483689,4167
+38,"distancia=até 0,3 s",True,True,0.4216849375009719,0.4209945356451167,672
+38,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.31763192615817815,0.31803404305195454,929
+38,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.18278162362684683,0.19515311883147762,1458
+38,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3329750099058435,0.3816582822758444,477
+38,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.34928047946208707,0.3297647990696354,470
+38,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3201916283019286,0.6286468762423725,59
+38,"distancia=0,6 a 1,0 s",True,False,-0.06770637211610243,-0.08609201519143417,5920
+38,trem=defensor em trem de DRS,True,True,-0.07764811631565369,-0.07287211442312133,3873
+39,"distancia=até 0,3 s",False,False,0.5229924268772598,0.3777652853056708,754
+39,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.3544713161640204,0.2690688296749652,933
+39,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.30433804004190046,0.10438689912187823,1791
+39,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.44397541867236345,0.27129532440983,582
+39,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.4793782236724192,0.21544865356629184,543
+39,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5538249037529022,0.2556624023209336,61
+39,"distancia=0,6 a 1,0 s",True,False,-0.0852032325128032,-0.0711633616767101,5705
+39,trem=defensor em trem de DRS,True,False,-0.0965940113280408,-0.053999183337200794,4275
+40,"distancia=até 0,3 s",True,True,0.39647233619360134,0.4451633572837622,592
+40,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.34346391348082017,0.28959025574375274,967
+40,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.18021465939107595,0.19691154790646767,1546
+40,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3667361787004927,0.3396576749229562,566
+40,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.35226593616255203,0.3276812506712208,506
+40,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.43758611520703916,0.44303980516021013,70
+40,"distancia=0,6 a 1,0 s",True,True,-0.07041239531241725,-0.08286586811388424,5852
+40,trem=defensor em trem de DRS,True,True,-0.07065835243508353,-0.08075801863761373,4070
+41,"distancia=até 0,3 s",True,True,0.42417004595601193,0.4171716812480737,510
+41,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3341894099133823,0.30390281205656133,1095
+41,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19959045522818333,0.17647123922155203,1557
+41,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3904121034446655,0.32436646927564416,623
+41,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.34961920403638147,0.33165131925712343,533
+41,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5613818004143625,0.34685704376517346,86
+41,"distancia=0,6 a 1,0 s",True,True,-0.08818497169401329,-0.06557596918355418,6453
+41,trem=defensor em trem de DRS,True,True,-0.08172837806439384,-0.06946559661389085,4270
+42,"distancia=até 0,3 s",True,True,0.4149781034440042,0.4274844276460568,598
+42,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.34461073785721186,0.29002422496846286,999
+42,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.21982575965058251,0.1575569778080973,1613
+42,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3893365922832406,0.3184895323811387,570
+42,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.41318157331362737,0.2700287578031844,530
+42,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5882516013248319,0.3118143077341554,82
+42,"distancia=0,6 a 1,0 s",True,True,-0.08109377513351532,-0.07099034482069087,5949
+42,trem=defensor em trem de DRS,True,True,-0.07453621744218969,-0.07672914812293838,4260
+43,"distancia=até 0,3 s",True,True,0.4599511974364806,0.3569316160975189,468
+43,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.32688320592928766,0.3085883822704142,1023
+43,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1563961568271107,0.2239051363191387,1447
+43,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.4148624108444895,0.29695912540213665,581
+43,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.31260989551358087,0.3701053110893957,484
+43,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5054919535035525,0.3920637965785366,86
+43,"distancia=0,6 a 1,0 s",True,True,-0.08601302679613874,-0.06681922342296535,6503
+43,trem=defensor em trem de DRS,True,True,-0.08163488696652718,-0.06910647134634179,4261
+44,"distancia=até 0,3 s",True,True,0.4546853413267913,0.39463153946673735,651
+44,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.2689627306041805,0.3640957225790368,1048
+44,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19152331793609043,0.1858252301760418,1565
+44,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3102169718584218,0.3904142513784815,605
+44,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.27758743922888907,0.41869707966130987,468
+44,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.352512514153964,0.5298081907724209,75
+44,"distancia=0,6 a 1,0 s",True,True,-0.08214029969884981,-0.07208055055855145,6777
+44,trem=defensor em trem de DRS,True,True,-0.07656561447684848,-0.07416841741471356,4275
+45,"distancia=até 0,3 s",True,True,0.43847929619678555,0.4008882249397814,384
+45,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3221112877108937,0.3108738571236894,1015
+45,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.12698438741321544,0.26647273612941624,1415
+45,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.37227171323205804,0.3326758593483835,620
+45,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.27606324972737184,0.39731235429301515,536
+45,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.43614728334081726,0.4458198169795823,67
+45,"distancia=0,6 a 1,0 s",True,True,-0.07658517612547389,-0.0772909289847854,5886
+45,trem=defensor em trem de DRS,True,True,-0.06419750355990249,-0.0884983612791763,3812
+46,"distancia=até 0,3 s",True,True,0.4457677235741181,0.3844875596509688,395
+46,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.28840833832040824,0.3431555904875539,1064
+46,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.15498336091277562,0.2224219816563155,1572
+46,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.33486428452477524,0.36789450371385835,599
+46,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2674128764806415,0.39969987673508767,564
+46,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4866005515506695,0.40982908114489036,101
+46,"distancia=0,6 a 1,0 s",True,True,-0.08628988408486415,-0.0669296896226974,6165
+46,trem=defensor em trem de DRS,True,True,-0.06383429604248875,-0.08756711055913743,4101
+47,"distancia=até 0,3 s",True,True,0.4555292419085536,0.3931541947286332,637
+47,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.2968556327005514,0.3368567377805935,1054
+47,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.18713589972047398,0.18901919852229676,1618
+47,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3299813894900342,0.3736112671234708,606
+47,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3071517575596102,0.37602614275737567,492
+47,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.42793401895611205,0.447718677864545,99
+47,"distancia=0,6 a 1,0 s",True,True,-0.08117568252130117,-0.07243443779913408,6816
+47,trem=defensor em trem de DRS,True,True,-0.08354877040377726,-0.06850443056984369,4468
+48,"distancia=até 0,3 s",True,True,0.44618120905351577,0.38542040101713293,460
+48,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.321866726776125,0.31222621133888195,877
+48,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.13378166433582528,0.26299748784463894,1348
+48,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3437251349934364,0.3693344042804019,453
+48,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2803088264170678,0.41789952569320543,453
+48,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,True,False,0.34656095588895874,0.6242163876392065,52
+48,"distancia=0,6 a 1,0 s",True,True,-0.06913781518849194,-0.08635412992612979,5404
+48,trem=defensor em trem de DRS,True,True,-0.06727581314764199,-0.08634019259297324,3545
+49,"distancia=até 0,3 s",True,True,0.45976743854145075,0.37748236950634617,540
+49,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3075461496377921,0.3245132847190796,1089
+49,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.16588541953889874,0.21478610326038416,1479
+49,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3296347627703694,0.3755654262010022,569
+49,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2922524452224116,0.3854138859284286,530
+49,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.35733540148183845,0.4771119991359758,100
+49,"distancia=0,6 a 1,0 s",True,True,-0.0793092791387458,-0.07384790770148884,6011
+49,trem=defensor em trem de DRS,True,True,-0.06565808139974674,-0.08625534780279971,3920
+50,"distancia=até 0,3 s",True,True,0.4590087590627897,0.3925104308520103,649
+50,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3354743669008884,0.29416836613706426,875
+50,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.21486908125122553,0.15974620254867378,1516
+50,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.34177454128071494,0.36912886509756326,481
+50,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3842647103221327,0.29175696084174857,491
+50,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.34291680503980115,0.579845785491903,62
+50,"distancia=0,6 a 1,0 s",True,False,-0.07110670652637252,-0.08452928995905548,5077
+50,trem=defensor em trem de DRS,True,False,-0.07869058225979746,-0.07114217517347704,3510
+51,"distancia=até 0,3 s",False,False,0.39838226708056584,0.43361474677671197,724
+51,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3239941306018454,0.3121477786246609,1036
+51,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.24730119766856973,0.14123992329976526,1784
+51,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3538130761845417,0.35474994952871863,530
+51,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.41532625924396943,0.2694159554050328,533
+51,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5415590008613265,0.3660283044152991,89
+51,"distancia=0,6 a 1,0 s",True,True,-0.07371101776064748,-0.07848489879309062,6137
+51,trem=defensor em trem de DRS,True,True,-0.07711804194022998,-0.07433314746022554,4444
+52,"distancia=até 0,3 s",True,True,0.41858733568118384,0.4233245880324025,336
+52,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.2908013346495392,0.34798708189592725,970
+52,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.15903605198248677,0.22905990338674742,1319
+52,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.32443717446515435,0.3870150642228786,525
+52,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.28318856799915654,0.40551623518306606,488
+52,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.42350477353275334,0.4541246987743737,86
+52,"distancia=0,6 a 1,0 s",True,True,-0.08665250960503112,-0.06481273760492315,5940
+52,trem=defensor em trem de DRS,True,True,-0.07216622213824228,-0.07934732737912954,3756
+53,"distancia=até 0,3 s",True,True,0.3623921118268765,0.45403483438721515,711
+53,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.2895874981412452,0.3501464864482343,975
+53,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19245320679099062,0.1826336808690339,1717
+53,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3099933112271763,0.40130387418020774,543
+53,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3308602142242759,0.35164940597095584,505
+53,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,True,True,0.36413124226165905,0.6006593069610549,52
+53,"distancia=0,6 a 1,0 s",True,True,-0.06071998067026176,-0.09201159392478835,5983
+53,trem=defensor em trem de DRS,True,True,-0.06548852960145878,-0.08505323276028465,4091
+54,"distancia=até 0,3 s",True,False,0.445454711546074,0.40516889603107975,729
+54,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.3122742846023587,0.32565952872364035,876
+54,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.23335952308808916,0.14611021779370617,1655
+54,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3428906089819715,0.36985250073078746,460
+54,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.40121232901248155,0.27772764875988576,514
+54,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4286888149040164,0.4598219896705281,57
+54,"distancia=0,6 a 1,0 s",True,False,-0.0699849933769274,-0.08432764060350406,5445
+54,trem=defensor em trem de DRS,True,False,-0.0767476251865524,-0.07361820981295215,3743
+55,"distancia=até 0,3 s",True,True,0.4185575265649023,0.4113578577082973,390
+55,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.35184260129438816,0.2865780387324745,1051
+55,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1965528903100589,0.17715272950316907,1500
+55,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.40007247777528243,0.3084602866209195,569
+55,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3701478968695384,0.31305927155924385,535
+55,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.6794610156814196,0.26951636586680544,88
+55,"distancia=0,6 a 1,0 s",True,True,-0.09590860797449438,-0.0574674255355906,6450
+55,trem=defensor em trem de DRS,True,True,-0.08533482286676564,-0.06526734484627329,4304
+56,"distancia=até 0,3 s",True,True,0.40496074071488647,0.43612962901357155,607
+56,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.34213311197606444,0.2901954821136802,957
+56,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.15885821886477586,0.22511679001423077,1427
+56,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.35403141814213035,0.35353991111754746,485
+56,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3328112589909367,0.34930474811949797,481
+56,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.38706227113668573,0.5294849282996781,57
+56,"distancia=0,6 a 1,0 s",True,False,-0.06573268033206532,-0.08863971435326645,5830
+56,trem=defensor em trem de DRS,True,False,-0.07239552161016567,-0.0789066800919303,3861
+57,"distancia=até 0,3 s",True,True,0.3896294235802983,0.46480637729796503,482
+57,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.30231826300654396,0.3332927710055756,996
+57,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.15270835754768272,0.22243060312221946,1624
+57,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.30860484810215527,0.39823109573305693,560
+57,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2843117623130432,0.40193318632539143,492
+57,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3278951946674822,0.5835665935685548,66
+57,"distancia=0,6 a 1,0 s",True,False,-0.07244232334033833,-0.07953210670431614,6752
+57,trem=defensor em trem de DRS,True,False,-0.08005683078271458,-0.07125203294818497,4293
+58,"distancia=até 0,3 s",True,True,0.42392033213964697,0.41229440996755135,478
+58,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3456691486253056,0.29012033154460987,1012
+58,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.2227207683446634,0.15612799133414967,1611
+58,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.36484760914600145,0.3384320636278283,516
+58,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.39390590212521703,0.29401488135060766,545
+58,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.6143965226158374,0.3212079542296923,89
+58,"distancia=0,6 a 1,0 s",True,True,-0.08827316466205873,-0.06406296967823688,5970
+58,trem=defensor em trem de DRS,True,True,-0.08634917640359764,-0.06350701680674779,4244
+59,"distancia=até 0,3 s",True,False,0.4385747245503343,0.4029563024762817,611
+59,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3049067021812443,0.3338870505772891,914
+59,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19278662801046081,0.1840691837494446,1354
+59,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.33170659268220243,0.3853301878684749,473
+59,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.318990737109204,0.37824799774052326,403
+59,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3623965213102754,0.5819475240206948,55
+59,"distancia=0,6 a 1,0 s",True,True,-0.07737908212203523,-0.07576910398604161,5722
+59,trem=defensor em trem de DRS,True,True,-0.07651552080422339,-0.07393482892048171,3740
+60,"distancia=até 0,3 s",True,True,0.4887033896703451,0.38829522123773497,778
+60,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.35754640222315404,0.290199335849097,1199
+60,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.25822970279910507,0.13655887523133076,1824
+60,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3558200362486229,0.3520397069402326,648
+60,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.4356640908295196,0.280038637629452,635
+60,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.7040033978785041,0.3731472469871666,121
+60,"distancia=0,6 a 1,0 s",True,True,-0.08029376466242873,-0.07317176558632449,6521
+60,trem=defensor em trem de DRS,True,True,-0.08457640941098063,-0.06759995407389455,4449
+61,"distancia=até 0,3 s",True,True,0.4878688110408426,0.32736837731676055,496
+61,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.3214076980610616,0.3141508895637335,1047
+61,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.17432396944113815,0.20191126889779387,1579
+61,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.4148429549961186,0.29902697493412445,593
+61,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.3518289250009566,0.3320491803846604,572
+61,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.622945063764154,0.35100299884342934,101
+61,"distancia=0,6 a 1,0 s",True,True,-0.09153250808650393,-0.06260174581966385,6489
+61,trem=defensor em trem de DRS,True,True,-0.07835502148733775,-0.07238432297781702,4435
+62,"distancia=até 0,3 s",True,True,0.43995474673069224,0.4099990971469845,624
+62,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.4298175092006188,0.22615206518351416,1095
+62,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.273979519931693,0.11145565419123946,1642
+62,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.4825214298371441,0.259007033654921,630
+62,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.5166470762103121,0.22629931430225048,614
+62,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5793403087764406,0.2748800495279369,70
+62,"distancia=0,6 a 1,0 s",True,True,-0.0861264504815064,-0.06715899153248876,5518
+62,trem=defensor em trem de DRS,True,True,-0.09393950168456372,-0.054795588843353685,4140
+63,"distancia=até 0,3 s",True,True,0.4153818038552165,0.4275795024121152,590
+63,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3273179581760037,0.30760792430390405,978
+63,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.2129774850807164,0.16486763800533552,1630
+63,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.357756000933999,0.34940372047956236,582
+63,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3677707883646829,0.31486763800533557,540
+63,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4074051969668334,0.4919862820731321,59
+63,"distancia=0,6 a 1,0 s",True,True,-0.08025300982665454,-0.07249914343424473,6099
+63,trem=defensor em trem de DRS,True,True,-0.07745552484101173,-0.07359390045620293,4225
+64,"distancia=até 0,3 s",True,True,0.4924039245830215,0.36855908928487113,649
+64,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3781547489027651,0.24291840327089795,919
+64,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.2574487115509758,0.11859883686321307,1570
+64,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.43457407053871144,0.26278823717567557,530
+64,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.4522172510025185,0.22417584674334748,508
+64,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5467805824079551,0.32760210764992337,74
+64,"distancia=0,6 a 1,0 s",True,True,-0.08586299675890038,-0.06633101321586585,5614
+64,trem=defensor em trem de DRS,True,True,-0.09381470345836723,-0.05484769433715371,3890
+65,"distancia=até 0,3 s",True,True,0.43405028444186866,0.411413561007154,652
+65,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3232067819798691,0.3134421769288104,1174
+65,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.18010913888222596,0.1968584517939571,1599
+65,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3427704050088386,0.36216504511381115,618
+65,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.33151539860470747,0.3482222675603663,553
+65,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.39124220871094795,0.45974091371001313,106
+65,"distancia=0,6 a 1,0 s",True,True,-0.07586086548606992,-0.07710202604781649,6783
+65,trem=defensor em trem de DRS,True,True,-0.0779309027901027,-0.07298844055343327,4285
+66,"distancia=até 0,3 s",True,True,0.4350104870264464,0.41645546422995805,733
+66,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3375876869335743,0.30341977466515935,1153
+66,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.23582303175440542,0.1492570953823355,1741
+66,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3462955489964399,0.3596002983345867,612
+66,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3802064137378198,0.3063997773195377,562
+66,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.33051164729293336,0.5149367919063743,91
+66,"distancia=0,6 a 1,0 s",True,True,-0.07943662331107489,-0.07409648984767112,6704
+66,trem=defensor em trem de DRS,True,True,-0.08278306159727222,-0.06918307595582478,4564
+67,"distancia=até 0,3 s",True,True,0.4482245338581876,0.39184774844590364,562
+67,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.301721583070498,0.3435120742280895,826
+67,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.17108351926411738,0.21261867384316366,1365
+67,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3223588952489208,0.39666204870073474,479
+67,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.28369051167067505,0.4413732525977424,384
+67,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,True,False,0.3256043767552719,0.760478943654653,41
+67,"distancia=0,6 a 1,0 s",True,True,-0.07605080168426781,-0.077338333363542,5803
+67,trem=defensor em trem de DRS,True,True,-0.07343793779888888,-0.0779077931538916,3825
+68,"distancia=até 0,3 s",True,True,0.4252521852257248,0.41776626709351317,599
+68,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.2954820158545881,0.3317172644204647,1211
+68,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.17087244479448221,0.20693700698646192,1552
+68,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3096157030638189,0.38424649912385556,651
+68,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.282420017393557,0.3818425052682488,600
+68,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.2877230476965873,0.5374222154131764,92
+68,"distancia=0,6 a 1,0 s",True,True,-0.07496494792824182,-0.07814296061621814,6307
+68,trem=defensor em trem de DRS,True,True,-0.06892044399904809,-0.08227396059520495,3984
+69,"distancia=até 0,3 s",True,True,0.40051925659034004,0.4386567825026114,614
+69,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.31722567790708683,0.31662150922137877,1052
+69,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.17795954113034712,0.20079301279511466,1489
+69,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3670555607965981,0.33956925222615597,624
+69,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.34131289900242157,0.33946586099373255,496
+69,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.43363316044033007,0.43986455617314535,89
+69,"distancia=0,6 a 1,0 s",True,True,-0.0709943386648497,-0.08236193149748056,5883
+69,trem=defensor em trem de DRS,True,True,-0.06800652246823505,-0.08359429593739216,3996
+70,"distancia=até 0,3 s",True,True,0.455401874298177,0.3935710915180518,648
+70,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3520532458560698,0.28376229898568195,1025
+70,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19512249493394082,0.18116088948290518,1502
+70,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.39717891715517784,0.307473547087174,546
+70,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3685552688528858,0.30704671403322226,472
+70,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4673307576063017,0.41719128033431907,85
+70,"distancia=0,6 a 1,0 s",True,True,-0.07763544129950141,-0.07523353369588114,6081
+70,trem=defensor em trem de DRS,True,True,-0.07705258881946411,-0.07409149783719056,4233
+71,"distancia=até 0,3 s",True,True,0.48703513659915754,0.37580665418516124,681
+71,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3669334022117089,0.26922614287797697,1039
+71,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.2252810231890876,0.15789875119946875,1738
+71,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.40171905894858506,0.3009488831477123,549
+71,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.40916550773495364,0.28290129260403185,566
+71,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.523089558367865,0.35706034909524387,77
+71,"distancia=0,6 a 1,0 s",True,False,-0.08249658524305492,-0.07156231807067066,6590
+71,trem=defensor em trem de DRS,True,False,-0.09230201334492211,-0.061460432096250545,4613
+72,"distancia=até 0,3 s",True,True,0.4590993108016974,0.3813851544882737,570
+72,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3293060981165083,0.30617263866262723,1164
+72,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1828115034994784,0.19409154440026763,1529
+72,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3669094231994019,0.340410680388332,633
+72,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.33269980714959213,0.3444936299021606,568
+72,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5191404851156938,0.3854598573745216,93
+72,"distancia=0,6 a 1,0 s",True,True,-0.07715465404439886,-0.0759093036530061,5892
+72,trem=defensor em trem de DRS,True,True,-0.06958001270726508,-0.08191070471339672,3764
+73,"distancia=até 0,3 s",True,True,0.42216339680143,0.4133572220462465,352
+73,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3194841507037164,0.31672174967547995,1020
+73,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.16110481554026015,0.22209089591149925,1406
+73,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3589614054226431,0.3494465637390364,580
+73,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.3115379627559216,0.3715924629010092,502
+73,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.49664447128250444,0.4016743824139686,89
+73,"distancia=0,6 a 1,0 s",True,True,-0.08799860614407808,-0.06408977125895583,6097
+73,trem=defensor em trem de DRS,True,True,-0.07466114016395202,-0.07590795385237833,4039
+74,"distancia=até 0,3 s",True,True,0.4703073771602295,0.3487368887081556,461
+74,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.33948687834063007,0.2990826337368447,1161
+74,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.16597331375596744,0.21675473688265617,1421
+74,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.37510056315366047,0.3339251729327818,617
+74,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2975549203906265,0.37592779755123734,557
+74,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4731242785686802,0.4173685053192879,97
+74,"distancia=0,6 a 1,0 s",True,True,-0.08353450787734021,-0.06966107109311051,6057
+74,trem=defensor em trem de DRS,True,True,-0.07637067092626923,-0.07350696334853622,3646
+75,"distancia=até 0,3 s",True,True,0.40548343351155874,0.4380296339907762,500
+75,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.3208864163131296,0.31115065309905643,942
+75,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1880321759639686,0.18826875109684604,1631
+75,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3373460286300436,0.36935911375956226,519
+75,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.3458680266792247,0.3341365042197838,524
+75,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4207753404641927,0.46136296732410953,60
+75,"distancia=0,6 a 1,0 s",True,False,-0.08258815697385599,-0.07074272126839327,6598
+75,trem=defensor em trem de DRS,True,False,-0.084364027433133,-0.06718814777842005,4454
+76,"distancia=até 0,3 s",True,True,0.46183433687647435,0.3889070198799889,673
+76,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.32140719050296185,0.3132376314312176,953
+76,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.23360553381375618,0.14130110120248224,1578
+76,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3383932039236103,0.3680697120977716,553
+76,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3519855961190521,0.3272590125829739,505
+76,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3896099554799204,0.5209492290622489,59
+76,"distancia=0,6 a 1,0 s",True,True,-0.07628746125990442,-0.07636185915108704,5494
+76,trem=defensor em trem de DRS,True,True,-0.0760012158607905,-0.07392422233244592,3568
+77,"distancia=até 0,3 s",True,True,0.4166533969808529,0.4257397582358031,599
+77,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.30151853184598776,0.3290666691117815,1142
+77,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1730079675472311,0.20497246209288092,1540
+77,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3295508768594648,0.3741135233924583,593
+77,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.3109812913087472,0.36321422033463924,572
+77,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3801934800861534,0.487971992682773,83
+77,"distancia=0,6 a 1,0 s",True,True,-0.07383746264183953,-0.0793298903589377,6182
+77,trem=defensor em trem de DRS,True,True,-0.06906171138561247,-0.0821147736402926,3988
+78,"distancia=até 0,3 s",True,True,0.4391470833669816,0.39279570668784447,475
+78,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.278336303497952,0.3552165557156364,1034
+78,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1330613523471412,0.2414281992646056,1613
+78,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3221813315490131,0.3865782939972394,535
+78,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2633632887926052,0.4244429790269071,493
+78,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.27371194379391095,0.5373571101966164,96
+78,"distancia=0,6 a 1,0 s",True,True,-0.08645724776774835,-0.06923071998778851,7357
+78,trem=defensor em trem de DRS,True,True,-0.07208521484855152,-0.07801654514284362,4679
+79,"distancia=até 0,3 s",True,True,0.4025148088896575,0.43412306641965936,531
+79,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.3499806702341953,0.28761538259574737,1086
+79,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.2043154881415983,0.17563942586027542,1766
+79,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.39942854855907906,0.3199085893500856,639
+79,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.39738088031822894,0.29845667969395057,592
+79,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5536985210108697,0.35309998579074503,86
+79,"distancia=0,6 a 1,0 s",True,False,-0.08518944321579831,-0.06922090423003105,6940
+79,trem=defensor em trem de DRS,True,False,-0.08976514157085039,-0.06345819319420476,4716
+80,"distancia=até 0,3 s",True,True,0.4675961324850255,0.37693550012315546,592
+80,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.35048288304016995,0.2824708431584985,988
+80,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19423437208992708,0.1834276449773693,1624
+80,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.39184934266749905,0.3129312586554104,548
+80,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3687697026035852,0.31265910613834846,523
+80,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4224622289954195,0.4583348342398809,69
+80,"distancia=0,6 a 1,0 s",True,False,-0.0769053025189585,-0.07640920058681223,6049
+80,trem=defensor em trem de DRS,True,False,-0.08747848067501753,-0.06324133939578933,4180
+81,"distancia=até 0,3 s",True,True,0.4580643055999345,0.38226007305012955,562
+81,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3219250694943949,0.31301160948000484,1117
+81,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.17998150936432045,0.1965413859807367,1594
+81,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3620926010665413,0.3449948620604242,597
+81,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3414083478645165,0.33846610817730416,557
+81,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.43490295394493494,0.43985512830392237,95
+81,"distancia=0,6 a 1,0 s",True,True,-0.07777408749587636,-0.0751224982983505,6081
+81,trem=defensor em trem de DRS,True,True,-0.06937752059942778,-0.08173374955109258,3975
+82,"distancia=até 0,3 s",True,True,0.4583461190647957,0.3611773649774311,393
+82,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3068872109029729,0.3257563610449768,1056
+82,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.12516547179080534,0.2935898405344048,1244
+82,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3192863377353269,0.3858404171537679,566
+82,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.22088046885648088,0.4935758603862152,460
+82,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.2658406810580724,0.5649151907210479,87
+82,"distancia=0,6 a 1,0 s",True,True,-0.08657708856583013,-0.06995751377177618,6532
+82,trem=defensor em trem de DRS,True,True,-0.06846457261313582,-0.08285266382101718,3946
+83,"distancia=até 0,3 s",True,True,0.4697888682066035,0.37187158572176904,575
+83,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.33245316854047396,0.3037906689964971,1051
+83,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1634753464512722,0.21255389308293995,1616
+83,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3743321680244722,0.3341012401253365,585
+83,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.30380805478897727,0.3766467124987247,523
+83,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.42247343196499276,0.4492628900695952,92
+83,"distancia=0,6 a 1,0 s",True,True,-0.07589749535330302,-0.07722924020935139,6417
+83,trem=defensor em trem de DRS,True,True,-0.0736245291317966,-0.07692974278064638,4032
+84,"distancia=até 0,3 s",True,True,0.33867287271850866,0.4919321903497193,636
+84,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.32869524997268795,0.3076446171551845,1044
+84,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.1989222904489842,0.17812208180208505,1598
+84,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.31326195035916893,0.391552663132196,580
+84,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.34208112075292496,0.3391465900493344,536
+84,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,True,True,0.39390651757832174,0.5247091618059361,52
+84,"distancia=0,6 a 1,0 s",True,False,-0.06761742564426444,-0.08607239514487483,5991
+84,trem=defensor em trem de DRS,True,False,-0.07762092872239426,-0.07316230233469337,4109
+85,"distancia=até 0,3 s",True,True,0.4490220830711948,0.3795401456837173,454
+85,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.2901871017832216,0.3549892233897499,876
+85,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.12565630779983467,0.2751417477253034,1343
+85,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3423027434652507,0.3660013427291944,532
+85,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2586512772572547,0.4549262411822236,435
+85,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.30500413388679115,0.6474549768144074,60
+85,"distancia=0,6 a 1,0 s",True,True,-0.07565392312969571,-0.07764606551701142,6268
+85,trem=defensor em trem de DRS,True,True,-0.07001570108623327,-0.08147222625072667,3915
+86,"distancia=até 0,3 s",False,False,0.30673525892207704,0.489968093074114,735
+86,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3153085561945311,0.3201993855911208,1000
+86,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19508800962840378,0.1829289598143659,1738
+86,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3331430028145428,0.37808080851602205,506
+86,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3879369138959932,0.29461447993074347,530
+86,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3916208116975381,0.5285767440816869,53
+86,"distancia=0,6 a 1,0 s",True,False,-0.05756907373395813,-0.09583056232554585,6144
+86,trem=defensor em trem de DRS,True,False,-0.07212888288077207,-0.07832225501617582,4413
+87,"distancia=até 0,3 s",True,True,0.4534397431513464,0.3780389983694201,490
+87,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3020075696216881,0.32764474976088576,1232
+87,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.15295570551606058,0.22949180621320533,1482
+87,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.32514543910930294,0.3725407270968931,667
+87,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.23244594844716376,0.42753323084501904,575
+87,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.292733901791432,0.532460767076903,93
+87,"distancia=0,6 a 1,0 s",True,True,-0.08971390473345833,-0.0664916138754779,7000
+87,trem=defensor em trem de DRS,True,True,-0.07348053317324135,-0.07722915540371711,4300
+88,"distancia=até 0,3 s",True,True,0.4474939284051109,0.36308518622760105,304
+88,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.310994106784182,0.32233877013925705,1039
+88,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.13705910481285766,0.2527060981132265,1421
+88,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3710246169991941,0.33499160891081514,581
+88,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.29238117336394637,0.38118631198532266,547
+88,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.48767078346085874,0.4075266470224453,98
+88,"distancia=0,6 a 1,0 s",True,True,-0.086620115048188,-0.0660111016923341,5911
+88,trem=defensor em trem de DRS,True,True,-0.061686890643265706,-0.09144818889845849,3862
+89,"distancia=até 0,3 s",True,True,0.4800560539892993,0.3888829854432838,702
+89,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.33141285517227603,0.2956321968799953,896
+89,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.23966310678792843,0.14239761895791733,1650
+89,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.40207914317656757,0.3068086304816049,568
+89,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.38751947201312276,0.27553070031856985,457
+89,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4444316080009425,0.42571652227682066,63
+89,"distancia=0,6 a 1,0 s",True,False,-0.07959053572600909,-0.07462397908114721,5897
+89,trem=defensor em trem de DRS,True,False,-0.08564432247658557,-0.06471548207381324,4203
+90,"distancia=até 0,3 s",True,True,0.42484757996747513,0.41891483412680414,462
+90,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.352995838357392,0.28019932078442517,1005
+90,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.17588640834341582,0.2086963704199684,1290
+90,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3941318968153754,0.30363680532988874,503
+90,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.36840183041899477,0.3084106065146336,491
+90,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5305147630237307,0.3747922900042601,91
+90,"distancia=0,6 a 1,0 s",True,True,-0.08300539381737901,-0.06929303643400754,5746
+90,trem=defensor em trem de DRS,True,True,-0.07426752788156323,-0.07738172097067328,3903
+91,"distancia=até 0,3 s",True,True,0.49035293549924297,0.3452157093948139,555
+91,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3235179406679078,0.3111244753035798,945
+91,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.21217405223561397,0.158608720240054,1413
+91,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3800910662209802,0.32192926505573793,513
+91,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3777290002946626,0.29719881283019944,482
+91,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.508767356898739,0.38538529074086586,85
+91,"distancia=0,6 a 1,0 s",True,True,-0.08539776783119768,-0.06520530910221412,5473
+91,trem=defensor em trem de DRS,True,True,-0.07869468354837605,-0.07137565772658858,3679
+92,"distancia=até 0,3 s",True,True,0.41699490497908714,0.42286652803933644,476
+92,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3345338705842615,0.3063239760591948,1107
+92,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.20372847015646556,0.17243610538858062,1557
+92,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.35734039766517317,0.3530719435388696,612
+92,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.34245278568647347,0.3399575280080972,538
+92,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.4655160880326444,0.43187012947991266,98
+92,"distancia=0,6 a 1,0 s",True,True,-0.08637714598349472,-0.0660298615414266,6137
+92,trem=defensor em trem de DRS,True,True,-0.0833354076938514,-0.0669637602006273,4139
+93,"distancia=até 0,3 s",True,True,0.3935182853061039,0.44176021437827573,663
+93,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.32044633434015835,0.31436545580251,1167
+93,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.19795211255661954,0.17961478548711624,1736
+93,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.33395594532252826,0.36737554665532623,634
+93,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.36593256873512225,0.320027872427193,597
+93,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5166903887931681,0.39231639839034205,96
+93,"distancia=0,6 a 1,0 s",True,True,-0.06783076426480364,-0.08491924129634203,6128
+93,trem=defensor em trem de DRS,True,True,-0.07161244329924028,-0.07907192739072164,4193
+94,"distancia=até 0,3 s",True,True,0.480713205129052,0.36146803245934356,582
+94,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.36143747338957766,0.2610616759878967,937
+94,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.254068084749401,0.12467345199861424,1606
+94,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.4362586285873902,0.26910713985228685,557
+94,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.4192021049205399,0.25919089873289375,514
+94,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5884930912770596,0.24255230183411913,67
+94,"distancia=0,6 a 1,0 s",True,False,-0.09444491762938541,-0.058845603514303006,6088
+94,trem=defensor em trem de DRS,True,False,-0.09969092454595697,-0.050544538892221144,4284
+95,"distancia=até 0,3 s",True,True,0.413529155226615,0.4308775165104388,512
+95,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3010034443225731,0.33872290189155374,879
+95,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.15262221455750108,0.2337556279823003,1386
+95,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3212932834656956,0.39349588772256006,495
+95,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.2614860981365444,0.47545836968504196,378
+95,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3116741491877806,0.6685800628067351,54
+95,"distancia=0,6 a 1,0 s",True,False,-0.07459971519668288,-0.07776365682184064,6326
+95,trem=defensor em trem de DRS,True,False,-0.0759486470944276,-0.07495241439408376,3980
+96,"distancia=até 0,3 s",True,True,0.4554851266969199,0.3842822838706049,569
+96,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.32462846542092505,0.3091431292876194,1017
+96,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.17572338346064406,0.20257025280323848,1469
+96,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.31704279799393875,0.39390334415480144,527
+96,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3090412341703902,0.3692751703046162,525
+96,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.29937713418154965,0.628029749059195,65
+96,"distancia=0,6 a 1,0 s",True,True,-0.07148351677018784,-0.08278302307433194,5512
+96,trem=defensor em trem de DRS,True,True,-0.0723350710041627,-0.0789508773960175,3502
+97,"distancia=até 0,3 s",True,True,0.38689997424048866,0.44510251781758486,682
+97,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.31016477229094386,0.32914280740300383,911
+97,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.23932953800360107,0.14371175406122966,1701
+97,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.33584319024948417,0.3821321804787638,461
+97,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.3921260592211749,0.2801294563704049,473
+97,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.46396898648578894,0.4122494428887736,69
+97,"distancia=0,6 a 1,0 s",True,True,-0.07776564184984765,-0.07472760947364793,6212
+97,trem=defensor em trem de DRS,True,True,-0.07571588726232106,-0.07578203805949402,4530
+98,"distancia=até 0,3 s",True,True,0.4434116205388039,0.3984764832841006,607
+98,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.3454825425246195,0.2871421151385413,1038
+98,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.20913699278639963,0.16670017764545386,1655
+98,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,False,0.3813249440255576,0.32651378817338667,590
+98,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.36926986358801417,0.3134281811107271,551
+98,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3822630303294976,0.49600531359711547,70
+98,"distancia=0,6 a 1,0 s",True,False,-0.08541212820927606,-0.06811827697251405,6829
+98,trem=defensor em trem de DRS,True,False,-0.0947002648747276,-0.05835332797761954,4623
+99,"distancia=até 0,3 s",True,True,0.3887705831958437,0.46714899863688786,490
+99,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3352042844383939,0.30070864946133025,1031
+99,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.17234870109925052,0.20422765032228116,1602
+99,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.39243215514749674,0.31732081994272987,582
+99,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.3516221290819146,0.3309937958150184,567
+99,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.5556504088791367,0.2569795071114642,59
+99,"distancia=0,6 a 1,0 s",True,True,-0.07552194731670842,-0.07749860774609083,6016
+99,trem=defensor em trem de DRS,True,True,-0.0722606614151273,-0.0787373872592923,4084

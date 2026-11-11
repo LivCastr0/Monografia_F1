@@ -1,0 +1,17 @@
+descobre_em,regra,firme,selecionada,efeito_dentro,efeito_fora,linhas_fora
+2018-21,"distancia=até 0,3 s",True,True,0.45182360662323673,0.4112032153620954,844
+2018-21,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,False,0.23532182390363812,0.3739487899560113,1170
+2018-21,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.23938775043536972,0.16780805785631397,2242
+2018-21,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.30942554959292967,0.3770666423696383,710
+2018-21,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,True,0.35228410018699463,0.3339915249987463,696
+2018-21,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.3493771234428086,0.503565168409599,86
+2018-21,"distancia=0,6 a 1,0 s",True,True,-0.08140444886982032,-0.07520634372456092,8039
+2018-21,trem=defensor em trem de DRS,True,True,-0.07850749194180678,-0.07208260267451308,6219
+2022+,"distancia=até 0,3 s",True,True,0.4112032153620954,0.45182360662323673,327
+2022+,dif_idade=atacante 10+ voltas mais novo E trem=defensor livre,True,True,0.3739487899560113,0.23532182390363812,868
+2022+,"distancia=0,3 a 0,6 s E trem=defensor livre",True,True,0.16780805785631397,0.23938775043536972,941
+2022+,dif_idade=atacante 10+ voltas mais novo E fase=segundo terço,True,True,0.3770666423696383,0.30942554959292967,413
+2022+,"dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s",True,False,0.3339915249987463,0.35228410018699463,344
+2022+,dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço,False,False,0.503565168409599,0.3493771234428086,66
+2022+,"distancia=0,6 a 1,0 s",True,True,-0.07520634372456092,-0.08140444886982032,4363
+2022+,trem=defensor em trem de DRS,True,True,-0.07208260267451308,-0.07850749194180678,2080

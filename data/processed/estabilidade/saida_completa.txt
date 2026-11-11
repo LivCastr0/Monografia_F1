@@ -1,0 +1,107 @@
+
+==============================================================================
+DUELOS: 19475 linhas, 8 regras de referência, 278 descrições
+==============================================================================
+
+Descobre em 2018-21, avalia em 2022+: 9 regras selecionadas, 6 em comum com a referência (Jaccard 0.55); 89% das selecionadas mantêm sentido e metade do efeito fora
+                                                         regra  firme  selecionada  efeito_dentro  efeito_fora  linhas_fora
+                                           distancia=até 0,3 s   True         True          +45.2        +41.1          844
+ dif_idade=atacante 10+ voltas mais novo E trem=defensor livre   True        False          +23.5        +37.4         1170
+                   distancia=0,3 a 0,6 s E trem=defensor livre   True         True          +23.9        +16.8         2242
+  dif_idade=atacante 10+ voltas mais novo E fase=segundo terço   True         True          +30.9        +37.7          710
+dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0...   True         True          +35.2        +33.4          696
+ dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço  False        False          +34.9        +50.4           86
+                                         distancia=0,6 a 1,0 s   True         True           -8.1         -7.5         8039
+                                  trem=defensor em trem de DRS   True         True           -7.9         -7.2         6219
+
+Descobre em 2022+, avalia em 2018-21: 10 regras selecionadas, 6 em comum com a referência (Jaccard 0.50); 100% das selecionadas mantêm sentido e metade do efeito fora
+                                                         regra  firme  selecionada  efeito_dentro  efeito_fora  linhas_fora
+                                           distancia=até 0,3 s   True         True          +41.1        +45.2          327
+ dif_idade=atacante 10+ voltas mais novo E trem=defensor livre   True         True          +37.4        +23.5          868
+                   distancia=0,3 a 0,6 s E trem=defensor livre   True         True          +16.8        +23.9          941
+  dif_idade=atacante 10+ voltas mais novo E fase=segundo terço   True         True          +37.7        +30.9          413
+dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0...   True        False          +33.4        +35.2          344
+ dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço  False        False          +50.4        +34.9           66
+                                         distancia=0,6 a 1,0 s   True         True           -7.5         -8.1         4363
+                                  trem=defensor em trem de DRS   True         True           -7.2         -7.9         2080
+  divisões de circuitos: 10/100
+  divisões de circuitos: 20/100
+  divisões de circuitos: 30/100
+  divisões de circuitos: 40/100
+  divisões de circuitos: 50/100
+  divisões de circuitos: 60/100
+  divisões de circuitos: 70/100
+  divisões de circuitos: 80/100
+  divisões de circuitos: 90/100
+  divisões de circuitos: 100/100
+
+Entre circuitos (100 divisões 13 + 13), por regra de referência:
+                                                         regra  redescoberta_pct  selecionada_pct  efeito_fora_mediana_pp  mesmo_sentido_fora_pct  encolhimento_mediano  linhas_fora_mediana
+                                           distancia=até 0,3 s             97.00            91.00                   41.40                  100.00                  0.98               577.50
+ dif_idade=atacante 10+ voltas mais novo E trem=defensor livre            100.00            78.00                   31.31                  100.00                  0.96              1024.50
+                   distancia=0,3 a 0,6 s E trem=defensor livre            100.00           100.00                   18.82                  100.00                  1.00              1568.50
+  dif_idade=atacante 10+ voltas mais novo E fase=segundo terço            100.00            75.00                   35.28                  100.00                  0.97               569.00
+dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0...            100.00            54.00                   33.97                  100.00                  0.93               514.00
+ dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço              7.00             5.00                   44.14                  100.00                  1.55                77.00
+                                         distancia=0,6 a 1,0 s            100.00            74.00                   -7.53                  100.00                  0.96              6140.50
+                                  trem=defensor em trem de DRS            100.00            75.00                   -7.43                  100.00                  1.05              4139.50
+
+Por divisão: selecionadas mediana 9; em comum com a referência mediana 6; Jaccard mediano 0.58; selecionadas que se mantêm fora, mediana 100%
+
+==============================================================================
+PARADA: 121075 linhas, 11 regras de referência, 353 descrições
+==============================================================================
+
+Descobre em 2018-21, avalia em 2022+: 11 regras selecionadas, 9 em comum com a referência (Jaccard 0.69); 100% das selecionadas mantêm sentido e metade do efeito fora
+                                                        regra  firme  selecionada  efeito_dentro  efeito_fora  linhas_fora
+                              neutralizacao=safety car ou VSC   True         True           +9.5        +12.5         2547
+                fase=segundo terço E paradas_feitas=0 paradas   True         True           +8.5         +7.0         4376
+           dist_frente=mais de 3 s E paradas_feitas=0 paradas   True         True           +5.2         +6.7         6008
+                 fase=segundo terço E idade_pneu=20–29 voltas   True         True           +5.7         +5.3         5367
+             idade_pneu=30+ voltas E paradas_feitas=0 paradas   True         True          +10.6        +11.0         1361
+               posicao=top 5 E rival_tras=rival de trás parou   True         True          +14.0        +20.4          472
+paradas_feitas=0 paradas E rival_frente=rival da frente parou   True        False           +8.4        +14.7          550
+           idade_pneu=20–29 voltas E paradas_feitas=0 paradas   True         True           +6.6         +4.9         3362
+                                        idade_pneu=0–9 voltas   True         True           -2.0         -2.0        25899
+                                            fase=último terço   True         True           -1.2         -1.4        22755
+                          composto=duro E fase=primeiro terço   True        False           -2.5         -2.3         6098
+
+Descobre em 2022+, avalia em 2018-21: 11 regras selecionadas, 6 em comum com a referência (Jaccard 0.38); 91% das selecionadas mantêm sentido e metade do efeito fora
+                                                        regra  firme  selecionada  efeito_dentro  efeito_fora  linhas_fora
+                              neutralizacao=safety car ou VSC   True        False          +12.5         +9.5         2032
+                fase=segundo terço E paradas_feitas=0 paradas   True         True           +7.0         +8.5         3670
+           dist_frente=mais de 3 s E paradas_feitas=0 paradas   True         True           +6.7         +5.2         6206
+                 fase=segundo terço E idade_pneu=20–29 voltas   True         True           +5.3         +5.7         4328
+             idade_pneu=30+ voltas E paradas_feitas=0 paradas   True        False          +11.0        +10.6         1204
+               posicao=top 5 E rival_tras=rival de trás parou   True         True          +20.4        +14.0          335
+paradas_feitas=0 paradas E rival_frente=rival da frente parou   True        False          +14.7         +8.4          423
+           idade_pneu=20–29 voltas E paradas_feitas=0 paradas   True        False           +4.9         +6.6         3277
+                                        idade_pneu=0–9 voltas   True         True           -2.0         -2.0        17024
+                                            fase=último terço   True         True           -1.4         -1.2        16928
+                          composto=duro E fase=primeiro terço   True        False           -2.3         -2.5         3226
+  divisões de circuitos: 10/100
+  divisões de circuitos: 20/100
+  divisões de circuitos: 30/100
+  divisões de circuitos: 40/100
+  divisões de circuitos: 50/100
+  divisões de circuitos: 60/100
+  divisões de circuitos: 70/100
+  divisões de circuitos: 80/100
+  divisões de circuitos: 90/100
+  divisões de circuitos: 100/100
+
+Entre circuitos (100 divisões 13 + 13), por regra de referência:
+                                                        regra  redescoberta_pct  selecionada_pct  efeito_fora_mediana_pp  mesmo_sentido_fora_pct  encolhimento_mediano  linhas_fora_mediana
+                              neutralizacao=safety car ou VSC            100.00            44.00                   11.14                  100.00                  0.96              2258.50
+                fase=segundo terço E paradas_feitas=0 paradas            100.00           100.00                    7.75                  100.00                  1.01              3990.00
+           dist_frente=mais de 3 s E paradas_feitas=0 paradas            100.00            93.00                    5.94                  100.00                  0.99              6165.00
+                 fase=segundo terço E idade_pneu=20–29 voltas            100.00            91.00                    5.47                  100.00                  0.99              4822.50
+             idade_pneu=30+ voltas E paradas_feitas=0 paradas            100.00            88.00                   10.80                  100.00                  1.00              1270.50
+               posicao=top 5 E rival_tras=rival de trás parou            100.00            74.00                   17.85                  100.00                  0.93               413.00
+paradas_feitas=0 paradas E rival_frente=rival da frente parou            100.00            26.00                   11.77                  100.00                  0.92               494.00
+           idade_pneu=20–29 voltas E paradas_feitas=0 paradas            100.00            25.00                    5.73                  100.00                  0.96              3382.50
+                                        idade_pneu=0–9 voltas            100.00           100.00                   -1.99                  100.00                  1.03             21647.00
+                                            fase=último terço            100.00            77.00                   -1.33                  100.00                  0.94             20033.50
+                          composto=duro E fase=primeiro terço            100.00            26.00                   -2.31                  100.00                  0.94              4599.00
+
+Por divisão: selecionadas mediana 11; em comum com a referência mediana 7; Jaccard mediano 0.47; selecionadas que se mantêm fora, mediana 100%
