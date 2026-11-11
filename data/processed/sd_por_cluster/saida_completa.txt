@@ -1,0 +1,167 @@
+Base decisao_parada: 121075 linhas, 122 corridas, 26 circuitos; taxa geral 0.0291; 353 descrições de profundidade 1-2
+
+==============================================================================
+[decisao_parada] BUSCA GLOBAL (mesma configuração das buscas por cluster)
+==============================================================================
+Elegíveis 348, limiar |z| 7.43, firmes 214
+
+==============================================================================
+[decisao_parada] BUSCA DENTRO DE CADA CLUSTER
+==============================================================================
+
+--- alto downforce: 47683 linhas, 11 circuitos, taxa 0.0308
+Elegíveis 335, limiar |z| 5.46, firmes 179
+
+--- stop-and-go: 44001 linhas, 8 circuitos, taxa 0.0297
+Elegíveis 321, limiar |z| 5.05, firmes 189
+
+--- potência: 21331 linhas, 5 circuitos, taxa 0.0281
+Elegíveis 264, limiar |z| 4.16, firmes 128
+
+--- urbano-técnico: 8060 linhas, 2 circuitos, taxa 0.0190
+Só descritivo (sem teste). Os 10 maiores firmes do global, vistos aqui:
+                                                   descricao  efeito_global  linhas_urbano  efeito_urbano
+                             neutralizacao=safety car ou VSC        +0.1117            231        +0.0979
+   neutralizacao=safety car ou VSC E dist_frente=mais de 3 s        +0.1792             71        +0.1641
+neutralizacao=safety car ou VSC E rival_frente=rival da f...        +0.1078            223        +0.1021
+neutralizacao=safety car ou VSC E rival_tras=rival de trá...        +0.1066            218        +0.1003
+  neutralizacao=safety car ou VSC E janela=não cabe a parada        +0.1086            217        +0.0916
+  neutralizacao=safety car ou VSC E paradas_feitas=0 paradas        +0.1711             70        +0.1953
+               paradas_feitas=0 paradas E fase=segundo terço        +0.0768            714        +0.0580
+   idade_pneu=10–19 voltas E neutralizacao=safety car ou VSC        +0.1996             69        +0.1839
+          dist_frente=mais de 3 s E paradas_feitas=0 paradas        +0.0594            963        +0.0412
+            composto=médio E neutralizacao=safety car ou VSC        +0.1584             63        +0.2032
+
+==============================================================================
+[decisao_parada] VALIDAÇÃO 1: LOCAL × GLOBAL
+==============================================================================
+
+alto downforce: firmes só locais (até 10)
+                                                 descricao  linhas  circuitos   media  efeito       z
+                idade_pneu=30+ voltas E posicao=6.º a 10.º    1157         11 +0.0666 +0.0358 +7.0425
+      idade_pneu=30+ voltas E neutralizacao=bandeira verde    3338         11 +0.0509 +0.0201 +6.7368
+rival_tras=rival de trás parou E paradas_feitas=2+ paradas     240         11 +0.0958 +0.0650 +5.8336
+   neutralizacao=bandeira verde E janela=não cabe a parada   41910         11 +0.0259 -0.0049 -5.7480
+
+stop-and-go: firmes só locais (até 10)
+                                                   descricao  linhas  circuitos   media  efeito       z
+          idade_pneu=10–19 voltas E janela=não cabe a parada   14425          8 +0.0410 +0.0113 +8.0196
+                     idade_pneu=10–19 voltas E posicao=top 5    4591          8 +0.0492 +0.0195 +7.7917
+                                     idade_pneu=10–19 voltas   15669          8 +0.0401 +0.0104 +7.6499
+              composto=duro E rival_tras=rival de trás parou     503          8 +0.0755 +0.0458 +6.0561
+                         composto=médio E posicao=6.º a 10.º    3705          8 +0.0456 +0.0159 +5.7043
+ rival_frente=rival da frente parou E posicao=11.º em diante     456          8 +0.0746 +0.0449 +5.6423
+                           fase=último terço E posicao=top 5    4057          8 +0.0148 -0.0149 -5.5957
+                          composto=médio E fase=último terço    3263          8 +0.0135 -0.0162 -5.4573
+idade_pneu=10–19 voltas E rival_tras=rival de trás não parou   15216          8 +0.0371 +0.0074 +5.3971
+idade_pneu=10–19 voltas E rival_frente=rival da frente nã...   15221          8 +0.0371 +0.0074 +5.3892
+
+potência: firmes só locais (até 10)
+                                          descricao  linhas  circuitos   media  efeito       z
+      idade_pneu=20–29 voltas E dist_frente=1 a 3 s    1197          5 +0.0560 +0.0278 +5.8266
+idade_pneu=10–19 voltas E paradas_feitas=2+ paradas    1483          5 +0.0061 -0.0221 -5.1378
+
+       cluster  firmes_locais  tambem_firmes_no_global  sentido_oposto_ao_global  so_locais  firmes_globais_nao_achados  descricoes_em_comum  spearman_efeito
+alto downforce            179                      175                         0          4                          39                  335            0.988
+   stop-and-go            189                      176                         0         13                          38                  321            0.989
+      potência            128                      126                         0          2                          88                  264            0.983
+
+==============================================================================
+[decisao_parada] VALIDAÇÃO 2: PERMUTAÇÃO DE PARTIÇÕES (2000 partições 2/5/8/11)
+==============================================================================
+Clusters testados: alto downforce, potência, stop-and-go; descrições com suporte em 2+: 329
+Heterogeneidade média (Q/gl): real 4.62; partições aleatórias mediana 4.58, 95% 6.82; p = 0.4848
+Heterogeneidade máxima (Q/gl): real 116.66; partições aleatórias mediana 79.08, 95% 185.32; p = 0.2344
+Descrições cujo efeito depende do cluster (Q/gl > 185.32, corrigido): 0
+
+Maiores Q/gl:
+                                              descricao  Q_por_gl  clusters_com_suporte  depende_do_cluster  efeito_alto downforce  efeito_potência  efeito_stop-and-go
+   neutralizacao=safety car ou VSC E fase=segundo terço +116.6557                     2               False                +0.2393              NaN             +0.1126
+          idade_pneu=10–19 voltas E fase=primeiro terço  +58.2300                     3               False                +0.0078          +0.0187             +0.0420
+     idade_pneu=10–19 voltas E paradas_feitas=0 paradas  +44.3970                     3               False                +0.0168          +0.0337             +0.0480
+               idade_pneu=10–19 voltas E composto=macio  +43.6900                     3               False                +0.0101          +0.0184             +0.0499
+idade_pneu=10–19 voltas E neutralizacao=safety car o...  +41.4854                     2               False                +0.1676              NaN             +0.2405
+          paradas_feitas=0 paradas E fase=segundo terço  +40.1395                     3               False                +0.0900          +0.0987             +0.0575
+         rival_tras=rival de trás parou E posicao=top 5  +33.0760                     2               False                +0.1473              NaN             +0.2253
+             idade_pneu=30+ voltas E fase=segundo terço  +30.0522                     3               False                +0.1282          +0.0880             +0.0685
+                   composto=macio E fase=primeiro terço  +30.0360                     3               False                +0.0111          +0.0063             +0.0372
+    rival_tras=rival de trás parou E posicao=6.º a 10.º  +29.5366                     2               False                +0.1199              NaN             +0.0412
+     idade_pneu=20–29 voltas E paradas_feitas=0 paradas  +29.4025                     3               False                +0.0685          +0.0824             +0.0399
+    neutralizacao=safety car ou VSC E fase=último terço  +28.4652                     2               False                +0.0674              NaN             +0.1182
+Base duelos: 19475 linhas, 122 corridas, 26 circuitos; taxa geral 0.1327; 278 descrições de profundidade 1-2
+
+==============================================================================
+[duelos] BUSCA GLOBAL (mesma configuração das buscas por cluster)
+==============================================================================
+Elegíveis 276, limiar |z| 4.61, firmes 192
+
+==============================================================================
+[duelos] BUSCA DENTRO DE CADA CLUSTER
+==============================================================================
+
+--- alto downforce: 7750 linhas, 11 circuitos, taxa 0.1330
+Elegíveis 263, limiar |z| 4.36, firmes 150
+
+--- stop-and-go: 6121 linhas, 8 circuitos, taxa 0.1552
+Elegíveis 240, limiar |z| 3.98, firmes 136
+
+--- potência: 4097 linhas, 5 circuitos, taxa 0.1330
+Elegíveis 207, limiar |z| 3.74, firmes 106
+
+--- urbano-técnico: 1507 linhas, 2 circuitos, taxa 0.0385
+Só descritivo (sem teste). Os 10 maiores firmes do global, vistos aqui:
+                                                   descricao  efeito_global  linhas_urbano  efeito_urbano
+                                         distancia=até 0,3 s        +0.4215             35        +0.1615
+dif_idade=atacante 10+ voltas mais novo E trem=defensor l...        +0.3178            142        +0.2080
+       distancia=até 0,3 s E mesma_equipe=equipes diferentes        +0.4266             32        +0.1490
+                     dif_idade=atacante 10+ voltas mais novo        +0.2782            235        +0.1445
+                   distancia=até 0,3 s E trem=defensor livre        +0.4827             14        +0.2472
+dif_idade=atacante 10+ voltas mais novo E relargada=corri...        +0.2846            211        +0.1227
+dif_idade=atacante 10+ voltas mais novo E mesma_equipe=eq...        +0.2744            208        +0.1538
+              distancia=até 0,3 s E relargada=corrida normal        +0.4377             20        +0.0615
+dif_idade=atacante 10+ voltas mais novo E largada=atacant...        +0.3016            129        +0.2561
+dif_idade=atacante 10+ voltas mais novo E distancia=até 0...        +0.6574             11        +0.5070
+
+==============================================================================
+[duelos] VALIDAÇÃO 1: LOCAL × GLOBAL
+==============================================================================
+
+alto downforce: firmes só locais (até 10)
+                                            descricao  linhas  circuitos   media  efeito       z
+dif_composto=atacante mais macio E posicao=6.º a 10.º     356         11 +0.2219 +0.0889 +4.9375
+
+stop-and-go: firmes só locais (até 10)
+                                                   descricao  linhas  circuitos   media  efeito       z
+dif_idade=defensor 5+ voltas mais novo E trem=defensor livre     284          8 +0.0528 -0.1024 -4.7647
+
+potência: firmes só locais (até 10)
+                                                   descricao  linhas  circuitos   media  efeito       z
+dif_idade=atacante 5 a 9 voltas mais novo E fase=último t...     104          5 +0.2788 +0.1458 +4.3784
+
+       cluster  firmes_locais  tambem_firmes_no_global  sentido_oposto_ao_global  so_locais  firmes_globais_nao_achados  descricoes_em_comum  spearman_efeito
+alto downforce            150                      149                         0          1                          43                  263            0.977
+   stop-and-go            136                      135                         0          1                          57                  240            0.974
+      potência            106                      105                         0          1                          87                  207            0.977
+
+==============================================================================
+[duelos] VALIDAÇÃO 2: PERMUTAÇÃO DE PARTIÇÕES (2000 partições 2/5/8/11)
+==============================================================================
+Clusters testados: alto downforce, potência, stop-and-go; descrições com suporte em 2+: 250
+Heterogeneidade média (Q/gl): real 3.96; partições aleatórias mediana 4.10, 95% 8.31; p = 0.5417
+Heterogeneidade máxima (Q/gl): real 49.87; partições aleatórias mediana 45.54, 95% 138.51; p = 0.4423
+Descrições cujo efeito depende do cluster (Q/gl > 138.51, corrigido): 0
+
+Maiores Q/gl:
+                                              descricao  Q_por_gl  clusters_com_suporte  depende_do_cluster  efeito_alto downforce  efeito_potência  efeito_stop-and-go
+              distancia=até 0,3 s E trem=defensor livre  +49.8676                     3               False                +0.5951          +0.4636             +0.3191
+ distancia=até 0,3 s E largada=defensor largou à frente  +48.2468                     2               False                +0.4788              NaN             +0.2371
+               distancia=até 0,3 s E posicao=6.º a 10.º  +47.3961                     2               False                +0.5614              NaN             +0.2709
+         distancia=até 0,3 s E relargada=corrida normal  +40.5799                     3               False                +0.5425          +0.3902             +0.3093
+              distancia=até 0,3 s E fase=primeiro terço  +39.4838                     2               False                +0.5128              NaN             +0.2823
+                                    distancia=até 0,3 s  +39.0936                     3               False                +0.5122          +0.4023             +0.3063
+  distancia=até 0,3 s E mesma_equipe=equipes diferentes  +35.3592                     3               False                +0.5146          +0.4172             +0.3105
+               distancia=até 0,3 s E fase=segundo terço  +33.3845                     2               False                +0.5531              NaN             +0.3091
+ distancia=até 0,3 s E largada=atacante largou à frente  +27.0201                     2               False                +0.5367              NaN             +0.3703
+dif_idade=atacante 10+ voltas mais novo E distancia=...  +19.8800                     3               False                +0.0385          +0.1170             +0.1902
+      dif_composto=mesmo composto E distancia=até 0,3 s  +16.2706                     3               False                +0.4593          +0.3449             +0.2916
+            distancia=0,6 a 1,0 s E trem=defensor livre  +15.0429                     3               False                -0.0813          -0.0422             -0.0304
