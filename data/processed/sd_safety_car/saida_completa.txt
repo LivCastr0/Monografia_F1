@@ -1,0 +1,42 @@
+Corridas secas: 124; fora por dado de parada incompleto: 2
+Períodos usados: 47 em 41 corridas e 22 circuitos; linhas 836
+Períodos fora: {'volta 1': 19, 'vermelha ou sem fim': 10, 'outra neutralização': 8, 'fim da corrida': 2}
+  d_posicao: {'11.º em diante': 366, '6.º a 10.º': 235, '2.º a 5.º': 188, 'líder': 47}
+  d_parou: {'não parou no SC': 489, 'parou no SC': 347}
+  d_frente_parou: {'algum da frente parou': 472, 'nenhum da frente parou': 364}
+  d_idade_pneu: {'0–9 voltas': 394, '10–19 voltas': 298, '20+ voltas': 144}
+  d_paradas_feitas: {'1+ paradas': 536, '0 paradas': 300}
+  d_dist_frente: {'mais de 3 s': 366, '1 a 3 s': 237, 'até 1 s': 233}
+  d_dist_tras: {'mais de 3 s': 366, '1 a 3 s': 237, 'até 1 s': 233}
+  d_fase: {'primeiro terço': 331, 'último terço': 253, 'segundo terço': 252}
+
+[H9 safety car] 836 linhas; média geral 0.0000; elegíveis 207; limiar |z| 3.28
+  acima do limiar 46; firmes 46; finais (firmes e não redundantes) 15
+                                                  descricao  linhas  circuitos  eventos  media  diferenca      z  firme  final
+ parou=não parou no SC E frente_parou=algum da frente parou     195         20       40 +1.374     +1.374 +8.403   True   True
+             posicao=11.º em diante E parou=não parou no SC     221         22       43 +1.195     +1.195 +7.775   True   True
+                                          parou=parou no SC     347         21       43 -0.867     -0.867 -7.075   True   True
+                     posicao=6.º a 10.º E parou=parou no SC      93         17       30 -1.656     -1.656 -6.992   True   True
+              parou=não parou no SC E dist_tras=mais de 3 s     178         22       44 +1.067     +1.067 +6.235   True   True
+                    parou=parou no SC E fase=primeiro terço     128         15       17 -1.250     -1.250 -6.192   True  False
+               parou=parou no SC E paradas_feitas=0 paradas     152         17       26 -1.105     -1.105 -5.966   True  False
+                                      parou=não parou no SC     489         22       45 +0.616     +0.616 +5.960   True   True
+                      parou=parou no SC E dist_tras=até 1 s      65         17       27 -1.662     -1.662 -5.865   True   True
+     parou=parou no SC E frente_parou=algum da frente parou     277         17       34 -0.801     -0.801 -5.840   True  False
+              parou=não parou no SC E idade_pneu=0–9 voltas     304         21       40 +0.760     +0.760 +5.801   True  False
+                parou=não parou no SC E dist_frente=até 1 s     167         17       30 +0.970     +0.970 +5.489   True   True
+ frente_parou=algum da frente parou E idade_pneu=0–9 voltas     178         20       36 +0.916     +0.916 +5.349   True   True
+             posicao=11.º em diante E idade_pneu=0–9 voltas     200         20       41 +0.845     +0.845 +5.232   True  False
+                    parou=parou no SC E dist_frente=até 1 s      66         19       29 -1.439     -1.439 -5.120   True  False
+              idade_pneu=0–9 voltas E dist_tras=mais de 3 s     143         20       40 +0.965     +0.965 +5.053   True   True
+                      parou=parou no SC E dist_tras=1 a 3 s      94         18       31 -1.181     -1.181 -5.013   True  False
+                     parou=parou no SC E fase=segundo terço     100         12       13 -1.140     -1.140 -4.991   True  False
+posicao=11.º em diante E frente_parou=algum da frente parou     230         20       42 +0.743     +0.743 +4.937   True  False
+                parou=não parou no SC E fase=primeiro terço     203         15       18 +0.788     +0.788 +4.917   True  False
+             posicao=11.º em diante E dist_tras=mais de 3 s     181         22       47 +0.834     +0.834 +4.914   True  False
+                parou=parou no SC E idade_pneu=10–19 voltas     160         17       25 -0.863     -0.863 -4.777   True  False
+                 posicao=6.º a 10.º E idade_pneu=20+ voltas      49         14       20 -1.551     -1.551 -4.754   True  False
+                                     posicao=11.º em diante     366         22       47 +0.560     +0.560 +4.692   True   True
+           parou=não parou no SC E paradas_feitas=0 paradas     148         14       18 +0.824     +0.824 +4.391   True  False
+
+Subgrupos finais: 15
