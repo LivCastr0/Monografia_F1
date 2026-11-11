@@ -50,6 +50,7 @@ Registros detalhados de cada análise na pasta `claude/` do projeto no claude.ai
 - Fichas descritivas dos clusters (`fichas_clusters.py`)
 - Tipologia comportamental (`tipologia_comportamental.py`, critérios fixados antes de rodar): 8 medidas de corrida são estáveis por circuito, mas o agrupamento não se repete entre metades das corridas (ARI 0,08); a análise para no passo 4
 - Perfil físico × medidas estáveis (`perfil_medidas_estaveis.py`, definido depois da tipologia comportamental): sem os urbanos, o perfil explica menos de 6% de cada uma das 8 medidas, abaixo do acaso; figura em `data/processed/perfil_medidas_estaveis/`
+- H6, pit lane × decisão de parar (`sd_pit_lane_parada.py`, exploratória): não confirmada; pit lane alto sob SC tem +4,0 p.p. no sentido previsto, mas abaixo do limiar; esticar o stint não aparece
 
 ### Correções em 2026-11-11
 

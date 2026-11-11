@@ -1,0 +1,10 @@
+H6a: NÃO CONFIRMADA. Previstos: neutralizacao=safety car ou VSC E pit_lane_time_loss_s=alta +0.0400 (z_acr +7.60, não acrescenta, firme)
+   contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.20, p = 0.8331
+H6b: NÃO CONFIRMADA. Previstos: fase=segundo terço E pit_lane_time_loss_s=alta +0.0079 (z_acr +4.36, não acrescenta, firme); idade_pneu=20–29 voltas E pit_lane_time_loss_s=alta +0.0059 (z_acr +2.34, não acrescenta, firme)
+   contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.20, p = 0.8331
+   informativo: Spearman pit lane x taxa de parada por volta = +0.20 (previsto -), p unilateral = 0.8294, 26 circuitos
+   informativo: Spearman pit lane x idade do pneu na parada (mediana) = +0.23 (previsto +), p unilateral = 0.1248, 26 circuitos
+[sem urbanos] H6a_sem_urbanos: NÃO CONFIRMADA. Previstos: neutralizacao=safety car ou VSC E pit_lane_time_loss_s=alta +0.0435 (z_acr +7.76, não acrescenta, firme)
+[sem urbanos]    contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.24, p = 0.8693
+[sem urbanos] H6b_sem_urbanos: NÃO CONFIRMADA. Previstos: fase=segundo terço E pit_lane_time_loss_s=alta +0.0094 (z_acr +4.86, não acrescenta, firme); idade_pneu=20–29 voltas E pit_lane_time_loss_s=alta +0.0065 (z_acr +2.41, não acrescenta, firme)
+[sem urbanos]    contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.24, p = 0.8693
