@@ -1,0 +1,35 @@
+121075 voltas, 80 equipes-ano, 10 equipes
+Equipes de ponta por ano: 2018: Mercedes, Ferrari, Red Bull; 2019: Mercedes, Ferrari, Red Bull; 2020: Mercedes, Red Bull, McLaren; 2021: Mercedes, Red Bull, Ferrari; 2022: Red Bull, Ferrari, Mercedes; 2023: Red Bull, Mercedes, Ferrari; 2024: McLaren, Ferrari, Red Bull; 2025: McLaren, Mercedes, Red Bull
+
+==============================================================================
+CONFIRMATÓRIO
+==============================================================================
+                                              0                                    1
+hipotese                                    H7a                                  H7b
+situacao            top 5 E rival de trás parou  SC/VSC (estratificado pela posição)
+voltas                                      807                                 4579
+voltas_ponta                                670                                 1370
+voltas_outras                               137                                 3209
+taxa_ponta                               0.1925                               0.1438
+taxa_outras                              0.2774                               0.1396
+diferenca                               -0.0848                              -0.0123
+diferenca_95_acaso                       0.0485                                0.018
+p                                        0.9998                               0.8657
+p_holm                                      1.0                                  1.0
+dif_2018_21                             -0.0811                               0.0021
+dif_2022_mais                           -0.0746                              -0.0223
+sem_maior_unidade                        -0.088                              -0.0128
+maior_unidade                      Ferrari_2024                        Mercedes_2022
+confirmada                                False                                False
+
+==============================================================================
+EXPLORATÓRIO: AS REGRAS VARIAM ENTRE EQUIPES?
+==============================================================================
+                                             0
+grupos_testados                             10
+tamanhos                   8/8/8/8/8/8/8/8/8/8
+descricoes                                 289
+Q_medio_real                            1.8263
+Q_medio_mediana_aleatoria               1.2208
+Q_medio_95_aleatoria                    1.4515
+p                                        0.001
