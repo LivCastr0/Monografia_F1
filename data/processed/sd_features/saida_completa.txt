@@ -1,0 +1,195 @@
+
+==============================================================================
+TERCIS DAS FEATURES (26 circuitos)
+==============================================================================
+                  vel_media vel_minima zonas_freio pico_desac densidade_curvas
+circuito                                                                      
+Austin                baixa      média       média      baixa             alta
+Baku                  baixa      média        alta      média            média
+Barcelona             média       alta       baixa       alta            média
+Budapest              baixa       alta        alta      média             alta
+Imola                  alta       alta       média      média             alta
+Jeddah                 alta       alta       baixa      média             alta
+Las Vegas              alta      média       baixa      média            baixa
+Le Castellet          média      média        alta       alta            baixa
+Lusail                 alta       alta       baixa       alta            baixa
+Melbourne              alta       alta       baixa      baixa            baixa
+Mexico City           baixa      baixa        alta      baixa             alta
+Miami                 média      baixa       média      baixa             alta
+Monaco                baixa      baixa        alta       alta             alta
+Montréal              baixa      baixa       baixa      baixa            média
+Monza                  alta      média       baixa      baixa            baixa
+Sakhir                baixa      baixa       média      baixa            baixa
+Shanghai              baixa      baixa        alta      média            baixa
+Silverstone            alta       alta       média       alta            média
+Singapore             baixa      baixa        alta      média             alta
+Sochi                 média       alta        alta      média            média
+Spa-Francorchamps      alta      baixa       média       alta            baixa
+Spielberg              alta      média       baixa      baixa            baixa
+Suzuka                média      média       média       alta            média
+São Paulo             média      média       baixa       alta            média
+Yas Island            média      baixa       média      baixa             alta
+Zandvoort             média       alta        alta       alta            média
+
+==============================================================================
+H1: alvo rho_largada (162 linhas, 26 circuitos)
+==============================================================================
+Média geral 0.7703; elegíveis 134; limiar |z| 3.23; firmes 0; firmes com feature 0
+
+Maiores |z| com feature:
+                                    descricao  linhas  circuitos   media  diferenca       z  firme
+         vel_minima=média E zonas_freio=baixa      27          4 +0.6872    -0.0831 -2.6846  False
+ safety_car=com safety car E vel_minima=média      26          8 +0.6886    -0.0816 -2.5885  False
+   safety_car=com safety car E vel_media=alta      37          9 +0.7036    -0.0667 -2.5237  False
+  safety_car=sem safety car E pico_desac=alta      21          9 +0.8556    +0.0853 +2.4324  False
+  safety_car=sem safety car E vel_media=baixa      31          9 +0.8312    +0.0610 +2.1106  False
+safety_car=com safety car E zonas_freio=baixa      36          9 +0.7172    -0.0531 -1.9807  False
+      paradas=até 1 parada E zonas_freio=alta      33          9 +0.8246    +0.0544 +1.9425  False
+ safety_car=sem safety car E vel_minima=baixa      25          9 +0.8315    +0.0613 +1.9047  False
+        paradas=2 paradas E zonas_freio=baixa      24          8 +0.7078    -0.0625 -1.9044  False
+paradas=até 1 parada E densidade_curvas=média      17          8 +0.8436    +0.0734 +1.8813  False
+
+A pista acrescenta? (limiar |z_acr| 2.14, 1 testados)
+       descricao  linhas  circuitos   media  referencia_outras_pistas  diferenca_da_pista   z_acr  acrescenta  firme_na_busca  previsto
+vel_minima=baixa      57          9 +0.8013                   +0.7534             +0.0479 +1.8103       False           False      True
+
+H1: NÃO CONFIRMADA. Previstos: vel_minima=baixa +0.0479 (z_acr +1.81, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x vel_minima = -0.46, p = 0.0096
+
+==============================================================================
+H2: alvo passou (19475 linhas, 26 circuitos)
+==============================================================================
+Média geral 0.1327; elegíveis 675; limiar |z| 11.05; firmes 171; firmes com feature 73
+
+Maiores |z| com feature:
+                                                   descricao  linhas  circuitos   media  diferenca        z  firme
+                     distancia=até 0,3 s E zonas_freio=baixa     577          9 +0.5789    +0.4462 +31.5925   True
+ dif_idade=atacante 10+ voltas mais novo E zonas_freio=média     846          8 +0.4858    +0.3531 +30.2772   True
+                      distancia=até 0,3 s E vel_minima=média     564          8 +0.5638    +0.4311 +30.1826   True
+  dif_idade=atacante 10+ voltas mais novo E pico_desac=baixa    1023          9 +0.4516    +0.3189 +30.0695   True
+   dif_idade=atacante 10+ voltas mais novo E vel_media=média     857          8 +0.4679    +0.3352 +28.9284   True
+                distancia=até 0,3 s E densidade_curvas=média     622          8 +0.5209    +0.3882 +28.5406   True
+dif_idade=atacante 10+ voltas mais novo E densidade_curva...    1142          9 +0.4151    +0.2824 +28.1292   True
+  dif_idade=atacante 10+ voltas mais novo E vel_minima=média     701          8 +0.4850    +0.3523 +27.4987   True
+                       distancia=até 0,3 s E vel_minima=alta     365          9 +0.5836    +0.4509 +25.3921   True
+  dif_idade=atacante 10+ voltas mais novo E vel_minima=baixa    1020          9 +0.3971    +0.2644 +24.8894   True
+
+A pista acrescenta? (limiar |z_acr| 16.10, 74 testados)
+                                         descricao  linhas  circuitos   media  referencia_outras_pistas  diferenca_da_pista    z_acr  acrescenta  firme_na_busca  previsto
+         distancia=0,3 a 0,6 s E zonas_freio=média    1597          8 +0.2968                   +0.1775             +0.1193 +12.0064       False            True     False
+           trem=defensor livre E zonas_freio=média    3436          8 +0.2296                   +0.1705             +0.0591  +8.4962       False            True     False
+            fase=segundo terço E zonas_freio=média    1477          8 +0.2478                   +0.1631             +0.0847  +8.0925       False            True     False
+dif_idade=atacante 10+ voltas mais novo E zonas...     846          8 +0.4858                   +0.3738             +0.1120  +7.8548       False            True     False
+dif_idade=atacante 5 a 9 voltas mais novo E den...     320          9 +0.3531                   +0.1939             +0.1592  +7.4495       False            True     False
+              fase=segundo terço E vel_media=média    1287          8 +0.2479                   +0.1673             +0.0806  +7.3719       False            True     False
+dif_idade=atacante 10+ voltas mais novo E vel_m...     701          8 +0.4850                   +0.3829             +0.1021  +6.7925       False            True     False
+largada=atacante largou à frente E vel_media=média    2220          8 +0.2221                   +0.1656             +0.0564  +6.6950       False            True     False
+             trem=defensor livre E vel_media=média    3242          8 +0.2209                   +0.1756             +0.0453  +6.4031       False            True     False
+          distancia=0,3 a 0,6 s E pico_desac=baixa    2348          9 +0.2440                   +0.1871             +0.0569  +6.3096       False            True     False
+    distancia=0,3 a 0,6 s E densidade_curvas=baixa    1926          9 +0.2497                   +0.1904             +0.0593  +6.3016       False            True     False
+dif_idade=atacante 10+ voltas mais novo E vel_m...     857          8 +0.4679                   +0.3821             +0.0858  +6.0365       False            True     False
+
+H2: NÃO CONFIRMADA. Previstos: distancia=0,6 a 1,0 s E vel_media=alta -0.0151 (z_acr -2.39, não acrescenta, firme); vel_media=alta E distancia=0,3 a 0,6 s -0.0060 (z_acr -0.65, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x vel_media = -0.02, p = 0.5272
+
+==============================================================================
+H3: alvo trem (19475 linhas, 26 circuitos)
+==============================================================================
+Média geral 0.4261; elegíveis 599; limiar |z| 7.48; firmes 180; firmes com feature 88
+
+Maiores |z| com feature:
+                                   descricao  linhas  circuitos   media  diferenca        z  firme
+fase=primeiro terço E densidade_curvas=baixa    3286          9 +0.5907    +0.1646 +19.0742   True
+      fase=primeiro terço E pico_desac=baixa    4146          9 +0.5721    +0.1460 +19.0074   True
+        fase=primeiro terço E vel_media=alta    3495          9 +0.5817    +0.1556 +18.5956   True
+             posicao=top 5 E vel_media=baixa    1154          9 +0.1586    -0.2676 -18.3793   True
+     fase=primeiro terço E zonas_freio=baixa    3720          9 +0.5653    +0.1392 +17.1664   True
+     posicao=11.º em diante E vel_media=alta    3393          9 +0.5682    +0.1421 +16.7369   True
+       posicao=top 5 E densidade_curvas=alta    1116          9 +0.1828    -0.2433 -16.4383   True
+           posicao=top 5 E zonas_freio=baixa    1281          9 +0.1998    -0.2263 -16.3778   True
+   relargada=após relargada E vel_media=alta    1430          9 +0.6392    +0.2130 +16.2895   True
+      posicao=top 5 E densidade_curvas=média     989          8 +0.1719    -0.2542 -16.1682   True
+
+A pista acrescenta? (limiar |z_acr| 9.21, 89 testados)
+                                         descricao  linhas  circuitos   media  referencia_outras_pistas  diferenca_da_pista   z_acr  acrescenta  firme_na_busca  previsto
+                                    vel_media=alta    7049          9 +0.4683                   +0.4022             +0.0661 +8.9602       False           False      True
+           posicao=11.º em diante E vel_media=alta    3393          9 +0.5682                   +0.4821             +0.0861 +8.2838       False            True     False
+            distancia=0,3 a 0,6 s E vel_media=alta    2151          9 +0.5230                   +0.4250             +0.0981 +7.3315       False            True     False
+      fase=primeiro terço E densidade_curvas=baixa    3286          9 +0.5907                   +0.5138             +0.0769 +7.2134       False            True     False
+dif_idade=diferença de até 4 voltas E vel_media...    5528          9 +0.5204                   +0.4594             +0.0611 +7.1997       False            True     False
+ relargada=corrida normal E densidade_curvas=média    4761          8 +0.3459                   +0.4023             -0.0564 -6.5684       False            True     False
+        posicao=11.º em diante E zonas_freio=baixa    3557          9 +0.5524                   +0.4884             +0.0640 +6.2240       False            True     False
+              fase=primeiro terço E vel_media=alta    3495          9 +0.5817                   +0.5163             +0.0653 +6.2149       False            True     False
+        relargada=corrida normal E vel_media=baixa    5508          9 +0.3533                   +0.4025             -0.0492 -5.9467       False            True     False
+         distancia=0,3 a 0,6 s E zonas_freio=média    1597          8 +0.5191                   +0.4390             +0.0801 +5.5264       False            True     False
+            fase=primeiro terço E pico_desac=baixa    4146          9 +0.5721                   +0.5158             +0.0563 +5.5087       False            True     False
+       relargada=corrida normal E zonas_freio=alta    4951          9 +0.3543                   +0.3995             -0.0452 -5.3240       False            True     False
+
+H3: NÃO CONFIRMADA. Previstos: vel_media=alta +0.0661 (z_acr +8.96, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x vel_media = +0.45, p = 0.0109
+
+==============================================================================
+H4: alvo deg_pct (3765 linhas, 26 circuitos)
+==============================================================================
+Média geral 0.0680; elegíveis 224; limiar |z| 12.32; firmes 0; firmes com feature 0
+
+Maiores |z| com feature:
+                                            descricao  linhas  circuitos   media  diferenca        z  firme
+                 vel_minima=baixa E zonas_freio=média     669          4 +0.0997    +0.0316 +11.5715  False
+                 zonas_freio=média E pico_desac=baixa     797          4 +0.0902    +0.0222  +8.8448  False
+     ordem_stint=stints seguintes E zonas_freio=média     972          8 +0.0876    +0.0196  +8.6222  False
+            pico_desac=baixa E densidade_curvas=baixa     725          4 +0.0905    +0.0225  +8.5494  False
+                 temp_pista=baixa E zonas_freio=média     720          7 +0.0892    +0.0212  +8.0386  False
+ordem_stint=stints seguintes E densidade_curvas=baixa     859          9 +0.0873    +0.0193  +7.9766  False
+        ordem_stint=primeiro stint E zonas_freio=alta     420          9 +0.0408    -0.0273  -7.8976  False
+      ordem_stint=stints seguintes E vel_minima=baixa     909          9 +0.0863    +0.0183  +7.7905  False
+                     vel_media=alta E vel_minima=alta     564          5 +0.0456    -0.0224  -7.5276  False
+                                    zonas_freio=média    1337          8 +0.0824    +0.0143  +7.4101  False
+
+A pista acrescenta? (limiar |z_acr| 9.46, 1 testados)
+       descricao  linhas  circuitos   media  referencia_outras_pistas  diferenca_da_pista   z_acr  acrescenta  firme_na_busca  previsto
+zonas_freio=alta    1125          9 +0.0540                   +0.0740             -0.0200 -7.9272       False           False      True
+
+H4: NÃO CONFIRMADA. Previstos: zonas_freio=alta -0.0200 (z_acr -7.93, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x zonas_freio = -0.22, p = 0.8604
+
+==============================================================================
+H5: alvo ruido_pct (2225 linhas, 26 circuitos)
+==============================================================================
+Qualidade de H5 (metades de stints, entre circuitos): Spearman 0.49 (>= 0,50) FALHA: H5 não é interpretada
+Média geral 0.2285; elegíveis 173; limiar |z| 6.00; firmes 0; firmes com feature 0
+
+Maiores |z| com feature:
+                                      descricao  linhas  circuitos   media  diferenca       z  firme
+       zonas_freio=alta E densidade_curvas=alta     401          4 +0.2704    +0.0418 +5.5978  False
+        vel_media=baixa E densidade_curvas=alta     553          5 +0.2623    +0.0338 +5.3133  False
+           vel_minima=baixa E zonas_freio=média     391          4 +0.1924    -0.0361 -4.7711  False
+ordem_stint=stints seguintes E zonas_freio=alta     468          9 +0.2593    +0.0307 +4.4463  False
+              temp_pista=alta E pico_desac=alta     254          7 +0.2658    +0.0372 +3.9671  False
+                               zonas_freio=alta     707          9 +0.2508    +0.0223 +3.9546  False
+    ordem_stint=primeiro stint E vel_media=alta     184          9 +0.1864    -0.0421 -3.8205  False
+       vel_minima=baixa E densidade_curvas=alta     459          5 +0.2551    +0.0265 +3.8003  False
+               composto=duro E zonas_freio=alta     396          9 +0.2567    +0.0281 +3.7395  False
+            temp_pista=média E zonas_freio=alta     331          8 +0.2588    +0.0303 +3.6806  False
+
+A pista acrescenta? (limiar |z_acr| 4.17, 1 testados)
+            descricao  linhas  circuitos   media  referencia_outras_pistas  diferenca_da_pista   z_acr  acrescenta  firme_na_busca  previsto
+densidade_curvas=alta     870          9 +0.2403                   +0.2210             +0.0193 +2.9711       False           False      True
+
+H5: NÃO CONFIRMADA (medida não passou na qualidade; não interpretar). Previstos: densidade_curvas=alta +0.0193 (z_acr +2.97, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x densidade_curvas = +0.28, p = 0.0806
+
+==============================================================================
+RESUMO
+==============================================================================
+H1: NÃO CONFIRMADA. Previstos: vel_minima=baixa +0.0479 (z_acr +1.81, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x vel_minima = -0.46, p = 0.0096
+H2: NÃO CONFIRMADA. Previstos: distancia=0,6 a 1,0 s E vel_media=alta -0.0151 (z_acr -2.39, não acrescenta, firme); vel_media=alta E distancia=0,3 a 0,6 s -0.0060 (z_acr -0.65, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x vel_media = -0.02, p = 0.5272
+H3: NÃO CONFIRMADA. Previstos: vel_media=alta +0.0661 (z_acr +8.96, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x vel_media = +0.45, p = 0.0109
+H4: NÃO CONFIRMADA. Previstos: zonas_freio=alta -0.0200 (z_acr -7.93, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x zonas_freio = -0.22, p = 0.8604
+Qualidade de H5 (metades de stints, entre circuitos): Spearman 0.49 (>= 0,50) FALHA: H5 não é interpretada
+H5: NÃO CONFIRMADA (medida não passou na qualidade; não interpretar). Previstos: densidade_curvas=alta +0.0193 (z_acr +2.97, não acrescenta, não firme)
+   contínuo (informativo): Spearman alvo médio x densidade_curvas = +0.28, p = 0.0806

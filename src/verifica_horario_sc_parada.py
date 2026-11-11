@@ -25,7 +25,13 @@ Medida corrigida (a mesma regra para quem parou e para quem não parou):
 Entra: data/processed/base_decisao_parada.csv
        data/interim/voltas/*_voltas.csv
        data/interim/corridas/*_bandeiras.csv
-Sai:   data/processed/base_decisao_parada_sc_corrigido.csv (base + colunas corrigidas)
+Sai:   data/processed/verificacao_horario_sc_parada.csv (base + colunas corrigidas)
+
+Situação: verificação feita uma vez, sobre a base ANTERIOR à correção (121.172 voltas).
+A versão A foi depois incorporada a monta_base_decisao_parada.py, e a base atual
+(base_decisao_parada.csv, 121.075 voltas) já sai corrigida e sem as voltas de bandeira
+vermelha no ponto de decisão. A saída deste script é registro da verificação, não base
+de análise. Rodar de novo sobre a base atual não reproduz a verificação.
 
 Não usa internet. O z é o da busca: (taxa do subgrupo − taxa geral) × √n / desvio.
 """
@@ -37,7 +43,7 @@ import pandas as pd
 BASE = Path("data/processed/base_decisao_parada.csv")
 VOLTAS = Path("data/interim/voltas")
 CORRIDAS = Path("data/interim/corridas")
-SAIDA = Path("data/processed/base_decisao_parada_sc_corrigido.csv")
+SAIDA = Path("data/processed/verificacao_horario_sc_parada.csv")
 NEUTRO = {4, 6, 7}
 SC = "safety car ou VSC"
 LIMIAR_BUSCA = 8.28   # |z| da busca original (500 permutações); referência, não recalculado

@@ -9,7 +9,7 @@ Identificar padrões estratégicos na Fórmula 1 cruzando duas análises complem
 - **Clustering de circuitos** (unidade de análise: circuito): agrupa pistas com perfis físicos semelhantes
 - **Subgroup Discovery** (unidade de análise: piloto-corrida): encontra subgrupos com comportamentos estratégicos distintos
 
-Os clusters de circuito servem de ponte entre as duas análises — uma feature do grão de corrida.
+Os clusters de circuito foram planejados como ponte entre as duas análises. Na Etapa 2, eles são usados para testar se os padrões encontrados pela descoberta de subgrupos dependem do tipo de circuito.
 
 ---
 
@@ -73,17 +73,14 @@ Coleta e engenharia de features para o grão circuito.
 - `data/raw/falhas_extracao.csv`
 - `data/external/template_features_manuais.xlsx`
 
-### ⬜ Etapa 2 — EDA e clustering (próxima)
+**Clusterização (concluída):** KMeans sobre 5 features de telemetria (`so_dinamicas`), k = 4, em `notebooks/02_clusterizacao_circuitos.ipynb`. Partição adotada: coluna `cluster_kmeans_so_dinamicas_k4` de `data/processed/clusters_circuitos.csv` (alto downforce 11, stop-and-go 8, potência 5, urbano-técnico 2).
 
-- EDA formal sobre o vetor completo de features
-- Seleção de features
-- Clustering dos 26 circuitos
+### 🔄 Etapa 2 — Descoberta de subgrupos nas corridas (MSI II)
 
-### ⬜ Etapa 3 — Subgroup Discovery
-
-- Construção do grão piloto-corrida
-- Integração com cluster IDs
-- Aplicação de Subgroup Discovery
+- Bases por grão (corrida, parada, stint, duelo, decisão de parar) a partir da coleta volta a volta de 163 corridas
+- Análises principais: duelos (`base_duelos.csv`) e decisão de parar (`base_decisao_parada.csv`), com regras consolidadas em `regras_globais_*.csv`
+- Validações com a tipologia da Etapa 1: abrangência por perfil, SD por cluster, teste de partições e de poder, estabilidade da descoberta
+- Histórico das análises em `CHANGELOG.md`
 
 ---
 

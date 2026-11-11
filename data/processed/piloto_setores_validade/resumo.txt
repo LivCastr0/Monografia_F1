@@ -1,0 +1,7 @@
+M  medida                    FALHA  9 de 12 corridas   (limite >= 10)
+V1 estabilidade entre eras   FALHA  Spearman +0.34, p = 0.1406 (18 de 18 pares)   (limite >= 0.5 e p < 0,05)
+V2 o setor acrescenta        FALHA  entre setores 6.8% (entre corridas 11.9%, resíduo 81.3%)   (limite >= 10%)
+V3 ligação com a Etapa 1     PASSA  Spearman +0.47 com zonas_freio_km, p = 0.0050 (36 setores)   (limite >= 0.4 e p < 0,05)
+V4 tipologia de setores      FALHA  silhouette 0.33, ARI 0.62   (limite >= 0.2 e >= 0.7)
+
+Decisão: a medida não funcionou nestas corridas; rever antes de qualquer conclusão; caracterizar setores pelas features como descritores

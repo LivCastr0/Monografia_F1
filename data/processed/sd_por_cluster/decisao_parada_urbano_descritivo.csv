@@ -1,0 +1,11 @@
+descricao,efeito_global,linhas_urbano,efeito_urbano
+neutralizacao=safety car ou VSC,0.1117214864274809,231,0.09790048661016403
+neutralizacao=safety car ou VSC E dist_frente=mais de 3 s,0.1792196071108894,71,0.16411596127634293
+neutralizacao=safety car ou VSC E rival_frente=rival da frente não parou,0.10779714829478933,223,0.10209360291090365
+neutralizacao=safety car ou VSC E rival_tras=rival de trás não parou,0.10660660004148707,218,0.10028342477291871
+neutralizacao=safety car ou VSC E janela=não cabe a parada,0.10856831845098307,217,0.09161644806806098
+neutralizacao=safety car ou VSC E paradas_feitas=0 paradas,0.17110302081861684,70,0.19530308401276142
+paradas_feitas=0 paradas E fase=segundo terço,0.07675216257294867,714,0.05804818205197712
+idade_pneu=10–19 voltas E neutralizacao=safety car ou VSC,0.19960253314623394,69,0.18391592045168484
+dist_frente=mais de 3 s E paradas_feitas=0 paradas,0.05944790407665948,963,0.04124582247886438
+composto=médio E neutralizacao=safety car ou VSC,0.15840117784496122,63,0.20323959194926935

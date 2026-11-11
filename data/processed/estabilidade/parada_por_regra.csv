@@ -1,0 +1,12 @@
+regra,redescoberta_pct,selecionada_pct,efeito_fora_mediana_pp,mesmo_sentido_fora_pct,encolhimento_mediano,linhas_fora_mediana
+neutralizacao=safety car ou VSC,100.0,44.0,11.139499013204487,100.0,0.9557213739403887,2258.5
+fase=segundo terço E paradas_feitas=0 paradas,100.0,100.0,7.74602760902752,100.0,1.0134391605574478,3990.0
+dist_frente=mais de 3 s E paradas_feitas=0 paradas,100.0,93.0,5.936341320888026,100.0,0.989419125600475,6165.0
+fase=segundo terço E idade_pneu=20–29 voltas,100.0,91.0,5.469008387900577,100.0,0.9876345407666407,4822.5
+idade_pneu=30+ voltas E paradas_feitas=0 paradas,100.0,88.0,10.800723355414132,100.0,1.0001643257567698,1270.5
+posicao=top 5 E rival_tras=rival de trás parou,100.0,74.0,17.8454784819022,100.0,0.9345298571901886,413.0
+paradas_feitas=0 paradas E rival_frente=rival da frente parou,100.0,26.0,11.766005268438683,100.0,0.9152657018263192,494.0
+idade_pneu=20–29 voltas E paradas_feitas=0 paradas,100.0,25.0,5.733544012342108,100.0,0.9561490487384665,3382.5
+idade_pneu=0–9 voltas,100.0,100.0,-1.9896844398294915,100.0,1.0329398828473422,21647.0
+fase=último terço,100.0,77.0,-1.3318926890192069,100.0,0.9440523248724523,20033.5
+composto=duro E fase=primeiro terço,100.0,26.0,-2.313262006030588,100.0,0.939740598859907,4599.0
