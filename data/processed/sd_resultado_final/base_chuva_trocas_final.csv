@@ -1,0 +1,209 @@
+ano,round,circuito,evento,piloto,volta,d_pelotao,d_ritmo,d_posicao,d_neutralizacao,d_era,d_direcao,ganho,volta_ref,evento_troca,ganho_final
+2020,3,Budapest,2020_03,BOT,2,até 1/3,sem referência,6.º a 10.º,bandeira verde,2018-21,para seco,-1.0,1,2020_03_BOT_2,1.0
+2020,3,Budapest,2020_03,HAM,3,até 1/3,destino mais lento,top 5,bandeira verde,2018-21,para seco,0.0,2,2020_03_HAM_3,0.0
+2020,3,Budapest,2020_03,STR,3,até 1/3,destino mais lento,top 5,bandeira verde,2018-21,para seco,-3.0,2,2020_03_STR_3,-2.0
+2020,3,Budapest,2020_03,ALB,3,até 1/3,destino mais lento,11.º em diante,bandeira verde,2018-21,para seco,2.0,2,2020_03_ALB_3,0.0
+2020,3,Budapest,2020_03,VER,4,até 1/3,destino mais rápido,top 5,bandeira verde,2018-21,para seco,0.0,3,2020_03_VER_4,0.0
+2021,2,Imola,2021_02,TSU,25,até 1/3,destino mais lento,11.º em diante,bandeira verde,2018-21,para seco,-1.0,24,2021_02_TSU_25,-2.0
+2021,2,Imola,2021_02,RAI,26,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2018-21,para seco,0.0,25,2021_02_RAI_26,-4.0
+2021,2,Imola,2021_02,GAS,26,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2018-21,para seco,0.0,25,2021_02_GAS_26,6.0
+2021,2,Imola,2021_02,VER,27,até 1/3,destino mais rápido,top 5,bandeira verde,2018-21,para seco,0.0,26,2021_02_VER_27,0.0
+2021,2,Imola,2021_02,SAI,27,até 1/3,destino mais rápido,6.º a 10.º,bandeira verde,2018-21,para seco,0.0,26,2021_02_SAI_27,1.0
+2021,2,Imola,2021_02,RIC,27,até 1/3,destino mais rápido,6.º a 10.º,bandeira verde,2018-21,para seco,0.0,26,2021_02_RIC_27,1.0
+2021,2,Imola,2021_02,STR,27,até 1/3,destino mais rápido,6.º a 10.º,bandeira verde,2018-21,para seco,0.0,26,2021_02_STR_27,0.0
+2021,2,Imola,2021_02,OCO,27,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2018-21,para seco,-1.0,26,2021_02_OCO_27,1.0
+2021,2,Imola,2021_02,HAM,28,1/3 a 2/3,destino mais rápido,top 5,bandeira verde,2018-21,para seco,-6.0,27,2021_02_HAM_28,-1.0
+2021,2,Imola,2021_02,LEC,28,1/3 a 2/3,destino mais rápido,top 5,bandeira verde,2018-21,para seco,1.0,27,2021_02_LEC_28,-1.0
+2021,2,Imola,2021_02,PER,28,1/3 a 2/3,destino mais rápido,top 5,bandeira verde,2018-21,para seco,0.0,27,2021_02_PER_28,-7.0
+2021,2,Imola,2021_02,NOR,28,1/3 a 2/3,destino mais rápido,top 5,bandeira verde,2018-21,para seco,2.0,27,2021_02_NOR_28,2.0
+2021,2,Imola,2021_02,ALO,28,1/3 a 2/3,destino mais rápido,11.º em diante,bandeira verde,2018-21,para seco,-3.0,27,2021_02_ALO_28,-1.0
+2021,11,Budapest,2021_11,HAM,4,nenhum,sem referência,11.º em diante,bandeira verde,2018-21,para seco,-1.0,3,2021_11_HAM_4,7.0
+2021,15,Sochi,2021_15,VER,48,até 1/3,sem referência,6.º a 10.º,bandeira verde,2018-21,para chuva,5.0,47,2021_15_VER_48,5.0
+2021,15,Sochi,2021_15,SAI,48,até 1/3,sem referência,top 5,bandeira verde,2018-21,para chuva,1.0,47,2021_15_SAI_48,1.0
+2021,15,Sochi,2021_15,RIC,48,até 1/3,sem referência,6.º a 10.º,bandeira verde,2018-21,para chuva,1.0,47,2021_15_RIC_48,2.0
+2021,15,Sochi,2021_15,STR,48,até 1/3,sem referência,6.º a 10.º,bandeira verde,2018-21,para chuva,-1.0,47,2021_15_STR_48,-3.0
+2021,15,Sochi,2021_15,HAM,49,até 1/3,destino mais lento,top 5,bandeira verde,2018-21,para chuva,1.0,48,2021_15_HAM_49,1.0
+2021,15,Sochi,2021_15,ALO,50,1/3 a 2/3,parecido,top 5,bandeira verde,2018-21,para chuva,-3.0,49,2021_15_ALO_50,-3.0
+2021,15,Sochi,2021_15,PER,50,1/3 a 2/3,parecido,top 5,bandeira verde,2018-21,para chuva,-5.0,49,2021_15_PER_50,-5.0
+2022,4,Imola,2022_04,VET,17,nenhum,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,1.0,16,2022_04_VET_17,0.0
+2022,4,Imola,2022_04,PER,18,até 1/3,sem referência,top 5,bandeira verde,2022+,para seco,0.0,17,2022_04_PER_18,0.0
+2022,4,Imola,2022_04,RUS,18,até 1/3,sem referência,top 5,bandeira verde,2022+,para seco,0.0,17,2022_04_RUS_18,1.0
+2022,4,Imola,2022_04,BOT,18,até 1/3,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,0.0,17,2022_04_BOT_18,1.0
+2022,4,Imola,2022_04,MAG,18,até 1/3,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,-1.0,17,2022_04_MAG_18,-2.0
+2022,4,Imola,2022_04,TSU,18,até 1/3,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,-1.0,17,2022_04_TSU_18,1.0
+2022,4,Imola,2022_04,VER,19,até 1/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,0.0,18,2022_04_VER_19,0.0
+2022,4,Imola,2022_04,LEC,19,até 1/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,-1.0,18,2022_04_LEC_19,-4.0
+2022,4,Imola,2022_04,NOR,19,até 1/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,0.0,18,2022_04_NOR_19,1.0
+2022,7,Monaco,2022_07,RIC,19,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2022+,para seco,-2.0,18,2022_07_RIC_19,-1.0
+2022,7,Monaco,2022_07,BOT,20,até 1/3,destino mais rápido,6.º a 10.º,bandeira verde,2022+,para seco,-1.0,19,2022_07_BOT_20,1.0
+2022,7,Monaco,2022_07,SAI,21,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para seco,-1.0,20,2022_07_SAI_21,-1.0
+2022,7,Monaco,2022_07,LEC,21,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para seco,-1.0,20,2022_07_LEC_21,-1.0
+2022,7,Monaco,2022_07,RUS,21,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para seco,0.0,20,2022_07_RUS_21,0.0
+2022,7,Monaco,2022_07,ALO,21,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para seco,-1.0,20,2022_07_ALO_21,-1.0
+2022,7,Monaco,2022_07,OCO,21,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para seco,-1.0,20,2022_07_OCO_21,-4.0
+2022,7,Monaco,2022_07,PER,22,até 1/3,parecido,top 5,bandeira verde,2022+,para seco,0.0,21,2022_07_PER_22,0.0
+2022,7,Monaco,2022_07,VER,22,até 1/3,parecido,top 5,bandeira verde,2022+,para seco,-1.0,21,2022_07_VER_22,-1.0
+2022,7,Monaco,2022_07,NOR,22,até 1/3,parecido,top 5,bandeira verde,2022+,para seco,-1.0,21,2022_07_NOR_22,-1.0
+2022,7,Monaco,2022_07,HAM,22,até 1/3,parecido,6.º a 10.º,bandeira verde,2022+,para seco,0.0,21,2022_07_HAM_22,0.0
+2022,7,Monaco,2022_07,GAS,22,até 1/3,parecido,6.º a 10.º,bandeira verde,2022+,para seco,-2.0,21,2022_07_GAS_22,-1.0
+2022,7,Monaco,2022_07,VET,23,1/3 a 2/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para seco,-2.0,22,2022_07_VET_23,-1.0
+2022,7,Monaco,2022_07,STR,24,mais de 2/3,destino mais rápido,6.º a 10.º,bandeira verde,2022+,para seco,-4.0,23,2022_07_STR_24,-4.0
+2022,17,Singapore,2022_17,GAS,33,até 1/3,destino mais rápido,6.º a 10.º,bandeira verde,2022+,para seco,-3.0,32,2022_17_GAS_33,-3.0
+2022,17,Singapore,2022_17,BOT,33,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2022+,para seco,0.0,32,2022_17_BOT_33,0.0
+2022,17,Singapore,2022_17,MAG,33,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2022+,para seco,0.0,32,2022_17_MAG_33,0.0
+2022,17,Singapore,2022_17,LEC,34,até 1/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,0.0,33,2022_17_LEC_34,0.0
+2022,17,Singapore,2022_17,HAM,34,até 1/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,-4.0,33,2022_17_HAM_34,-4.0
+2022,17,Singapore,2022_17,VET,34,até 1/3,destino mais rápido,6.º a 10.º,bandeira verde,2022+,para seco,-1.0,33,2022_17_VET_34,-1.0
+2022,17,Singapore,2022_17,PER,35,1/3 a 2/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,0.0,34,2022_17_PER_35,0.0
+2022,17,Singapore,2022_17,SAI,35,1/3 a 2/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,0.0,34,2022_17_SAI_35,0.0
+2022,17,Singapore,2022_17,VER,35,1/3 a 2/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,0.0,34,2022_17_VER_35,-2.0
+2022,17,Singapore,2022_17,STR,35,1/3 a 2/3,destino mais rápido,6.º a 10.º,bandeira verde,2022+,para seco,0.0,34,2022_17_STR_35,1.0
+2022,17,Singapore,2022_17,NOR,36,1/3 a 2/3,destino mais lento,top 5,safety car ou VSC,2022+,para seco,0.0,35,2022_17_NOR_36,0.0
+2022,17,Singapore,2022_17,RIC,36,1/3 a 2/3,destino mais lento,6.º a 10.º,safety car ou VSC,2022+,para seco,0.0,35,2022_17_RIC_36,1.0
+2023,6,Monaco,2023_06,TSU,53,até 1/3,sem referência,6.º a 10.º,bandeira verde,2022+,para chuva,0.0,52,2023_06_TSU_53,-6.0
+2023,6,Monaco,2023_06,DEV,53,até 1/3,sem referência,11.º em diante,bandeira verde,2022+,para chuva,-1.0,52,2023_06_DEV_53,0.0
+2023,6,Monaco,2023_06,PER,53,até 1/3,sem referência,11.º em diante,bandeira verde,2022+,para chuva,-1.0,52,2023_06_PER_53,-2.0
+2023,6,Monaco,2023_06,RUS,54,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para chuva,-2.0,53,2023_06_RUS_54,-2.0
+2023,6,Monaco,2023_06,OCO,54,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para chuva,1.0,53,2023_06_OCO_54,1.0
+2023,6,Monaco,2023_06,HAM,54,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para chuva,2.0,53,2023_06_HAM_54,2.0
+2023,6,Monaco,2023_06,GAS,54,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para chuva,1.0,53,2023_06_GAS_54,1.0
+2023,6,Monaco,2023_06,PIA,54,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para chuva,-1.0,53,2023_06_PIA_54,-1.0
+2023,6,Monaco,2023_06,NOR,54,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para chuva,-1.0,53,2023_06_NOR_54,1.0
+2023,6,Monaco,2023_06,HUL,54,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,-2.0,53,2023_06_HUL_54,-4.0
+2023,6,Monaco,2023_06,VER,55,1/3 a 2/3,parecido,top 5,bandeira verde,2022+,para chuva,0.0,54,2023_06_VER_55,0.0
+2023,6,Monaco,2023_06,LEC,55,1/3 a 2/3,parecido,top 5,bandeira verde,2022+,para chuva,-2.0,54,2023_06_LEC_55,-2.0
+2023,6,Monaco,2023_06,SAI,55,1/3 a 2/3,parecido,top 5,bandeira verde,2022+,para chuva,-5.0,54,2023_06_SAI_55,-5.0
+2023,13,Zandvoort,2023_13,NOR,3,1/3 a 2/3,sem referência,top 5,bandeira verde,2022+,para chuva,-11.0,2,2023_13_NOR_3,-6.0
+2023,13,Zandvoort,2023_13,HAM,3,1/3 a 2/3,sem referência,11.º em diante,bandeira verde,2022+,para chuva,-1.0,2,2023_13_HAM_3,6.0
+2023,13,Zandvoort,2023_13,RUS,4,1/3 a 2/3,destino mais rápido,top 5,bandeira verde,2022+,para chuva,-11.0,3,2023_13_RUS_4,-15.0
+2023,13,Zandvoort,2023_13,STR,4,1/3 a 2/3,destino mais rápido,11.º em diante,bandeira verde,2022+,para chuva,-4.0,3,2023_13_STR_4,1.0
+2023,13,Zandvoort,2023_13,MAG,9,até 1/3,destino mais rápido,6.º a 10.º,bandeira verde,2022+,para seco,2.0,8,2023_13_MAG_9,-9.0
+2023,13,Zandvoort,2023_13,HAM,9,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2022+,para seco,-3.0,8,2023_13_HAM_9,5.0
+2023,13,Zandvoort,2023_13,STR,9,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2022+,para seco,-1.0,8,2023_13_STR_9,5.0
+2023,13,Zandvoort,2023_13,ALO,10,até 1/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,2.0,9,2023_13_ALO_10,2.0
+2023,13,Zandvoort,2023_13,SAI,10,até 1/3,destino mais rápido,6.º a 10.º,bandeira verde,2022+,para seco,1.0,9,2023_13_SAI_10,0.0
+2023,13,Zandvoort,2023_13,TSU,10,até 1/3,destino mais rápido,6.º a 10.º,bandeira verde,2022+,para seco,-1.0,9,2023_13_TSU_10,-9.0
+2023,13,Zandvoort,2023_13,OCO,10,até 1/3,destino mais rápido,6.º a 10.º,bandeira verde,2022+,para seco,-1.0,9,2023_13_OCO_10,-3.0
+2023,13,Zandvoort,2023_13,NOR,10,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2022+,para seco,-1.0,9,2023_13_NOR_10,2.0
+2023,13,Zandvoort,2023_13,LAW,10,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2022+,para seco,-5.0,9,2023_13_LAW_10,-3.0
+2023,13,Zandvoort,2023_13,RUS,10,até 1/3,destino mais rápido,11.º em diante,bandeira verde,2022+,para seco,-4.0,9,2023_13_RUS_10,-5.0
+2023,13,Zandvoort,2023_13,VER,11,1/3 a 2/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,1.0,10,2023_13_VER_11,1.0
+2023,13,Zandvoort,2023_13,GAS,11,1/3 a 2/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,-1.0,10,2023_13_GAS_11,0.0
+2023,13,Zandvoort,2023_13,PER,12,mais de 2/3,destino mais rápido,top 5,bandeira verde,2022+,para seco,-1.0,11,2023_13_PER_12,-3.0
+2023,13,Zandvoort,2023_13,VER,61,até 1/3,sem referência,top 5,bandeira verde,2022+,para chuva,0.0,60,2023_13_VER_61,0.0
+2023,13,Zandvoort,2023_13,ALO,61,até 1/3,sem referência,top 5,bandeira verde,2022+,para chuva,1.0,60,2023_13_ALO_61,1.0
+2023,13,Zandvoort,2023_13,ALB,61,até 1/3,sem referência,6.º a 10.º,bandeira verde,2022+,para chuva,-3.0,60,2023_13_ALB_61,-2.0
+2023,13,Zandvoort,2023_13,OCO,61,até 1/3,sem referência,6.º a 10.º,bandeira verde,2022+,para chuva,-4.0,60,2023_13_OCO_61,-3.0
+2024,9,Montréal,2024_09,GAS,40,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,-3.0,39,2024_09_GAS_40,3.0
+2024,9,Montréal,2024_09,MAG,41,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,-2.0,40,2024_09_MAG_41,0.0
+2024,9,Montréal,2024_09,BOT,42,até 1/3,sem referência,11.º em diante,bandeira verde,2022+,para seco,-4.0,41,2024_09_BOT_42,-2.0
+2024,9,Montréal,2024_09,HAM,43,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para seco,0.0,42,2024_09_HAM_43,1.0
+2024,9,Montréal,2024_09,RIC,43,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para seco,0.0,42,2024_09_RIC_43,2.0
+2024,9,Montréal,2024_09,PIA,44,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para seco,0.0,43,2024_09_PIA_44,-1.0
+2024,9,Montréal,2024_09,ALO,44,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para seco,-1.0,43,2024_09_ALO_44,-1.0
+2024,9,Montréal,2024_09,TSU,44,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para seco,-1.0,43,2024_09_TSU_44,-8.0
+2024,9,Montréal,2024_09,STR,44,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para seco,0.0,43,2024_09_STR_44,1.0
+2024,9,Montréal,2024_09,OCO,44,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para seco,0.0,43,2024_09_OCO_44,-1.0
+2024,9,Montréal,2024_09,HUL,44,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para seco,-4.0,43,2024_09_HUL_44,-1.0
+2024,9,Montréal,2024_09,ZHO,44,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para seco,-6.0,43,2024_09_ZHO_44,-4.0
+2024,9,Montréal,2024_09,VER,45,1/3 a 2/3,parecido,top 5,bandeira verde,2022+,para seco,0.0,44,2024_09_VER_45,0.0
+2024,9,Montréal,2024_09,RUS,45,1/3 a 2/3,parecido,top 5,bandeira verde,2022+,para seco,-1.0,44,2024_09_RUS_45,-1.0
+2024,9,Montréal,2024_09,NOR,47,mais de 2/3,parecido,top 5,bandeira verde,2022+,para seco,-2.0,46,2024_09_NOR_47,-1.0
+2024,12,Silverstone,2024_12,LEC,19,nenhum,sem referência,6.º a 10.º,bandeira verde,2022+,para chuva,-9.0,18,2024_12_LEC_19,-8.0
+2024,12,Silverstone,2024_12,PER,19,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para chuva,-2.0,18,2024_12_PER_19,-3.0
+2024,12,Silverstone,2024_12,OCO,19,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para chuva,0.0,18,2024_12_OCO_19,1.0
+2024,12,Silverstone,2024_12,ZHO,19,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para chuva,0.0,18,2024_12_ZHO_19,0.0
+2024,12,Silverstone,2024_12,OCO,21,mais de 2/3,sem referência,11.º em diante,bandeira verde,2022+,para seco,0.0,20,2024_12_OCO_21,1.0
+2024,12,Silverstone,2024_12,VER,26,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para chuva,2.0,25,2024_12_VER_26,2.0
+2024,12,Silverstone,2024_12,SAI,26,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para chuva,1.0,25,2024_12_SAI_26,0.0
+2024,12,Silverstone,2024_12,HUL,26,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para chuva,0.0,25,2024_12_HUL_26,0.0
+2024,12,Silverstone,2024_12,STR,26,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para chuva,1.0,25,2024_12_STR_26,1.0
+2024,12,Silverstone,2024_12,RIC,26,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,0.0,25,2024_12_RIC_26,0.0
+2024,12,Silverstone,2024_12,BOT,26,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,0.0,25,2024_12_BOT_26,-1.0
+2024,12,Silverstone,2024_12,OCO,26,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,0.0,25,2024_12_OCO_26,1.0
+2024,12,Silverstone,2024_12,NOR,27,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para chuva,0.0,26,2024_12_NOR_27,-2.0
+2024,12,Silverstone,2024_12,HAM,27,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para chuva,1.0,26,2024_12_HAM_27,2.0
+2024,12,Silverstone,2024_12,ALO,27,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para chuva,0.0,26,2024_12_ALO_27,0.0
+2024,12,Silverstone,2024_12,TSU,27,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para chuva,0.0,26,2024_12_TSU_27,-1.0
+2024,12,Silverstone,2024_12,ALB,27,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,0.0,26,2024_12_ALB_27,1.0
+2024,12,Silverstone,2024_12,MAG,27,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,0.0,26,2024_12_MAG_27,-1.0
+2024,12,Silverstone,2024_12,SAR,27,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,0.0,26,2024_12_SAR_27,1.0
+2024,12,Silverstone,2024_12,PIA,28,1/3 a 2/3,destino mais lento,top 5,bandeira verde,2022+,para chuva,-3.0,27,2024_12_PIA_28,-1.0
+2024,12,Silverstone,2024_12,MAG,37,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,0.0,36,2024_12_MAG_37,-1.0
+2024,12,Silverstone,2024_12,RIC,37,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,0.0,36,2024_12_RIC_37,0.0
+2024,12,Silverstone,2024_12,BOT,37,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,0.0,36,2024_12_BOT_37,-1.0
+2024,12,Silverstone,2024_12,LEC,37,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,0.0,36,2024_12_LEC_37,1.0
+2024,12,Silverstone,2024_12,PER,37,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,0.0,36,2024_12_PER_37,-1.0
+2024,12,Silverstone,2024_12,ZHO,37,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,0.0,36,2024_12_ZHO_37,0.0
+2024,12,Silverstone,2024_12,HAM,38,nenhum,sem referência,top 5,bandeira verde,2022+,para seco,1.0,37,2024_12_HAM_38,1.0
+2024,12,Silverstone,2024_12,VER,38,nenhum,sem referência,top 5,bandeira verde,2022+,para seco,0.0,37,2024_12_VER_38,1.0
+2024,12,Silverstone,2024_12,PIA,38,nenhum,sem referência,top 5,bandeira verde,2022+,para seco,1.0,37,2024_12_PIA_38,1.0
+2024,12,Silverstone,2024_12,ALO,38,nenhum,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,0.0,37,2024_12_ALO_38,0.0
+2024,12,Silverstone,2024_12,TSU,38,nenhum,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,0.0,37,2024_12_TSU_38,-1.0
+2024,12,Silverstone,2024_12,ALB,38,nenhum,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,0.0,37,2024_12_ALB_38,1.0
+2024,12,Silverstone,2024_12,SAR,38,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,1.0,37,2024_12_SAR_38,2.0
+2024,12,Silverstone,2024_12,OCO,38,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,0.0,37,2024_12_OCO_38,1.0
+2024,12,Silverstone,2024_12,NOR,39,1/3 a 2/3,sem referência,top 5,bandeira verde,2022+,para seco,-1.0,38,2024_12_NOR_39,-2.0
+2024,12,Silverstone,2024_12,SAI,39,1/3 a 2/3,sem referência,top 5,bandeira verde,2022+,para seco,0.0,38,2024_12_SAI_39,0.0
+2024,12,Silverstone,2024_12,HUL,39,1/3 a 2/3,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,0.0,38,2024_12_HUL_39,0.0
+2024,12,Silverstone,2024_12,STR,39,1/3 a 2/3,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,0.0,38,2024_12_STR_39,0.0
+2025,1,Melbourne,2025_01,TSU,33,nenhum,sem referência,6.º a 10.º,safety car ou VSC,2022+,para seco,0.0,32,2025_01_TSU_33,-6.0
+2025,1,Melbourne,2025_01,ALB,33,nenhum,sem referência,6.º a 10.º,safety car ou VSC,2022+,para seco,0.0,32,2025_01_ALB_33,2.0
+2025,1,Melbourne,2025_01,HAM,33,nenhum,sem referência,6.º a 10.º,safety car ou VSC,2022+,para seco,0.0,32,2025_01_HAM_33,-2.0
+2025,1,Melbourne,2025_01,GAS,33,nenhum,sem referência,6.º a 10.º,safety car ou VSC,2022+,para seco,0.0,32,2025_01_GAS_33,-2.0
+2025,1,Melbourne,2025_01,ANT,33,nenhum,sem referência,11.º em diante,safety car ou VSC,2022+,para seco,0.0,32,2025_01_ANT_33,6.0
+2025,1,Melbourne,2025_01,STR,33,nenhum,sem referência,11.º em diante,safety car ou VSC,2022+,para seco,0.0,32,2025_01_STR_33,5.0
+2025,1,Melbourne,2025_01,HUL,33,nenhum,sem referência,11.º em diante,safety car ou VSC,2022+,para seco,0.0,32,2025_01_HUL_33,5.0
+2025,1,Melbourne,2025_01,NOR,34,nenhum,sem referência,top 5,safety car ou VSC,2022+,para seco,0.0,33,2025_01_NOR_34,0.0
+2025,1,Melbourne,2025_01,PIA,34,nenhum,sem referência,top 5,safety car ou VSC,2022+,para seco,0.0,33,2025_01_PIA_34,-7.0
+2025,1,Melbourne,2025_01,VER,34,nenhum,sem referência,top 5,safety car ou VSC,2022+,para seco,0.0,33,2025_01_VER_34,1.0
+2025,1,Melbourne,2025_01,RUS,34,nenhum,sem referência,top 5,safety car ou VSC,2022+,para seco,0.0,33,2025_01_RUS_34,1.0
+2025,1,Melbourne,2025_01,LEC,34,nenhum,sem referência,top 5,safety car ou VSC,2022+,para seco,0.0,33,2025_01_LEC_34,-3.0
+2025,1,Melbourne,2025_01,OCO,39,mais de 2/3,destino mais lento,11.º em diante,safety car ou VSC,2022+,para seco,-1.0,38,2025_01_OCO_39,0.0
+2025,1,Melbourne,2025_01,BEA,39,mais de 2/3,destino mais lento,11.º em diante,safety car ou VSC,2022+,para seco,-1.0,38,2025_01_BEA_39,0.0
+2025,1,Melbourne,2025_01,VER,46,1/3 a 2/3,sem referência,top 5,bandeira verde,2022+,para chuva,-1.0,45,2025_01_VER_46,-1.0
+2025,1,Melbourne,2025_01,GAS,46,1/3 a 2/3,sem referência,top 5,bandeira verde,2022+,para chuva,-4.0,45,2025_01_GAS_46,-7.0
+2025,1,Melbourne,2025_01,OCO,46,1/3 a 2/3,sem referência,11.º em diante,safety car ou VSC,2022+,para chuva,0.0,45,2025_01_OCO_46,-1.0
+2025,1,Melbourne,2025_01,HAM,47,1/3 a 2/3,destino mais rápido,top 5,safety car ou VSC,2022+,para chuva,-8.0,46,2025_01_HAM_47,-9.0
+2025,1,Melbourne,2025_01,LEC,47,1/3 a 2/3,destino mais rápido,top 5,safety car ou VSC,2022+,para chuva,-8.0,46,2025_01_LEC_47,-6.0
+2025,1,Melbourne,2025_01,TSU,47,1/3 a 2/3,destino mais rápido,top 5,safety car ou VSC,2022+,para chuva,-7.0,46,2025_01_TSU_47,-8.0
+2025,12,Silverstone,2025_12,STR,6,até 1/3,destino mais lento,11.º em diante,safety car ou VSC,2022+,para seco,0.0,5,2025_12_STR_6,4.0
+2025,12,Silverstone,2025_12,STR,10,mais de 2/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,7.0,9,2025_12_STR_10,4.0
+2025,12,Silverstone,2025_12,RUS,10,mais de 2/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,4.0,9,2025_12_RUS_10,3.0
+2025,12,Silverstone,2025_12,LEC,10,mais de 2/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,1.0,9,2025_12_LEC_10,0.0
+2025,12,Silverstone,2025_12,BEA,10,mais de 2/3,destino mais lento,11.º em diante,bandeira verde,2022+,para chuva,0.0,9,2025_12_BEA_10,4.0
+2025,12,Silverstone,2025_12,ALO,37,nenhum,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,-7.0,36,2025_12_ALO_37,-1.0
+2025,12,Silverstone,2025_12,RUS,38,nenhum,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,-6.0,37,2025_12_RUS_38,-2.0
+2025,12,Silverstone,2025_12,HAM,41,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para seco,0.0,40,2025_12_HAM_41,0.0
+2025,12,Silverstone,2025_12,STR,41,até 1/3,destino mais lento,top 5,bandeira verde,2022+,para seco,0.0,40,2025_12_STR_41,-2.0
+2025,12,Silverstone,2025_12,VER,41,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para seco,1.0,40,2025_12_VER_41,2.0
+2025,12,Silverstone,2025_12,GAS,41,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para seco,-1.0,40,2025_12_GAS_41,0.0
+2025,12,Silverstone,2025_12,SAI,41,até 1/3,destino mais lento,6.º a 10.º,bandeira verde,2022+,para seco,-3.0,40,2025_12_SAI_41,-3.0
+2025,12,Silverstone,2025_12,BEA,41,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para seco,0.0,40,2025_12_BEA_41,0.0
+2025,12,Silverstone,2025_12,TSU,41,até 1/3,destino mais lento,11.º em diante,bandeira verde,2022+,para seco,-2.0,40,2025_12_TSU_41,-2.0
+2025,12,Silverstone,2025_12,HUL,42,até 1/3,parecido,top 5,bandeira verde,2022+,para seco,0.0,41,2025_12_HUL_42,0.0
+2025,12,Silverstone,2025_12,LEC,42,até 1/3,parecido,6.º a 10.º,bandeira verde,2022+,para seco,-6.0,41,2025_12_LEC_42,-6.0
+2025,12,Silverstone,2025_12,ALB,42,até 1/3,parecido,11.º em diante,bandeira verde,2022+,para seco,2.0,41,2025_12_ALB_42,3.0
+2025,12,Silverstone,2025_12,OCO,42,até 1/3,parecido,11.º em diante,bandeira verde,2022+,para seco,-1.0,41,2025_12_OCO_42,-1.0
+2025,12,Silverstone,2025_12,PIA,43,1/3 a 2/3,destino mais lento,top 5,bandeira verde,2022+,para seco,-1.0,42,2025_12_PIA_43,-1.0
+2025,12,Silverstone,2025_12,NOR,44,mais de 2/3,parecido,top 5,bandeira verde,2022+,para seco,1.0,43,2025_12_NOR_44,1.0
+2025,13,Spa-Francorchamps,2025_13,HAM,11,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,6.0,10,2025_13_HAM_11,6.0
+2025,13,Spa-Francorchamps,2025_13,GAS,11,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,3.0,10,2025_13_GAS_11,4.0
+2025,13,Spa-Francorchamps,2025_13,HUL,11,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,6.0,10,2025_13_HUL_11,3.0
+2025,13,Spa-Francorchamps,2025_13,ALO,11,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,6.0,10,2025_13_ALO_11,2.0
+2025,13,Spa-Francorchamps,2025_13,PIA,12,nenhum,sem referência,top 5,bandeira verde,2022+,para seco,0.0,11,2025_13_PIA_12,0.0
+2025,13,Spa-Francorchamps,2025_13,LEC,12,nenhum,sem referência,top 5,bandeira verde,2022+,para seco,0.0,11,2025_13_LEC_12,0.0
+2025,13,Spa-Francorchamps,2025_13,VER,12,nenhum,sem referência,top 5,bandeira verde,2022+,para seco,0.0,11,2025_13_VER_12,0.0
+2025,13,Spa-Francorchamps,2025_13,RUS,12,nenhum,sem referência,top 5,bandeira verde,2022+,para seco,0.0,11,2025_13_RUS_12,0.0
+2025,13,Spa-Francorchamps,2025_13,ALB,12,nenhum,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,0.0,11,2025_13_ALB_12,0.0
+2025,13,Spa-Francorchamps,2025_13,LAW,12,nenhum,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,1.0,11,2025_13_LAW_12,1.0
+2025,13,Spa-Francorchamps,2025_13,BOR,12,nenhum,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,0.0,11,2025_13_BOR_12,1.0
+2025,13,Spa-Francorchamps,2025_13,BEA,12,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,-3.0,11,2025_13_BEA_12,0.0
+2025,13,Spa-Francorchamps,2025_13,COL,12,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,-2.0,11,2025_13_COL_12,-6.0
+2025,13,Spa-Francorchamps,2025_13,SAI,12,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,-4.0,11,2025_13_SAI_12,-3.0
+2025,13,Spa-Francorchamps,2025_13,ANT,12,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,-1.0,11,2025_13_ANT_12,0.0
+2025,13,Spa-Francorchamps,2025_13,STR,12,nenhum,sem referência,11.º em diante,bandeira verde,2022+,para seco,-1.0,11,2025_13_STR_12,3.0
+2025,13,Spa-Francorchamps,2025_13,NOR,13,até 1/3,sem referência,top 5,bandeira verde,2022+,para seco,-1.0,12,2025_13_NOR_13,-1.0
+2025,13,Spa-Francorchamps,2025_13,TSU,13,até 1/3,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,-6.0,12,2025_13_TSU_13,-7.0
+2025,13,Spa-Francorchamps,2025_13,HAD,13,até 1/3,sem referência,6.º a 10.º,bandeira verde,2022+,para seco,-8.0,12,2025_13_HAD_13,-12.0
+2025,13,Spa-Francorchamps,2025_13,OCO,13,até 1/3,sem referência,11.º em diante,bandeira verde,2022+,para seco,-9.0,12,2025_13_OCO_13,-4.0
