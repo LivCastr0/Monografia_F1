@@ -48,6 +48,7 @@ Registros detalhados de cada análise na pasta `claude/` do projeto no claude.ai
 - SD com as features da Etapa 1 como descritores, H1–H5 (`sd_features_etapa1.py`): nenhuma confirmada pela SD; H1 e H3 passam no critério contínuo
 - Pilotos de ar sujo e de setores: medidas sem resolução para análise completa; setores com mais frenagens por km degradam mais
 - Fichas descritivas dos clusters (`fichas_clusters.py`)
+- Tipologia comportamental (`tipologia_comportamental.py`, critérios fixados antes de rodar): 8 medidas de corrida são estáveis por circuito, mas o agrupamento não se repete entre metades das corridas (ARI 0,08); a análise para no passo 4
 
 ### Correções em 2026-11-11
 
