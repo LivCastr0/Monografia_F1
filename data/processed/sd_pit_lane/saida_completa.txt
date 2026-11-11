@@ -1,0 +1,194 @@
+
+==============================================================================
+TERCIS DO PIT LANE (26 circuitos)
+==============================================================================
+                   pit_lane_time_loss_s tercil
+circuito                                      
+Montréal                           18.4  baixa
+Spa-Francorchamps                  18.8  baixa
+Jeddah                             19.2  baixa
+Melbourne                          19.3  baixa
+Monaco                             19.4  baixa
+Baku                               19.7  baixa
+Silverstone                        19.9  baixa
+Miami                              19.9  baixa
+Las Vegas                          20.0  baixa
+Spielberg                          20.3  média
+Budapest                           20.6  média
+Austin                             20.6  média
+São Paulo                          20.8  média
+Yas Island                         21.0  média
+Mexico City                        21.9  média
+Barcelona                          22.2  média
+Suzuka                             22.7  média
+Sakhir                             22.9   alta
+Zandvoort                          23.0   alta
+Shanghai                           23.9   alta
+Monza                              24.3   alta
+Sochi                              25.0   alta
+Lusail                             26.3   alta
+Le Castellet                       27.0   alta
+Imola                              28.2   alta
+Singapore                          29.1   alta
+
+==============================================================================
+H6a: alvo parou (121075 linhas, 26 circuitos)
+==============================================================================
+Média geral 0.0291; elegíveis 432; limiar |z| 7.71; firmes 244; firmes com feature 31
+
+Maiores |z| com feature:
+                                                   descricao  linhas  circuitos   media  diferenca        z  firme
+ neutralizacao=safety car ou VSC E pit_lane_time_loss_s=alta    1528          9 +0.1675    +0.1384 +32.1648   True
+neutralizacao=safety car ou VSC E pit_lane_time_loss_s=baixa    1668          9 +0.1457    +0.1165 +28.2991   True
+        idade_pneu=20–29 voltas E pit_lane_time_loss_s=média   10085          8 +0.0601    +0.0310 +18.4793   True
+  rival_tras=rival de trás parou E pit_lane_time_loss_s=alta     843          9 +0.1352    +0.1061 +18.3139   True
+neutralizacao=safety car ou VSC E pit_lane_time_loss_s=média    1383          8 +0.1056    +0.0764 +16.8986   True
+          idade_pneu=0–9 voltas E pit_lane_time_loss_s=média   17282          8 +0.0077    -0.0214 -16.7598   True
+       paradas_feitas=0 paradas E pit_lane_time_loss_s=baixa   11154          9 +0.0548    +0.0256 +16.0994   True
+       paradas_feitas=0 paradas E pit_lane_time_loss_s=média   17259          8 +0.0497    +0.0205 +16.0247   True
+ rival_tras=rival de trás parou E pit_lane_time_loss_s=média    1199          8 +0.1043    +0.0751 +15.4638   True
+        paradas_feitas=0 paradas E pit_lane_time_loss_s=alta   11908          9 +0.0528    +0.0237 +15.3650   True
+
+A pista acrescenta? (limiar |z_acr| 11.98, 31 testados)
+                                         descricao  linhas  circuitos   media  referencia_outras_pistas  diferenca_da_pista   z_acr  acrescenta  firme_na_busca  previsto
+neutralizacao=safety car ou VSC E pit_lane_time...    1383          8 +0.1056                   +0.1561             -0.0506 -9.3403       False            True     False
+idade_pneu=20–29 voltas E pit_lane_time_loss_s=...   10085          8 +0.0601                   +0.0423             +0.0178 +7.9108       False            True     False
+neutralizacao=safety car ou VSC E pit_lane_time...    1528          9 +0.1675                   +0.1275             +0.0400 +7.5958       False            True      True
+neutralizacao=bandeira verde E pit_lane_time_lo...   33429          9 +0.0209                   +0.0263             -0.0054 -4.9403       False            True     False
+rival_tras=rival de trás parou E pit_lane_time_...     843          9 +0.1352                   +0.1043             +0.0309 +4.4470       False            True     False
+    fase=segundo terço E pit_lane_time_loss_s=alta   12116          9 +0.0457                   +0.0378             +0.0079 +4.3586       False            True     False
+rival_frente=rival da frente parou E pit_lane_t...     785          9 +0.1134                   +0.0837             +0.0296 +4.1237       False            True     False
+       composto=médio E pit_lane_time_loss_s=baixa    9300          9 +0.0452                   +0.0371             +0.0081 +4.0768       False            True     False
+paradas_feitas=1 parada E pit_lane_time_loss_s=...   17853          9 +0.0161                   +0.0221             -0.0060 -3.9518       False            True     False
+dist_frente=mais de 3 s E pit_lane_time_loss_s=...   15473          9 +0.0405                   +0.0346             +0.0058 +3.6404       False            True     False
+        composto=macio E pit_lane_time_loss_s=alta    6809          9 +0.0480                   +0.0403             +0.0077 +3.1060       False            True     False
+idade_pneu=30+ voltas E pit_lane_time_loss_s=média    4535          8 +0.0507                   +0.0414             +0.0093 +2.9129       False            True     False
+
+H6a: NÃO CONFIRMADA. Previstos: neutralizacao=safety car ou VSC E pit_lane_time_loss_s=alta +0.0400 (z_acr +7.60, não acrescenta, firme)
+   contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.20, p = 0.8331
+
+==============================================================================
+H6b: alvo parou (121075 linhas, 26 circuitos)
+==============================================================================
+Média geral 0.0291; elegíveis 432; limiar |z| 7.71; firmes 244; firmes com feature 31
+
+Maiores |z| com feature:
+                                                   descricao  linhas  circuitos   media  diferenca        z  firme
+ neutralizacao=safety car ou VSC E pit_lane_time_loss_s=alta    1528          9 +0.1675    +0.1384 +32.1648   True
+neutralizacao=safety car ou VSC E pit_lane_time_loss_s=baixa    1668          9 +0.1457    +0.1165 +28.2991   True
+        idade_pneu=20–29 voltas E pit_lane_time_loss_s=média   10085          8 +0.0601    +0.0310 +18.4793   True
+  rival_tras=rival de trás parou E pit_lane_time_loss_s=alta     843          9 +0.1352    +0.1061 +18.3139   True
+neutralizacao=safety car ou VSC E pit_lane_time_loss_s=média    1383          8 +0.1056    +0.0764 +16.8986   True
+          idade_pneu=0–9 voltas E pit_lane_time_loss_s=média   17282          8 +0.0077    -0.0214 -16.7598   True
+       paradas_feitas=0 paradas E pit_lane_time_loss_s=baixa   11154          9 +0.0548    +0.0256 +16.0994   True
+       paradas_feitas=0 paradas E pit_lane_time_loss_s=média   17259          8 +0.0497    +0.0205 +16.0247   True
+ rival_tras=rival de trás parou E pit_lane_time_loss_s=média    1199          8 +0.1043    +0.0751 +15.4638   True
+        paradas_feitas=0 paradas E pit_lane_time_loss_s=alta   11908          9 +0.0528    +0.0237 +15.3650   True
+
+A pista acrescenta? (limiar |z_acr| 11.98, 31 testados)
+                                         descricao  linhas  circuitos   media  referencia_outras_pistas  diferenca_da_pista   z_acr  acrescenta  firme_na_busca  previsto
+neutralizacao=safety car ou VSC E pit_lane_time...    1383          8 +0.1056                   +0.1561             -0.0506 -9.3403       False            True     False
+idade_pneu=20–29 voltas E pit_lane_time_loss_s=...   10085          8 +0.0601                   +0.0423             +0.0178 +7.9108       False            True     False
+neutralizacao=safety car ou VSC E pit_lane_time...    1528          9 +0.1675                   +0.1275             +0.0400 +7.5958       False            True     False
+neutralizacao=bandeira verde E pit_lane_time_lo...   33429          9 +0.0209                   +0.0263             -0.0054 -4.9403       False            True     False
+rival_tras=rival de trás parou E pit_lane_time_...     843          9 +0.1352                   +0.1043             +0.0309 +4.4470       False            True     False
+    fase=segundo terço E pit_lane_time_loss_s=alta   12116          9 +0.0457                   +0.0378             +0.0079 +4.3586       False            True      True
+rival_frente=rival da frente parou E pit_lane_t...     785          9 +0.1134                   +0.0837             +0.0296 +4.1237       False            True     False
+       composto=médio E pit_lane_time_loss_s=baixa    9300          9 +0.0452                   +0.0371             +0.0081 +4.0768       False            True     False
+paradas_feitas=1 parada E pit_lane_time_loss_s=...   17853          9 +0.0161                   +0.0221             -0.0060 -3.9518       False            True     False
+dist_frente=mais de 3 s E pit_lane_time_loss_s=...   15473          9 +0.0405                   +0.0346             +0.0058 +3.6404       False            True     False
+        composto=macio E pit_lane_time_loss_s=alta    6809          9 +0.0480                   +0.0403             +0.0077 +3.1060       False            True     False
+idade_pneu=30+ voltas E pit_lane_time_loss_s=média    4535          8 +0.0507                   +0.0414             +0.0093 +2.9129       False            True     False
+
+H6b: NÃO CONFIRMADA. Previstos: fase=segundo terço E pit_lane_time_loss_s=alta +0.0079 (z_acr +4.36, não acrescenta, firme); idade_pneu=20–29 voltas E pit_lane_time_loss_s=alta +0.0059 (z_acr +2.34, não acrescenta, firme)
+   contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.20, p = 0.8331
+
+==============================================================================
+SENSIBILIDADE: SEM MÔNACO E SINGAPURA
+==============================================================================
+
+==============================================================================
+H6a_sem_urbanos: alvo parou (113015 linhas, 24 circuitos)
+==============================================================================
+Média geral 0.0299; elegíveis 432; limiar |z| 7.17; firmes 252; firmes com feature 32
+
+Maiores |z| com feature:
+                                                   descricao  linhas  circuitos   media  diferenca        z  firme
+ neutralizacao=safety car ou VSC E pit_lane_time_loss_s=alta    1329          8 +0.1723    +0.1424 +30.5090   True
+neutralizacao=safety car ou VSC E pit_lane_time_loss_s=baixa    1636          8 +0.1485    +0.1187 +28.1997   True
+  rival_tras=rival de trás parou E pit_lane_time_loss_s=alta     767          8 +0.1434    +0.1136 +18.4760   True
+        idade_pneu=20–29 voltas E pit_lane_time_loss_s=média   10085          8 +0.0601    +0.0302 +17.8333   True
+          idade_pneu=0–9 voltas E pit_lane_time_loss_s=média   17282          8 +0.0077    -0.0222 -17.1208   True
+neutralizacao=safety car ou VSC E pit_lane_time_loss_s=média    1383          8 +0.1056    +0.0757 +16.5403   True
+       paradas_feitas=0 paradas E pit_lane_time_loss_s=baixa   10049          8 +0.0574    +0.0276 +16.2286   True
+       paradas_feitas=0 paradas E pit_lane_time_loss_s=média   17259          8 +0.0497    +0.0198 +15.2760   True
+ rival_tras=rival de trás parou E pit_lane_time_loss_s=média    1199          8 +0.1043    +0.0744 +15.1335   True
+        paradas_feitas=0 paradas E pit_lane_time_loss_s=alta   10185          8 +0.0548    +0.0249 +14.7773   True
+
+A pista acrescenta? (limiar |z_acr| 11.86, 32 testados)
+                                         descricao  linhas  circuitos   media  referencia_outras_pistas  diferenca_da_pista   z_acr  acrescenta  firme_na_busca  previsto
+neutralizacao=safety car ou VSC E pit_lane_time...    1383          8 +0.1056                   +0.1592             -0.0536 -9.6748       False            True     False
+neutralizacao=safety car ou VSC E pit_lane_time...    1329          8 +0.1723                   +0.1289             +0.0435 +7.7561       False            True      True
+idade_pneu=20–29 voltas E pit_lane_time_loss_s=...   10085          8 +0.0601                   +0.0453             +0.0148 +6.3111       False            True     False
+       composto=médio E pit_lane_time_loss_s=baixa    8211          8 +0.0483                   +0.0376             +0.0108 +5.0810       False            True     False
+rival_tras=rival de trás parou E pit_lane_time_...     767          8 +0.1434                   +0.1067             +0.0367 +5.0278       False            True     False
+    fase=segundo terço E pit_lane_time_loss_s=alta   10685          8 +0.0478                   +0.0384             +0.0094 +4.8598       False            True     False
+rival_frente=rival da frente parou E pit_lane_t...     720          8 +0.1194                   +0.0837             +0.0358 +4.7603       False            True     False
+neutralizacao=bandeira verde E pit_lane_time_lo...   29621          8 +0.0216                   +0.0268             -0.0052 -4.5034       False            True     False
+dist_frente=mais de 3 s E pit_lane_time_loss_s=...   13732          8 +0.0422                   +0.0354             +0.0068 +3.9899       False            True     False
+paradas_feitas=1 parada E pit_lane_time_loss_s=...   15773          8 +0.0167                   +0.0229             -0.0062 -3.8317       False            True     False
+paradas_feitas=0 paradas E pit_lane_time_loss_s...   17259          8 +0.0497                   +0.0561             -0.0064 -3.6506       False            True     False
+rival_tras=rival de trás parou E pit_lane_time_...    1199          8 +0.1043                   +0.1285             -0.0243 -3.6360       False            True     False
+
+H6a_sem_urbanos: NÃO CONFIRMADA. Previstos: neutralizacao=safety car ou VSC E pit_lane_time_loss_s=alta +0.0435 (z_acr +7.76, não acrescenta, firme)
+   contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.24, p = 0.8693
+
+==============================================================================
+H6b_sem_urbanos: alvo parou (113015 linhas, 24 circuitos)
+==============================================================================
+Média geral 0.0299; elegíveis 432; limiar |z| 7.17; firmes 252; firmes com feature 32
+
+Maiores |z| com feature:
+                                                   descricao  linhas  circuitos   media  diferenca        z  firme
+ neutralizacao=safety car ou VSC E pit_lane_time_loss_s=alta    1329          8 +0.1723    +0.1424 +30.5090   True
+neutralizacao=safety car ou VSC E pit_lane_time_loss_s=baixa    1636          8 +0.1485    +0.1187 +28.1997   True
+  rival_tras=rival de trás parou E pit_lane_time_loss_s=alta     767          8 +0.1434    +0.1136 +18.4760   True
+        idade_pneu=20–29 voltas E pit_lane_time_loss_s=média   10085          8 +0.0601    +0.0302 +17.8333   True
+          idade_pneu=0–9 voltas E pit_lane_time_loss_s=média   17282          8 +0.0077    -0.0222 -17.1208   True
+neutralizacao=safety car ou VSC E pit_lane_time_loss_s=média    1383          8 +0.1056    +0.0757 +16.5403   True
+       paradas_feitas=0 paradas E pit_lane_time_loss_s=baixa   10049          8 +0.0574    +0.0276 +16.2286   True
+       paradas_feitas=0 paradas E pit_lane_time_loss_s=média   17259          8 +0.0497    +0.0198 +15.2760   True
+ rival_tras=rival de trás parou E pit_lane_time_loss_s=média    1199          8 +0.1043    +0.0744 +15.1335   True
+        paradas_feitas=0 paradas E pit_lane_time_loss_s=alta   10185          8 +0.0548    +0.0249 +14.7773   True
+
+A pista acrescenta? (limiar |z_acr| 11.86, 32 testados)
+                                         descricao  linhas  circuitos   media  referencia_outras_pistas  diferenca_da_pista   z_acr  acrescenta  firme_na_busca  previsto
+neutralizacao=safety car ou VSC E pit_lane_time...    1383          8 +0.1056                   +0.1592             -0.0536 -9.6748       False            True     False
+neutralizacao=safety car ou VSC E pit_lane_time...    1329          8 +0.1723                   +0.1289             +0.0435 +7.7561       False            True     False
+idade_pneu=20–29 voltas E pit_lane_time_loss_s=...   10085          8 +0.0601                   +0.0453             +0.0148 +6.3111       False            True     False
+       composto=médio E pit_lane_time_loss_s=baixa    8211          8 +0.0483                   +0.0376             +0.0108 +5.0810       False            True     False
+rival_tras=rival de trás parou E pit_lane_time_...     767          8 +0.1434                   +0.1067             +0.0367 +5.0278       False            True     False
+    fase=segundo terço E pit_lane_time_loss_s=alta   10685          8 +0.0478                   +0.0384             +0.0094 +4.8598       False            True      True
+rival_frente=rival da frente parou E pit_lane_t...     720          8 +0.1194                   +0.0837             +0.0358 +4.7603       False            True     False
+neutralizacao=bandeira verde E pit_lane_time_lo...   29621          8 +0.0216                   +0.0268             -0.0052 -4.5034       False            True     False
+dist_frente=mais de 3 s E pit_lane_time_loss_s=...   13732          8 +0.0422                   +0.0354             +0.0068 +3.9899       False            True     False
+paradas_feitas=1 parada E pit_lane_time_loss_s=...   15773          8 +0.0167                   +0.0229             -0.0062 -3.8317       False            True     False
+paradas_feitas=0 paradas E pit_lane_time_loss_s...   17259          8 +0.0497                   +0.0561             -0.0064 -3.6506       False            True     False
+rival_tras=rival de trás parou E pit_lane_time_...    1199          8 +0.1043                   +0.1285             -0.0243 -3.6360       False            True     False
+
+H6b_sem_urbanos: NÃO CONFIRMADA. Previstos: fase=segundo terço E pit_lane_time_loss_s=alta +0.0094 (z_acr +4.86, não acrescenta, firme); idade_pneu=20–29 voltas E pit_lane_time_loss_s=alta +0.0065 (z_acr +2.41, não acrescenta, firme)
+   contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.24, p = 0.8693
+
+==============================================================================
+RESUMO
+==============================================================================
+H6a: NÃO CONFIRMADA. Previstos: neutralizacao=safety car ou VSC E pit_lane_time_loss_s=alta +0.0400 (z_acr +7.60, não acrescenta, firme)
+   contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.20, p = 0.8331
+H6b: NÃO CONFIRMADA. Previstos: fase=segundo terço E pit_lane_time_loss_s=alta +0.0079 (z_acr +4.36, não acrescenta, firme); idade_pneu=20–29 voltas E pit_lane_time_loss_s=alta +0.0059 (z_acr +2.34, não acrescenta, firme)
+   contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.20, p = 0.8331
+   informativo: Spearman pit lane x taxa de parada por volta = +0.20 (previsto -), p unilateral = 0.8294, 26 circuitos
+   informativo: Spearman pit lane x idade do pneu na parada (mediana) = +0.23 (previsto +), p unilateral = 0.1248, 26 circuitos
+[sem urbanos] H6a_sem_urbanos: NÃO CONFIRMADA. Previstos: neutralizacao=safety car ou VSC E pit_lane_time_loss_s=alta +0.0435 (z_acr +7.76, não acrescenta, firme)
+[sem urbanos]    contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.24, p = 0.8693
+[sem urbanos] H6b_sem_urbanos: NÃO CONFIRMADA. Previstos: fase=segundo terço E pit_lane_time_loss_s=alta +0.0094 (z_acr +4.86, não acrescenta, firme); idade_pneu=20–29 voltas E pit_lane_time_loss_s=alta +0.0065 (z_acr +2.41, não acrescenta, firme)
+[sem urbanos]    contínuo (informativo): Spearman alvo médio x pit_lane_time_loss_s = +0.24, p = 0.8693
