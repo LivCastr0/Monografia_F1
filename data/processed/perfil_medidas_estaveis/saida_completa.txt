@@ -1,0 +1,30 @@
+medida                                  descricao  eta2  eta2_mediana_acaso  eta2_95_acaso     p  p_holm                  versao
+    N1                      Taxa de ultrapassagem 0.044               0.066          0.259 0.630   1.000 sem urbanos (principal)
+    N5                   Taxa de parada por volta 0.010               0.068          0.257 0.904   1.000 sem urbanos (principal)
+    N6                    Idade do pneu na parada 0.020               0.067          0.259 0.821   1.000 sem urbanos (principal)
+    N7                         Degradação do pneu 0.018               0.067          0.254 0.841   1.000 sem urbanos (principal)
+    D2 Efeito: pneu 10+ mais novo, defensor livre 0.057               0.067          0.258 0.557   1.000 sem urbanos (principal)
+    D3        Efeito: 0,3 a 0,6 s, defensor livre 0.003               0.066          0.267 0.975   1.000 sem urbanos (principal)
+    D8            Efeito: defensor em trem de DRS 0.032               0.066          0.267 0.725   1.000 sem urbanos (principal)
+    P4      Efeito: 2.º terço e pneu 20–29 voltas 0.019               0.069          0.247 0.841   1.000 sem urbanos (principal)
+    N1                      Taxa de ultrapassagem 0.320               0.104          0.303 0.039   0.310             com urbanos
+    N5                   Taxa de parada por volta 0.173               0.103          0.304 0.259   1.000             com urbanos
+    N6                    Idade do pneu na parada 0.299               0.105          0.312 0.059   0.416             com urbanos
+    N7                         Degradação do pneu 0.138               0.103          0.302 0.361   1.000             com urbanos
+    D2 Efeito: pneu 10+ mais novo, defensor livre 0.148               0.104          0.304 0.317   1.000             com urbanos
+    D3        Efeito: 0,3 a 0,6 s, defensor livre 0.045               0.105          0.297 0.799   1.000             com urbanos
+    D8            Efeito: defensor em trem de DRS 0.181               0.103          0.296 0.232   1.000             com urbanos
+    P4      Efeito: 2.º terço e pneu 20–29 voltas 0.107               0.103          0.315 0.481   1.000             com urbanos
+
+Mediana por perfil (todos os dados):
+cluster_kmeans_so_dinamicas_k4  alto downforce  stop-and-go  potência  urbano-técnico
+N1                                       0.131        0.167     0.144           0.041
+N5                                       0.031        0.030     0.027           0.019
+N6                                      19.500       18.250    18.500          27.250
+N7                                       0.059        0.058     0.058           0.023
+D2                                       0.275        0.371     0.260           0.178
+D3                                       0.262        0.257     0.228           0.105
+D8                                      -0.087       -0.091    -0.062          -0.023
+P4                                       0.062        0.048     0.086           0.014
+
+Figura em data/processed/perfil_medidas_estaveis/figura.png
