@@ -1,0 +1,72 @@
+25 circuitos, 121 corridas secas (A 59, B 62)
+
+==============================================================================
+PASSO 1: ASSINATURA DE CADA CIRCUITO
+==============================================================================
+Regras com mediana de 30+ linhas por circuito-metade: 12 de 19
+  D1 fora  (mediana 15) distancia=até 0,3 s
+  D2 entra (mediana 36) dif_idade=atacante 10+ voltas mais novo E trem=defensor livre
+  D3 entra (mediana 60) distancia=0,3 a 0,6 s E trem=defensor livre
+  D4 fora  (mediana 21) dif_idade=atacante 10+ voltas mais novo E fase=segundo terço
+  D5 fora  (mediana 20) dif_idade=atacante 10+ voltas mais novo E distancia=0,3 a 0,6 s
+  D6 fora  (mediana 1) dif_idade=atacante 10+ voltas mais novo E fase=primeiro terço
+  D7 entra (mediana 240) distancia=0,6 a 1,0 s
+  D8 entra (mediana 168) trem=defensor em trem de DRS
+  P1 entra (mediana 76) neutralizacao=safety car ou VSC
+  P2 entra (mediana 134) fase=segundo terço E paradas_feitas=0 paradas
+  P3 entra (mediana 228) dist_frente=mais de 3 s E paradas_feitas=0 paradas
+  P4 entra (mediana 178) fase=segundo terço E idade_pneu=20–29 voltas
+  P5 fora  (mediana 22) idade_pneu=30+ voltas E paradas_feitas=0 paradas
+  P6 fora  (mediana 14) posicao=top 5 E rival_tras=rival de trás parou
+  P7 fora  (mediana 18) paradas_feitas=0 paradas E rival_frente=rival da frente parou
+  P8 entra (mediana 126) idade_pneu=20–29 voltas E paradas_feitas=0 paradas
+  P9 entra (mediana 805) idade_pneu=0–9 voltas
+  P10 entra (mediana 770) fase=último terço
+  P11 entra (mediana 172) composto=duro E fase=primeiro terço
+
+==============================================================================
+PASSO 2: CONFIABILIDADE (SPEARMAN ENTRE METADES)
+==============================================================================
+medida                                                     descricao  rho_metades  p_metades  circuitos  rho_sem_urbanos  rho_eras  p_eras  circuitos_eras  aprovada
+    N1                              taxa de ultrapassagem nos duelos        0.507      0.005         25            0.395     0.589   0.002              22      True
+    N2                          % duelos com defensor em trem de DRS       -0.022      0.544         25           -0.037     0.119   0.305              22     False
+    N3                        correlação largada x chegada (mediana)       -0.052      0.600         25           -0.116    -0.121   0.697              22     False
+    N4                  trocas por volta em bandeira verde (mediana)        0.286      0.083         25            0.175     0.217   0.158              22     False
+    N5                                      taxa de parada por volta        0.603      0.001         25            0.544     0.526   0.011              22      True
+    N6                             idade do pneu na parada (mediana)        0.574      0.002         25            0.546     0.518   0.014              22      True
+    N7                               degradação (mediana dos stints)        0.679      0.000         25            0.673     0.656   0.001              22      True
+    N8                                        saldo médio por parada        0.310      0.068         25            0.315     0.146   0.258              21     False
+    D2 dif_idade=atacante 10+ voltas mais novo E trem=defensor livre        0.502      0.006         25            0.426     0.344   0.060              22      True
+    D3                   distancia=0,3 a 0,6 s E trem=defensor livre        0.943      0.000         25            0.944     0.863   0.000              22      True
+    D7                                         distancia=0,6 a 1,0 s        0.498      0.006         25            0.360     0.693   0.000              22     False
+    D8                                  trem=defensor em trem de DRS        0.799      0.000         25            0.757     0.565   0.005              22      True
+    P1                               neutralizacao=safety car ou VSC       -0.065      0.622         25            0.057    -0.363   0.943              22     False
+    P2                 fase=segundo terço E paradas_feitas=0 paradas        0.068      0.372         25            0.029     0.318   0.067              22     False
+    P3            dist_frente=mais de 3 s E paradas_feitas=0 paradas        0.362      0.037         25            0.406     0.532   0.006              22     False
+    P4                  fase=segundo terço E idade_pneu=20–29 voltas        0.558      0.003         25            0.516     0.577   0.005              22      True
+    P8            idade_pneu=20–29 voltas E paradas_feitas=0 paradas        0.258      0.105         25            0.204     0.309   0.082              22     False
+    P9                                         idade_pneu=0–9 voltas        0.381      0.032         25            0.345     0.177   0.220              22     False
+   P10                                             fase=último terço        0.363      0.037         25            0.342     0.457   0.018              22     False
+   P11                           composto=duro E fase=primeiro terço        0.241      0.125         25            0.118    -0.194   0.806              22     False
+
+Aprovadas: 8 (N1, N5, N6, N7, D2, D3, D8, P4)
+
+==============================================================================
+PASSO 3: AGRUPAMENTO
+==============================================================================
+A: silhouette k=2..6 2:0.281, 3:0.261, 4:0.264, 5:0.238, 6:0.250 -> k = 2
+B: silhouette k=2..6 2:0.211, 3:0.201, 4:0.189, 5:0.210, 6:0.207 -> k = 2
+todos: silhouette k=2..6 2:0.246, 3:0.217, 4:0.215, 5:0.207, 6:0.224 -> k = 2
+
+==============================================================================
+PASSO 4: REPLICAÇÃO ENTRE METADES
+==============================================================================
+                           versao  circuitos   ARI  ARI_95_acaso     p
+                   k4_sem_urbanos         23 0.083         0.128 0.128
+                   k4_com_urbanos         25 0.146         0.115 0.032
+                     k_silhouette         25 0.239         0.092 0.012
+eras_k4_sem_urbanos (informativo)         20 0.095         0.120 0.131
+
+Replica (ARI >= 0.4 e acima de 95% do acaso, sem urbanos): False
+PARADA: a divisão não se repete entre metades. A análise termina aqui.
+{'circuitos': 25, 'medidas_aprovadas': 8, 'aprovadas': 'N1, N5, N6, N7, D2, D3, D8, P4', 'ARI_metades_sem_urbanos': np.float64(0.083), 'replica': False, 'parou_em': 'passo 4'}
