@@ -1,0 +1,76 @@
+
+==============================================================================
+CLASSES DE ZONAS DE DRS (26 circuitos)
+==============================================================================
+                   zonas_drs classe
+circuito                           
+Monaco                     1  baixa
+Suzuka                     1  baixa
+Imola                      1  baixa
+Lusail                     1  baixa
+Barcelona                  2  média
+Baku                       2  média
+Silverstone                2  média
+Budapest                   2  média
+Spa-Francorchamps          2  média
+Zandvoort                  2  média
+Monza                      2  média
+Austin                     2  média
+São Paulo                  2  média
+Yas Island                 2  média
+Las Vegas                  2  média
+Shanghai                   2  média
+Sochi                      2  média
+Le Castellet               2  média
+Sakhir                     3   alta
+Jeddah                     3   alta
+Melbourne                  3   alta
+Miami                      3   alta
+Montréal                   3   alta
+Spielberg                  3   alta
+Singapore                  3   alta
+Mexico City                3   alta
+
+==============================================================================
+H8: alvo passou (19475 linhas, 26 circuitos)
+==============================================================================
+Média geral 0.1327; elegíveis 348; limiar |z| 8.31; firmes 153; firmes com feature 22
+
+Maiores |z| com feature:
+                                                descricao  linhas  circuitos   media  diferenca        z  firme
+dif_idade=atacante 10+ voltas mais novo E zonas_drs=média    1367         14 +0.4579    +0.3253 +35.4486   True
+                    distancia=até 0,3 s E zonas_drs=média     719         14 +0.5633    +0.4306 +34.0354   True
+                     distancia=até 0,3 s E zonas_drs=alta     349          8 +0.5301    +0.3974 +21.8845   True
+ dif_idade=atacante 10+ voltas mais novo E zonas_drs=alta     809          8 +0.3881    +0.2555 +21.4177   True
+                  distancia=0,6 a 1,0 s E zonas_drs=média    6802         14 +0.0676    -0.0651 -15.8160   True
+                    trem=defensor livre E zonas_drs=média    6159         14 +0.1999    +0.0672 +15.5430   True
+                   distancia=0,6 a 1,0 s E zonas_drs=alta    3986          8 +0.0519    -0.0808 -15.0283   True
+                  distancia=0,3 a 0,6 s E zonas_drs=média    2988         14 +0.2249    +0.0922 +14.8591   True
+                  distancia=0,6 a 1,0 s E zonas_drs=baixa    1614          4 +0.0186    -0.1141 -13.5118   True
+            trem=defensor em trem de DRS E zonas_drs=alta    2803          8 +0.0496    -0.0831 -12.9679   True
+
+A pista acrescenta? (limiar |z_acr| 13.92, 22 testados)
+                                         descricao  linhas  circuitos   media  referencia_outras_pistas  diferenca_da_pista   z_acr  acrescenta  firme_na_busca  previsto
+dif_idade=atacante 10+ voltas mais novo E zonas...    1367         14 +0.4579                   +0.3568             +0.1011 +7.5181       False            True     False
+dif_idade=atacante 10+ voltas mais novo E zonas...     382          4 +0.2906                   +0.4320             -0.1414 -7.5142       False            True     False
+largada=defensor largou à frente E zonas_drs=baixa    1492          4 +0.0503                   +0.1048             -0.0545 -5.7799       False            True     False
+           distancia=0,6 a 1,0 s E zonas_drs=baixa    1614          4 +0.0186                   +0.0618             -0.0432 -4.7760       False            True     False
+dif_idade=diferença de até 4 voltas E zonas_drs...    1954          4 +0.0455                   +0.0839             -0.0383 -4.6437       False            True     False
+largada=atacante largou à frente E zonas_drs=média    4309         14 +0.1959                   +0.1644             +0.0315 +4.2026       False            True     False
+           distancia=0,6 a 1,0 s E zonas_drs=média    6802         14 +0.0676                   +0.0423             +0.0253 +4.1341       False            True     False
+             trem=defensor livre E zonas_drs=média    6159         14 +0.1999                   +0.1750             +0.0249 +3.8540       False            True     False
+    trem=defensor em trem de DRS E zonas_drs=média    4350         14 +0.0703                   +0.0428             +0.0275 +3.6947       False            True     False
+           distancia=0,3 a 0,6 s E zonas_drs=média    2988         14 +0.2249                   +0.1942             +0.0307 +3.4719       False            True     False
+              fase=segundo terço E zonas_drs=média    2610         14 +0.2034                   +0.1710             +0.0325 +3.4195       False            True     False
+    trem=defensor em trem de DRS E zonas_drs=baixa    1146          4 +0.0262                   +0.0622             -0.0360 -3.3383       False            True     False
+
+H8: NÃO CONFIRMADA. Previstos: distancia=0,3 a 0,6 s E zonas_drs=alta -0.0107 (z_acr -1.15, não acrescenta, firme); distancia=0,6 a 1,0 s E zonas_drs=alta -0.0063 (z_acr -0.96, não acrescenta, firme)
+   contínuo (informativo): Spearman alvo médio x zonas_drs = -0.04, p = 0.5888
+
+==============================================================================
+RESUMO
+==============================================================================
+H8: NÃO CONFIRMADA. Previstos: distancia=0,3 a 0,6 s E zonas_drs=alta -0.0107 (z_acr -1.15, não acrescenta, firme); distancia=0,6 a 1,0 s E zonas_drs=alta -0.0063 (z_acr -0.96, não acrescenta, firme)
+   contínuo (informativo): Spearman alvo médio x zonas_drs = -0.04, p = 0.5888
+   informativo: Spearman zonas de DRS x taxa de ultrapassagem = -0.04, p unilateral = 0.5899, 26 circuitos
+   informativo: Spearman zonas de DRS x efeito D3 (0,3 a 0,6 s com defensor livre) = -0.07, p unilateral = 0.6261, 25 circuitos

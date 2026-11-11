@@ -52,6 +52,7 @@ Registros detalhados de cada análise na pasta `claude/` do projeto no claude.ai
 - Perfil físico × medidas estáveis (`perfil_medidas_estaveis.py`, definido depois da tipologia comportamental): sem os urbanos, o perfil explica menos de 6% de cada uma das 8 medidas, abaixo do acaso; figura em `data/processed/perfil_medidas_estaveis/`
 - H6, pit lane × decisão de parar (`sd_pit_lane_parada.py`, exploratória): não confirmada; pit lane alto sob SC tem +4,0 p.p. no sentido previsto, mas abaixo do limiar; esticar o stint não aparece
 - H7, comportamento de parada por equipe (`equipe_decisao_parada.py`, exploratória): não confirmada; no top 5, as equipes de ponta respondem menos à parada do rival de trás (sentido oposto); as regras variam entre equipes mais que o acaso, mas confundido com a posição
+- H8, zonas de DRS × ultrapassagem (`sd_drs_duelos.py`, exploratória; contagem de zonas em `data/external/zonas_drs_por_circuito.csv`): não confirmada; correlação com a taxa de ultrapassagem e com o efeito D3 perto de zero
 
 ### Correções em 2026-11-11
 
