@@ -1,0 +1,32 @@
+Circuitos por perfil na base do SC: {'alto downforce': 9, 'stop-and-go': 8, 'potência': 4, 'urbano-técnico': 1}
+Períodos por perfil: {'alto downforce': 23, 'stop-and-go': 14, 'potência': 7, 'urbano-técnico': 3}
+
+H9 (3 voltas): perfis 9/4/8 (fora: urbano-técnico); 187 descrições; Q/gl médio 0.98 contra mediana 0.90 (95% 1.19); p = 0.3128
+                                              descricao  Q_por_gl  efeito_alto downforce  efeito_potência  efeito_stop-and-go
+                  parou=parou no SC E dist_tras=até 1 s     7.794                 -0.825              NaN              -2.933
+             posicao=6.º a 10.º E dist_tras=mais de 3 s     6.724                  0.667              NaN              -0.867
+posicao=6.º a 10.º E frente_parou=algum da frente parou     5.239                 -0.740            0.933              -0.895
+                parou=parou no SC E dist_frente=até 1 s     5.117                 -0.625              NaN              -2.333
+              parou=parou no SC E idade_pneu=0–9 voltas     4.919                 -0.438              NaN              -2.000
+                 posicao=6.º a 10.º E parou=parou no SC     4.568                 -1.077              NaN              -2.346
+
+H11 (fim da corrida): perfis 9/4/8 (fora: urbano-técnico); 181 descrições; Q/gl médio 0.81 contra mediana 0.79 (95% 1.02); p = 0.4188
+                                                 descricao  Q_por_gl  efeito_alto downforce  efeito_potência  efeito_stop-and-go
+                  posicao=6.º a 10.º E dist_frente=até 1 s     6.919                  0.767              NaN              -1.304
+             idade_pneu=10–19 voltas E dist_frente=1 a 3 s     5.864                 -0.359              NaN              -2.467
+frente_parou=algum da frente parou E idade_pneu=0–9 voltas     4.587                  0.325            2.273               1.512
+             idade_pneu=0–9 voltas E dist_tras=mais de 3 s     3.721                  0.818            3.250               1.100
+                    posicao=6.º a 10.º E dist_tras=até 1 s     3.650                  0.094              NaN              -1.391
+  posicao=6.º a 10.º E frente_parou=nenhum da frente parou     3.380                  0.658           -0.889              -1.000
+
+poder: +1 em parou no SC só em alto downforce: Q/gl médio 1.53 contra 95% 1.42; p = 0.0205
+
+poder: +2 em parou no SC só em alto downforce: Q/gl médio 2.61 contra 95% 1.94; p = 0.0010
+
+Descritivo (H9): ganho médio por perfil e decisão
+d_parou         não parou no SC  parou no SC  periodos
+perfil                                                
+alto downforce             0.58        -0.59        23
+potência                   0.65        -1.26         7
+stop-and-go                0.70        -1.39        14
+urbano-técnico             0.35        -0.63         3
