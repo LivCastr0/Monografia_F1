@@ -53,6 +53,8 @@ Registros detalhados de cada análise na pasta `claude/` do projeto no claude.ai
 - H6, pit lane × decisão de parar (`sd_pit_lane_parada.py`, exploratória): não confirmada; pit lane alto sob SC tem +4,0 p.p. no sentido previsto, mas abaixo do limiar; esticar o stint não aparece
 - H7, comportamento de parada por equipe (`equipe_decisao_parada.py`, exploratória): não confirmada; no top 5, as equipes de ponta respondem menos à parada do rival de trás (sentido oposto); as regras variam entre equipes mais que o acaso, mas confundido com a posição
 - H8, zonas de DRS × ultrapassagem (`sd_drs_duelos.py`, exploratória; contagem de zonas em `data/external/zonas_drs_por_circuito.csv`): não confirmada; correlação com a taxa de ultrapassagem e com o efeito D3 perto de zero
+- H9, safety car (`sd_safety_car.py`, base `base_safety_car.csv`, exploratória): 15 subgrupos finais; até 3 voltas depois da relargada, quem não para ganha posições (+1,37 quando os carros da frente param) e quem para perde (−0,87)
+- H10, chuva (`sd_chuva.py`, bases `base_chuva_decisao.csv` e `base_chuva_trocas.csv`, 16 corridas, exploratória): trocas acompanham o pelotão (1,1% por volta quando ninguém trocou); a volta ao seco segue o ritmo de quem já trocou (26% sem chuva e com o seco mais rápido); a troca custa 1,1 posição sem diferença confirmada entre subgrupos
 
 ### Correções em 2026-11-11
 

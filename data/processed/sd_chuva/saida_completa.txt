@@ -1,0 +1,76 @@
+Corridas (16): 2020 Budapest; 2021 Imola; 2021 Budapest; 2021 Sochi; 2022 Imola; 2022 Monaco; 2022 Singapore; 2022 Suzuka; 2023 Monaco; 2023 Zandvoort; 2024 Montréal; 2024 Silverstone; 2024 São Paulo; 2025 Melbourne; 2025 Silverstone; 2025 Spa-Francorchamps
+entrar: 1041 voltas, 69 trocas, 14 corridas, 10 circuitos
+sair: 6350 voltas, 194 trocas, 16 corridas, 12 circuitos
+trocas com resultado: 255
+
+[H10a_entrar] 1041 linhas; média geral 0.0663; elegíveis 100; limiar |z| 7.24
+  acima do limiar 2; firmes 2; finais (firmes e não redundantes) 2
+                                       descricao  linhas  circuitos  eventos  media  diferenca       z  firme  final
+           pelotao=1/3 a 2/3 E fase=último terço      33          4        4 +0.515     +0.449 +10.360   True   True
+              pelotao=1/3 a 2/3 E chuva=chovendo      52          5        6 +0.423     +0.357 +10.337   True   True
+              chuva=chovendo E fase=último terço     129          5        5 +0.225     +0.159  +7.234  False  False
+                               pelotao=1/3 a 2/3      99          8       10 +0.222     +0.156  +6.234  False  False
+pelotao=1/3 a 2/3 E neutralizacao=bandeira verde      79          7        9 +0.228     +0.162  +5.770  False  False
+               posicao=top 5 E fase=último terço      87          7        8 +0.207     +0.141  +5.270  False  False
+                               fase=último terço     281          7        8 +0.135     +0.069  +4.644  False  False
+         idade_pneu=10–19 voltas E posicao=top 5      47          6        7 +0.234     +0.168  +4.621  False  False
+         chuva=sem chuva E idade_pneu=0–9 voltas     446          9       13 +0.013     -0.053  -4.483  False  False
+neutralizacao=bandeira verde E fase=último terço     249          7        8 +0.137     +0.070  +4.455  False  False
+    ritmo=sem referência E idade_pneu=0–9 voltas     366          9       13 +0.011     -0.055  -4.255  False  False
+   chuva=chovendo E neutralizacao=bandeira verde     429          7        8 +0.117     +0.050  +4.183  False  False
+                           idade_pneu=0–9 voltas     644         10       14 +0.026     -0.040  -4.067  False  False
+              ritmo=parecido E fase=último terço      44          4        4 +0.205     +0.138  +3.685  False  False
+                                  pelotao=nenhum     296          5        5 +0.014     -0.053  -3.648  False  False
+           pelotao=nenhum E ritmo=sem referência     296          5        5 +0.014     -0.053  -3.648  False  False
+                 pelotao=nenhum E chuva=chovendo     296          5        5 +0.014     -0.053  -3.648  False  False
+         pelotao=até 1/3 E idade_pneu=0–9 voltas     290         10       14 +0.014     -0.052  -3.591  False  False
+                  chuva=chovendo E posicao=top 5     161          6        7 +0.130     +0.064  +3.270  False  False
+            chuva=sem chuva E fase=segundo terço     148          4        4 +0.000     -0.066  -3.240  False  False
+
+[H10b_sair] 6350 linhas; média geral 0.0306; elegíveis 124; limiar |z| 7.07
+  acima do limiar 18; firmes 18; finais (firmes e não redundantes) 8
+                                              descricao  linhas  circuitos  eventos  media  diferenca       z  firme  final
+            ritmo=destino mais rápido E chuva=sem chuva     195          7        8 +0.262     +0.231 +18.741   True   True
+                      pelotao=até 1/3 E chuva=sem chuva     632          8        9 +0.144     +0.113 +16.569   True   True
+                 pelotao=1/3 a 2/3 E fase=segundo terço      30          6        6 +0.500     +0.469 +14.940   True   True
+         pelotao=até 1/3 E neutralizacao=bandeira verde     933          9       12 +0.113     +0.082 +14.551   True  False
+                                        pelotao=até 1/3    1025         10       13 +0.104     +0.074 +13.735   True   True
+             ritmo=destino mais lento E chuva=sem chuva     232          7        7 +0.151     +0.120 +10.647   True  False
+                               ritmo=destino mais lento     344          9       10 +0.122     +0.092  +9.865   True   True
+ritmo=destino mais lento E neutralizacao=bandeira verde     287          8        9 +0.129     +0.098  +9.682   True  False
+             pelotao=até 1/3 E ritmo=destino mais lento     293          7        8 +0.123     +0.092  +9.181   True  False
+                                      pelotao=1/3 a 2/3     149          8       10 +0.154     +0.124  +8.781   True   True
+                   pelotao=até 1/3 E posicao=6.º a 10.º     315         10       13 +0.114     +0.084  +8.635   True  False
+          pelotao=nenhum E neutralizacao=bandeira verde    4560         11       14 +0.009     -0.022  -8.459   True  False
+              ritmo=destino mais rápido E posicao=top 5     119          6        8 +0.160     +0.129  +8.183   True  False
+                  pelotao=nenhum E ritmo=sem referência    5122         11       14 +0.011     -0.019  -8.076   True  False
+                                         pelotao=nenhum    5122         11       14 +0.011     -0.019  -8.076   True   True
+                 pelotao=nenhum E idade_pneu=0–9 voltas    2306         11       14 +0.003     -0.028  -7.798   True  False
+           ritmo=sem referência E idade_pneu=0–9 voltas    2487         12       16 +0.004     -0.027  -7.687   True  False
+idade_pneu=20+ voltas E neutralizacao=safety car ou VSC     134          4        4 +0.142     +0.111  +7.482   True   True
+                        pelotao=nenhum E chuva=chovendo    2361          8        9 +0.006     -0.025  -7.071  False  False
+    ritmo=sem referência E neutralizacao=bandeira verde    4848         12       16 +0.013     -0.017  -6.935  False  False
+
+[H10c_rende] 255 linhas; média geral -1.0980; elegíveis 45; limiar |z| 3.04
+  acima do limiar 1; firmes 1; finais (firmes e não redundantes) 0
+                                               descricao  linhas  circuitos  eventos  media  diferenca      z  firme  final
+                       pelotao=1/3 a 2/3 E posicao=top 5      28          8        9 -2.643     -1.545 -3.081   True  False
+                                       pelotao=1/3 a 2/3      38          8       10 -2.395     -1.297 -3.012  False  False
+                      direcao=para chuva E posicao=top 5      23          5        5 -2.739     -1.641 -2.966  False  False
+                               ritmo=destino mais rápido      62          7        9 -1.952     -0.854 -2.533  False  False
+                      direcao=para seco E pelotao=nenhum      57          7        9 -0.228     +0.870 +2.475  False  False
+        pelotao=1/3 a 2/3 E neutralizacao=bandeira verde      32          8       10 -2.125     -1.027 -2.189  False  False
+                   pelotao=nenhum E ritmo=sem referência      61          7        9 -0.393     +0.705 +2.074  False  False
+                                          pelotao=nenhum      61          7        9 -0.393     +0.705 +2.074  False  False
+                 pelotao=nenhum E posicao=11.º em diante      35          7        8 -0.171     +0.927 +2.066  False  False
+                  direcao=para seco E posicao=6.º a 10.º      56          9       11 -1.804     -0.706 -1.990  False  False
+                     direcao=para seco E pelotao=até 1/3     106          8        9 -1.575     -0.477 -1.852  False  False
+                       direcao=para seco E posicao=top 5      59          9       11 -0.525     +0.573 +1.658  False  False
+ritmo=destino mais rápido E neutralizacao=bandeira verde      59          6        8 -1.661     -0.563 -1.630  False  False
+               ritmo=destino mais rápido E posicao=top 5      23          5        6 -1.913     -0.815 -1.473  False  False
+       posicao=6.º a 10.º E neutralizacao=bandeira verde      66          9       12 -1.561     -0.463 -1.416  False  False
+   posicao=11.º em diante E neutralizacao=bandeira verde      90          9       13 -0.711     +0.387 +1.383  False  False
+                         pelotao=até 1/3 E posicao=top 5      39          9       12 -0.513     +0.585 +1.377  False  False
+      ritmo=destino mais rápido E posicao=11.º em diante      22          6        7 -1.864     -0.766 -1.353  False  False
+                                      posicao=6.º a 10.º      72         10       13 -1.514     -0.416 -1.330  False  False
+                                  posicao=11.º em diante     101         10       14 -0.762     +0.336 +1.271  False  False

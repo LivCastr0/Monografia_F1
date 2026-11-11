@@ -1,0 +1,837 @@
+ano,round,circuito,evento,piloto,volta_inicio,volta_relargada,pos_ref,pos_res,ganho,d_posicao,d_parou,d_frente_parou,d_idade_pneu,d_paradas_feitas,d_dist_frente,d_dist_tras,d_fase,d_era
+2018,4,Baku,2018_04_sc2,ALO,40,47,8,8,0.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,ERI,40,47,13,11,2.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,GAS,40,47,10,12,-2.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,HAM,40,47,2,1,1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,HAR,40,47,11,10,1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,LEC,40,47,6,6,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,MAG,40,47,9,13,-4.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,PER,40,47,4,3,1.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,RAI,40,47,3,2,1.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,SAI,40,47,5,5,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,STR,40,47,7,7,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,VAN,40,47,12,9,3.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,4,Baku,2018_04_sc2,VET,40,47,1,4,-3.0,líder,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,ALO,38,41,10,10,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,BOT,38,41,1,1,0.0,líder,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,GAS,38,41,11,12,-1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,HAM,38,41,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,HUL,38,41,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,MAG,38,41,9,9,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,OCO,38,41,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,PER,38,41,12,11,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,RAI,38,41,5,4,1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,RIC,38,41,6,6,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,SIR,38,41,14,15,-1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,STR,38,41,15,14,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,VAN,38,41,13,13,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,VER,38,41,4,5,-1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2018,10,Silverstone,2018_10_sc2,VET,38,41,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2018-21
+2018,17,Suzuka,2018_17_sc1,ALO,4,7,14,12,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,BOT,4,7,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,ERI,4,7,17,17,0.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,GAS,4,7,7,6,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,GRO,4,7,6,5,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,HAM,4,7,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,HAR,4,7,11,11,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,HUL,4,7,15,13,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,LEC,4,7,13,15,-2.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,OCO,4,7,9,9,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,PER,4,7,8,7,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,RAI,4,7,5,4,1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,RIC,4,7,10,8,2.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,SAI,4,7,12,10,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,SIR,4,7,18,16,2.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,STR,4,7,16,14,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,VAN,4,7,19,19,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,mais de 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,VER,4,7,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2018,17,Suzuka,2018_17_sc1,VET,4,7,4,18,-14.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2019,5,Barcelona,2019_05_sc1,ALB,46,52,10,11,-1.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,BOT,46,52,2,2,0.0,2.º a 5.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,GAS,46,52,6,6,0.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,GIO,46,52,16,16,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,GRO,46,52,7,8,-1.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,HAM,46,52,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,HUL,46,52,14,12,2.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,KUB,46,52,18,18,0.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,KVY,46,52,8,10,-2.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,LEC,46,52,3,5,-2.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,MAG,46,52,9,7,2.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,PER,46,52,13,14,-1.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,RAI,46,52,15,15,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,RIC,46,52,12,13,-1.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,RUS,46,52,17,17,0.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,SAI,46,52,11,9,2.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,VER,46,52,4,3,1.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2018-21
+2019,5,Barcelona,2019_05_sc1,VET,46,52,5,4,1.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,10,Silverstone,2019_10_sc1,ALB,20,23,10,10,0.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,BOT,20,23,3,2,1.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,GAS,20,23,7,4,3.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,HAM,20,23,1,1,0.0,líder,parou no SC,nenhum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,HUL,20,23,11,12,-1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,KUB,20,23,17,16,1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,KVY,20,23,13,14,-1.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,LEC,20,23,4,6,-2.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,até 1 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,NOR,20,23,9,8,1.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,PER,20,23,12,17,-5.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,RAI,20,23,15,11,4.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,RIC,20,23,8,9,-1.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,RUS,20,23,14,15,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,até 1 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,SAI,20,23,6,7,-1.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,até 1 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,STR,20,23,16,13,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,VER,20,23,5,5,0.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2018-21
+2019,10,Silverstone,2019_10_sc1,VET,20,23,2,3,-1.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,1 a 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,ALB,36,40,6,6,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,BOT,36,40,5,5,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,GAS,36,40,13,10,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,GIO,36,40,14,13,1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,GRO,36,40,15,15,0.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,HAM,36,40,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,HUL,36,40,7,11,-4.0,6.º a 10.º,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,KUB,36,40,17,16,1.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,KVY,36,40,11,12,-1.0,11.º em diante,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,LEC,36,40,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,MAG,36,40,9,8,1.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,NOR,36,40,8,7,1.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,RAI,36,40,10,9,1.0,6.º a 10.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,RIC,36,40,16,14,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,SAI,36,40,18,17,1.0,11.º em diante,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,STR,36,40,12,18,-6.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,VER,36,40,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc1,VET,36,40,1,1,0.0,líder,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2019,15,Singapore,2019_15_sc3,ALB,50,51,6,6,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,BOT,50,51,5,5,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,GAS,50,51,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,GIO,50,51,11,10,1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,GRO,50,51,13,11,2.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,HAM,50,51,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,HUL,50,51,9,9,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,KUB,50,51,17,17,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,KVY,50,51,12,16,-4.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,LEC,50,51,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,MAG,50,51,10,15,-5.0,6.º a 10.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,até 1 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,NOR,50,51,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,RIC,50,51,15,13,2.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,SAI,50,51,14,12,2.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,STR,50,51,16,14,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,VER,50,51,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2018-21
+2019,15,Singapore,2019_15_sc3,VET,50,51,1,1,0.0,líder,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,ALB,54,59,5,3,2.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,GAS,54,59,6,6,0.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,GIO,54,59,10,9,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,GRO,54,59,7,12,-5.0,6.º a 10.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,HAM,54,59,2,2,0.0,2.º a 5.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,HUL,54,59,17,14,3.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,KUB,54,59,19,19,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,KVY,54,59,15,17,-2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,LEC,54,59,4,5,-1.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,MAG,54,59,16,16,0.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,NOR,54,59,11,11,0.0,11.º em diante,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,PER,54,59,12,13,-1.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,RAI,54,59,9,8,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,RIC,54,59,14,10,4.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,RUS,54,59,18,18,0.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,SAI,54,59,8,7,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,STR,54,59,13,15,-2.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,VER,54,59,1,1,0.0,líder,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2018-21
+2019,20,São Paulo,2019_20_sc1,VET,54,59,3,4,-1.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2020,4,Silverstone,2020_04_sc1,ALB,2,5,12,18,-6.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,BOT,2,5,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,GAS,2,5,11,11,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,GIO,2,5,13,12,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,GRO,2,5,15,14,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,HAM,2,5,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,KVY,2,5,14,13,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,LAT,2,5,18,17,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,mais de 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,LEC,2,5,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,NOR,2,5,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,OCO,2,5,9,9,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,RAI,2,5,16,15,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,RIC,2,5,6,6,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,RUS,2,5,17,16,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,SAI,2,5,5,5,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,STR,2,5,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,VER,2,5,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc1,VET,2,5,10,10,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,ALB,13,18,17,14,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,BOT,13,18,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,GAS,13,18,11,13,-2.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,GIO,13,18,12,12,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,GRO,13,18,14,5,9.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,HAM,13,18,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,LAT,13,18,16,17,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,LEC,13,18,4,4,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,NOR,13,18,7,7,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,OCO,13,18,9,10,-1.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,RAI,13,18,13,15,-2.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,RIC,13,18,5,8,-3.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,RUS,13,18,15,16,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,SAI,13,18,6,6,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,STR,13,18,8,9,-1.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,VER,13,18,3,3,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,4,Silverstone,2020_04_sc2,VET,13,18,10,11,-1.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,ALB,11,14,6,6,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,BOT,11,14,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,GAS,11,14,8,4,4.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,GRO,11,14,15,15,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,HAM,11,14,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,KVY,11,14,11,11,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,LAT,11,14,17,17,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,LEC,11,14,13,14,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,MAG,11,14,16,16,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,NOR,11,14,10,10,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,OCO,11,14,5,8,-3.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,PER,11,14,9,7,2.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,RAI,11,14,14,12,2.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,RIC,11,14,4,5,-1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,STR,11,14,7,9,-2.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,VER,11,14,3,3,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,7,Spa-Francorchamps,2020_07_sc1,VET,11,14,12,13,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,13,Imola,2020_13_sc1,ALB,51,57,6,15,-9.0,6.º a 10.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,BOT,51,57,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,GIO,51,57,12,10,2.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,GRO,51,57,14,12,2.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,HAM,51,57,1,1,0.0,líder,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,KVY,51,57,7,4,3.0,6.º a 10.º,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,LAT,51,57,13,11,2.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,LEC,51,57,5,5,0.0,2.º a 5.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,NOR,51,57,9,8,1.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,PER,51,57,3,6,-3.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,RAI,51,57,10,9,1.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,RIC,51,57,4,3,1.0,2.º a 5.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,SAI,51,57,8,7,1.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,STR,51,57,15,14,1.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2018-21
+2020,13,Imola,2020_13_sc1,VET,51,57,11,13,-2.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2018-21
+2020,15,Sakhir,2020_15_sc1,ALB,3,8,5,4,1.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,BOT,3,8,4,16,-12.0,2.º a 5.º,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,GAS,3,8,9,10,-1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,GIO,3,8,13,17,-4.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,HAM,3,8,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,até 1 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,KVY,3,8,14,11,3.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,LAT,3,8,18,14,4.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,LEC,3,8,11,7,4.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,MAG,3,8,16,18,-2.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,NOR,3,8,7,5,2.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,OCO,3,8,8,6,2.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,PER,3,8,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,RAI,3,8,15,13,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,RIC,3,8,6,9,-3.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,RUS,3,8,17,12,5.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,SAI,3,8,12,8,4.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,VER,3,8,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2020,15,Sakhir,2020_15_sc1,VET,3,8,10,15,-5.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,ALB,11,13,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,BOT,11,13,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,FIT,11,13,18,19,-1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,GAS,11,13,8,11,-3.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,GIO,11,13,15,14,1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,HAM,11,13,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,KVY,11,13,9,13,-4.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,LAT,11,13,19,18,1.0,11.º em diante,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,até 1 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,LEC,11,13,13,9,4.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,até 1 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,MAG,11,13,17,17,0.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,NOR,11,13,5,6,-1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,OCO,11,13,12,12,0.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,RAI,11,13,14,15,-1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,RIC,11,13,10,5,5.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,RUS,11,13,16,16,0.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,SAI,11,13,6,8,-2.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,STR,11,13,7,10,-3.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,VER,11,13,1,1,0.0,líder,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2018-21
+2020,17,Yas Island,2020_17_sc1,VET,11,13,11,7,4.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,ALO,8,10,10,11,-1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,BOT,8,10,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,GAS,8,10,13,13,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,GIO,8,10,15,19,-4.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,HAM,8,10,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,LAT,8,10,18,17,1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,LEC,8,10,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,até 1 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,MAZ,8,10,19,18,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,MSC,8,10,16,16,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,mais de 3 s,até 1 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,NOR,8,10,9,9,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,OCO,8,10,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,PER,8,10,6,6,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,RAI,8,10,14,14,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,RIC,8,10,5,5,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,RUS,8,10,17,15,2.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,SAI,8,10,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,STR,8,10,11,10,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,VER,8,10,1,1,0.0,líder,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2018-21
+2021,4,Barcelona,2021_04_sc1,VET,8,10,12,12,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2018-21
+2021,6,Baku,2021_06_sc1,ALO,31,35,12,11,1.0,11.º em diante,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,BOT,31,35,9,14,-5.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,GAS,31,35,4,5,-1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,GIO,31,35,13,13,0.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,HAM,31,35,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,LAT,31,35,16,16,0.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,LEC,31,35,5,6,-1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,até 1 s,1 a 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,MAZ,31,35,18,18,0.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,MSC,31,35,17,17,0.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,NOR,31,35,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,PER,31,35,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,RAI,31,35,14,12,2.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,RIC,31,35,10,10,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,RUS,31,35,15,15,0.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,SAI,31,35,11,9,2.0,11.º em diante,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,TSU,31,35,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,VER,31,35,1,1,0.0,líder,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,6,Baku,2021_06_sc1,VET,31,35,6,4,2.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,ALO,26,30,8,8,0.0,6.º a 10.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,até 1 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,BOT,26,30,5,5,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,GIO,26,30,14,14,0.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,KUB,26,30,11,12,-1.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,LAT,26,30,12,11,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,LEC,26,30,1,4,-3.0,líder,parou no SC,nenhum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,MAZ,26,30,16,15,1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,MSC,26,30,15,16,-1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,NOR,26,30,6,2,4.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,OCO,26,30,9,10,-1.0,6.º a 10.º,parou no SC,nenhum da frente parou,20+ voltas,0 paradas,até 1 s,1 a 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,PER,26,30,2,3,-1.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,RIC,26,30,3,1,2.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,RUS,26,30,10,9,1.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,1 a 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,SAI,26,30,4,6,-2.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,1 a 3 s,1 a 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,STR,26,30,7,7,0.0,6.º a 10.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2021,14,Monza,2021_14_sc1,VET,26,30,13,13,0.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2018-21
+2022,1,Sakhir,2022_01_sc1,ALB,46,50,15,15,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,ALO,46,50,13,11,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,BOT,46,50,8,8,0.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,HAM,46,50,6,5,1.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,HUL,46,50,19,19,0.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,LAT,46,50,17,18,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,LEC,46,50,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,MAG,46,50,7,7,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,MSC,46,50,11,13,-2.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,NOR,46,50,16,17,-1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,OCO,46,50,10,9,1.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,PER,46,50,4,4,0.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,RIC,46,50,18,16,2.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,RUS,46,50,5,6,-1.0,2.º a 5.º,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,SAI,46,50,3,3,0.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,STR,46,50,14,14,0.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,TSU,46,50,12,10,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,VER,46,50,2,2,0.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,1,Sakhir,2022_01_sc1,ZHO,46,50,9,12,-3.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,2,Jeddah,2022_02_sc1,ALB,16,20,17,17,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,ALO,16,20,6,8,-2.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,BOT,16,20,7,10,-3.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,GAS,16,20,11,14,-3.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,HAM,16,20,10,6,4.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,HUL,16,20,14,9,5.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,LEC,16,20,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,MAG,16,20,9,7,2.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,NOR,16,20,12,13,-1.0,11.º em diante,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,OCO,16,20,8,11,-3.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,PER,16,20,2,4,-2.0,2.º a 5.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,RIC,16,20,15,12,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,RUS,16,20,5,5,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,SAI,16,20,4,3,1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,STR,16,20,16,16,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,VER,16,20,3,2,1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2022,2,Jeddah,2022_02_sc1,ZHO,16,20,13,15,-2.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,mais de 3 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,ALB,3,6,19,18,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,mais de 3 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,ALO,3,6,10,10,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,BOT,3,6,12,12,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,GAS,3,6,9,9,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,HAM,3,6,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,LAT,3,6,17,17,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,LEC,3,6,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,mais de 3 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,MAG,3,6,15,15,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,MSC,3,6,13,13,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,NOR,3,6,6,6,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,OCO,3,6,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,PER,3,6,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,RIC,3,6,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,RUS,3,6,5,5,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,STR,3,6,18,19,-1.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,TSU,3,6,11,11,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,VER,3,6,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,VET,3,6,16,16,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc1,ZHO,3,6,14,14,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,3,Melbourne,2022_03_sc2,ALB,23,26,11,10,1.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,0 paradas,até 1 s,1 a 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,ALO,23,26,5,4,1.0,2.º a 5.º,não parou no SC,algum da frente parou,20+ voltas,0 paradas,até 1 s,mais de 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,BOT,23,26,13,13,0.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,GAS,23,26,14,14,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,HAM,23,26,4,6,-2.0,2.º a 5.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,até 1 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,LAT,23,26,18,18,0.0,11.º em diante,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,LEC,23,26,1,1,0.0,líder,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,MAG,23,26,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,20+ voltas,0 paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,MSC,23,26,16,16,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,NOR,23,26,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,OCO,23,26,12,11,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,PER,23,26,6,5,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,RIC,23,26,9,9,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,RUS,23,26,2,3,-1.0,2.º a 5.º,parou no SC,nenhum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,STR,23,26,10,12,-2.0,6.º a 10.º,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,TSU,23,26,15,15,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,VER,23,26,3,2,1.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,3,Melbourne,2022_03_sc2,ZHO,23,26,17,17,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,9,Montréal,2022_09_sc1,ALB,49,54,15,13,2.0,11.º em diante,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,ALO,49,54,6,6,0.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,BOT,49,54,7,8,-1.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,GAS,49,54,14,15,-1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,HAM,49,54,3,3,0.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,LAT,49,54,17,17,0.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,LEC,49,54,8,7,1.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,MAG,49,54,12,14,-2.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,NOR,49,54,16,16,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,OCO,49,54,5,5,0.0,2.º a 5.º,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,RIC,49,54,10,10,0.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,RUS,49,54,4,4,0.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,SAI,49,54,1,2,-1.0,líder,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,STR,49,54,13,12,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,VER,49,54,2,1,1.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,VET,49,54,11,11,0.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2022,9,Montréal,2022_09_sc1,ZHO,49,54,9,9,0.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,12,Le Castellet,2022_12_sc1,ALB,18,20,12,11,1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,ALO,18,20,4,6,-2.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,BOT,18,20,15,14,1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,GAS,18,20,13,12,1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,HAM,18,20,1,2,-1.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,LAT,18,20,14,16,-2.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,MAG,18,20,16,15,1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,MSC,18,20,17,17,0.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,NOR,18,20,6,7,-1.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,OCO,18,20,7,9,-2.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,PER,18,20,2,3,-1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,RIC,18,20,9,8,1.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,RUS,18,20,3,4,-1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,SAI,18,20,8,5,3.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,STR,18,20,10,10,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,VER,18,20,5,1,4.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,VET,18,20,11,13,-2.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2022,12,Le Castellet,2022_12_sc1,ZHO,18,20,18,18,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,ALB,2,4,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,ALO,2,4,4,5,-1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,GAS,2,4,18,15,3.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,mais de 3 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,LAT,2,4,12,17,-5.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,LEC,2,4,10,16,-6.0,6.º a 10.º,parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,MAG,2,4,11,11,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,MSC,2,4,16,18,-2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,NOR,2,4,14,12,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,OCO,2,4,13,10,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,PER,2,4,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,RIC,2,4,6,8,-2.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,RUS,2,4,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,SAI,2,4,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,STR,2,4,9,9,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,TSU,2,4,17,14,3.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,VER,2,4,8,4,4.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,VET,2,4,5,6,-1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2022,14,Spa-Francorchamps,2022_14_sc1,ZHO,2,4,15,13,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2022,15,Zandvoort,2022_15_sc1,ALB,56,60,12,12,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,ALO,56,60,9,7,2.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,GAS,56,60,11,11,0.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,HAM,56,60,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,LAT,56,60,18,18,0.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,LEC,56,60,4,4,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,MAG,56,60,16,15,1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,MSC,56,60,14,13,1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,NOR,56,60,8,8,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,OCO,56,60,7,9,-2.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,PER,56,60,5,6,-1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,RIC,56,60,17,17,0.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,RUS,56,60,3,3,0.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,SAI,56,60,6,5,1.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,STR,56,60,10,10,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,VER,56,60,1,1,0.0,líder,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,VET,56,60,15,14,1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2022,15,Zandvoort,2022_15_sc1,ZHO,56,60,13,16,-3.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2022,19,Austin,2022_19_sc2,ALB,22,25,16,14,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,ALO,22,25,8,15,-7.0,6.º a 10.º,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,GAS,22,25,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,HAM,22,25,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,LAT,22,25,17,16,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,LEC,22,25,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,MAG,22,25,14,11,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,MSC,22,25,12,10,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,NOR,22,25,9,9,0.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,OCO,22,25,11,12,-1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,PER,22,25,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,RIC,22,25,15,13,2.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,RUS,22,25,5,5,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,TSU,22,25,10,8,2.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,VER,22,25,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,VET,22,25,6,6,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,19,Austin,2022_19_sc2,ZHO,22,25,13,17,-4.0,11.º em diante,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2022,21,São Paulo,2022_21_sc2,ALB,54,59,16,15,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,ALO,54,59,9,6,3.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,BOT,54,59,5,7,-2.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,até 1 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,GAS,54,59,14,14,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,HAM,54,59,3,2,1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,LAT,54,59,17,16,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,LEC,54,59,6,5,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,MSC,54,59,12,13,-1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,OCO,54,59,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,PER,54,59,4,3,1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,RUS,54,59,1,1,0.0,líder,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,SAI,54,59,2,4,-2.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,STR,54,59,13,12,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,TSU,54,59,15,17,-2.0,11.º em diante,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,VER,54,59,10,9,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,VET,54,59,7,10,-3.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2022+
+2022,21,São Paulo,2022_21_sc2,ZHO,54,59,11,11,0.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2023,2,Jeddah,2023_02_sc1,ALB,18,20,9,13,-4.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,ALO,18,20,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,BOT,18,20,19,19,0.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,DEV,18,20,11,16,-5.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,1 a 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,GAS,18,20,13,10,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,HAM,18,20,5,5,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,HUL,18,20,16,12,4.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,LEC,18,20,8,7,1.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,MAG,18,20,14,11,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,NOR,18,20,18,18,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,OCO,18,20,12,9,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,PER,18,20,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,PIA,18,20,17,17,0.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,RUS,18,20,3,4,-1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,SAI,18,20,7,6,1.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,SAR,18,20,10,14,-4.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,até 1 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,TSU,18,20,6,8,-2.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,VER,18,20,4,3,1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,2,Jeddah,2023_02_sc1,ZHO,18,20,15,15,0.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,4,Baku,2023_04_sc1,ALB,11,13,16,14,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,ALO,11,13,5,4,1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,BOT,11,13,19,19,0.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,GAS,11,13,17,15,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,HAM,11,13,11,7,4.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,HUL,11,13,10,10,0.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,LEC,11,13,2,3,-1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,até 1 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,MAG,11,13,12,17,-5.0,11.º em diante,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,NOR,11,13,13,11,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,OCO,11,13,9,9,0.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,até 1 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,PER,11,13,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,PIA,11,13,15,13,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,RUS,11,13,7,8,-1.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,SAI,11,13,4,5,-1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,SAR,11,13,18,18,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,STR,11,13,6,6,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,TSU,11,13,14,12,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,VER,11,13,3,2,1.0,2.º a 5.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2023,4,Baku,2023_04_sc1,ZHO,11,13,8,16,-8.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,ALB,12,16,9,11,-2.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,ALO,12,16,3,3,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,BOT,12,16,13,9,4.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,até 1 s,mais de 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,DEV,12,16,18,17,1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,GAS,12,16,19,18,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,HAM,12,16,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,até 1 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,HUL,12,16,15,15,0.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,LEC,12,16,8,4,4.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,MAG,12,16,12,7,5.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,NOR,12,16,7,10,-3.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,OCO,12,16,5,8,-3.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,PER,12,16,11,6,5.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,PIA,12,16,6,12,-6.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,RUS,12,16,4,19,-15.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,SAI,12,16,10,5,5.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,STR,12,16,17,16,1.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,TSU,12,16,16,13,3.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,VER,12,16,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,8,Montréal,2023_08_sc1,ZHO,12,16,14,14,0.0,11.º em diante,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,10,Silverstone,2023_10_sc1,ALB,33,38,6,9,-3.0,6.º a 10.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,ALO,33,38,4,6,-2.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,BOT,33,38,12,14,-2.0,11.º em diante,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,DEV,33,38,16,17,-1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,GAS,33,38,11,12,-1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,HAM,33,38,3,3,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,HUL,33,38,18,15,3.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,LEC,33,38,7,10,-3.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,NOR,33,38,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,PER,33,38,10,8,2.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,PIA,33,38,5,4,1.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,RUS,33,38,8,5,3.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,SAI,33,38,9,7,2.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,SAR,33,38,15,13,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,STR,33,38,14,11,3.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,TSU,33,38,13,16,-3.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,VER,33,38,1,1,0.0,líder,parou no SC,nenhum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,10,Silverstone,2023_10_sc1,ZHO,33,38,17,18,-1.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,15,Singapore,2023_15_sc1,ALB,20,22,15,15,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,ALO,20,22,6,8,-2.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,BOT,20,22,16,17,-1.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,GAS,20,22,11,11,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,HAM,20,22,5,5,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,HUL,20,22,10,14,-4.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,LAW,20,22,12,13,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,LEC,20,22,2,6,-4.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,MAG,20,22,9,10,-1.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,mais de 3 s,até 1 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,NOR,20,22,4,3,1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,OCO,20,22,7,9,-2.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,PER,20,22,13,7,6.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,PIA,20,22,14,12,2.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,RUS,20,22,3,2,1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,SAI,20,22,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,SAR,20,22,18,18,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,VER,20,22,8,4,4.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2023,15,Singapore,2023_15_sc1,ZHO,20,22,17,16,1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,19,Mexico City,2023_19_sc2,ALB,35,35,12,9,3.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,ALO,35,35,18,17,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,BOT,35,35,16,13,3.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,GAS,35,35,11,12,-1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,HAM,35,35,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,HUL,35,35,9,10,-1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,LEC,35,35,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,NOR,35,35,10,14,-4.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,OCO,35,35,14,11,3.0,11.º em diante,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,PIA,35,35,6,7,-1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,RIC,35,35,5,6,-1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,RUS,35,35,7,5,2.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,SAI,35,35,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,SAR,35,35,15,18,-3.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,STR,35,35,17,15,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,TSU,35,35,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,VER,35,35,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,19,Mexico City,2023_19_sc2,ZHO,35,35,13,16,-3.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc1,ALB,3,6,5,5,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,ALO,3,6,18,17,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,BOT,3,6,19,19,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,GAS,3,6,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,HAM,3,6,13,11,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,HUL,3,6,10,10,0.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,LEC,3,6,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,MAG,3,6,7,8,-1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,OCO,3,6,8,7,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,PER,3,6,17,16,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,PIA,3,6,12,9,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,RIC,3,6,14,14,0.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,RUS,3,6,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,SAI,3,6,16,18,-2.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,mais de 3 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,SAR,3,6,6,6,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,STR,3,6,9,15,-6.0,6.º a 10.º,parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,TSU,3,6,11,12,-1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,VER,3,6,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc1,ZHO,3,6,15,13,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2023,21,Las Vegas,2023_21_sc2,ALB,26,28,12,7,5.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,ALO,26,28,7,11,-4.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,BOT,26,28,18,18,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,GAS,26,28,8,5,3.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,HAM,26,28,16,15,1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,HUL,26,28,15,16,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,LEC,26,28,2,1,1.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,até 1 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,MAG,26,28,14,14,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,OCO,26,28,10,6,4.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,PER,26,28,1,2,-1.0,líder,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,PIA,26,28,9,3,6.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,RIC,26,28,17,17,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,RUS,26,28,5,9,-4.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,SAI,26,28,6,10,-4.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,SAR,26,28,13,13,0.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,STR,26,28,3,8,-5.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,TSU,26,28,19,19,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,VER,26,28,4,4,0.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2023,21,Las Vegas,2023_21_sc2,ZHO,26,28,11,12,-1.0,11.º em diante,parou no SC,nenhum da frente parou,20+ voltas,0 paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,2,Jeddah,2024_02_sc1,ALB,7,9,12,15,-3.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,ALO,7,9,5,7,-2.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,BEA,7,9,10,11,-1.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,BOT,7,9,16,16,0.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,HAM,7,9,8,3,5.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,HUL,7,9,13,8,5.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,LEC,7,9,3,5,-2.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,MAG,7,9,11,13,-2.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,NOR,7,9,6,1,5.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,OCO,7,9,15,14,1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,PER,7,9,2,4,-2.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,PIA,7,9,4,6,-2.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,RIC,7,9,14,18,-4.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,RUS,7,9,7,9,-2.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,SAR,7,9,17,17,0.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,TSU,7,9,9,12,-3.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,mais de 3 s,até 1 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,VER,7,9,1,2,-1.0,líder,parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2024,2,Jeddah,2024_02_sc1,ZHO,7,9,18,10,8.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2024,5,Shanghai,2024_05_sc2,ALB,27,31,13,12,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,ALO,27,31,6,5,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,GAS,27,31,16,14,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,1 a 3 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,HAM,27,31,11,10,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,HUL,27,31,9,9,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,LEC,27,31,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,MAG,27,31,12,17,-5.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,NOR,27,31,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,OCO,27,31,10,11,-1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,PER,27,31,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,PIA,27,31,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,1 a 3 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,RUS,27,31,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,SAI,27,31,5,6,-1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,SAR,27,31,14,13,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,STR,27,31,17,16,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,VER,27,31,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,até 1 s,segundo terço,2022+
+2024,5,Shanghai,2024_05_sc2,ZHO,27,31,15,15,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,ALB,28,32,17,13,4.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,1 a 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,ALO,28,32,13,11,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,BOT,28,32,19,18,1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,GAS,28,32,14,12,2.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,HAM,28,32,9,7,2.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,HUL,28,32,15,15,0.0,11.º em diante,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,1 a 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,LEC,28,32,5,3,2.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,MAG,28,32,18,19,-1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,NOR,28,32,1,1,0.0,líder,parou no SC,nenhum da frente parou,20+ voltas,0 paradas,mais de 3 s,até 1 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,OCO,28,32,12,10,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,PER,28,32,6,6,0.0,6.º a 10.º,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,PIA,28,32,2,4,-2.0,2.º a 5.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,1 a 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,RIC,28,32,11,16,-5.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,0 paradas,até 1 s,1 a 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,RUS,28,32,10,9,1.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,SAI,28,32,3,5,-2.0,2.º a 5.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,STR,28,32,16,17,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,TSU,28,32,7,8,-1.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,VER,28,32,4,2,2.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2024,6,Miami,2024_06_sc1,ZHO,28,32,8,14,-6.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2024,19,Austin,2024_19_sc1,ALB,3,5,18,19,-1.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,ALO,3,5,10,11,-1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,BOT,3,5,16,15,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,COL,3,5,15,14,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,GAS,3,5,6,6,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,HUL,3,5,11,10,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,LAW,3,5,13,12,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,LEC,3,5,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,MAG,3,5,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,NOR,3,5,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,OCO,3,5,19,17,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,PER,3,5,9,9,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,PIA,3,5,5,5,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,RUS,3,5,17,16,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,SAI,3,5,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,STR,3,5,12,18,-6.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,TSU,3,5,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,VER,3,5,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2024,19,Austin,2024_19_sc1,ZHO,3,5,14,13,1.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2024,23,Lusail,2024_23_sc3,ALB,40,42,12,10,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,ALO,40,42,9,8,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,BOT,40,42,15,12,3.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,GAS,40,42,5,6,-1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,HAM,40,42,14,13,1.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,LAW,40,42,13,15,-2.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,LEC,40,42,3,2,1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,MAG,40,42,10,11,-1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,NOR,40,42,2,4,-2.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,PIA,40,42,4,3,1.0,2.º a 5.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,RUS,40,42,6,5,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,SAI,40,42,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,TSU,40,42,11,14,-3.0,11.º em diante,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,VER,40,42,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,até 1 s,último terço,2022+
+2024,23,Lusail,2024_23_sc3,ZHO,40,42,8,9,-1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2022+
+2025,4,Sakhir,2025_04_sc1,ALB,32,35,8,12,-4.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,1 a 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,ALO,32,35,13,18,-5.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,ANT,32,35,12,13,-1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,1 a 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,BEA,32,35,9,11,-2.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,BOR,32,35,18,20,-2.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,DOO,32,35,15,9,6.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,GAS,32,35,10,6,4.0,6.º a 10.º,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,HAD,32,35,19,17,2.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,HAM,32,35,5,5,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,HUL,32,35,20,15,5.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,LAW,32,35,17,16,1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,LEC,32,35,3,3,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,NOR,32,35,4,4,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,OCO,32,35,11,8,3.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,até 1 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,PIA,32,35,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,RUS,32,35,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,SAI,32,35,6,14,-8.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,STR,32,35,16,19,-3.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,TSU,32,35,7,10,-3.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,segundo terço,2022+
+2025,4,Sakhir,2025_04_sc1,VER,32,35,14,7,7.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,até 1 s,mais de 3 s,segundo terço,2022+
+2025,7,Imola,2025_07_sc1,ALB,46,53,4,5,-1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,ALO,46,53,12,13,-1.0,11.º em diante,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,BEA,46,53,18,18,0.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,BOR,46,53,17,17,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,COL,46,53,15,16,-1.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,GAS,46,53,14,12,2.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,HAD,46,53,7,9,-2.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,HAM,46,53,5,7,-2.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,HUL,46,53,10,11,-1.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,LAW,46,53,16,14,2.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,LEC,46,53,6,4,2.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,NOR,46,53,2,3,-1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,PIA,46,53,3,2,1.0,2.º a 5.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,RUS,46,53,8,6,2.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,SAI,46,53,9,8,1.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,STR,46,53,13,15,-2.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,TSU,46,53,11,10,1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,7,Imola,2025_07_sc1,VER,46,53,1,1,0.0,líder,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,ALO,55,60,11,12,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,BEA,55,60,12,13,-1.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,até 1 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,BOR,55,60,16,11,5.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,COL,55,60,17,17,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,GAS,55,60,9,9,0.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,HAD,55,60,7,8,-1.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,HAM,55,60,6,6,0.0,6.º a 10.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,HUL,55,60,8,7,1.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,LAW,55,60,10,10,0.0,6.º a 10.º,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,LEC,55,60,4,3,1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,NOR,55,60,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,OCO,55,60,14,14,0.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,PIA,55,60,1,1,0.0,líder,parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,RUS,55,60,5,5,0.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,SAI,55,60,13,16,-3.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,1 a 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,TSU,55,60,15,15,0.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2022+
+2025,9,Barcelona,2025_09_sc1,VER,55,60,3,4,-1.0,2.º a 5.º,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc1,ALB,23,26,9,7,2.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,ALO,23,26,15,13,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,até 1 s,até 1 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,ANT,23,26,10,8,2.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,BEA,23,26,13,11,2.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,BOR,23,26,16,16,0.0,11.º em diante,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,até 1 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,COL,23,26,18,15,3.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,GAS,23,26,11,14,-3.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,HAD,23,26,4,4,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,HUL,23,26,19,17,2.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,LAW,23,26,7,19,-12.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,LEC,23,26,6,6,0.0,6.º a 10.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,NOR,23,26,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,OCO,23,26,12,10,2.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,PIA,23,26,1,1,0.0,líder,parou no SC,nenhum da frente parou,20+ voltas,0 paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,RUS,23,26,5,5,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,até 1 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,SAI,23,26,8,18,-10.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,STR,23,26,14,9,5.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,TSU,23,26,17,12,5.0,11.º em diante,não parou no SC,nenhum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc1,VER,23,26,3,3,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2025,15,Zandvoort,2025_15_sc2,ALB,53,57,6,6,0.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,ALO,53,57,13,10,3.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,ANT,53,57,7,7,0.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,BEA,53,57,8,9,-1.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,0 paradas,mais de 3 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,BOR,53,57,16,16,0.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,COL,53,57,14,14,0.0,11.º em diante,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,GAS,53,57,11,8,3.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,HAD,53,57,4,4,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,HUL,53,57,15,15,0.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,LAW,53,57,17,17,0.0,11.º em diante,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,NOR,53,57,2,2,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,OCO,53,57,12,13,-1.0,11.º em diante,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,PIA,53,57,1,1,0.0,líder,parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,RUS,53,57,5,5,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,SAI,53,57,18,18,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,STR,53,57,9,11,-2.0,6.º a 10.º,não parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,TSU,53,57,10,12,-2.0,6.º a 10.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc2,VER,53,57,3,3,0.0,2.º a 5.º,parou no SC,algum da frente parou,20+ voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,ALB,65,68,5,5,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,ALO,65,68,10,9,1.0,6.º a 10.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,ANT,65,68,6,6,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,BEA,65,68,7,7,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,BOR,65,68,17,17,0.0,11.º em diante,não parou no SC,algum da frente parou,0–9 voltas,1+ paradas,1 a 3 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,COL,65,68,13,12,1.0,11.º em diante,parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,GAS,65,68,9,16,-7.0,6.º a 10.º,não parou no SC,nenhum da frente parou,20+ voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,HAD,65,68,3,3,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,HUL,65,68,14,15,-1.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,até 1 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,LAW,65,68,15,13,2.0,11.º em diante,não parou no SC,algum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,OCO,65,68,12,11,1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,PIA,65,68,1,1,0.0,líder,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,mais de 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,RUS,65,68,4,4,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,SAI,65,68,16,14,2.0,11.º em diante,parou no SC,algum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,STR,65,68,8,8,0.0,6.º a 10.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,1 a 3 s,1 a 3 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,TSU,65,68,11,10,1.0,11.º em diante,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,até 1 s,até 1 s,último terço,2022+
+2025,15,Zandvoort,2025_15_sc3,VER,65,68,2,2,0.0,2.º a 5.º,não parou no SC,nenhum da frente parou,10–19 voltas,1+ paradas,mais de 3 s,1 a 3 s,último terço,2022+
+2025,23,Lusail,2025_23_sc1,ALB,7,10,16,13,3.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,ALO,7,10,6,6,0.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,ANT,7,10,4,5,-1.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,BEA,7,10,11,10,1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,BOR,7,10,18,15,3.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,COL,7,10,19,17,2.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,mais de 3 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,GAS,7,10,9,19,-10.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,HAD,7,10,8,7,1.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,HAM,7,10,13,14,-1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,LAW,7,10,12,11,1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,LEC,7,10,10,9,1.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,até 1 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,NOR,7,10,3,2,1.0,2.º a 5.º,não parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,OCO,7,10,14,18,-4.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,PIA,7,10,1,1,0.0,líder,não parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,mais de 3 s,1 a 3 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,RUS,7,10,7,8,-1.0,6.º a 10.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,1 a 3 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,SAI,7,10,5,4,1.0,2.º a 5.º,parou no SC,algum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,STR,7,10,17,16,1.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,TSU,7,10,15,12,3.0,11.º em diante,parou no SC,algum da frente parou,0–9 voltas,0 paradas,até 1 s,até 1 s,primeiro terço,2022+
+2025,23,Lusail,2025_23_sc1,VER,7,10,2,3,-1.0,2.º a 5.º,parou no SC,nenhum da frente parou,0–9 voltas,0 paradas,1 a 3 s,1 a 3 s,primeiro terço,2022+
