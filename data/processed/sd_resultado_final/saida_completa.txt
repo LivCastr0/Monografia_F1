@@ -1,0 +1,65 @@
+Safety car: 728 linhas (de 836 na H9; saem os que abandonaram depois), 47 períodos; média do ganho final +0.000
+Chuva: 208 trocas (de 255 na H10c)
+
+[H11 safety car -> fim da corrida] 728 linhas; média geral 0.0000; elegíveis 205; limiar |z| 3.19
+  acima do limiar 30; firmes 28; finais (firmes e não redundantes) 11
+                                                   descricao  linhas  circuitos  eventos  media  diferenca      z  firme  final
+              posicao=11.º em diante E idade_pneu=0–9 voltas     145         19       38 +1.593     +1.593 +6.629   True   True
+              posicao=11.º em diante E parou=não parou no SC     172         20       40 +1.401     +1.401 +6.350   True  False
+                                      posicao=11.º em diante     291         21       45 +1.021     +1.021 +6.016   True   True
+              posicao=11.º em diante E dist_tras=mais de 3 s     147         20       43 +1.401     +1.401 +5.871   True  False
+          posicao=11.º em diante E paradas_feitas=1+ paradas     221         21       39 +1.113     +1.113 +5.718   True  False
+                posicao=11.º em diante E fase=primeiro terço     100         13       16 +1.570     +1.570 +5.425   True  False
+               idade_pneu=0–9 voltas E dist_tras=mais de 3 s     116         19       37 +1.293     +1.293 +4.813   True   True
+                      posicao=6.º a 10.º E dist_tras=1 a 3 s      68         21       38 -1.647     -1.647 -4.693   True   True
+           idade_pneu=0–9 voltas E paradas_feitas=1+ paradas     208         19       33 +0.938     +0.938 +4.672   True   True
+ posicao=11.º em diante E frente_parou=algum da frente parou     195         19       39 +0.959     +0.959 +4.628   True  False
+               posicao=6.º a 10.º E paradas_feitas=0 paradas      79         17       24 -1.430     -1.430 -4.393  False  False
+  frente_parou=algum da frente parou E idade_pneu=0–9 voltas     146         19       33 +1.000     +1.000 +4.175   True  False
+     posicao=6.º a 10.º E frente_parou=algum da frente parou     124         17       30 -1.073     -1.073 -4.127   True  False
+             paradas_feitas=1+ paradas E fase=primeiro terço      60         10       10 +1.517     +1.517 +4.060   True   True
+          paradas_feitas=0 paradas E dist_frente=mais de 3 s      73         16       25 -1.370     -1.370 -4.045   True   True
+               parou=não parou no SC E dist_tras=mais de 3 s     149         20       42 +0.953     +0.953 +4.020   True   True
+                      posicao=6.º a 10.º E parou=parou no SC      86         17       30 -1.233     -1.233 -3.950   True  False
+                    posicao=6.º a 10.º E fase=primeiro terço      76         15       18 -1.303     -1.303 -3.924  False  False
+                posicao=6.º a 10.º E idade_pneu=10–19 voltas      80         19       32 -1.262     -1.262 -3.902   True  False
+posicao=11.º em diante E frente_parou=nenhum da frente parou      96         18       32 +1.146     +1.146 +3.880   True  False
+                                          posicao=6.º a 10.º     217         22       47 -0.751     -0.751 -3.824   True   True
+            posicao=11.º em diante E dist_frente=mais de 3 s     119         17       33 +0.992     +0.992 +3.738   True  False
+                   idade_pneu=20+ voltas E dist_tras=1 a 3 s      40         12       17 -1.650     -1.650 -3.606   True  False
+                  idade_pneu=0–9 voltas E fase=segundo terço     106         12       13 +1.000     +1.000 +3.558   True   True
+                posicao=11.º em diante E dist_frente=até 1 s     103         17       31 +1.010     +1.010 +3.541   True  False
+
+Subgrupos da H9 (só quem terminou): janela curta x fim da corrida
+                                                 descricao  linhas  ganho_3_voltas  ganho_fim_da_corrida
+parou=não parou no SC E frente_parou=algum da frente parou     171            1.43                  0.65
+            posicao=11.º em diante E parou=não parou no SC     172            1.35                  1.40
+                                         parou=parou no SC     308           -0.80                 -0.31
+                    posicao=6.º a 10.º E parou=parou no SC      86           -1.49                 -1.23
+             parou=não parou no SC E dist_tras=mais de 3 s     149            1.12                  0.95
+                                     parou=não parou no SC     420            0.66                  0.23
+                     parou=parou no SC E dist_tras=até 1 s      56           -1.64                 -0.59
+               parou=não parou no SC E dist_frente=até 1 s     145            1.07                  0.27
+frente_parou=algum da frente parou E idade_pneu=0–9 voltas     146            0.92                  1.00
+             idade_pneu=0–9 voltas E dist_tras=mais de 3 s     116            1.05                  1.29
+                                    posicao=11.º em diante     291            0.64                  1.02
+                idade_pneu=0–9 voltas E fase=segundo terço     106            0.86                  1.00
+                                     idade_pneu=20+ voltas     134           -0.78                 -0.69
+                                     idade_pneu=0–9 voltas     327            0.41                  0.54
+        paradas_feitas=0 paradas E dist_frente=mais de 3 s      73           -0.77                 -1.37
+
+[H11 chuva (troca -> fim da corrida)] 208 linhas; média geral -0.6635; elegíveis 39; limiar |z| 2.76
+  acima do limiar 5; firmes 5; finais (firmes e não redundantes) 1
+                                    descricao  linhas  circuitos  eventos  media  diferenca      z  firme  final
+            pelotao=1/3 a 2/3 E posicao=top 5      28          8        9 -2.857     -2.194 -3.701   True  False
+                       posicao=11.º em diante      69          9       12 +0.652     +1.316 +3.484   True   True
+           direcao=para chuva E posicao=top 5      22          5        5 -2.909     -2.246 -3.358   True  False
+   direcao=para seco E posicao=11.º em diante      50          9       11 +0.700     +1.363 +3.074   True  False
+ritmo=sem referência E posicao=11.º em diante      33          7        7 +0.970     +1.633 +2.991   True  False
+    ritmo=destino mais rápido E posicao=top 5      22          5        6 -2.455     -1.791 -2.678  False  False
+                            pelotao=1/3 a 2/3      37          8       10 -2.000     -1.337 -2.592  False  False
+           direcao=para seco E pelotao=nenhum      48          6        7 +0.458     +1.122 +2.478  False  False
+                               pelotao=nenhum      52          6        7 +0.231     +0.894 +2.056  False  False
+        pelotao=nenhum E ritmo=sem referência      52          6        7 +0.231     +0.894 +2.056  False  False
+       direcao=para seco E posicao=6.º a 10.º      46          9       11 -1.587     -0.923 -1.997  False  False
+                    ritmo=destino mais rápido      47          6        7 -1.553     -0.890 -1.945  False  False
