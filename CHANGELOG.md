@@ -57,6 +57,7 @@ Registros detalhados de cada análise na pasta `claude/` do projeto no claude.ai
 - H10, chuva (`sd_chuva.py`, bases `base_chuva_decisao.csv` e `base_chuva_trocas.csv`, 16 corridas, exploratória): trocas acompanham o pelotão (1,1% por volta quando ninguém trocou); a volta ao seco segue o ritmo de quem já trocou (26% sem chuva e com o seco mais rápido); a troca custa 1,1 posição sem diferença confirmada entre subgrupos
 - H11, decisão no SC e troca na chuva × resultado no fim da corrida (`sd_resultado_final.py`, exploratória): a perda de quem para sob o SC cai de −0,80 para −0,31 até o fim (não firme); o padrão dominante no fim da corrida é a posição antes do evento (11.º em diante ganha, 6.º a 10.º perde)
 - Perfil × safety car (`perfil_safety_car.py`): os padrões da H9 e da H11 não dependem do perfil (p = 0,31 e 0,42); o teste detecta +1 posição concentrada num perfil (p = 0,02)
+- Hipótese (i) do relatório, estratégia × posições ganhas (`sd_h1_posicoes_ganhas.py`, saídas em `data/processed/sd_h1_posicoes_ganhas/`, exploratória, 2026-11-14): alvo = ganho reordenado entre quem terminou, menos a média de quem largou na mesma posição; 164 firmes, 7 finais (parou mais −1,81; parou antes do pelotão −0,82; parou depois +0,71; largou duro +0,96); o perfil acrescenta em 0 (maior |z_acr| 2,32 contra limiar 3,43)
 
 ### Correções em 2026-11-11
 
