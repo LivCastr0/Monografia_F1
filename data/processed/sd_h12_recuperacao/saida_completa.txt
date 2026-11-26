@@ -1,0 +1,139 @@
+Base: 2089 linhas secas em 124 corridas -> 2089 linhas em 124 corridas (0 corridas com menos de 10 pilotos medidos saíram); 26 circuitos
+
+==============================================================================
+SINTETICO sem efeito
+==============================================================================
+Linhas 537 (123 corridas, 26 circuitos); ganho médio +2.32; desvio do alvo 3.06; descrições 127 (127 elegíveis)
+Limiar |z| 3.29; acima 0; firmes 0; finais 0
+
+Maiores |z| entre as elegíveis (informativo):
+                                      descricao  linhas  media  ganho_bruto  deficit_medio     z  media_2018_21  media_2022  media_sem_maior_circuito  circuitos  firme
+    parou igual ao pelotão E ultrapassagem alta     150  +0.64        +2.82          +5.05 +2.56          +0.69       +0.61                     +0.83          8  False
+            com safety car E ultrapassagem alta     102  +0.75        +2.82          +4.84 +2.49          +0.53       +0.96                     +0.87          8  False
+                    déficit 7+ E com safety car      49  +1.02        +6.02          +9.54 +2.33          +2.10       +0.67                     +1.05         20  False
+parou junto com o pelotão E ultrapassagem baixa      40  -1.12        +1.45          +4.59 -2.32          -0.78       -1.27                     -1.12          9  False
+      déficit 4-6,5 E parou junto com o pelotão      47  -1.02        +2.13          +5.33 -2.28          -0.30       -1.39                     -1.14         21  False
+                  largou macio E sem safety car      73  -0.73        +1.75          +4.66 -2.05          +0.07       -1.18                     -0.69         20  False
+      parou mais que o pelotão E sem safety car      44  -0.82        +1.23          +5.31 -1.79          +0.20       -1.47                     -0.64         17  False
+                     déficit 2-3,5 E largou 11+     147  -0.44        +1.27          +2.89 -1.76          -0.34       -0.52                     -0.40         26  False
+
+Plantado +1,5 em 87 linhas
+
+==============================================================================
+SINTETICO com efeito
+==============================================================================
+Linhas 537 (123 corridas, 26 circuitos); ganho médio +2.32; desvio do alvo 3.13; descrições 127 (127 elegíveis)
+Limiar |z| 4.47; acima 1; firmes 1; finais 1
+                         descricao  linhas  media  ganho_bruto  deficit_medio     z  media_2018_21  media_2022  media_sem_maior_circuito  circuitos
+déficit 4-6,5 E ultrapassagem alta      87  +1.86        +2.39          +5.24 +4.80          +1.95       +1.81                     +1.82          8
+
+Maiores |z| entre as elegíveis (informativo):
+                                      descricao  linhas  media  ganho_bruto  deficit_medio     z  media_2018_21  media_2022  media_sem_maior_circuito  circuitos  firme
+             déficit 4-6,5 E ultrapassagem alta      87  +1.86        +2.39          +5.24 +4.80          +1.95       +1.81                     +1.82          8   True
+    parou igual ao pelotão E ultrapassagem alta     150  +1.28        +2.82          +5.05 +4.05          +1.21       +1.32                     +1.47          8  False
+            com safety car E ultrapassagem alta     102  +1.45        +2.82          +4.84 +3.87          +1.18       +1.68                     +1.53          8  False
+                             ultrapassagem alta     203  +0.98        +2.65          +5.13 +3.33          +1.04       +0.94                     +1.10          8  False
+              largou médio E ultrapassagem alta      89  +1.31        +2.48          +5.11 +3.22          +1.03       +1.49                     +0.94          8  False
+                largou 11+ E ultrapassagem alta     152  +1.00        +3.14          +5.55 +2.99          +1.21       +0.88                     +1.13          8  False
+parou junto com o pelotão E ultrapassagem baixa      40  -1.12        +1.45          +4.59 -2.76          -0.78       -1.27                     -1.12          9  False
+                     déficit 2-3,5 E largou 11+     147  -0.44        +1.27          +2.89 -2.65          -0.34       -0.52                     -0.40         26  False
+Base: 2089 linhas secas em 124 corridas -> 2089 linhas em 124 corridas (0 corridas com menos de 10 pilotos medidos saíram); 26 circuitos
+
+==============================================================================
+PARTE A - o déficit explica o ganho?
+==============================================================================
+Spearman déficit (ritmo) x ganho: +0.520 (p = 0.0005)
+
+Ganho médio por faixa de déficit:
+             size  mean
+faixa                  
+≤ -2          591 -1.76
+-1,5 a +1,5   961 -0.22
+2 a 3,5       238 +0.94
+4 a 6,5       195 +2.32
+7+            104 +5.50
+
+Ganho médio por faixa de largada:
+              toda a base    n  largou no lugar  n no lugar
+d_grid                                                     
+largou 11+          +0.95  998            +0.34         416
+largou 6-10         -0.97  536            -0.84         203
+largou top 5        -0.77  555            -0.53         342
+
+Verificação (déficit pelo grid médio do carro), 2089 linhas: Spearman +0.444 (p = 0.0005)
+             size  mean
+faixa                  
+≤ -2          593 -1.50
+-1,5 a +1,5   967 -0.24
+2 a 3,5       258 +0.96
+4 a 6,5       174 +1.89
+7+             97 +5.64
+Concordância entre as duas medidas de déficit (Spearman): +0.822
+
+==============================================================================
+PARTE B - BASE REAL
+==============================================================================
+Linhas 537 (123 corridas, 26 circuitos); ganho médio +2.32; desvio do alvo 3.06; descrições 127 (127 elegíveis)
+Limiar |z| 3.18; acima 3; firmes 3; finais 1
+               descricao  linhas  media  ganho_bruto  deficit_medio     z  media_2018_21  media_2022  media_sem_maior_circuito  circuitos
+parou mais que o pelotão      95  -1.31        +1.32          +5.43 -4.18          -1.36       -1.28                     -1.35         26
+
+Maiores |z| entre as elegíveis (informativo):
+                                descricao  linhas  media  ganho_bruto  deficit_medio     z  media_2018_21  media_2022  media_sem_maior_circuito  circuitos  firme
+                 parou mais que o pelotão      95  -1.31        +1.32          +5.43 -4.18          -1.36       -1.28                     -1.35         26   True
+    largou 11+ E parou mais que o pelotão      78  -1.24        +1.71          +5.94 -3.58          -1.48       -1.12                     -1.22         26   True
+parou mais que o pelotão E com safety car      51  -1.38        +1.39          +5.53 -3.23          -1.27       -1.44                     -1.59         20   True
+  parou mais que o pelotão E largou médio      40  -1.49        +0.97          +5.15 -3.08          -1.62       -1.36                     -1.60         18  False
+parou mais que o pelotão E sem safety car      44  -1.23        +1.23          +5.31 -2.66          -1.46       -1.08                     -1.03         17  False
+                parou menos que o pelotão      52  +1.12        +3.27          +4.78 +2.65          +0.96       +1.22                     +1.15         18  False
+     largou 11+ E parou depois do pelotão     164  +0.63        +3.49          +5.88 +2.64          +0.81       +0.50                     +0.70         26  False
+      com safety car E ultrapassagem alta     102  +0.75        +2.82          +4.84 +2.49          +0.53       +0.96                     +0.87          8  False
+
+==============================================================================
+PARTE C - recuperação por circuito x Etapa 1 (descritiva)
+==============================================================================
+25 circuitos com 10+ linhas de déficit >= 2
+          medida  circuitos  spearman      p  p_holm
+       vel_media         25    +0.338 +0.093  +0.558
+     zonas_freio         25    -0.228 +0.275  +1.000
+      vel_minima         25    +0.202 +0.334  +1.000
+              N1         25    +0.194 +0.351  +1.000
+densidade_curvas         25    -0.167 +0.424  +1.000
+      pico_desac         25    +0.018 +0.936  +1.000
+
+Recuperação por circuito (fração do déficit recuperada):
+                           perfil  linhas  recuperacao   N1
+circuito                                                   
+Austin                stop-and-go      27         0.76 0.22
+Le Castellet       alto downforce      11         0.74 0.14
+Las Vegas                potência      16         0.70 0.17
+Jeddah             alto downforce      20         0.64 0.14
+Spa-Francorchamps        potência      23         0.58 0.19
+Monza                    potência      27         0.55 0.11
+Montréal              stop-and-go      21         0.53 0.07
+São Paulo          alto downforce      25         0.52 0.17
+Zandvoort          alto downforce      19         0.51 0.09
+Melbourne                potência      11         0.51 0.08
+Silverstone        alto downforce      24         0.47 0.08
+Mexico City           stop-and-go      32         0.46 0.17
+Imola              alto downforce      19         0.45 0.10
+Yas Island            stop-and-go      23         0.42 0.19
+Barcelona          alto downforce      23         0.41 0.19
+Budapest           alto downforce      26         0.40 0.13
+Suzuka             alto downforce      28         0.40 0.19
+Miami                 stop-and-go      12         0.40 0.11
+Singapore          urbano-técnico      17         0.38 0.08
+Sakhir                stop-and-go      38         0.37 0.19
+Baku                  stop-and-go      28         0.35 0.12
+Spielberg                potência      28         0.35 0.14
+Shanghai              stop-and-go      13         0.31 0.17
+Lusail             alto downforce      11         0.23 0.11
+Monaco             urbano-técnico      13         0.00 0.00
+
+Por perfil (descritivo):
+                linhas  circuitos  ganho  deficit  recuperacao
+d_perfil                                                      
+alto downforce     208         11 491.00  1056.00         0.46
+potência           105          5 297.00   550.00         0.54
+stop-and-go        194          8 426.00   927.00         0.46
+urbano-técnico      30          2  34.00   149.00         0.23
